@@ -24,6 +24,7 @@ setup(
     },
     zip_safe=False,
     install_requires=[
+        'mod_wsgi',
         'django<1.6',
     ],
     classifiers=[
