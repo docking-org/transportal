@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'transportal-manage = transportal:manage',
+            'transportal-manage = transportal.manage:run',
         ]
     },
     include_package_data=True,
@@ -24,7 +24,7 @@ setup(
     },
     zip_safe=False,
     install_requires=[
-        'django',
+        'django<1.6',
     ],
     classifiers=[
         'Private :: Do Not Upload',
