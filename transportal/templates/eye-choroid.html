@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+{% load lookupFilters %}
+{% load sigFigs %}
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/tcl" />
+<meta name="description" content="Transporter information for {{organ}}." />
+<script type="text/javascript" src="/fda/media/text_size.js"></script>
+<style type="text/css" title="text/css">
+/* <![CDATA[ */
+#header{
+       width: auto;
+       margin-left: 0px;
+       background-color: #666666;
+}
+#header img{
+       border: none;
+}
+
+/* ]]> */
+</style>
+<title>{{organ}} Transporter Data</title>
+<link rel="icon" href="/fda/media/tdb.gif" type="image/x-icon" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31392819-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body style="font-family:arial">
+<script type="text/javascript" src="/fda/media/wz_tooltip.js"></script>
+<noscript>Change text size</noscript>
+<map name="ucsfnosearch" id="ucsfnosearch">
+       <area shape="rect" alt="UCSF home page" coords="38,3,288,27" href="http://www.ucsf.edu/" />
+       <area shape="rect" alt="About UCSF" coords="306,11,368,19" href="http://www.ucsf.edu/about_ucsf/" />
+       <area shape="rect" alt="UCSF Medical Center" coords="387,11,498,19" href="http://www.ucsfhealth.org/" />
+</map>
+<table border="0" width="100%">
+<tr>
+<td bgcolor="#666666"><div id="header">
+<img src="/fda/media/ucsfgraynosearch.gif" alt="UCSF navigation bar" width="537" height="30" usemap="#ucsfnosearch" />
+</div></td></tr>
+</table>
+<a href="http://www.ucsf.edu/">UCSF home page</a> | <a href="http://www.ucsf.edu/about_ucsf/">About UCSF</a> | <a href="http://www.ucsfhealth.org/">UCSF Medical Center</a>
+<br />
+
+<br />
+<a href="#content">Skip to TransPortal content</a><br />
+<br />
+<map name="Map2" id="Map2">
+<area shape="rect" coords="134,0,150,41" onclick="setTextSize('decr');" style="cursor:pointer" alt="Decrease the text size" onmouseover="TagToTip('incrSpan', OFFSETX, 0, OFFSETY, 20, DELAY, 0
+)" /><area shape="rect" coords="151,0,166,41" onclick="setTextSize('reset');" style="cursor:pointer" alt="Restore original text size" onmouseover="TagToTip('resetSpan', OFFSETX, 0, OFFSETY, 20, DE
+LAY, 0)" /><area shape="rect" coords="167,0,190,41" onclick="setTextSize('incr');" style="cursor:pointer" alt="Increase the text size" onmouseover="TagToTip('decrSpan', OFFSETX, 0, OFFSETY, 20, DELAY, 0
+)" />
+</map>
+
+<span id="decrSpan"><strong>Enlarge Text</strong><br />Click to increase the text size.</span>
+<span id="resetSpan"><strong>Restore Text</strong><br />Click to restore original text size.</span>
+<span id="incrSpan"><strong>Reduce Text</strong><br />Click to decrease the text size.</span>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" summary="">
+<tr>
+<td width="100%" bgcolor="#003366"><img src="/fda/media/tdbbanner.jpg" alt="Transporter Database banner" width="619" height="66" border="0" /></td>
+<td bgcolor="#003366">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="white"><center><a href="javascript:wz_tooltip;" onclick="setTextSize('decr');" >Decrease the text size</a> | <a href="javascript:wz_tooltip;" onclick="setTextSize('reset');" >Restore text size</a> | <a href="javascript:wz_tooltip;" onclick="setTextSize('incr');" >Increase the text size</a></center></td>
+<td bgcolor="white" align="right"><img src="/fda/media/text_size_change.jpg" alt="Text Sizer image" usemap="#Map2" border="0" /></td>
+</tr>
+</table>
+<table border="0" style="text-align:center; margin-left:20pt">
+<tr><td><a href="http://dbts.ucsf.edu/fdatransportal/">Home</a></td>
+<td style="padding-left:20pt;white-space:nowrap"><a href="http://dbts.ucsf.edu/fdatransportal/about/">About and More Information</a></td>
+<td style="padding-left:20pt;white-space:nowrap"><a href="http://dbts.ucsf.edu/fdatransportal/index/">Transporter Data Index</a></td>
+<td style="width:100%;text-align:right"><form method="get" action="../../search" name="search">
+Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit" value="Search">
+</form></td></tr></table>
+<a name="content">&nbsp;</a>
+<h1>Eye - Choroid</h1>
+<a href="#qpcr1">qPCR Expression Data (Individual)</a><br />
+<br />
+    <h3><a name="qpcr1">Kidney - qPCR (Individual)</a></h3> 
+    <span style="margin-left:15pt">Asterisk and bold rows indicates important transporters in the organ as identified in the organ diagram</span><br /><br /> 
+    <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
+    <tr style="background-color:#FFAD5C">
+    <th scope="col" rowspan="2">Transporter</th>
+    <th rowspan="2">Synonyms</th>
+    <th colspan="3">2^(-&Delta;&Delta;C<sub>t</sub>)</th></tr>
+    <tr style="background-color:#FFAD5C">
+    <th>First Quartile</th>
+    <th width=120>Median</th>
+    <th>Third Quartile</th>
+    </tr>
+    {% for transporter in expressionBiotrove %}
+        {% if transporter|first|stringformat:"s" in important %}
+            <tr style="font-weight: bold">
+        {% else %}
+            <tr>
+        {% endif %}
+        {% for datapoint in transporter %}
+            {% if forloop.first %}
+                {% if transporter|first|stringformat:"s" in important %}
+                    <td scope="row"><a href="../../transporters/{{datapoint}}/">{{datapoint}}*</a></td>
+                {% else %}
+                    <td scope="row"><a href="../../transporters/{{datapoint}}/">{{datapoint}}</a></td>
+                {% endif %}
+                <td>{{syns|keyConvStr:datapoint}}</td>
+            {% else %}
+                <td style="text-align:left; font-size:12pt"><tt>{{datapoint|showSigFigs:"3,5"|safe}}</tt></td>
+            {% endif %}
+        {% endfor %}
+        </tr>
+    {% endfor %}
+    </table>
+    <p style="margin-left:30pt"><b>(n=57): male &amp; female, Caucasian</b><br />
+    Quantitative RT-PCR was performed on RNA obtained from the renal cortex of human donors using a<br />
+    custom SYBR green open array (Life Technologies, Grand Island, NY). Datapoints with the maximum<br />
+    raw C<sub>t</sub> values were removed. Data are normalized to the mean of three housekeeping genes and is<br />
+    presented as 2^-&Delta;&Delta;C<sub>t</sub> (horizontal line is the median value) after normalizing to the lowest expressed<br />
+    sample of the tissue. <br />
+    Samples are from the renal cortex and are not representative of all parts of the kidney or the nephrons</p>
+    <h3 style="margin-left:50pt">Graphical Representation of qPCR Data (n=57)</h3>
+    <img src="/fda/media/kidneyExpressionBiotrove.png" alt="Graphical Representation of qPCR Data (n=57)" /><br /> 
+    Data from <a href="http://pharmacogenetics.ucsf.edu/">Pharmacogenetics of Membrane Transporters Project</a><br /><br /> 
+{% else %}
+    <h3>No expression data.</h3>
+{% endif %}
+
+<a href="#content">Back to top</a>
+<br />
+<br />
+<a href="http://dbts.ucsf.edu/fdatransportal/contact/">Contact us</a> | <a href="http://dbts.ucsf.edu/fdatransportal/glossary/">Glossary</a>
+<br />
+<br />
+<table border="0" width="100%" cellpadding="0" cellspacing="0" summary=""><tr>        
+        <td width="100%" bgcolor="#003366"><img src="/fda/media/tdbbottom.jpg" alt="Blue banner" width="382" height="41" border="0" /></td>
+</tr></table>
+</body>
+</html>
