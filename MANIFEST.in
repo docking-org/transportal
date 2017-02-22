@@ -1,0 +1,5 @@
+include requirements.txt
+include transportal/fdaTransporter.sqlite
+include transportal/initial_data.json
+recursive-include transportal/media *
+recursive-include transportal/templates *
