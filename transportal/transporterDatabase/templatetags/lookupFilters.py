@@ -1,5 +1,5 @@
 from django import template
-from fdadjango.transporterDatabase.models import Expression
+from transportal.transporterDatabase.models import Expression
 
 register = template.Library()
 def keyConvStr(d, key_name):

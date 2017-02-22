@@ -1,4 +1,4 @@
-# Django settings for fdadjango project.
+# Django settings for transportal project.
 import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -14,8 +14,8 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-        #'NAME': '/home/btsadmin/www/chrisw/fda/fdadjango/fdaTransporter',                      # Or path to database file if using sqlite3.
-        'NAME': os.path.join(BASE_DIR, 'fdaTransporter'),                      # Or path to database file if using sqlite3.
+        #'NAME': '/home/btsadmin/www/chrisw/fda/transportal/fdaTransporter',                      # Or path to database file if using sqlite3.
+        'NAME': os.path.join(BASE_DIR, 'fdaTransporter.sqlite'),                      # Or path to database file if using sqlite3.
         'USER': '',                      # Not used with sqlite3.
         'PASSWORD': '',                  # Not used with sqlite3.
         'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
@@ -78,7 +78,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.messages.middleware.MessageMiddleware',
 )
 
-ROOT_URLCONF = 'fdadjango.urls'
+ROOT_URLCONF = 'transportal.urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
@@ -96,5 +96,5 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     # Uncomment the next line to enable the admin:
     'django.contrib.admin',
-    'fdadjango.transporterDatabase',
+    'transportal.transporterDatabase',
 )

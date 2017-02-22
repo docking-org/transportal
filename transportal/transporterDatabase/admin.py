@@ -1,4 +1,4 @@
-from fdadjango.transporterDatabase.models import Transporter, Organ, Expression, Substrate, Reference, Sample, Compound, Inhibitor, DDI
+from transportal.transporterDatabase.models import Transporter, Organ, Expression, Substrate, Reference, Sample, Compound, Inhibitor, DDI
 from django.contrib import admin
 
 admin.site.register(Transporter)
