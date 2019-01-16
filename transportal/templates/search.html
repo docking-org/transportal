@@ -79,9 +79,9 @@ LAY, 0)" /><area shape="rect" coords="167,0,190,41" onclick="setTextSize('incr')
 </tr>
 </table>
 <table border="0" width="100%" style="text-align:center; margin-left:20pt">
-<tr><td><a href="http://dbts.ucsf.edu/fdatransportal/">Home</a></td>
-<td style="padding-left:20pt;white-space:nowrap"><a href="http://dbts.ucsf.edu/fdatransportal/about/">About and More Information</a></td>
-<td style="padding-left:20pt;white-space:nowrap"><a href="http://dbts.ucsf.edu/fdatransportal/index/">Transporter Data Index</a></td>
+<tr><td><a href="/">Home</a></td>
+<td style="padding-left:20pt;white-space:nowrap"><a href="/about/">About and More Information</a></td>
+<td style="padding-left:20pt;white-space:nowrap"><a href="/index/">Transporter Data Index</a></td>
 <td style="width:100%;text-align:right"><form method="get" action="search" name="search">
 Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit" value="Search">
 </form></td></tr></table>
@@ -91,7 +91,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
         Search results in organ webpages:<br />
         <ul>
         {% for item in organs %}
-                <li><a href="http://dbts.ucsf.edu/fdatransportal/organs/{{item.name|slugify}}/">{{item.name}}</a></li>
+                <li><a href="/organs/{{item.name|slugify}}/">{{item.name}}</a></li>
         {% endfor %}
         </ul>
 {% endif %}
@@ -99,7 +99,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 	Search results in transporter webpages:<br />
 	<ul>
 	{% for item in trans %}
-		<li><a href="http://dbts.ucsf.edu/fdatransportal/transporters/{{item.symbol}}/">{{item.symbol}}</a></li>
+		<li><a href="/transporters/{{item.symbol}}/">{{item.symbol}}</a></li>
 	{% endfor %}
 	</ul>
 {% endif %}
@@ -107,7 +107,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 	Search results in compound webpages:<br />
 	<ul>
 	{% for item in comps %}
-		<li><a href="http://dbts.ucsf.edu/fdatransportal/compounds/{{item.slugName}}/">{{item.name}}</a></li>
+		<li><a href="/compounds/{{item.slugName}}/">{{item.name}}</a></li>
 	{% endfor %}
 	</ul>
 {% endif %}
@@ -116,7 +116,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 {% endif %}
 <br />
 <br />
-<a href="http://dbts.ucsf.edu/fdatransportal/contact/">Contact us</a> | <a href="http://dbts.ucsf.edu/fdatransportal/glossary/">Glossary</a>
+<a href="/contact/">Contact us</a> | <a href="/glossary/">Glossary</a>
 <br />
 <br />
 <table border="0" width="100%" cellpadding="0" cellspacing="0" summary=""><tr>        
