@@ -6,7 +6,7 @@ from setuptools import (
 
 setup(
     name='FDA Transportal',
-    version='0.9',
+    version='0.9-011619',
     long_description="A portal of transporters",
     packages=find_packages(),
     entry_points={
