@@ -6,7 +6,7 @@ from setuptools import (
 
 setup(
     name='FDA Transportal',
-    version='0.9-011619',
+    version='0.9-021219',
     long_description="A portal of transporters",
     packages=find_packages(),
     entry_points={
@@ -24,8 +24,10 @@ setup(
     },
     zip_safe=False,
     install_requires=[
-        'mod_wsgi',
-        'django<1.6',
+        'Django==1.11.18',
+        'mod-wsgi==4.6.5',
+        'numpy==1.16.0',
+        'pytz==2018.9',
     ],
     classifiers=[
         'Private :: Do Not Upload',
