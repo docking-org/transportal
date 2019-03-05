@@ -71,7 +71,7 @@ SECRET_KEY = 'c+rh#nv+@6h=p)+l+wbjbm75m5!dc9pbj$7hy*u05k72+zar$g'
 # #     'django.template.loaders.eggs.Loader',
 # )
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['0.0.0.0', 'gimel.compbio.ucsf.edu', 'transportal.docking.org']
 
 MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
