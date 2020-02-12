@@ -24,7 +24,7 @@ setup(
     },
     zip_safe=False,
     install_requires=[
-        'Django==1.11.18',
+        'Django==1.11.28',
         'mod-wsgi==4.6.5',
         'numpy==1.16.0',
         'pytz==2018.9',
