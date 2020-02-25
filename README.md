@@ -17,4 +17,4 @@ numpy==1.16.0
 python manage.py makemigrations
 python manage.py migrate --run-syncdb
 
-4. Run the application: python manage.py runserver
+4. Run the application: python manage.py runserver 0.0.0.0:8123
