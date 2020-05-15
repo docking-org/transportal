@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+{% load sigFigs %}
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/tcl" />
+<meta name="description" content="Expression, localization, substrates, inhibitors, and drug-drug interactions for {{transporter.symbol}}." />
+<script type="text/javascript" src="/fda/media/text_size.js"></script>
+<style type="text/css" title="text/css">
+/* <![CDATA[ */
+#header{
+       width: auto;
+       margin-left: 0px;
+       background-color: #666666;
+}
+#header img{
+       border: none;
+}
+
+/* ]]> */
+</style>
+<title>{{transporter.symbol}}</title>
+<link rel="icon" href="/fda/media/tdb.gif" type="image/x-icon" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31392819-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body style="font-family:arial">
+<script type="text/javascript" src="/fda/media/wz_tooltip.js"></script>
+<noscript>Change text size</noscript>
+<map name="ucsfnosearch" id="ucsfnosearch">
+       <area shape="rect" alt="UCSF home page" coords="38,3,288,27" href="http://www.ucsf.edu/" />
+       <area shape="rect" alt="About UCSF" coords="306,11,368,19" href="http://www.ucsf.edu/about_ucsf/" />
+       <area shape="rect" alt="UCSF Medical Center" coords="387,11,498,19" href="http://www.ucsfhealth.org/" />
+</map>
+<table border="0" width="100%">
+<tr>
+<td bgcolor="#666666"><div id="header">
+<img src="/fda/media/ucsfgraynosearch.gif" alt="UCSF navigation bar" width="537" height="30" usemap="#ucsfnosearch" />
+</div></td></tr>
+</table>
+<a href="http://www.ucsf.edu/">UCSF home page</a> | <a href="http://www.ucsf.edu/about_ucsf/">About UCSF</a> | <a href="http://www.ucsfhealth.org/">UCSF Medical Center</a>
+<br />
+
+<br />
+<a href="#content">Skip to TransPortal content</a><br />
+<br />
+<map name="Map2" id="Map2">
+<area shape="rect" coords="134,0,150,41" onclick="setTextSize('decr');" style="cursor:pointer" alt="Decrease the text size" onmouseover="TagToTip('incrSpan', OFFSETX, 0, OFFSETY, 20, DELAY, 0
+)" /><area shape="rect" coords="151,0,166,41" onclick="setTextSize('reset');" style="cursor:pointer" alt="Restore original text size" onmouseover="TagToTip('resetSpan', OFFSETX, 0, OFFSETY, 20, DE
+LAY, 0)" /><area shape="rect" coords="167,0,190,41" onclick="setTextSize('incr');" style="cursor:pointer" alt="Increase the text size" onmouseover="TagToTip('decrSpan', OFFSETX, 0, OFFSETY, 20, DELAY, 0
+)" />
+</map>
+
+<span id="decrSpan"><strong>Enlarge Text</strong><br />Click to increase the text size.</span>
+<span id="resetSpan"><strong>Restore Text</strong><br />Click to restore original text size.</span>
+<span id="incrSpan"><strong>Reduce Text</strong><br />Click to decrease the text size.</span>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0" summary="">
+<tr>
+<td width="100%" bgcolor="#003366"><img src="/fda/media/tdbbanner.jpg" alt="Transporter Database banner" width="619" height="66" border="0" /></td>
+<td bgcolor="#003366">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="white"><center><a href="javascript:wz_tooltip;" onclick="setTextSize('decr');" >Decrease the text size</a> | <a href="javascript:wz_tooltip;" onclick="setTextSize('reset');" >Restore text size</a> | <a href="javascript:wz_tooltip;" onclick="setTextSize('incr');" >Increase the text size</a></center></td>
+<td bgcolor="white" align="right"><img src="/fda/media/text_size_change.jpg" alt="Text Sizer image" usemap="#Map2" border="0" /></td>
+</tr>
+</table>
+<table border="0" style="text-align:center; margin-left:20pt">
+<tr><td><a href="/">Home</a></td>
+<td style="padding-left:20pt;white-space:nowrap"><a href="/about/">About and More Information</a></td>
+<td style="padding-left:20pt;white-space:nowrap"><a href="/index/">Transporter Data Index</a></td>
+<td style="width:100%;text-align:right"><form method="get" action="../../search" name="search">
+Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit" value="Search">
+</form></td></tr></table>
+<a name="content">&nbsp;</a>
+<h1>{{transporter.symbol}}</h1>
+<p style="margin-left:20pt">Synonyms: {{transporter.synonymsFull}}<br /><br />
+<a href="http://www.ncbi.nlm.nih.gov/gene?term={{transporter.ncbiID}}">Entrez Gene Link</a></p>
+<a href="#expr">Expression Data</a><br />
+<a href="#substr">Substrate Information</a><br />
+<a href="#inhib">Inhibitor Information</a><br />
+<a href="#ddi">Clinical Drug-drug Interactions</a><br />
+<br />
+<h2><a name="expr">Expression Data</a></h2>
+Expression data for other tissues could be found in <a href="http://pharmacogenetics.ucsf.edu/gtex/index.html">http://pharmacogenetics.ucsf.edu/gtex/index.html</a><br /><br />
+{% if expression %}
+    <span style="margin-left:15pt">Asterisk indicates important transporters in the organ as identified in the organ diagram.</span><br /><br />
+    <table border="1" style="text-align:center; margin-left:20pt">
+    <tr style="background-color:#FFAD5C">
+    <th scope="col">Organ</th>
+    <th>Source</th>
+    <th>Relative Expression</th>
+    </tr>
+    {% for experiment in expression %}
+        {% if experiment.0|stringformat:"s" in important %}
+            <tr style="font-weight: bold">
+	    <td scope="row"><a href="../../organs/{{experiment.0|slugify}}/">{{experiment.0}}*</a></td>
+        {% else %}
+            <tr>
+	    <td scope="row"><a href="../../organs/{{experiment.0|slugify}}/">{{experiment.0}}</a></td>
+        {% endif %}
+	{% if experiment.3.otherText and not experiment.3.otherLink %}
+            <td>{{experiment.3.otherText}}</td>
+        {% else %}
+            <td><a href="{% if experiment.3.otherText %}{% if experiment.3.otherLink == "http://pharmacogenetics.ucsf.edu/" %}../../samples/{{experiment.0|slugify}}/{{transporter.symbol}}/{% else %}{{experiment.3.otherLink}}{% endif %}{% else %}http://www.ncbi.nlm.nih.gov/pubmed/{{experiment.3.pmid}}{% endif %}">{{experiment.1}}</a></td>
+        {% endif %}
+	{% ifequal experiment.2 0.0 %}
+		<td>BLQ</td>
+	{% else %}
+		<td style="text-align:left; text-indent:25; font-size:12pt"><tt>{{experiment.2|showSigFigs:"3,4"|safe}}</tt></td>
+	{% endifequal %}
+	</tr>
+    {% endfor %}
+    </table>
+    <span style="margin-left:15pt">Note that relative expression values should only be compared between entries of the same source.</span><br />
+{% else %}
+    <p>No expression data.</p>
+{% endif %}
+<br />
+<a href="#content">Back to top</a>
+<h2><a name="substr">In Vitro Substrates</a></h2>
+{% if substrates %}
+    * denotes drugs that can potentially be used for in vivo (clinical) studies of the designated transporter<br />
+    <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
+    <tr style="background-color:#FFAD5C">
+    <th scope="col">Substrate</th>
+    <th>Km (&mu;M)</th>
+    <th>Cell System</th>
+    <th>Reference</th>
+    </tr>
+    {% for instance in substrates %}
+        <tr>
+        {% if instance.cmpndClinical %}
+            <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a>*</td>
+        {% else %}
+            <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a></td>
+        {% endif %}
+        {% if instance.km %}
+            <td>{{instance.km}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.cellSystem %}
+            <td>{{instance.cellSystem}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.reference %}
+            {% if not instance.reference.otherText %}
+                <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/{{instance.reference.pmid}}">{{instance.reference.authors}}, {{instance.reference.year}}</a></td>
+            {% else %}
+                {% if instance.reference.otherLink %}
+                    <td><a href="{{instance.reference.otherLink}}">{{instance.reference.otherText}}</a></td>
+                {% else %}
+                    <td>{{instance.reference.otherText}}</td>
+                {% endif %}
+            {% endif %}
+        {% else %}
+            <td />
+        {% endif %}
+        </tr>
+    {% endfor %}
+    </table>
+    <p style="margin-left:30pt">ND = not determined</p>
+{% else %}
+    <p>No substrate information.</p>
+{% endif %}
+<br />
+<a href="#content">Back to top</a>
+<h2><a name="inhib">In Vitro Inhibitors</a></h2>
+{%if inhibitors %}
+    * denotes drugs that can potentially be used for in vivo (clinical) studies of the designated transporter<br />
+    <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
+    <tr style="background-color:#FFAD5C">
+    <th scope="col">Inhibitor</th>
+    <th>IC50 (&mu;M)</th>
+    <th>Ki (&mu;M)</th>
+    <th>Substrate used</th>
+    <th>Cell System</th>
+    <th>Reference</th>
+    </tr>
+    {% for instance in inhibitors %}
+        <tr>
+        {% if instance.cmpndClinical %}
+            <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a>*</td>
+        {% else %}
+            <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a></td>
+        {% endif %}
+        {% if instance.ic50 %}
+            <td>{{instance.ic50}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.ki %}
+            <td>{{instance.ki}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.substrate %}
+            {% if instance.substrateClinical %}
+                <td><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a>*</td>
+            {% else %}
+                <td><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a></td>
+            {% endif %}
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.cellSystem %}
+            <td>{{instance.cellSystem}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.reference %}
+            {% if not instance.reference.otherText %}
+                <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/{{instance.reference.pmid}}">{{instance.reference.authors}}, {{instance.reference.year}}</a></td>
+            {% else %}
+                {% if instance.reference.otherLink %}
+                    <td><a href="{{instance.reference.otherLink}}">{{instance.reference.otherText}}</a></td>
+                {% else %}
+                    <td>{{instance.reference.otherText}}</td>
+                {% endif %}
+            {% endif %}
+        {% else %}
+            <td />
+        {% endif %}
+        </tr>
+    {% endfor %}
+    </table>
+    <p style="margin-left:30pt">ND = not determined</p>
+{% else %}
+    <p>No inhibitor information.</p>
+{% endif %}
+<br />
+<a href="#content">Back to top</a>
+<h2><a name="ddi">Clinical Drug-Drug Interactions</a></h2>
+{%if ddi %}
+    <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
+    <tr style="background-color:#FFAD5C">
+    <th rowspan="2" scope="col">DDI</th>
+    <th rowspan="2">Implicated Transporter</th>
+    <th rowspan="2">Interacting Drug</th>
+    <th rowspan="2">Affected Drug</th>
+    <th>AUC</th>
+    <th>C<small>max</small></th>
+    <th>CL<small>R</small></th>
+    <th>CL/F</th>
+    <th>t<small>1/2</small></th>
+    <th rowspan="2">Effect on PD</th>
+    <th rowspan="2">Reference</th>
+    <th rowspan="2">More Details</th>
+    </tr>
+    <tr style="background-color:#FFAD5C">
+    <th colspan="5">Clinical PK Impact(fold change)</th></tr>
+    {% for instance in ddi %}
+        <tr>
+        <td scope="row">{{forloop.counter}}</td>
+        <td>{{instance.0.transName}}</td>
+        <td>{% for drug in instance.1 %}
+		{% if forloop.counter == 1 %}
+			<a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a>
+		{% else %}
+			/ <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a>
+		{% endif %}
+	{% endfor %}</td>
+        <td>{% for drug in instance.2 %}
+                {% if forloop.counter == 1 %}
+		        <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a>
+                {% else %}
+                        / <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a>
+                {% endif %}
+        {% endfor %}</td>
+        {% if instance.0.AUC %}
+            <td>{{instance.0.AUC}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.0.Cmax %}
+            <td>{{instance.0.Cmax}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.0.CLr %}
+            <td>{{instance.0.CLr}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.0.CLOverF %}
+            <td>{{instance.0.CLOverF}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.0.t1Over2 %}
+            <td>{{instance.0.t1Over2}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.0.PDEffect %}
+            <td>{{instance.0.PDEffect}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.0.reference.all %}
+            <td>{% for ref in instance.0.reference.all %}{% if not forloop.first %}; {% endif %}{% if not ref.otherText %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{ref.pmid}}">{{ref.authors}}, {{ref.year}}</a>{% else %}{% if ref.otherLink %}<a href="{{ref.otherLink}}">{{ref.otherText}}</a>{% else %}{{ref.otherText}}{% endif %}{% endif %}{% endfor %}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        <td><a href = "../../ddi-info/{{instance.0.pk}}">DDI {{forloop.counter}}</a></td>
+        </tr>
+    {% endfor %}
+    </table>
+    <p style="margin-left:30pt">The transporters are implicated by in vitro data and/or studies in humans with genetic polymorphisms of the transporter<br />
+    DDI = Drug Drug Interaction<br />
+    PK = pharmacokinetic<br />
+    PD = pharmacodynamic<br />
+    ND = not determined<br />
+    NS = not significant<br />
+    N/A = information not available<br />
+    Calculation of Fold Change: fold change in the presence of the interacting drug = (value with interacting drug)/(value without interacting drug)<br />
+    fold change &gt; 1: increase in pharmacokinetic value<br />
+    fold change &lt; 1: decrease in pharmacokinetic value</p>
+{% else %}
+    <p>No drug-drug interaction information.</p>
+{% endif %}
+<br />
+<a href="#content">Back to top</a>
+<br />
+<br />
+<a href="/contact/">Contact us</a> | <a href="/glossary/">Glossary</a>
+<br />
+<br />
+<table border="0" width="100%" cellpadding="0" cellspacing="0" summary=""><tr>        
+        <td width="100%" bgcolor="#003366"><img src="/fda/media/tdbbottom.jpg" alt="Blue banner" width="382" height="41" border="0" /></td>
+</tr></table>
+</body>
+</html>
