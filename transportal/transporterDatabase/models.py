@@ -21,7 +21,7 @@ class Reference(models.Model):
 	otherText = models.CharField(max_length=200, blank=True, null=True, verbose_name="description for resource not in pubmed")
 	otherLink = models.CharField(max_length=100, blank=True, null=True, verbose_name="http link to resource not in pubmed")
 	def __unicode__(self):
-		if self.pmid:
+		if self.pmid.is_int():
 			return self.authors + '.' + self.year + '.PMID' + self.pmid
 		else:
 			return self.otherText
@@ -108,3 +108,22 @@ class DDI(models.Model):
 	reference = models.ManyToManyField(Reference, blank=True, null=True)
         def __unicode__(self):
                 return 'pk=' + self.pk + ','.join([str(self.transName)])
+
+class inVitroInteraction(models.Model):
+	trans = models.ForeignKey(Transporter)
+	TYPE_CHOICES = (('V', 'Vesicular Transport'),('A', 'ATPase Activity '),)
+        type = models.CharField(max_length=1, choices=TYPE_CHOICES)
+	interactingChemical = models.ForeignKey(Compound)
+	affectedSubstrate = models.ForeignKey(Compound)
+	SYSTEM_CHOICES = (('C', 'Cells'),('L', 'Liposomes'),('I','IMV'),('S','Solubilized'),('M','Membrane patch'))
+	system = models.CharField(max_length=1, choices=SYSTEM_CHOICES)
+	SUBTYPE_CHOICES = (('B','Basal activity'),('P','Activity after pre-stimulation'))
+	subtype = models.CharField(max_length=1, choices = SUBTYPE_CHOICES, blank=TRUE)
+	ic50 = models.CharField(max_length=10, blank=True, null=True)
+	ec50 = models.CharField(max_length=10, blank=True, null=True)
+	reference = models.ForeignKey(Reference, blank=True, null=True)
+	stimConc = models.FloatField()
+	def __unicode__(self):
+                return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
+
+
