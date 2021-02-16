@@ -1,6 +1,6 @@
-import string, stats, re
+import string, statistics, re
 from django.shortcuts import render_to_response
-from transportal.transporterDatabase.models import Transporter, Organ, Expression, Sample, Substrate, Inhibitor, DDI, Compound
+from transportal.transporterDatabase.models import Transporter, Organ, Expression, Sample, Substrate, Inhibitor, DDI, Compound, InVitroInteraction
 from django.db.models import Q
 
 def naturallysortedexpressionlist(L, reverse=False):
@@ -14,81 +14,81 @@ def naturallysortedtransporterlist(L, reverse=False):
         return sorted(L, key=alphanum, reverse=reverse) 
 
 def quartiles(numericValues,quartile):
-	theValues = sorted(numericValues)
-	if (quartile*len(theValues)) % 4 == 0:
-		lower = theValues[len(theValues)*quartile/4-1]
-		upper = theValues[len(theValues)*quartile/4]
-		return (float(lower + upper)) / 2  
-	else:
-		return theValues[(len(theValues)*quartile+1)/4-1]
+        theValues = sorted(numericValues)
+        if (quartile*len(theValues)) % 4 == 0:
+                lower = theValues[len(theValues)*quartile/4-1]
+                upper = theValues[len(theValues)*quartile/4]
+                return (float(lower + upper)) / 2  
+        else:
+                return theValues[(len(theValues)*quartile+1)/4-1]
 
 def transporter(request, transporter_id):
         expressLevelsNishi = Expression.objects.filter(trans=transporter_id, experiment='Nishimura').order_by('organ')
-	expressLevelsPMT = Expression.objects.filter(trans=transporter_id, experiment__startswith='PMT Sample').order_by('organ')
-	substrates = Substrate.objects.filter(trans=transporter_id).order_by('cmpnd')
-	inhibitors = Inhibitor.objects.filter(trans=transporter_id).order_by('cmpnd', 'substrate') 
-	ddi = DDI.objects.filter(transporters__symbol=transporter_id)
+        expressLevelsPMT = Expression.objects.filter(trans=transporter_id, experiment__startswith='PMT Sample').order_by('organ')
+        substrates = Substrate.objects.filter(trans=transporter_id).order_by('cmpnd')
+        inhibitors = Inhibitor.objects.filter(trans=transporter_id).order_by('cmpnd', 'substrate') 
+        ddi = DDI.objects.filter(transporters__symbol=transporter_id)
 #Build DDI table
-	ddiInfo = {}
-	for x in ddi:
-		temp = x.pk
-		build = [x]
-		build.append(Compound.objects.filter(interact_drug__pk=x.pk))
-		build.append(Compound.objects.filter(affect_drug__pk=x.pk))
-		ddiInfo[x.pk] = build
-	ddiInfo = ddiInfo.values()
-	ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
+        ddiInfo = {}
+        for x in ddi:
+                temp = x.pk
+                build = [x]
+                build.append(Compound.objects.filter(interact_drug__pk=x.pk))
+                build.append(Compound.objects.filter(affect_drug__pk=x.pk))
+                ddiInfo[x.pk] = build
+        ddiInfo = ddiInfo.values()
+        ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
 #Build expression level table
         transporter = Transporter.objects.get(pk=transporter_id)
-	important = transporter.organ_set.all()
-	importantNames = []
-	for x in important:
-		importantNames.append(str(x.name))
-	pmt = {}
+        important = transporter.organ_set.all()
+        importantNames = []
+        for x in important:
+                importantNames.append(str(x.name))
+        pmt = {}
 #For PMT data, calculate averages across all samples
-	for x in expressLevelsPMT:
-		temp = x.organ
-		if not pmt.has_key(temp):
-			pmt[temp] = [0,0.0]
-		pmt[temp][0] += 1
-		pmt[temp][1] += x.value
-	for x in pmt.keys():
-		pmt[x] = pmt[x][1]/pmt[x][0]
-	buildExp = []
-	if len(expressLevelsNishi) >0:
-		for x in range(len(expressLevelsNishi)):
-			buildExp.append([expressLevelsNishi[x].organ, expressLevelsNishi[x].experiment, expressLevelsNishi[x].value, expressLevelsNishi[x].reference])
-		temp = pmt.keys()
-		temp.sort()
-		for x in temp:
-			buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
-	elif len(expressLevelsPMT) > 0:
-		temp = pmt.keys()
-		temp.sort(key=str)
-		for x in temp:
-			buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
+        for x in expressLevelsPMT:
+                temp = x.organ
+                if not pmt.has_key(temp):
+                        pmt[temp] = [0,0.0]
+                pmt[temp][0] += 1
+                pmt[temp][1] += x.value
+        for x in pmt.keys():
+                pmt[x] = pmt[x][1]/pmt[x][0]
+        buildExp = []
+        if len(expressLevelsNishi) >0:
+                for x in range(len(expressLevelsNishi)):
+                        buildExp.append([expressLevelsNishi[x].organ, expressLevelsNishi[x].experiment, expressLevelsNishi[x].value, expressLevelsNishi[x].reference])
+                temp = pmt.keys()
+                temp.sort()
+                for x in temp:
+                        buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
+        elif len(expressLevelsPMT) > 0:
+                temp = pmt.keys()
+                temp.sort(key=str)
+                for x in temp:
+                        buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
         return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo})
 
 def liver(request):
         expressLevelsNishi = naturallysortedexpressionlist(Expression.objects.filter(organ='Liver', experiment='Nishimura'))
         expressLevelsPMT = naturallysortedexpressionlist(Expression.objects.filter(organ='Liver', experiment__startswith='PMT Sample'))
         expressBiotroveTransporters = naturallysortedtransporterlist(Transporter.objects.filter(expression__organ='Liver',expression__experiment__startswith='PMT Biotrove').distinct())
-	important = Transporter.objects.filter(organ__name='Liver')
-	importantNames = []
-	for x in important:
-		importantNames.append(str(x.symbol))
-	synquery = Transporter.objects.all()
-	syns = {}
-	for x in synquery:
-		syns[x.symbol] = x.synonyms
+        important = Transporter.objects.filter(organ__name='Liver')
+        importantNames = []
+        for x in important:
+                importantNames.append(str(x.symbol))
+        synquery = Transporter.objects.all()
+        syns = {}
+        for x in synquery:
+                syns[x.symbol] = x.synonyms
 #Calculate mean expression across all PMT samples
         pmtTableValues = []
         for x in range(len(expressLevelsPMT)/3):
                 build = []
                 for y in range(3):
                         build.append(expressLevelsPMT[x*3+y].value)
-                avg = stats.mean(build)
-                stdev = stats.stdev(build)
+                avg = mean(build)
+                stdev = stdev(build)
                 id = expressLevelsPMT[x*3].trans
                 pmtTableValues.append([id] + build + [avg, stdev])
 #Calculate median and quartiles across biotrove samples
@@ -106,7 +106,7 @@ def liver(request):
 def kidney(request):
         expressLevelsNishi = naturallysortedexpressionlist(Expression.objects.filter(organ='Kidney', experiment='Nishimura'))
         expressLevelsPMT = naturallysortedexpressionlist(Expression.objects.filter(organ='Kidney', experiment__startswith='PMT Sample'))
-	expressBiotroveTransporters = naturallysortedtransporterlist(Transporter.objects.filter(expression__organ='Kidney',expression__experiment__startswith='PMT Biotrove').distinct())
+        expressBiotroveTransporters = naturallysortedtransporterlist(Transporter.objects.filter(expression__organ='Kidney',expression__experiment__startswith='PMT Biotrove').distinct())
         important = Transporter.objects.filter(organ__name='Kidney')
         importantNames = []
         for x in important:
@@ -121,20 +121,20 @@ def kidney(request):
                 build = []
                 for y in range(4):
                         build.append(expressLevelsPMT[x*4+y].value)
-                avg = stats.mean(build)
-                stdev = stats.stdev(build)
+                avg = mean(build)
+                stdev = stdev(build)
                 id = expressLevelsPMT[x*4].trans
                 pmtTableValues.append([id] + build + [avg, stdev])
 #Calculate median and quartiles across biotrove samples
-	biotroveTableValues = []
-	for x in expressBiotroveTransporters:
-		values = Expression.objects.filter(organ='Kidney', experiment__startswith='PMT Biotrove', trans=x).values_list('value',flat='True').order_by('value')
-		build = []
-		build.append(x.symbol)
-		build.append(quartiles(values,1))
-		build.append(quartiles(values,2))
-		build.append(quartiles(values,3))
-		biotroveTableValues.append(build)
+        biotroveTableValues = []
+        for x in expressBiotroveTransporters:
+                values = Expression.objects.filter(organ='Kidney', experiment__startswith='PMT Biotrove', trans=x).values_list('value',flat='True').order_by('value')
+                build = []
+                build.append(x.symbol)
+                build.append(quartiles(values,1))
+                build.append(quartiles(values,2))
+                build.append(quartiles(values,3))
+                biotroveTableValues.append(build)
         return render_to_response('kidney.html', {'expressionNishi': expressLevelsNishi, 'expressionPMT': pmtTableValues, 'organ': 'Kidney', 'syns': syns, 'important': importantNames, 'expressionBiotrove': biotroveTableValues})
 
 def organ(request, organ_id):
@@ -153,12 +153,12 @@ def organ(request, organ_id):
 def index(request):
         transporters = naturallysortedtransporterlist(Transporter.objects.all())
         organs = Organ.objects.all().order_by('name')
-	compounds = Compound.objects.all().order_by('name')
-	alph = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+        compounds = Compound.objects.all().order_by('name')
+        alph = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
         return render_to_response('dataIndex.html', {'transporters': transporters, 'organs': organs, 'compounds': compounds, 'alph':alph})
 
 def home(request):
-	return render_to_response('start.html')
+        return render_to_response('start.html')
 
 def about(request):
         return render_to_response('about.html')
@@ -167,7 +167,7 @@ def contact(request):
         return render_to_response('contact.html')
 
 def links(request):
-	return render_to_response('links.html')
+        return render_to_response('links.html')
 
 def glossary(request):
         return render_to_response('glossary.html')
@@ -176,21 +176,21 @@ def sitemap(request):
         return render_to_response('sitemap.xml')
 
 def sample(request, organ_id):
-	temp = string.capwords(' '.join(organ_id.split('-')))
-	samples = Sample.objects.filter(organ__name=temp)
-	dataTable = []
-	numEntries = 18
-	numSamples = len(samples)
-	if numSamples == 0:
-		return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
-	build = ['Category']
-	for x in range(numSamples):
-		build.append('Donor ' + str(x + 1))
-	dataTable.append(build)
-	build = ['Tissue Specification']
-	for x in range(numSamples):
-		build.append(samples[x].tissueSpec)
-	dataTable.append(build)	
+        temp = string.capwords(' '.join(organ_id.split('-')))
+        samples = Sample.objects.filter(organ__name=temp)
+        dataTable = []
+        numEntries = 18
+        numSamples = len(samples)
+        if numSamples == 0:
+                return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
+        build = ['Category']
+        for x in range(numSamples):
+                build.append('Donor ' + str(x + 1))
+        dataTable.append(build)
+        build = ['Tissue Specification']
+        for x in range(numSamples):
+                build.append(samples[x].tissueSpec)
+        dataTable.append(build)        
         build = ['Age at Excision']
         for x in range(numSamples):
                 build.append(samples[x].age)
@@ -259,7 +259,7 @@ def sample(request, organ_id):
         for x in range(numSamples):
                 build.append(samples[x].causeOfDeath)
         dataTable.append(build)
-	return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
+        return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
 
 def sampleT(request, organ_id, transporter_id):
         temp = string.capwords(' '.join(organ_id.split('-')))
@@ -360,33 +360,33 @@ def compound(request, compound_id):
                 ddiInfo[x.pk] = build
         ddiInfo = ddiInfo.values()
         ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
-	compound = Compound.objects.get(slugName=compound_id)
+        compound = Compound.objects.get(slugName=compound_id)
         return render_to_response('compound.html', {'compound': compound, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo})
 
 def ddi(request, ddi_id):
-	ddi = DDI.objects.get(pk=int(ddi_id))
+        ddi = DDI.objects.get(pk=int(ddi_id))
         interDrug = Compound.objects.filter(interact_drug__pk=ddi.pk)
         affectDrug = Compound.objects.filter(affect_drug__pk=ddi.pk)
-	return render_to_response('moreDDIInfo.html', {'ddi': ddi, 'interDrug': interDrug, 'affectDrug': affectDrug})
+        return render_to_response('moreDDIInfo.html', {'ddi': ddi, 'interDrug': interDrug, 'affectDrug': affectDrug})
 
 def search(request):
-	keywords = request.GET['keyword']
-	keywords = keywords.split()
-	build = Q(name__icontains=keywords[0])
+        keywords = request.GET['keyword']
+        keywords = keywords.split()
+        build = Q(name__icontains=keywords[0])
         for x in keywords[1:]:
                 build = build|Q(name__icontains=x)
         organs = Organ.objects.filter(build).order_by('name')
-	build = Q(symbol__icontains=keywords[0])|Q(synonyms__icontains=keywords[0])|Q(synonymsFull__icontains=keywords[0])
-	for x in keywords[1:]:
-		build = build|Q(symbol__icontains=x)|Q(synonyms__icontains=x)|Q(synonymsFull__icontains=x)
-	trans = Transporter.objects.filter(build).order_by('symbol')
+        build = Q(symbol__icontains=keywords[0])|Q(synonyms__icontains=keywords[0])|Q(synonymsFull__icontains=keywords[0])
+        for x in keywords[1:]:
+                build = build|Q(symbol__icontains=x)|Q(synonyms__icontains=x)|Q(synonymsFull__icontains=x)
+        trans = Transporter.objects.filter(build).order_by('symbol')
         build = Q(name__icontains=keywords[0])|Q(slugName__icontains=keywords[0])
         for x in keywords[1:]:
                 build = build|Q(name__icontains=x)|Q(slugName__icontains=x)
         comps = Compound.objects.filter(build).order_by('name')
-	return render_to_response('search.html', {'organs':organs, 'trans':trans, 'comps':comps})
+        return render_to_response('search.html', {'organs':organs, 'trans':trans, 'comps':comps})
 
 def testticbase(request, transporter_id):
-	inVitroATPPre = InVitroInteraction.objects.filter(trans=tranpsorter_id, type='A', subtype='P').order_by('stimConc','interactingChemical','affectedSubstrate')
+        inVitroATPPre = InVitroInteraction.objects.filter(trans=transporter_id, type='A', subtype='P').order_by('stimConc','interactingChemical','affectedSubstrate')
         transporter = Transporter.objects.get(pk=transporter_id)
         return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroATPPre':inVitroATPPre})

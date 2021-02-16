@@ -27,13 +27,13 @@ class Reference(models.Model):
 			return self.otherText
 
 class Expression(models.Model):
-        trans = models.ForeignKey(Transporter)
-        organ = models.ForeignKey(Organ)
-        experiment = models.CharField(max_length=50)
-        value = models.FloatField(verbose_name="expression level")
-        reference = models.ForeignKey(Reference, blank=True, null=True)
-        def __unicode__(self):
-                return ','.join([self.experiment, str(self.organ), str(self.trans), str(self.value)])
+	trans = models.ForeignKey(Transporter)
+	organ = models.ForeignKey(Organ)
+	experiment = models.CharField(max_length=50)
+	value = models.FloatField(verbose_name="expression level")
+	reference = models.ForeignKey(Reference, blank=True, null=True)
+	def __unicode__(self):
+		return ','.join([self.experiment, str(self.organ), str(self.trans), str(self.value)])
 
 class Sample(models.Model):
 	GENDER_CHOICES = (('M', 'Male'),('F', 'Female'),)
@@ -58,72 +58,72 @@ class Sample(models.Model):
 	causeOfDeath = models.CharField(max_length=100, blank=True, null=True)
 	organ = models.ForeignKey(Organ) 
 	experiment = models.CharField(max_length=50)
-        def __unicode__(self):
-                return str(self.pk)
+	def __unicode__(self):
+		return str(self.pk)
 
 class Compound(models.Model):
 	slugName = models.CharField(max_length=100, primary_key=True)
 	name = models.CharField(max_length=100)
 	clinicalUse = models.NullBooleanField()
-        def __unicode__(self):
+	def __unicode__(self):
 		return self.name
 
 class Substrate(models.Model):
-        trans = models.ForeignKey(Transporter)
-        cmpnd = models.ForeignKey(Compound)
+	trans = models.ForeignKey(Transporter)
+	cmpnd = models.ForeignKey(Compound)
 	cmpndClinical = models.BooleanField(verbose_name="can the substrate be used in clinical test")
-        cellSystem = models.CharField(max_length=100, blank=True, null=True)
-        km = models.CharField(max_length=10, blank=True, null=True)
+	cellSystem = models.CharField(max_length=100, blank=True, null=True)
+	km = models.CharField(max_length=10, blank=True, null=True)
 	reference = models.ForeignKey(Reference, blank=True, null=True)
-        def __unicode__(self):
-                return ','.join([str(self.trans), str(self.cmpnd), self.cellSystem, str(self.km), str(self.reference)])
+	def __unicode__(self):
+		return ','.join([str(self.trans), str(self.cmpnd), self.cellSystem, str(self.km), str(self.reference)])
 
 class Inhibitor(models.Model):
-        trans = models.ForeignKey(Transporter)
-        cmpnd = models.ForeignKey(Compound)
+	trans = models.ForeignKey(Transporter)
+	cmpnd = models.ForeignKey(Compound)
 	cmpndClinical = models.BooleanField(verbose_name="can the inhibitor be used in clinical tests")
-        cellSystem = models.CharField(max_length=100, blank=True, null=True)
-        ic50 = models.CharField(max_length=10, blank=True, null=True)
-        ki = models.CharField(max_length=10, blank=True, null=True)
-        substrate = models.ForeignKey(Compound, blank=True, related_name='inhib_substrate', null=True)
+	cellSystem = models.CharField(max_length=100, blank=True, null=True)
+	ic50 = models.CharField(max_length=10, blank=True, null=True)
+	ki = models.CharField(max_length=10, blank=True, null=True)
+	substrate = models.ForeignKey(Compound, blank=True, related_name='inhib_substrate', null=True)
 	substrateClinical = models.BooleanField(verbose_name="can the substrate be used in clincial tests")
-        reference = models.ForeignKey(Reference, blank=True, null=True)
-        def __unicode__(self):
-                return ','.join([str(self.trans), str(self.cmpnd), str(self.substrate), self.cellSystem, str(self.ic50), str(self.ki), str(self.reference)])
+	reference = models.ForeignKey(Reference, blank=True, null=True)
+	def __unicode__(self):
+		return ','.join([str(self.trans), str(self.cmpnd), str(self.substrate), self.cellSystem, str(self.ic50), str(self.ki), str(self.reference)])
 
 class DDI(models.Model):
 	transName = models.CharField(max_length=10)
-        transporters = models.ManyToManyField(Transporter)
-        interactingDrug = models.ManyToManyField(Compound, related_name='interact_drug')
-        interactingDrugDose = models.CharField(max_length=100, blank=True)
-        affectedDrug = models.ManyToManyField(Compound, related_name='affect_drug', blank=True)
-        affectedDrugDose = models.CharField(max_length=100, blank=True)
+	transporters = models.ManyToManyField(Transporter)
+	interactingDrug = models.ManyToManyField(Compound, related_name='interact_drug')
+	interactingDrugDose = models.CharField(max_length=100, blank=True)
+	affectedDrug = models.ManyToManyField(Compound, related_name='affect_drug', blank=True)
+	affectedDrugDose = models.CharField(max_length=100, blank=True)
 	studyDesign = models.CharField(max_length=50, blank=True, null=True)
-        AUC = models.CharField(max_length=10, blank=True, null=True)
-        Cmax = models.CharField(max_length=10, blank=True, null=True)
-        CLr = models.CharField(max_length=10, blank=True, null=True)
-        CLOverF = models.CharField(max_length=10, blank=True, null=True)
-        t1Over2 = models.CharField(max_length=10, blank=True, null=True)
+	AUC = models.CharField(max_length=10, blank=True, null=True)
+	Cmax = models.CharField(max_length=10, blank=True, null=True)
+	CLr = models.CharField(max_length=10, blank=True, null=True)
+	CLOverF = models.CharField(max_length=10, blank=True, null=True)
+	t1Over2 = models.CharField(max_length=10, blank=True, null=True)
 	PDEffect = models.CharField(max_length=5)
 	reference = models.ManyToManyField(Reference, blank=True, null=True)
-        def __unicode__(self):
-                return 'pk=' + self.pk + ','.join([str(self.transName)])
+	def __unicode__(self):
+		return 'pk=' + self.pk + ','.join([str(self.transName)])
 
-class inVitroInteraction(models.Model):
+class InVitroInteraction(models.Model):
 	trans = models.ForeignKey(Transporter)
 	TYPE_CHOICES = (('V', 'Vesicular Transport'),('A', 'ATPase Activity '),)
-        type = models.CharField(max_length=1, choices=TYPE_CHOICES)
-	interactingChemical = models.ForeignKey(Compound)
-	affectedSubstrate = models.ForeignKey(Compound)
+	type = models.CharField(max_length=1, choices=TYPE_CHOICES)
+	interactingChemical = models.ForeignKey(Compound, related_name='interact_chem')
+	affectedSubstrate = models.ForeignKey(Compound, related_name='affect_sub')
 	SYSTEM_CHOICES = (('C', 'Cells'),('L', 'Liposomes'),('I','IMV'),('S','Solubilized'),('M','Membrane patch'))
 	system = models.CharField(max_length=1, choices=SYSTEM_CHOICES)
 	SUBTYPE_CHOICES = (('B','Basal activity'),('P','Activity after pre-stimulation'))
-	subtype = models.CharField(max_length=1, choices = SUBTYPE_CHOICES, blank=TRUE)
+	subtype = models.CharField(max_length=1, choices = SUBTYPE_CHOICES, blank=True)
 	ic50 = models.CharField(max_length=10, blank=True, null=True)
 	ec50 = models.CharField(max_length=10, blank=True, null=True)
 	reference = models.ForeignKey(Reference, blank=True, null=True)
 	stimConc = models.FloatField()
 	def __unicode__(self):
-                return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
+		return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
 
 
