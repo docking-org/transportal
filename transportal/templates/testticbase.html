@@ -124,7 +124,6 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
             <td />
         {% endif %}
         <td scope="row"><a href="../../compounds/{{instance.affectedSubstrate.slugName}}/">{{instance.affectedSubstrate.name}}</a></td>
-        <td>{{instance.stimConcentration}}</td>
         {% if instance.reference %}
             <td>{% if not instance.reference.otherText %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{instance.reference.pmid}}">{{instance.reference.authors}}, {{instance.reference.year}}</a>{% else %}{% if instance.reference.otherLink %}<a href="{{instance.reference.otherLink}}">{{instance.reference.otherText}}</a>{% else %}{{instance.reference.otherText}}{% endif %}{% endif %}</td>
         {% else %}
