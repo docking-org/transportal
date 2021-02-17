@@ -42,9 +42,9 @@ P-gp	200 nm silver nanoparticle	0.6-5 mg/mL	No Interaction				Calcein			MDCKII-M
 P-gp	23 nm silver nanoparticle	0.6-5 mg/mL	Inhibitor	2.9			Calcein			MDCKII-MDR1 cells	27376922
 P-gp	27 nm silver nanoparticle	0.6-5 mg/mL	No Interaction				Calcein			MDCKII-MDR1 cells	27376922
 P-gp	4,4 -DDE	0.1-100	No Interaction				Calcein			NIH 3T3 mouse fibroblasts	21783720
-P-gp	4,4′-DDD	0.001 - 333uM	Inhibitor	72.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	4,4′-DDE	0.001 - 333uM	Inhibitor	31.3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	4,4′-DDT	0.001 - 333uM	Inhibitor	25.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	4,4'-DDD	0.001 - 333uM	Inhibitor	72.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	4,4'-DDE	0.001 - 333uM	Inhibitor	31.3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	4,4'-DDT	0.001 - 333uM	Inhibitor	25.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
 MRP2	AC-DCVC	100-1000	Substrate				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2-expressing mPCT-A2 membrane vesicles	20060011
 P-gp	Acetochlor	1-1000	Inhibitor		25		ATPase assay/Calcein	Measured in the presence and absence of orthovanadate	Not listed	MDR1 expressing sf9 membranes/K562 MDR cells	18433974
 MRP2	Acetochlor	100	No interaction				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2 expressing membrane vesicles	18433974
@@ -54,7 +54,7 @@ hOAT1	Aflatoxin B1	0-1000	Inhibitor	12.3			[14C]PAH			hOAT1-expressing S2 Cells	
 hOAT3	Aflatoxin B1	0-1000	Inhibitor	13.1			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOCT1	Aflatoxin B1	0-1000	Inhibitor	103			[3H]ES			hOCT1-expressing S2 Cells	18319568
 hOCT2	Aflatoxin B1	0-1000	Inhibitor	121			[14C]TEA			hOCT2-expressing S2 Cells	18319568
-hOAT2	Aflatoxin B1	0-1000	No interaction	1502			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Aflatoxin B1	0-1000	No interaction	1502			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 hOAT4	Aflatoxin B1	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
 P-gp	Alachlor	1-1000	Inhibitor		35		ATPase assay/Calcein	Measured in the presence and absence of orthovanadate	Not listed	MDR1 expressing sf9 membranes/K562 MDR cells	18433974
 MRP2	Alachlor	100	No interaction				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2 expressing membrane vesicles	18433974
@@ -88,13 +88,13 @@ Oct2	Amitriptyline	100	Inhibitor				4-DiASP			OCT2-expressing HEK cells	32421406
 P-gp	Amoxapine	10-20	Inhibitor				Rhodamine 123			K562Dox cells	21235729
 MRP1	Amprenavir	1-100 ug/mL	No interaction				Amprenavir			LLC-PK1 and Caco-2 cells	11242145
 P-gp	Amprenavir	1-100 ug/mL	Substrate				Amprenavir			LLC-PK1 and Caco-2 cells	11242145
-hOAT3	Aristolochic acid	0-10	susbtrate				[3H] estrone sulfate			hOAT3-expressing HEK293 cells	19643159
-hOAT4	Aristolochic acid	0-100	susbtrate				[3H] estrone sulfate			hOAT4-expressing HEK293 cells	19643159
-hOAT1	Aristolochic acid	0-10	susbtrate				[3H]p-aminohippurate			hOAT1-expressing HEK293 cells	19643159
-hOAT3	Aristolochic acid I (AAI)	0-4	susbtrate				[3H] estrone sulfate			hOAT3-expressing HEK293 cells	19643159
-hOAT4	Aristolochic acid I (AAI)	0-30	susbtrate				[3H] estrone sulfate			hOAT4-expressing HEK293 cells	19643159
-hOAT1	Aristolochic acid I (AAI)	0-5	susbtrate				[3H]p-aminohippurate			hOAT1-expressing HEK293 cells	19643159
-OATP1B1	Arsenic	10	Substrate				estradiol-17b-D-glucuronide			HEK293-OATP1B1 cells	16479312
+hOAT3	Aristolochic acid	0-10	Substrate				[3H] estrone sulfate			hOAT3-expressing HEK293 cells	19643159
+hOAT4	Aristolochic acid	0-100	Substrate				[3H] estrone sulfate			hOAT4-expressing HEK293 cells	19643159
+hOAT1	Aristolochic acid	0-10	Substrate				[3H]p-aminohippurate			hOAT1-expressing HEK293 cells	19643159
+hOAT3	Aristolochic acid I (AAI)	0-4	Substrate				[3H] estrone sulfate			hOAT3-expressing HEK293 cells	19643159
+hOAT4	Aristolochic acid I (AAI)	0-30	Substrate				[3H] estrone sulfate			hOAT4-expressing HEK293 cells	19643159
+hOAT1	Aristolochic acid I (AAI)	0-5	Substrate				[3H]p-aminohippurate			hOAT1-expressing HEK293 cells	19643159
+OATP1B1	Arsenic	10	Substrate				estradiol-17beta-D-glucuronide			HEK293-OATP1B1 cells	16479312
 MRP1	arsenic trioxide	10	Substrate	(0.77 WT cells)			Cell-viability assay			MRP1-over-expressed SB30 cells	11331074
 MRP1-4	As2O3	0.01-1	Inhibitor	0.28			Monocholorbimane (MCB)			PLHC-1 Cells	22580103
 P-gp	As2O3	0.01-1	Inhibitor	2			Calcein			PLHC-1 Cells	22580103
@@ -118,7 +118,7 @@ P-gp	Blebbistatin	10-20	Stimulant				Rhodamine 123			K562Dox cells	21235729
 BCRP	BPA	0.04	Inhibitor				[3H]-BPA			BCRP-expressing MDCKII cells	24014645
 P-gp	BPA	0.04	No interaction				[3H]-BPA			P-gp-expressing MDCKII cells	24014645
 BCRP	BPA	1-100	Inhibitor				[3H]-E1S			BCRP-expressing HEK293 membrane vesicles 	24014645
-MRP1	BPA	1-100	No interaction				[3H]-E2-17βG			MRP1-expressing HEK293 membrane vesicles 	24014645
+MRP1	BPA	1-100	No interaction				[3H]-E2-17betaG			MRP1-expressing HEK293 membrane vesicles 	24014645
 MRP4	BPA	1-100	No interaction				[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 P-gp	BPA	1-100	No interaction				[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
 P-gp	BPA	0.001 - 333uM	No interaction				ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
@@ -185,7 +185,7 @@ hOAT3	Citreoverdine	0-1000	Inhibitor	6.63			[3H]ES			hOAT3-expressing S2 Cells	1
 hOAT1	Citreoverdine	0-1000	Inhibitor	16.9			[14C]PAH			hOAT1-expressing S2 Cells	18319568
 hOCT2	Citreoverdine	0-1000	Inhibitor	17.7			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOAT4	Citreoverdine	0-1000	No interaction	823			[3H]ES			hOAT4-expressing S2 Cells	18319568
-hOAT2	Citreoverdine	0-1000	No interaction	>1000			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Citreoverdine	0-1000	No interaction	>1000			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 P-gp like	clothianidin	0-125 mg/mL	No Interaction				Rhodamine B			Isolated Dreissena bugensis gill tissue	30384196
 P-gp	Clotrimazole	100	Inhibitor				Doxorubicin			B16/F10 murine melanoma cells	8917702
 MRP1	Cobaltus nitrate	Not listed	No interaction	41.4 (WT cells)			Cell-viability assay			MRP1-over-expressed SB30 cells	10685512
@@ -199,7 +199,7 @@ hOAT3	Cyclopiazonic acid	0-1000	Inhibitor	1.9			[3H]ES			hOAT3-expressing S2 Cel
 hOAT1	Cyclopiazonic acid	0-1000	Inhibitor	6.59			[14C]PAH			hOAT1-expressing S2 Cells	18319568
 hOCT1	Cyclopiazonic acid	0-1000	Inhibitor	6.63			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT4	Cyclopiazonic acid	0-1000	Inhibitor	86.6			[3H]ES			hOAT4-expressing S2 Cells	18319568
-hOAT2	Cyclopiazonic acid	0-1000	Inhibitor	126			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Cyclopiazonic acid	0-1000	Inhibitor	126			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 hOCT2	Cyclopiazonic acid	0-1000	No interaction	>1000			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 P-gp	Cyclosporin A	0-1000	Inhibitor		3.4		Calcein			MDR-CEM cells	8862725
 P-gp	Cyclosporin A	0-20	Inhibitor		7		Calcein			Caco-2VCR25  cells	11113639
@@ -208,8 +208,8 @@ OATP1B1	Cyclosporin A	Not stated	Inhibitor	3			[3H]BSP			MDCKII-OATP1B1 cells	16
 OATP2B1	Cyclosporin A	Not stated	Inhibitor	20			[3H]BSP			MDCKII-OATP2B1 cells	16495352
 P-gp	Cypermethrin	1-1000	Inhibitor	8.3			tetramethylrosamine (TMR)			DMPC Proteoliposome	17490606
 P-gp like	cypermethrin	0-500	Stimulant				ATPase assay	Not discussed	Not listed	reconstitued proteoliposomes	17215890
-BCRP	Cypermethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	Cypermethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+BCRP	Cypermethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	Cypermethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp	Danthron	10-20	No interaction				Rhodamine 123			K562Dox cells	21235729
 MRP2	DCVC	100-1000	No interaction				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2-expressing mPCT-A2 membrane vesicles	20060011
 P-gp	DDE	100	No Interaction				Doxorubicin			B16/F10 murine melanoma cells	8917702
@@ -220,12 +220,12 @@ P-gp like	DDT	20	No Interaction				Rhodamine 123			CH-1 Cells	12109718
 P-gp	DDT	1-100	Inhibitor				Rhodamine 123			HepG2 cells	15710169
 P-gp	DDT	1-100	Expression stimulant							HepG2 cells	15710169
 BCRP	DEHP	1-100	No interaction				[3H]-E1S			BCRP-expressing HEK293 membrane vesicles 	24014645
-MRP1	DEHP	1-100	No interaction				[3H]-E2-17βG			MRP1-expressing HEK293 membrane vesicles 	24014645
+MRP1	DEHP	1-100	No interaction				[3H]-E2-17betaG			MRP1-expressing HEK293 membrane vesicles 	24014645
 MRP4	DEHP	1-100	No interaction				[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 P-gp	DEHP	1-100	No interaction				[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
 P-gp	DEHP	0.001 - 333uM	No interaction				ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-BCRP	Deltamethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	Deltamethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+BCRP	Deltamethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	Deltamethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp	Deoxynivalenol	10	substrate				Deoxynivalenol			MDR1-expressing LLC-PK1 cells	17543436
 MRP2	Deoxynivalenol	10	substrate				Deoxynivalenol			MRP2-expressing MDCK-II cells	17543436
 P-gp	desmethylsertralin	0-1000	Substrate/Inhibitor			6.5	ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	Human P-gp membranes	18239278
@@ -235,9 +235,9 @@ P-gp	Diazinon	0.1-100	Inhibitor		58.4					NIH 3T3 mouse fibroblasts	21783720
 P-gp	Diazinon	0.4	No Interaction				Calcein			MDCKII-MDR1 cells	24375866
 P-gp	Diazinon	100	Inhibitor				Digoxin/vinblastine			Caco-2 cells	16221533
 P-gp	Dicapthon	250	Inhibitor				Doxorubicin			B16/F10 murine melanoma cells	8917702
-P-gp	Dieldrin	0.001 - 333uM	Inhbitor	21.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-BCRP	Dieldrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	Dieldrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+P-gp	Dieldrin	0.001 - 333uM	Inhibitor	21.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+BCRP	Dieldrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	Dieldrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp	Dieldrin	25	No Interaction				Calcein			MDCKII-MDR1 cells	24375866
 P-gp	Dieldrin	250	No Interaction				Doxorubicin			B16/F10 murine melanoma cells	8917702
 OATP1A4	digoxin	0.1	Substrate				[3H]digoxin			HEK293-OATP1A4 cells	19833843
@@ -257,9 +257,9 @@ OATP1A4	DPDPE	0.005	Substrate				[3H]DPDPE			HEK293-OATP1A4 cells	19833843
 P-gp	Econazole	10-20	Inhibitor				Rhodamine 123			K562Dox cells	21235729
 P-gp like	EDTA	500-1000	No Interaction				ATPase assay	Not discussed	Not listed	reconstitued proteoliposomes	17215890
 P-gp	Endosulfan	0.1-100	Inhibitor		2.8					NIH 3T3 mouse fibroblasts	21783720
-BCRP	Endosulfan	0-100	Inhibitor	6.9			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
+BCRP	Endosulfan	0-100	Inhibitor	6.9			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
 P-gp	Endosulfan	1-1000	Inhibitor	17			tetramethylrosamine (TMR)			DMPC Proteoliposome	17490606
-P-gp	Endosulfan	0-100	Inhibitor	33.6			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+P-gp	Endosulfan	0-100	Inhibitor	33.6			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp like	endosulfan	0-500	Stimulant				ATPase assay	Not discussed	Not listed	reconstitued proteoliposomes	17215890
 P-gp	Endosulfan	100	Inhibitor				Doxorubicin			B16/F10 murine melanoma cells	8917702
 P-gp like	Endosulfan	50	Inhibitor				Rhodamine 123			CH-1 Cells	12109718
@@ -269,7 +269,7 @@ P-gp	Erlotinib	0-10	Inhibitor				[3H]paclitaxel			KB-C2 Cells	18006847
 P-gp	erythro-amino alcohol (EB)	0-1000	No interaction			109.3	ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	Human P-gp membranes	18239278
 P-gp	Erythromycin	0-500	Inhibitor	119			ximelagatran, melegatran			Caco-2 cells	16455803
 P-gp	Erythromycin	2-5	Substrate				Radio-labeled Erythromycin			LLC-PK1 Cells	9473310
-MRP2	estradiol 17-β-D-glucuronide	100-1000	Substrate				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2-expressing mPCT-A2 membrane vesicles	20060011
+MRP2	estradiol-17beta-D-glucuronide	100-1000	Substrate				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2-expressing mPCT-A2 membrane vesicles	20060011
 MRP2	eukotriene C4 	100-1000	Substrate				ATPase assay	Measured in the presence and absence of orthovanadate	Not listed	MRP2-expressing mPCT-A2 membrane vesicles	20060011
 P-gp	Fenitrothion	250	Stimulant*		10.9		Calcein			MDCKII-MDR1 cells	24375866
 MRP1	Fenitrothion	Not listed	Inhibitor		209.7		Cell-viability assay			MRP1-expressing NIH3T3 cells	12765240
@@ -288,7 +288,7 @@ hOAT1	Fumonisin B1	0-1000	No interaction	768			[14C]PAH			hOAT1-expressing S2 Ce
 hOCT1	Fumonisin B1	0-1000	No interaction	>1000			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT4	Fumonisin B1	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
 hOCT2	Fumonisin B1	0-1000	No interaction				[14C]TEA			hOCT2-expressing S2 Cells	18319568
-hOAT2	Fumonisin B1	0-1000	No interaction				[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Fumonisin B1	0-1000	No interaction				[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 P-gp	Gallopamil	0.3-30	Inhibitor		2.4		[3H] vimblastine			Monkey Kidney Cells (COS-7)	1352973
 P-gp	Gallopamil	0.3-30	Inhibitor		2.5		[3H] vimblastine			F4-6RADR	1352973
 P-gp	gamma-HCH (lindane)	0.001 - 333uM	Inhibitor	82.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
@@ -298,7 +298,7 @@ hOAT1	Gliotoxin	0-1000	Inhibitor	117			[14C]PAH			hOAT1-expressing S2 Cells	1831
 hOCT2	Gliotoxin	0-1000	Inhibitor	117			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOCT1	Gliotoxin	0-1000	No interaction	>1000			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT4	Gliotoxin	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
-hOAT2	Gliotoxin	0-1000	No interaction				[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Gliotoxin	0-1000	No interaction				[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 OAT3	Glutarate	1000	Stimulant				[3H] E3S			OAT3-expressing HEK cells	32421406
 P-gp	HBCD	5	Stimulant*		4		Calcein			MDCKII-MDR1 cells	24375866
 P-gp	Heptachlor	0.001 - 333uM	Inhibitor	10.4			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
@@ -342,7 +342,7 @@ P-gp	malathion	0.1-100	No Interaction				Calcein			NIH 3T3 mouse fibroblasts	217
 MRP1	Meglumine antimonate	Not listed	Substrate	1170 (WT cells)			Cell-viability assay			MRP1-over-expressed GLC4 cells	10025956
 P-gp	Mehoxychlor	100	No Interaction				Doxorubicin			B16/F10 murine melanoma cells	8917702
 BCRP	MEHP	1-100	No interaction				[3H]-E1S			BCRP-expressing HEK293 membrane vesicles 	24014645
-MRP1	MEHP	1-100	No interaction				[3H]-E2-17βG			MRP1-expressing HEK293 membrane vesicles 	24014645
+MRP1	MEHP	1-100	No interaction				[3H]-E2-17betaG			MRP1-expressing HEK293 membrane vesicles 	24014645
 MRP4	MEHP	1-100	No interaction				[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 P-gp	MEHP	1-100	No interaction				[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
 MRP1	Mercuric chloride	Not listed	Substrate	4.7 (WT cells)			Cell-viability assay			MRP1-over-expressed SB30 cells	10685512
@@ -398,18 +398,18 @@ P-gp	Nonylphenol	10	No Interaction				Calcein			MDCKII-MDR1 cells	24375866
 P-gp	Norfloxacin  	100	Substrate				Rhodamine 123			LLC-PK1 Cells	11102735
 P-gp like	NP2EO	31.-31.6	Inhibitor				Rhodamine 123			Primary Oncorhynchus mykiss hepatocytes	11408081
 P-gp	O-Nitrophenyl N,N-dimethylcarbamate	100	No Interaction				Doxorubicin			B16/F10 murine melanoma cells	8917702
-P-gp	o,p’-DDT	250	Stimulant*		2.2		Calcein			MDCKII-MDR1 cells	24375866
-P-gp	o,p’-DDT	0-100	Inhibitor	7.8			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-BCRP	o,p’-DDT	0-100	Inhibitor	10.4			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
+P-gp	o,p'-DDT	250	Stimulant*		2.2		Calcein			MDCKII-MDR1 cells	24375866
+P-gp	o,p'-DDT	0-100	Inhibitor	7.8			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+BCRP	o,p'-DDT	0-100	Inhibitor	10.4			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
 OATP1A4	Ochratoxin A	0.02	Substrate				[3H]Ochratoxin A			HEK293-OATP1A4 cells	19833843
 P-gp like	Orthovanadate	1.5-1000	Inhibitor				ATPase assay	Not discussed	Not listed	reconstitued proteoliposomes	17215890
 P-gp like	p-chloromercuribenzene sulfonate	100-200	Inhibitor				ATPase assay	Not discussed	Not listed	reconstitued proteoliposomes	17215890
-BCRP	p,p’-DDD	0-100	Inhibitor	3			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	p,p’-DDD	0-100	Inhibitor	10.7			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-BCRP	p,p’-DDE	0-100	Inhibitor	4			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	p,p’-DDE	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-P-gp	p,p’-DDT	0-100	Inhibitor	3.8			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-BCRP	p,p’-DDT	0-100	Inhibitor	5			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
+BCRP	p,p'-DDD	0-100	Inhibitor	3			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	p,p'-DDD	0-100	Inhibitor	10.7			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+BCRP	p,p'-DDE	0-100	Inhibitor	4			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	p,p'-DDE	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+P-gp	p,p'-DDT	0-100	Inhibitor	3.8			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+BCRP	p,p'-DDT	0-100	Inhibitor	5			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
 OATP1B3	Paclitaxel	Not stated	Inhibitor	4			[3H]BSP			MDCKII-OATP1B3 cells	16495352
 OATP2B1	Paclitaxel	Not stated	No Interaction	25 (cytotoxic)			[3H]BSP			MDCKII-OATP2B1 cells	16495352
 OATP1B1	Paclitaxel	Not stated	No Interaction	50 (cytotoxic)			[3H]BSP			MDCKII-OATP1B1 cells	16495352
@@ -425,7 +425,7 @@ hOCT1	Patulin	0-1000	Inhibitor	584			[14C]TEA			hOCT1-expressing S2 Cells	183195
 hOCT2	Patulin	0-1000	No interaction	>1000			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOAT3	Patulin	0-1000	No interaction	>1000			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOAT4	Patulin	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
-hOAT2	Patulin	0-1000	No interaction				[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Patulin	0-1000	No interaction				[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 P-gp	PBDE-100	0.001 - 333uM	Inhibitor	23.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
 P-gp	PBDE-209	0.001 - 333uM	Inhibitor	6.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
 P-gp	PBDE-3	0.001 - 333uM	No interaction				ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
@@ -492,8 +492,8 @@ OATP1a1	perfluoroundecanoate 	100-1000	Inhibitor				[3H]estrone-3-sulfate			CHO 
 URAT1	perfluoroundecanoic acid	100	Inhibitor				[14C] Uric acid			URAT1-expressing HEK293 cells	20639259
 hOAT4	perfluoroundecanoic acid	100	Inhibitor				[3H] E3S			hOAT4-expressing CHO cells	20639259
 OATP1A2	perfluoroundecanoic acid	100	Inhibitor				[3H] E3S			OATP1A2-expressing HEK293 cells	20639259
-BCRP	Permethrin	0-100	Inhibitor	7			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	Permethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+BCRP	Permethrin	0-100	Inhibitor	7			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	Permethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp	Permethrin	250	Inhibitor				Doxorubicin			B16/F10 murine melanoma cells	8917702
 P-gp	Perospirone	0.01-30	Inhibitor				Rhodamine 123			Caco-2 cells	18478216
 P-gp	PFBS	10	No Interaction				Calcein			MDCKII-MDR1 cells	24375866
@@ -502,13 +502,13 @@ P-gp	PFOA	0.001 - 333uM	Inhibitor	156.5			ATPase assay	Basal activity not stimul
 BCRP	PFOA	1	Inhibitor				[14C]-PFOA			BCRP-expressing MDCKII cells	24014645
 P-gp	PFOA	1	No interaction				[14C]-PFOA			P-gp-expressing MDCKII cells	24014645
 BCRP	PFOA	1-100	Inhibitor				[3H]-E1S			BCRP-expressing HEK293 membrane vesicles 	24014645
-MRP1	PFOA	1-100	Inhibitor				[3H]-E2-17βG			MRP1-expressing HEK293 membrane vesicles 	24014645
+MRP1	PFOA	1-100	Inhibitor				[3H]-E2-17betaG			MRP1-expressing HEK293 membrane vesicles 	24014645
 MRP4	PFOA	1-100	Inhibitor				[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 P-gp	PFOA	1-100	Inhibitor				[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
-BCRP	PFOA	0.03-100	Inhibitor				ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23435180
+BCRP	PFOA	0.03-100	Inhibitor				ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23435180
 P-gp	PFOA	500	Inhibitor				Calcein			MDCKII-MDR1 cells	24375866
 BCRP	PFOS	1-100	Inhibitor				[3H]-E1S			BCRP-expressing HEK293 membrane vesicles 	24014645
-MRP1	PFOS	1-100	Inhibitor				[3H]-E2-17βG			MRP1-expressing HEK293 membrane vesicles 	24014645
+MRP1	PFOS	1-100	Inhibitor				[3H]-E2-17betaG			MRP1-expressing HEK293 membrane vesicles 	24014645
 MRP4	PFOS	1-100	Inhibitor				[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 P-gp	PFOS	1-100	Inhibitor				[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
 P-gp	PFOS	0.001 - 333uM	No interaction				ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
@@ -568,8 +568,8 @@ P-gp	Quinidine	Not listed	Inhibitor		280		Calcein			Caco-2VCR25  cells	11113639
 P-gp	Quinidine	Not listed	Inhibitor	340			3H-verapamil			Caco-2 cells 	9688051
 P-gp	Quinidine	Not listed	Inhibitor	430			3H-verapamil			Caco-2 cells 	9688051
 P-gp	Quinidine	10-20	Inhibitor				Rhodamine 123			K562Dox cells	21235729
-BCRP	Resmethrin	0-100	Inhibitor	5.6			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	Resmethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+BCRP	Resmethrin	0-100	Inhibitor	5.6			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	Resmethrin	0-100	No Interaction				ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp	Retinoic acid	2-5	No Interaction				Radio-labeled Retinoic acid			LLC-PK1 Cells	9473310
 OATP1B3	Rifampicin	Not stated	Inhibitor	1.5			[3H]BSP			MDCKII-OATP1B3 cells	16495352
 OATP2B1	Rifampicin	Not stated	No Interaction	90			[3H]BSP			MDCKII-OATP2B1 cells	16495352
@@ -601,7 +601,7 @@ OATP1A4	taurocholate	0.1	Substrate			40	[3H]taurocholate			HEK293-OATP1A4 cells	
 P-gp	TBBPA	1-100	Inhibitor	22.9			[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
 MRP4	TBBPA	1-100	Inhibitor	24			[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 BCRP	TBBPA	1-100	Inhibitor				[3H]-E1S			BCRP-expressing HEK293 membrane vesicles 	24014645
-MRP1	TBBPA	1-100	Inhibitor				[3H]-E2-17βG			MRP1-expressing HEK293 membrane vesicles 	24014645
+MRP1	TBBPA	1-100	Inhibitor				[3H]-E2-17betaG			MRP1-expressing HEK293 membrane vesicles 	24014645
 BCRP	TBBPA	1	No interaction				TBBPA			BCRP-expressing MDCKII cells	24014645
 P-gp	TBBPA	1	No interaction				TBBPA			P-gp-expressing MDCKII cells	24014645
 P-gp	TBT-O	0.5	No Interaction				Calcein			MDCKII-MDR1 cells	24375866
@@ -642,13 +642,13 @@ hOCT1	Zearalenone	0-1000	Inhibitor	0.62			[14C]TEA			hOCT1-expressing S2 Cells	1
 hOAT3	Zearalenone	0-1000	Inhibitor	6.71			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOCT2	Zearalenone	0-1000	Inhibitor	24.8			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOAT1	Zearalenone	0-1000	Inhibitor	147			[14C]PAH			hOAT1-expressing S2 Cells	18319568
-hOAT2	Zearalenone	0-1000	Inhibitor	149			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Zearalenone	0-1000	Inhibitor	149			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 hOAT4	Zearalenone	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
 MRP1	Zinc sulfate	Not listed	No interaction	128.7 (WT cells)			Cell-viability assay			MRP1-over-expressed GLC4 cells	10025956
 P-gp	Zomepirac	10-20	Inhibitor				Rhodamine 123			K562Dox cells	21235729
-hOAT3	α-Zearalenol	0-1000	Inhibitor	4.55			[3H]ES			hOAT3-expressing S2 Cells	18319568
-hOAT1	α-Zearalenol	0-1000	Inhibitor	28.4			[14C]PAH			hOAT1-expressing S2 Cells	18319568
-hOCT2	α-Zearalenol	0-1000	Inhibitor	34.3			[14C]TEA			hOCT2-expressing S2 Cells	18319568
-hOCT1	α-Zearalenol	0-1000	Inhibitor	64.4			[14C]TEA			hOCT1-expressing S2 Cells	18319568
-hOAT4	α-Zearalenol	0-1000	Inhibitor	130			[3H]ES			hOAT4-expressing S2 Cells	18319568
-hOAT2	α-Zearalenol	0-1000	Inhibitor	180			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT3	alpha-Zearalenol	0-1000	Inhibitor	4.55			[3H]ES			hOAT3-expressing S2 Cells	18319568
+hOAT1	alpha-Zearalenol	0-1000	Inhibitor	28.4			[14C]PAH			hOAT1-expressing S2 Cells	18319568
+hOCT2	alpha-Zearalenol	0-1000	Inhibitor	34.3			[14C]TEA			hOCT2-expressing S2 Cells	18319568
+hOCT1	alpha-Zearalenol	0-1000	Inhibitor	64.4			[14C]TEA			hOCT1-expressing S2 Cells	18319568
+hOAT4	alpha-Zearalenol	0-1000	Inhibitor	130			[3H]ES			hOAT4-expressing S2 Cells	18319568
+hOAT2	alpha-Zearalenol	0-1000	Inhibitor	180			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568

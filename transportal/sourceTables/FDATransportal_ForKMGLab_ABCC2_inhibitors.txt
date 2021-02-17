@@ -1,0 +1,617 @@
+Transporter	Inhibitor	KI (µM)	IC50 (µM)	Substrate used	Cell system	References
+MRP2	Bilirubin monoglucuronide		0.28	[3H]-Leukotriene C4	MRP2-expressing HepG2 cells	9355767
+MRP2	Bilirubin bisglucuronide		0.4	[3H]-Leukotriene C4	MRP2-expressing HepG2 cells	9355767
+MRP2	CYCLOSPORIN A	21		[3H]-monoglucuronosyl bilirubin	MRP2-expressing HEK vesicles	10421658
+MRP2	Cyclosporine A	4.7		[3H]-Leukotriene C4	MRP2-expressing LLC vesicles	10570049
+MRP2	MK-571	13.1		[3H]-Leukotriene C4	MRP2-expressing LLC vesicles	10570049
+MRP2	PSC-833 (Valspodar)	28.9		[3H]-Leukotriene C4	MRP2-expressing LLC vesicles	10570049
+MRP2	PAK-104P	3.7		[3H]-Leukotriene C4	MRP2-expressing LLC vesicles	10570049
+MRP2	Leukotrien C4		3.3	[3H]-para-aminohippurate	MRP2-expressing HEK vesicles	10760098
+MRP2	MK-571		4	[3H]-para-aminohippurate	MRP2-expressing HEK vesicles	10760098
+MRP2	Ochratoxin A		58	[3H]-para-aminohippurate	MRP2-expressing HEK vesicles	10760098
+MRP2	MK-571	26.4		Vinblastine	MRP2-expressing MDCK cells	12134946
+MRP2	Vincristine	802		Vinblastine	MRP2-expressing MDCK cells	12134946
+MRP2	Cyclosporin A	8.11		Vinblastine	MRP2-expressing MDCK cells	12134946
+MRP2	Reserpine	295		Vinblastine	MRP2-expressing MDCK cells	12134946
+MRP2	Daunorubicin (Daunomycin)	49.4		Vinblastine	MRP2-expressing MDCK cells	12134946
+MRP2	VP-16	756		Vinblastine	MRP2-expressing MDCK cells	12134946
+MRP2	Atorvastatin lactone		15	calcein AM	MRP2-expressing MDCK cells	15616150
+MRP2	VINBLASTINE		21	calcein AM	MRP2-expressing MDCK cells	15616150
+MRP2	Simvastatin lactone		25	calcein AM	MRP2-expressing MDCK cells	15616150
+MRP2	Probenecid	42.2		"[3H]-S-(2,4-dinitrophenyl)-glutathione"	Liver canalicular membrane vesicles	15618649
+MRP2	MK-571		10	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	18457386
+MRP2	Cyclosporine A		13.6	calcein AM	MRP2-expressing MDCK-II cells	18707884
+MRP2	MK-571		20.7	calcein AM	MRP2-expressing MDCK-II cells	18707884
+MRP2	verapamil		200	calcein AM	MRP2-expressing MDCK-II cells	18707884
+MRP2	Indomethacin		235	calcein AM	MRP2-expressing MDCK-II cells	18707884
+MRP2	LCT4		0.15	chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519
+MRP2	MK-571		1	chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519
+MRP2	KO-143		50	chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519
+MRP2	KO-143+C15		50	chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519
+MRP2	myricetin		22	calcein AM	MRP2-expressing MDCK-II cells	19725578
+MRP2	diosmetin		50	calcein AM	MRP2-expressing MDCK-II cells	19725578
+MRP2	chrysoeril		50	calcein AM	MRP2-expressing MDCK-II cells	19725578
+MRP2	Etravirine		7.8	calcein AM	MRP2-expressing MDCK-II cells	21189339
+MRP2	Isoscutellarin		50	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	22822035
+MRP2	Scutellarin		75	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	22822035
+MRP2	Dolutegravir		90	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23132334
+MRP2	Dolutegravir		100	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23132334
+MRP2	Ethacrynic acid		3.85	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clofazimine		10.4	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Everolimus		11.3	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cyclosporine A		14.5	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rifaximin		15.4	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rifapentine		16.3	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Temsirolimus		17.6	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Daptomycin		29.1	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Suramin		36.8	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tacrolimus		40.3	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Benzbromarone		41.6	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Wortmannin		46.1	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rifabutin		49.8	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rifampicin		53	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ertapenem sodium		56.2	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Eprosartan		57.9	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zafirlukast		58.8	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rubitecan		60.5	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Valrubicin		64	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Reserpine		68.4	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Repaglinide		72.3	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Leuprolide acetate		80.2	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	EPALRESTAT		84.4	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefixime		89.4	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Foscarnet sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nefopam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Orlistat		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Thiotepa		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Voriconazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Hydrochlorothiazide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Isoxicam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Melphalan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Metformin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vorinostat		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zolpidem tartrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tiapride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Terlipressin acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Venlafaxine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Roquinimex		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fluvoxamine maleate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Talniflumate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fluoxetine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	MINOXIDIL		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nateglinide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sumatriptan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zaleplon		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pindolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ramipril		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Remoxipride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	RIBAVIRIN		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Risperidone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	D(-)-Norgestrel		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nimesulide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Famciclovir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vigabtrin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ethosuximide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ethambutol dihydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dutasteride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Doxazosin Mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefdinir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tacrine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Aspirin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Azlocillin sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bronopol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Decitabine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	M-AMSA		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mebendazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amlodipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Alendronate sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Alprenolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Atropine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Donepezil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dipyridamole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sunitinib malate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Alprostadil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lornoxicam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Quercetin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nisoldipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Gefitinib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxymetholone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Exemestane		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Maraviroc		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Isradipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Enfuvirtide acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bromopride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Celecoxib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ciclesonide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Acecainide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Agomelatine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Colchicine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dofetilide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	DOX		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlorzoxazone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Erythromycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bifonazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	1-Naphthylisothiocyanate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dinoprost tromethamine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Abiraterone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Acipimox		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Enoxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	methimazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxcarbazepine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Flutamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zonisamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Minocycline hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Topiramate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nevirapine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nitrazepam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Probenecid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	ranitidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rivaroxaban		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rocuronium bromide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zileuton		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zolmitriptan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Maxipost		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tadalafil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tenoxicam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tetracycline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Metronidazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mizoribine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Phenacetin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tinidazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tobramycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cidofovir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clarithromycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Diltiazem		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Emetine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clopamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dexchlorpheniramine maleate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pyrazinamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sulfacetamide sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Terfenadine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Piroxicam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Voglibose		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Warfarin sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pramipexole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Terbinafine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Triamterene		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Trilostane		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Timolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Valacyclovir hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sulfamethoxazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Etidronate disodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Flutiaddinfoone propionate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Quetiapine hemifumarate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fenoldopam mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fleroxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Atenolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Benznidazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bivalirudin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Caffeine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Carvedilol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Enalaprilat		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Eszopiclone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Epirubicin hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Eptifibatide acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Imiquimod		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Etretinate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Iohexol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Iproniazid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lacosamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lansoprazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lenalidomide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ipratropium bromide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Formoterol fumarate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Gatifloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Plerixafor		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Stavudine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Flupirtine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ciprofloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Desipramine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Doripenem		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Eflornithine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxybutynin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Primaquine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dasatinib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cisapride Monohydrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Octreotide Acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mifepristone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ritonavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Racecadotril		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cilostazol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlordiazepoxide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefotaxime sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Quinidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chloroquine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Aminoglutethimide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Aprepitant		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cytarabine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Misoprostol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fluphenazine Hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Adefovir Dipivoxil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Telithromycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Saquinavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nelfinavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fusidic Acid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rosuvastatin calcium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefazolin sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ofloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Medroxyprogesterone Acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Felodipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Simvastatin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Iloperidone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lovastatin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dronedarone Hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nifedipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nicardipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Danazol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Drotaverine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rabeprazole Sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Praziquantel		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nefazodone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Docetaxel		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lapatinib Tosylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Posaconazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Deferasirox		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pazopanib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cinnarizine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ciglitazone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rimonabant		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Scopolamine hydrobromide trihydrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mirtazapine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Natamycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ondansetron		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxacillin sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Etoposide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pentoxifylline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sildenafil citrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Felbinac		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Acarbose		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amisulpride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Artemether		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Artemisinin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Atracurium besylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Brinzolamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Carbidopa		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	m-Chlorophenylpiperazine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dolasetron mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Duloxetine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Travoprost		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Methylprednisolone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Gemifioxacin mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Adapalene		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amikacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amrinone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clomifene citrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Alvimopan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Desmopressin acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Doxycycline hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fesoterodine fumarate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Perindopril erbumine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Betamethasone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dimenhydrinate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Doxepin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Strontium ranelate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lamivudine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Furosemide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tenofovir disoproxil fumarate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Goserelin acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Naloxone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Neomycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxytocin acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Levofloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vasopressin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mafenide acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Maprotiline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fulvestrant		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tolbutamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Triamcinolone acetonide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Procainamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Idazoxan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Haloperidol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Albendazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Piperacillin sodium salt		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sulbactam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Metocurine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	SID56422427		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Terazosin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Riluzole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rizatriptan benzoate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Saxagliptin hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Stepronin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Valdecoxib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Hydroflumethazide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Isoniazid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pancuronium bromide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tolterodine tartrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Guanfacine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tolnaftate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Flumazenil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pergolide mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nicotine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nitazoxanide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Olanzapine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Hydroxychloroquine sulfate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Imipramine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Leucovorin calcium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lidocaine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lisinopril		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lofepramine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Prednisolone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Propafenone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	R-apomorphine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Roxithromycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Salmeterol xinafoate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Selegiline hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	sotalol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sulfadiazine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Enalapril maleate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Eplerenone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Escitalopram oxalate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Atorvastatin Calcium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Telmisartan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	omeprazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cetrorelix Acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefpodoxime Proxetil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	amiodarone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Isotretinoin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tolvaptan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Megestrol Acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bicalutamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Indinavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tranilast		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Paclitaxel		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fenofibrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Valinomycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mevastatin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rotenone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxiconazole nitrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ergocalciferol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Toremifene citrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Diacerein		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	nitrofurantoin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Acetazolamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tazarotene		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	MOCLOBEMIDE		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nelarabine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Acyclovir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amoxapine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	acetaminophen		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Aripiprazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Atomoxetine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Carbon tetrachloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefadroxil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Disopyramide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Emtricitabine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Etoposide phosphate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ziprasidone mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Primidone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Famotidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Verapamil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Piribedil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pravastatin sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Raltitrexed		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Molsidomine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nadolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ketamine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ganciclovir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Glipizide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tamoxifen		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Thiacetazone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ticlopidine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tretinoin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Trimethoprim		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vioxx		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zalcitabine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sparfloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Spiramycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	5-Fluorouracil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sulfisoxazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	DISULFIRAM		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oseltamivir phosphate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mupirocin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	naproxen		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ornidazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Gliclazide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pazufloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pemoline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pimecrolimus		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Febuxostat		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dacarbazine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amidotrizoate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ebastine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Calcitriol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Budesonide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Astemizole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Loxapine Succinate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ketoconazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Loteprednol etabonate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Oxaprozin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Undecylenic acid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Antipyrine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Azathioprine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bexarotene		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Carmustine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clobazam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vildagliptin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Procarbazine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	promethazine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ramelteon		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Rasagiline mesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Meropenem		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Methotrexate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Levetiracetam		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Levodopa		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Levosulpiride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lorcainide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Staurosporine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bisoprolol fumarate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefaclor		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlorambucil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlorpheniramine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cibenzoline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cyclophosphamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Diazoxide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Flucytosine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fluorescein		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Flunisolide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Eenoximone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mefenamic acid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zopiclone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bupivacaine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zidovudine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Zoledronic acid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Gestodene		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Moxifloxacin hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pentamidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	PIRACETAM		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Hydroxyurea		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	MEXILETINE		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tegafur		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tegaserod maleate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Temozolomide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Theophylline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Thiamphenicol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Melperone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Propranolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Quinine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nicorandil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nikethamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Norfloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Paroxetine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vincristine sulfate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Indoramin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Kanamycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ketanserin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	LEFLUNOMIDE		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lomustine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lumiracoxib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Gemcitabine hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bimatoprost		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ezetimibe		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Itraconazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pranlukast		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clofibrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	MK-571		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mycophenolate Mofetil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	17alpha-ethinylestradiol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	GDC-0941 bimesylate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Midecamycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Norethindrone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sertindole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amlexanox		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cloprostenol sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Carprofen		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Camptothecin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tubocurarine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nalidixic acid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Allopurinol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Azithromycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Butorphanol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlorthalidone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cimetidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dapsone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dexbrompheniramine maleate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dirithromycin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Domperidone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	propylthiouracil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ketotifen fumarate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mesna		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Metoclopramide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Metoprolol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Loratadine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Latanoprost		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Norethindrone Acetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Finasteride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Entacapone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dicloxacillin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Erythromycin Estolate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Neratinib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dactolisib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Etoricoxib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Feprazone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pirinixic acid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ketorolac tromethamine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vinblastine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ceftriaxone sodium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amitriptyline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amoxicillin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Anastrozole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Anthralin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Baclofen		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Benzocaine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bortezomib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bupropion hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Captopril		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Carbamazepine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlorpropamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cladribine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clofarabine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clomipramine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	cp-690550		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dexamethasone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Dexlansoprazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Ifosfamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Indapamide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fludarabine phosphate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	GALANTAMINE		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Didanosine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nebivolol hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Sitagliptin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tilorone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Melatonin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Urapidil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Procyclidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Mibefradil hydrochloride		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Amprenavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Imatinib		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Lopinavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Digitoxin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clopidogrel bisulfate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Testosterone		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Miconazole nitrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pranoprofen		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Papaverine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefuroxime axetil		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Teniposide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Aminophylline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Albuterol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Artesunate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Atosiban		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Betamipron		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Bisacodyl		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Brompheniramine maleate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Busulphan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cabergoline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Cefotetan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Chlorpromazine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Citalopram		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clioquinol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Clozapine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Desloratadine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Efavirenz		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Entecavir		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pemirolast potassium		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Phenformin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Prochlorperazine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Linezolid		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Varenicline tartrate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pregabalin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tizanidine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Fluconazole		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Triamcinolone diacetate		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nalmefene		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Xamoterol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Terbutaline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Pefloxacin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Neostigmine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nortriptyline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Telbivudine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Vecuronium bromide		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Miglitol		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Nimodipine		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Tigecycline		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Somatostatin		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Valsartan		133	 [3H]-estradiol-17beta-D-glucuronide	MRP2-expressing sf9 vesicles	23956101
+MRP2	Alisporivir		18	"5(6)-carboxy-2',7'-dichlorofluorescein"	MRP2-expressing sf9 vesicles	25310383
+MRP2	Cyclosporine A		20	calcein AM	MRP2-expressing MDCK-II cells	27393949
+MRP2	Cyclosporine A		25.6	calcein AM	MRP2-expressing MDCK-II cells	27393949

@@ -1,0 +1,218 @@
+Transporter	Inhibitor	IC50 (_M)	Ki (_M)	Substrate used	Cell System	Reference	
+OATP1B3	boceprevir	4.9		Bromosulfophthalein (BSP)	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23293300/	23293300
+OATP1B3	atazanavir 	0.4	0.37	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	cyclosporine A 	1.3	1.2	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	erlotinib 	44	41	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	indometacin 	41	8	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	pravastatin 	62	57	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	rifampicin 	1.5	1.4	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	ritonavir 	4.4	4	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	sulfasalazine	12	11	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	vincristine 	11	9.8	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	doxorubicin 	41	38	E17_G 	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/22541068/	22541068
+OATP1B3	Rifampicin 	1.6		Bosentan	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17496208/	17496208
+OATP1B3	cyclosporine A 	0.8		Bosentan	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17496208/	17496208
+OATP1B3	sildenafil	0.8		Bosentan	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17496208/	17496208
+OATP1B3	Clarithromycin	32		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17296622/	17296622
+OATP1B3	Erythromycin 	34		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17296622/	17296622
+OATP1B3	Roxithromycin 	37		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17296622/	17296622
+OATP1B3	Telithromycin	11		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/17296622/	17296622
+OATP1B3	Rifampicin 		5	BSP	oocytes-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/12085361/	12085361
+OATP1B3	Rifampicin SV		3	BSP	oocytes-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/12085361/	12085361
+OATP1B3	Saquinavir 	0.47		estradiol2-17-b-D-glucuronide	HEK-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23886114/	23886114
+OATP1B3	Amprenavir 	38		estradiol2-17-b-D-glucuronide	HEK-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23886114/	23886114
+OATP1B3	Indinavir 	16		estradiol2-17-b-D-glucuronide	HEK-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23886114/	23886114
+OATP1B3	Fexofenadine	83.3		CCK-8	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16014768/	16014768
+OATP1B3	glibenclamide	9.8	8.1	BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23121773/	23121773
+OATP1B3	glimepiride	40.9		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23121773/	23121773
+OATP1B3	Dabrafenib	4.7		E17_G 	HEK-MSRII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/28320730/	28320730
+OATP1B3	Carfilzomib	0.9		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Dronedarone hydrochlorid	1.12		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Fosinopril sodium	5.19		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Gliquidone	1.17		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Lapayonib	33.78		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Rapamycin	0.4		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Trametinib	30.82		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Zafirlukast	4.96		FMTX 	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/26469880/	2646988
+OATP1B3	Dasatinib 	5.76		estradiol2-17-b-D-glucuronide	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/28373111/	28373111
+OATP1B3	Repaglinide	5.6		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/18314419/	18314419
+OATP1B3	Rosiglitazone	10.9		BSP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/18314419/	18314419
+OATP1B3	rilpivirine	6.1		8-fluorescein–cAMP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/23428312/	23428312
+OATP1B3	sacubitril	3.81		estradiol2-17-b-D-glucuronide	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/27321165/	27321165
+OATP1B3	Simeprevir	0.22		CCK-8	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24867984/	24867984
+OATP1B3	asunaprevir	0.65		CCK-8	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24867984/	24867984
+OATP1B3	daclatasvir	3.27		CCK-8	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24867984/	24867984
+OATP1B3	sofosbuvir	61.9		CCK-8	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24867984/	24867984
+OATP1B3	telaprevir 	9.69		CCK-8	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24867984/	24867984
+OATP1B3	Darolutamide	39.3		Atorvastatin	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/31571146/	31571146
+OATP1B3	Dovtinib	105.2		8-fluorescein–cAMP	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/25521244/	25521244
+OATP1B3	Everolimus	3.7		mycophenolic acid 7-O-glucuronide	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/31047942/	31047942
+OATP1B3	Sirolimus	1.3		mycophenolic acid 7-O-glucuronide	HEK293-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/31047942/	31047942
+OATP1B3	Mifepristone	5.3		estradiol-17_-glucuronide	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/18321482/	18321482
+OATP1B3	Mevinolin	92.6		estradiol-17_-glucuronide	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/18321482/	18321482
+OATP1B3	Carbamazepine	510		estradiol-17_-glucuronide	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/18321482/	18321482
+OATP1B3	Troglitazone	15.7		estradiol-17_-glucuronide	CHO-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/18321482/	18321482
+OATP1B3	Penicillin G 	25		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Montelukast 	15		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Paclitaxel	2		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Rifampicin 	0.8		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Antamanide 	0.7		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Cyclosporin A	0.3		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Prednisolone phosphate 	75		Amanitin	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16495352/	16495352
+OATP1B3	Tolbutamide	10		CCK-8	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24150606/	24150606
+OATP1B3	Nateglinide	45.6		CCK-8	MDCKII-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/24150606/	24150606
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

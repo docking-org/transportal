@@ -1,0 +1,79 @@
+Transporter	Substrate	Km (_M)	Cell System	Reference		Object Therapeutic Class			
+OATP1B1	4-Aminosalicylic acid	50	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/28223391/					
+OATP1B1	Atorvastatin	0.761	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Bosentan	44	CHO-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/17496208/					
+OATP1B1	Bosentan	4.27	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Cefazolin	20.8	OATP1B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/18974612		Proton pump inhibitors			
+OATP1B1	Cefditoren	3.45	OATP1B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/18974612		Proton pump inhibitors			
+OATP1B1	Cefoperazone	4.84	OATP1B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/18974612		Food products			
+OATP1B1	Cilostazol	17.7	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/28535976/					
+OATP1B1	Docetaxel	7.6	CHO-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/22711709/					
+OATP1B1	Enalapril	262	HEK-OATP1B1	https://www.ncbi.nlm.nih.gov/pubmed/16627748					
+OATP1B1	Estradiol-17beta-glucuronide	10	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/24754247/					
+OATP1B1	Estrone 3-sulfate	0.0872	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/26037524/					
+OATP1B1	Fexofenadine	61.6	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Fluvastatin	4.8	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Gadoxetic acid	700	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/20406852/					
+OATP1B1	Glyburide	1.24	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Irbesartan	0.695	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/26037524/					
+OATP1B1	Maraviroc	33.9	OATP1B1-expressing oocytes	https://pubmed.ncbi.nlm.nih.gov/21217360/					
+OATP1B1	Nafcillin	11.1	OATP1B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/18974612		Food products			
+OATP1B1	Nateglinide	36.4	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Olmesartan	12.8	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/17823233/					
+OATP1B1	Paclitaxel	0.6	OATP1B1-expressing oocytes	https://pubmed.ncbi.nlm.nih.gov/21719246/					
+OATP1B1	Pitavastatin	2.48	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Pitavastatin	0.429	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/26037524/					
+OATP1B1	Pravastatin	27	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Regorafenib	15.9	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25739790/					
+OATP1B1	Repaglinide	1.36	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Rosuvastatin	9.31	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Sincalide	1.67	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/26037524/					
+OATP1B1	Sorafenib	23.5	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/23340295/					
+OATP1B1	Torasemide	6.2	HEK-OATP1B1	https://www.ncbi.nlm.nih.gov/pubmed/19934028		Food products			
+OATP1B1	Torasemide	20.9	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
+OATP1B1	Valsartan	7.48	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/		Food products			
+						Food products			
+						Food products			
+						Food products			
+						Food products			
+						Food products			
+						Food products			
+						Food products			
+						Food products			
+						Food products			
+						Dopamine-norepinephrine reuptake inhibitors			
+						Neuroprotectors			
+						Estrogens			
+						Estrogens			
+						Estrogens			
+						Antibiotics			
+						Sulfonylureas			
+						Photosensitizing agents			
+						Topoisomerase inhibitors			
+						Topoisomerase inhibitors			
+						Nucleoside reverse transcriptase inhibitors			
+						Antimetabolites			
+						Anti-infective agents			
+						Antimetabolites			
+						HMG-CoA reductase inhibitors (statins)			
+						HMG-CoA reductase inhibitors (statins)			
+						Erectile dysfunction treatments			
+						Nonsteroidal anti-inflammatory drugs			
+						Kinase inhibitors			
+						Topoisomerase inhibitors			
+						Erectile dysfunction treatments			
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									

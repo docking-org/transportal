@@ -1,0 +1,2 @@
+Transporter	DDI	Implicated Transporter	Interacting Drug	Affected Drug	AUC	Cmax	CLR	CL/F	t1/2	Effect on PD	Reference							
+MDR1	1	MDR1	Breviscapine	Fexofenadine	0.86	0.98		1.03	0.99	ND	https://www.tandfonline.com/doi/pdf/10.1080/00498254.2020.1857467?needAccess=true							

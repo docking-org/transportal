@@ -1,0 +1,42 @@
+Transporter	Substrate	Km (_M)	Cell System	Reference
+OAT3	Pemetrexed	28.2	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9
+OAT3	Methotrexed	76.6	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9
+OAT3	Relebactam	ND	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/30891606/?from_single_result=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29&expanded_search_query=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29
+OAT3	Tazobactam	377	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/29277663/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=5&from_pos=7
+OAT3	Piperacillin	172	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/29277663/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=5&from_pos=7
+OAT3	Valsartan	3.58	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28281384/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=6
+OAT3	para-aminosalicylic acid	100	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8
+OAT3	Baricitinib	5.54	HEK-PEAK-OAT3	https://pubmed.ncbi.nlm.nih.gov/28749581/?from_single_result=Baricitinib+OAT3&expanded_search_query=Baricitinib+OAT3
+OAT3	Beraprost sodium	ND	S2-OAT3	https://pubmed.ncbi.nlm.nih.gov/26961540/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=1
+OAT3	Cilostazol	23.6	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24692216/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=13&from_pos=7
+OAT3	Amoxicillin	161.4	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/30012768/?from_single_result=30012768&expanded_search_query=30012768
+OAT3	Dimesna	390	HeLa-OAT3	https://pubmed.ncbi.nlm.nih.gov/21505084/?from_term=OAT1&from_filter=pubt.clinicaltrial&from_sort=date&from_page=2&from_pos=8
+OAT3	Hydrochlorothiazide	134	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418
+OAT3	Oseltamivir acid	ND	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28179375/
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

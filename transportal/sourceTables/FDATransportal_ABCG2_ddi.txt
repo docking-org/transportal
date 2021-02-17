@@ -1,0 +1,31 @@
+DDI	Implicated Transporter	Interacting Drug	Affected Drug	AUC	Cmax 	CLR	CL/F	t1/2	Effect on PD	Reference
+1	ABCG2/OATP1B1	Fostamatinib	Rosuvastatin							26748647
+2	ABCG2/OATP1B1	R406 (fostamatinib active metabolite)	Rosuvastatin	1.96	1.88	ND	ND	ND		26748647
+3	ABCG2	Eltrombopag	Rosuvastatin	1.55	2.03	ND	ND	ND		21434975
+4	ABCG2	cyclosporine	Rosuvastatin	7.1	10.6	ND	ND	ND		15289793
+5	ABCG2	Atazanavir + Ritonavir	Rosuvastatin	3.13	7	ND	ND	ND		18520949
+6	ABCG2	Lopinavir + Ritonavir	Rosuvastatin	2.1	4.7	ND	ND	ND		18176327
+7	ABCG2	Elvitegravir + Cobicistat	Rosuvastatin	1.38	1.89	ND	ND	ND		24550332
+8	ABCG2	Tipranavir + Ritonavir	Rosuvastatin	1.37	2.23	ND	ND	ND		19667285
+9	ABCG2	Curcumin	Sulfasalazine	3.2	3.72	ND	3.24	ND		22300367
+10	ABCG2	Pantoprazole	Sulfasalazine	1	1	ND	ND	1		19569219
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										

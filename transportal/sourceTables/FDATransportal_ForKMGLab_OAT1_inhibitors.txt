@@ -1,0 +1,239 @@
+Transporter	Inhibitor	IC50 (_M)	Ki (_M)	Substrate used	Cell System	Reference	
+OAT1	Valsartan	1.97		Bestatin	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT1	Telmisartan	0.44		Bestatin	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT1	Irbesartan	0.039		Bestatin	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT1	Eprosartan	0.13		Bestatin	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT1	Oxaprozin	0.891		6-CF	COS-7-OAT1	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT1	Mefenamic acid	1.085		6-CF	COS-7-OAT1	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT1	Ketorolac tromethamine	0.653		6-CF	COS-7-OAT1	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT1	Dotinurad	4.08		Urate	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31371478/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=6	
+OAT1	Benzbromarone	3.14		Urate	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31371478/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=6	
+OAT1	Lesinurad	6.99		Urate	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31371478/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=6	
+OAT1	Terflunomide	3.39		6-CF	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31341258/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=7	
+OAT1	Selexipag	1.4		PAH	CHO-OAT1	https://pubmed.ncbi.nlm.nih.gov/28737453/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=2	
+OAT1	Dantrolene	1.89		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT1	Nalidixic acid	110.6		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT1	Prazosin	4.89		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT1	Dantrolene	78.3		Glutarate	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT1	Glafenine	54.5		Glutarate	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT1	Nalidixic acid	10.8		Glutarate	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT1	Dabrafenib	6.9		6-CF	S2-OAT1	https://pubmed.ncbi.nlm.nih.gov/28320730/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=4	
+OAT1	Valsartan	14.8		Cidofovir	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28281384/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=6	
+OAT1	Probenecid	16.3		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Indomethacin	1.91		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Ibuprofen	5.1		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Diclofenac	1.8		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Naproxen	4.13		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Omeprazole	1.76		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Lansoprazole	4.13		para-aminosalicylic acid	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT1	Ciprofloxacin	35.1		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT1	Linezolid	31.1		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT1	para-aminosalicylic acid	37.6		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT1	Rifampin	48.1		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT1	Rifabutin	55.1		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT1	Rifapentine	61.8		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT1	Ketoconazole	5.7		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/26668209/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=8	
+OAT1	Cabotegravir	0.81		PAH	S2-OAT1	https://pubmed.ncbi.nlm.nih.gov/26340566/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=11&from_pos=3	
+OAT1	Chlorambucil	44.3		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/25477469/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=12&from_pos=5	
+OAT1	Raltegravir	108		Cidofovir	MDCKII-OAT1	https://pubmed.ncbi.nlm.nih.gov/24295974/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=14&from_pos=4	
+OAT1	Tenofovir	29.3		PAH	HeLa-OAT1	https://pubmed.ncbi.nlm.nih.gov/23856525/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=15&from_pos=2	
+OAT1	Adefovir	8.1		PAH	HeLa-OAT1	https://pubmed.ncbi.nlm.nih.gov/23856525/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=15&from_pos=2	
+OAT1	Probenecid		26	Dimesna	HeLa-OAT1	https://pubmed.ncbi.nlm.nih.gov/21505084/?from_term=OAT1&from_filter=pubt.clinicaltrial&from_sort=date&from_page=2&from_pos=8	
+OAT1	Hydrochlorothiazide	126		PAH	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418	
+OAT1	Probenecid	7.1		Hydrochlorothiazide	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418	
+OAT1	Valsartan	9		Hydrochlorothiazide	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

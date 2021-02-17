@@ -1,0 +1,371 @@
+Transporter	Inhibitor	Ki(µM)	IC50(µM)	Substrate used	Cell System	References
+MDR1	Dexniguldipine	2.3	NA	Calcein-AM	MDR1-expressing CEM/VLB100 cells	CHEMBL2073875
+MDR1	Bromocriptine	3.96	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Verapamil	3	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Amiodarone	5.78	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074434
+MDR1	Vinblastine	140	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Troleandomycin	483.3	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Daunorubicin	111	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Dihydroergotamine	1000	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Cyclosporine	0.02	NA	Verapamil	MDR1-expressing Sf9 vesicles	CHEMBL2073848
+MDR1	Fluconazole	400	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Elacridar Hydrochloride	0.44	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Dihydroergocryptine	360.5	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Cyclosporine	2.18	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Ketoconazole	24.9	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Etoposide	276	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Quinidine	1.5	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Ergocryptine	6.43	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Vinblastine	36.5	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Elacridar Hydrochloride	0.04	NA	Digoxin	MDR1-expressing Caco-2 cells	CHEMBL2074265
+MDR1	Quinidine	8.59	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Trimethoxybenzoylyohimbine	2.1	NA	Verapamil	MDR1-expressing CEM/VLB100 cells	CHEMBL2073918
+MDR1	Ergotamine	98.9	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Cyclosporine	1.3	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Erythromycin	1000	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Doxorubicin	8.5	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Ergocristine	42.8	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Ketoconazole	5.27	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Vinblastine	2.1	NA	Verapamil	MDR1-expressing CEM/VLB100 cells	CHEMBL2073918
+MDR1	Vincristine	213	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Clotrimazole	44	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Ergocornine	24.5	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Clotrimazole	29.92	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Valspodar	1.3	NA	Calcein-AM	CEM/VBL 100	CHEMBL2073875
+MDR1	Fluconazole	1000	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Reserpine	0.97	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Ergonovine	100	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Cyclosporine	4.66	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Celiprolol	313	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Daunorubicin	2.5	NA	Taxol	MDR1-expressing Caco-2 cells	CHEMBL2074126
+MDR1	Etoposide	768	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Troleandomycin	87.64	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Reserpine	12.2	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Cyclosporine	0.35	NA	Digoxin	MDR1-expressing Caco-2 cells	CHEMBL2074265
+MDR1	Miconazole	26.36	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Quinidine	0.43	NA	Digoxin	MDR1-expressing Caco-2 cells	CHEMBL2074265
+MDR1	Cyclosporine	1.8	NA	Calcein-AM	MDR1-expressing CEM/VLB100 cells	CHEMBL2073875
+MDR1	Ergocornine	105.2	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Ergocryptine	12.2	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Dihydroergocristine	16	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Ergocristine	13.33	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Ergotamine	14.25	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Dihydroergocryptine	19.82	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Dihydroergotamine	119.94	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Erythromycin	37.79	NA	Vinblastine	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Dihydroergocristine	511	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Miconazole	55.5	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Verapamil	0.88	NA	Digoxin	MDR1-expressing Caco-2 cells	CHEMBL2074265
+MDR1	Ergonovine	115.5	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Verapamil	15.1	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Bromocriptine	2.81	NA	Calcein-AM	MDR1-expressing LLC-PK1 cells	CHEMBL2074392
+MDR1	Reserpine	11.5	NA	Digoxin	MDR1-expressing MDCK cells	CHEMBL2074370
+MDR1	Vinblastine	15	NA	Digoxin	MDR1-expressing Caco-2 cells	CHEMBL2074265
+MDR1	Reserpine	2.31	NA	Digoxin	MDR1-expressing Caco-2 cells	CHEMBL2074265
+MDR1	Tariquidar	NA	0.2	Calcein-AM	MDR1 expressing Kb-V1 cells	CHEMBL1777737
+MDR1	Elacridar	NA	0.2	Calcein-AM	MDR1 expressing Kb-V1 cells	CHEMBL1777737
+MDR1	Cyclosporine A	NA	1.2	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL4130406
+MDR1	Csa	NA	0.9	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL3425464
+MDR1	Reversan	NA	6.8	Calcein-AM	KBV1 cells	CHEMBL3763047
+MDR1	Tariquidar	NA	0.2	Calcein-AM	KBV1 cells	CHEMBL3763047
+MDR1	Verapamil	NA	0.5	Calcein-AM	MDR1 expressing MDCK cells	CHEMBL1944510
+MDR1	Verapamil	NA	14	Calcein-AM	MDR1 expressing MDCK2 cells 	CHEMBL1138514
+MDR1	"Lsn335984, 42"	NA	0.9	Calcein-AM	MDR1 expressing MDCK2 cells 	CHEMBL1138514
+MDR1	Cyclosporine A	NA	9.3	Calcein-AM	MDR1 expressing MDCK2 cells 	CHEMBL1153836
+MDR1	Verapamil	NA	4.6	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1144049
+MDR1	Cyclosporin A	NA	1.4	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1144049
+MDR1	Cyclosporine A	NA	0.9	Calcein-AM	Doxorubicin-resistant A2780 adr cells	CHEMBL3091323
+MDR1	Progesterone	NA	47.9	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Diltiazem	NA	42.7	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Vinblastine	NA	10.5	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Imatinib	NA	7.2	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Nicardipine	NA	4.8	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Verampil	NA	4.6	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Reserpine	NA	3.2	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Cyclosporine A	NA	1.4	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Wk-X-50	NA	0.8	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1140531
+MDR1	Colchicine	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Cimetidine	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Digoxin	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Midazolam	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Etoposide	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Morphin	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Hydrocortisone	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Ranitidine (12)	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Dexamethasone	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Dpdpe	NA	50	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Erythromycin	NA	43	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Quinidine	NA	2.2	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Vinblastine	NA	2	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Miconazole	NA	2	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Saquinavir	NA	1.6	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Mibefradil	NA	1.5	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Ritonavir	NA	1.5	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Clotrimazole	NA	1.3	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Terfenadine	NA	1.1	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Ketoconazole	NA	1	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Nicardipine	NA	1	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Pimozide	NA	0.8	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Cyclosporin A	NA	0.5	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Verapamil	NA	0.4	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Nelfinavir	NA	0.4	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Astemizole	NA	0.3	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Ivermectin	NA	0.2	Calcein-AM	MDR1 expressing porcine PBCEC cells	CHEMBL1136781
+MDR1	Diltiazem	NA	49	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1152794
+MDR1	Verapamil	NA	5.2	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1152794
+MDR1	Cyclosporin A	NA	1.4	Calcein-AM	MDR1 expressing A2780/ADR cells	CHEMBL1152794
+MDR1	Digoxin	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ranitidine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Morphine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Vinblastine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Midazolam	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Hydrocortisone	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Cimetidine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Dpdpe	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Em-A	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Dexamethasone	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ritonavir	NA	12	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Saquinavir	NA	12	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Clotrimazole	NA	6.7	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Verapamil	NA	6.3	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Quinidine	NA	5.6	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ketoconazole	NA	4.8	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Miconazole	NA	3.5	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Nelfinavir	NA	3.4	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Pimozide	NA	2.9	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Nicardipine	NA	2.3	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Itraconazole	NA	2.1	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Mibefradil	NA	1.8	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Terfenadine	NA	1.4	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Astemizole	NA	1.3	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Csa	NA	0.8	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ivermectin	NA	0.1	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ranitidine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Etoposide (Vp-16)	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Midazolam	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Colchicine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Cimetidine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Sid11533002	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Enkephalin (Dpdpe)	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Vinblastine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Dexamethasone	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Hydrocortisone	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Morphine	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Erythromycin	NA	50	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Saquinavir	NA	12	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ritonavir	NA	12	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Clotrimazole	NA	6.7	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Verapamil	NA	6.3	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Quinidine	NA	5.6	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ketoconazole	NA	4.8	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Miconazole	NA	3.5	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Nelfinavir	NA	3.4	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Pimozide	NA	2.9	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Nicardipine	NA	2.3	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Itc	NA	2.1	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Mibefradil	NA	1.8	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Terfenadine	NA	1.4	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Astemizole	NA	1.3	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Ivermectin	NA	0.1	Calcein-AM	MDR1 expressing LLC-PK1 cells	CHEMBL1136781
+MDR1	Vinblastinc	NA	29	Calcein-AM	MDR1 expressing MDCK cells	CHEMBL2073750
+MDR1	Atorvastatin Lactone	NA	14	Calcein-AM	MDR1 expressing MDCK cells	CHEMBL2073750
+MDR1	Simvastatin Lactone	NA	10	Calcein-AM	MDR1 expressing MDCK cells	CHEMBL2073750
+MDR1	Lovastatin Lactone	NA	10	Calcein-AM	MDR1 expressing MDCK cells	CHEMBL2073750
+MDR1	Quinine	NA	167.8	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	56.1	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Emetine	NA	35.1	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	28.9	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	6.6	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	2.6	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	7; Csa	NA	1.7	Calcein-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	6.6	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1144049
+MDR1	Cyclosporin A	NA	1.4	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1144049
+MDR1	Verapamil	NA	1.7	Hoechst 33342	Hela cells	CHEMBL3217430
+MDR1	Progesterone	NA	47.9	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Diltiazem	NA	42.7	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Imatinib	NA	7.2	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Nicardipine	NA	4.8	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Verapamil	NA	4.6	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Reserpine	NA	3.2	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Cyclosporine	NA	1.4	Hoechst 33342	MDR1 expressing A2780/ADR cells	CHEMBL1156730
+MDR1	Amiodarone	NA	45.6	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Desmethylazelastine	NA	41.8	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Azelastine	NA	30	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Desethylamiodarone	NA	25.2	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Verapamil	NA	224	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2073826
+MDR1	Nifedipine	NA	472	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Diltiazem	NA	77.7	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Nitrendipine	NA	68.2	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Nisoldipine	NA	44.1	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Nilvadipine	NA	18	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Efonidipine	NA	13	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Barnidipine	NA	12.6	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Benidipine	NA	5	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Manidipine	NA	4.7	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Nicardipine	NA	4.5	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2074487
+MDR1	Alfentanil	NA	112	Digoxin	Caco-2 cells	CHEMBL2073764
+MDR1	Fentanyl	NA	6.5	Digoxin	Caco-2 cells	CHEMBL2073764
+MDR1	Sulfentanil	NA	4.5	Digoxin	Caco-2 cells	CHEMBL2073764
+MDR1	Loperamide	NA	2.5	Digoxin	Caco-2 cells	CHEMBL2073764
+MDR1	Indinavir	NA	44	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Saquinavir	NA	6.5	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Ritonavir	NA	3.8	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Quinidine	NA	2.2	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Verapamil	NA	2.1	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Cyclosporin A	NA	1.3	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Ketoconazole	NA	1.2	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Psc-833 (Valspodar)	NA	0.1	Digoxin	Caco-2 cells	CHEMBL2073925
+MDR1	Mibefradil	NA	1.6	Digoxin	Caco-2 cells	CHEMBL2073991
+MDR1	Piperine	NA	15.5	Digoxin	Caco-2 cells	CHEMBL2073998
+MDR1	Lansoprazole	NA	62.8	Digoxin	Caco-2 cells	CHEMBL2074158
+MDR1	Pantoprazole	NA	17.9	Digoxin	Caco-2 cells	CHEMBL2074158
+MDR1	Norverapamil	NA	0.3	Digoxin	Caco-2 cells	CHEMBL2074351
+MDR1	Mibefradil	NA	1.2	Digoxin	Caco-2 cells	CHEMBL2074392
+MDR1	Cyclosporin A	NA	3.7	Digoxin	MDR1 expressing LLC-PK1 cells	CHEMBL2073840
+MDR1	Sertindole	NA	6.5	Rhodamine 123	MDR1 expressing L5178 cells	CHEMBL1777785
+MDR1	Ebastine	NA	1.5	Rhodamine 123	MDR1 expressing L5178 cells	CHEMBL1777785
+MDR1	Aripiprazole	NA	0.8	Rhodamine 123	MDR1 expressing L5178 cells	CHEMBL1777785
+MDR1	Cyclosporine A	NA	0.7	Rhodamine 123	MDR1 expressing L5178 cells	CHEMBL1777785
+MDR1	Verapamil	NA	9.8	Rhodamine 123	MDR1 expressing MDCK cells	CHEMBL1681785
+MDR1	Lopinavir	NA	1.7	Rhodamine 123	MDR1 expressing Caco-2 cells	CHEMBL2073849
+MDR1	Progesterone	NA	192.2	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Lovastatin Lactone	NA	114.4	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinine	NA	87.6	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Troleandomycin	NA	86.3	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Taxol (Paclitaxel)	NA	70.2	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Felodipine	NA	60	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Simvastatin	NA	56.8	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Ketoconazole	NA	53.4	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Dipyridamole	NA	34.3	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinidine	NA	33.9	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Tamoxifen	NA	31.4	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Vinblastine	NA	29.5	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	25.8	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	15.1	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Trifluoperazine	NA	10.9	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Fluphenazine	NA	10.4	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Sid170465705	NA	9.6	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	N-Norgallopamil	NA	8.6	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Carvedilol	NA	6.6	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	6.5	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	3.9	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Terfenadine	NA	2.7	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Csa	NA	1.7	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clofazimine	NA	1	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nefazodone	NA	4.7	Rhodamine 123	NIH-3T3-G185 cells	CHEMBL2074564
+MDR1	Methadone	NA	7.5	Rhodamine 123	Caco-2 cells	CHEMBL2073747
+MDR1	Sirolimus	NA	1.3	Rhodamine 123	Caco-2 cells	CHEMBL2074450
+MDR1	Atorvastatin	NA	307	Rhodamine 123	MDR1 expressing 3T3-G185 cells	CHEMBL2073743
+MDR1	Lovastatin	NA	67	Rhodamine 123	MDR1 expressing 3T3-G185 cells	CHEMBL2073743
+MDR1	Simvastatin	NA	46	Rhodamine 123	MDR1 expressing 3T3-G185 cells	CHEMBL2073743
+MDR1	Niguldipine	NA	0.7	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Gpv005	NA	0.6	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Valspodar	NA	0.5	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Propafenone	NA	0.3	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Cyclosporin A	NA	0.1	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Elacridar	NA	0.1	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Zosuquidar	NA	0.1	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Gpv062	NA	0.1	Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	CHEMBL2057194
+MDR1	Cholesterol	NA	8.2	Daunorubicin	NIH-G185 cells	CHEMBL2073853
+MDR1	Nifedipine	NA	113	Daunorubicin	NIH-G185 cells	CHEMBL2073899
+MDR1	Spironolactone	NA	23.6	Daunorubicin	NIH-G185 cells	CHEMBL2073899
+MDR1	Nobiletin	NA	11.5	Daunorubicin	NIH-G185 cells	CHEMBL2073899
+MDR1	Valinomycin	NA	3.2	Daunorubicin	NIH-G185 cells	CHEMBL2073899
+MDR1	Gallopamil	NA	3.2	Daunorubicin	NIH-G185 cells	CHEMBL2073899
+MDR1	Norverapamil	NA	0.9	Daunorubicin	NIH-G185 cells	CHEMBL2073899
+MDR1	Tetraphenylphosphonium	NA	490	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Progesterone	NA	96.2	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Forskolin	NA	80.2	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Troleandomycin	NA	68.3	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Taxol (Paclitaxel)	NA	54	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Felodipine	NA	26.3	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Dipyridamole	NA	22.7	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinine	NA	22.6	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinidine	NA	18.8	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Vinblastine	NA	17.7	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Emetine	NA	9.2	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Trifluoperazine	NA	7.2	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Fluphenazine	NA	6.5	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Tamoxifen	NA	6.4	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Ketoconazole	NA	5.6	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Carvedilol	NA	4.6	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	4.2	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	3.8	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	N-Norgallopamil	NA	3.6	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	3.2	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Terfenadine	NA	1.8	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clofazimine	NA	0.6	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	0.5	Daunorubicin	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Amiodarone	NA	22.5	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Azelastine	NA	16	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Desethylamiodarone	NA	15.4	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Desmethylazelastine	NA	11.8	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074031
+MDR1	Amlodipine	NA	22	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Nicardipine	NA	17.5	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Benidipine	NA	9.5	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Barnidipine	NA	8.6	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Manidipine	NA	4.6	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Cepharanthin	NA	2.1	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074201
+MDR1	Nelfinavir	NA	1.4	Daunorubicin	Caco-2 cells	CHEMBL2073925
+MDR1	Efonidipine	NA	17.3	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Efonidipine	NA	20.6	Daunorubicin	MDR1 expressing LLC-PK1 cells	CHEMBL2074205
+MDR1	Atorvastatin	NA	271	Daunorubicin	MDR1 expressing 3T3-G185 cells	CHEMBL2073743
+MDR1	Lovastatin	NA	26	Daunorubicin	MDR1 expressing 3T3-G185 cells	CHEMBL2073743
+MDR1	Simvastatin	NA	9	Daunorubicin	MDR1 expressing 3T3-G185 cells	CHEMBL2073743
+MDR1	Ketoconazole	NA	5.6	Daunorubicin	G185 cells	CHEMBL2074078
+MDR1	Itraconazole	NA	1.7	Daunorubicin	G185 cells	CHEMBL2074078
+MDR1	Verapamil (R)	NA	2.6	paclitaxel	HCT15/CL02 cells	CHEMBL2073933
+MDR1	Verapamil (S)	NA	2.4	paclitaxel	HCT15/CL02 cells	CHEMBL2073933
+MDR1	Verapamil (R)	NA	5.5	paclitaxel	MES-SA/DX5 cells	CHEMBL2073933
+MDR1	Verapamil (S)	NA	5.3	paclitaxel	MES-SA/DX5 cells	CHEMBL2073933
+MDR1	Verapamil (Racemic)	NA	4.8	paclitaxel	MES-SA/DX5 cells	CHEMBL2073933
+MDR1	Verapamil	NA	446.5	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Emetine	NA	130.3	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinine	NA	112.4	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	86.7	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	14.6	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Cyclosporine	NA	2.4	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	2.1	Fluo-3-AM	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinine	NA	159.3	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Emetine	NA	115.6	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	50.2	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	42	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	7.1	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	6.1	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Cyclosporin A	NA	4.3	JC-1	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Tetraphenylphosphonium	NA	426.6	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Forskolin	NA	188.2	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Progesterone	NA	88.1	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Troleandomycin	NA	78.2	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinine	NA	74.4	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Taxol (Paclitaxel)	NA	53.9	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Lovastatin	NA	32.7	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Felodipine	NA	32.3	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Simvastatin	NA	26.1	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Dipyridamole	NA	23.7	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Ketoconazole	NA	23.4	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Vinblastine	NA	19.9	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Tamoxifen	NA	12.1	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	7.2	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Trifluoperazine	NA	6.3	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Carvedilol	NA	6	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Fluphenazine	NA	5.7	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	5.6	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	N-Norgallopamil	NA	4.9	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	4.7	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Terfenadine	NA	2.5	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Emetine	NA	2.4	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Itraconazole	NA	2.4	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	2.1	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Csa	NA	1.8	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clofazimine	NA	1.1	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinidine	NA	1	LDS-751	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Emetine	NA	207.1	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Quinine	NA	184.9	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Verapamil	NA	38.2	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Clarithromycin	NA	23.8	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Nicardipine	NA	11.7	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Reserpine	NA	5.3	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	7; Csa	NA	2.1	Tetramethylrosamine	NIH-3T3-G185 cells	CHEMBL2074145
+MDR1	Piperine	NA	74.1	Cyclosporine A	Caco-2 cells	CHEMBL2073998
+MDR1	Ritonavir	NA	15.7	Cyclosporine A	MDR1 expressing LLC-PK1 cells	CHEMBL2074038

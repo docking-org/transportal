@@ -144,7 +144,7 @@ rMATE1	Tetramethylammonium	50-2000	Inhibitor	5880			[14C] Paraquat			rMATE1-expr
 hOCT1	Zearalenone	0-1000	Inhibitor	0.62			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOCT1	Citreoverdine	0-1000	Inhibitor	1.7			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT3	Cyclopiazonic acid	0-1000	Inhibitor	1.9			[3H]ES			hOAT3-expressing S2 Cells	18319568
-hOAT3	α-Zearalenol	0-1000	Inhibitor	4.55			[3H]ES			hOAT3-expressing S2 Cells	18319568
+hOAT3	alpha-Zearalenol	0-1000	Inhibitor	4.55			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOAT1	Cyclopiazonic acid	0-1000	Inhibitor	6.59			[14C]PAH			hOAT1-expressing S2 Cells	18319568
 hOCT1	Cyclopiazonic acid	0-1000	Inhibitor	6.63			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT3	Citreoverdine	0-1000	Inhibitor	6.63			[3H]ES			hOAT3-expressing S2 Cells	18319568
@@ -154,31 +154,31 @@ hOAT3	Aflatoxin B1	0-1000	Inhibitor	13.1			[3H]ES			hOAT3-expressing S2 Cells	18
 hOAT1	Citreoverdine	0-1000	Inhibitor	16.9			[14C]PAH			hOAT1-expressing S2 Cells	18319568
 hOCT2	Citreoverdine	0-1000	Inhibitor	17.7			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOCT2	Zearalenone	0-1000	Inhibitor	24.8			[14C]TEA			hOCT2-expressing S2 Cells	18319568
-hOAT1	α-Zearalenol	0-1000	Inhibitor	28.4			[14C]PAH			hOAT1-expressing S2 Cells	18319568
-hOCT2	α-Zearalenol	0-1000	Inhibitor	34.3			[14C]TEA			hOCT2-expressing S2 Cells	18319568
+hOAT1	alpha-Zearalenol	0-1000	Inhibitor	28.4			[14C]PAH			hOAT1-expressing S2 Cells	18319568
+hOCT2	alpha-Zearalenol	0-1000	Inhibitor	34.3			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOAT1	Patulin	0-1000	Inhibitor	44.8			[14C]PAH			hOAT1-expressing S2 Cells	18319568
-hOCT1	α-Zearalenol	0-1000	Inhibitor	64.4			[14C]TEA			hOCT1-expressing S2 Cells	18319568
+hOCT1	alpha-Zearalenol	0-1000	Inhibitor	64.4			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT3	Gliotoxin	0-1000	Inhibitor	73.9			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOAT4	Cyclopiazonic acid	0-1000	Inhibitor	86.6			[3H]ES			hOAT4-expressing S2 Cells	18319568
 hOCT1	Aflatoxin B1	0-1000	Inhibitor	103			[3H]ES			hOCT1-expressing S2 Cells	18319568
 hOAT1	Gliotoxin	0-1000	Inhibitor	117			[14C]PAH			hOAT1-expressing S2 Cells	18319568
 hOCT2	Gliotoxin	0-1000	Inhibitor	117			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOCT2	Aflatoxin B1	0-1000	Inhibitor	121			[14C]TEA			hOCT2-expressing S2 Cells	18319568
-hOAT2	Cyclopiazonic acid	0-1000	Inhibitor	126			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
-hOAT4	α-Zearalenol	0-1000	Inhibitor	130			[3H]ES			hOAT4-expressing S2 Cells	18319568
+hOAT2	Cyclopiazonic acid	0-1000	Inhibitor	126			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
+hOAT4	alpha-Zearalenol	0-1000	Inhibitor	130			[3H]ES			hOAT4-expressing S2 Cells	18319568
 hOAT1	Zearalenone	0-1000	Inhibitor	147			[14C]PAH			hOAT1-expressing S2 Cells	18319568
-hOAT2	Zearalenone	0-1000	Inhibitor	149			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
-hOAT2	α-Zearalenol	0-1000	Inhibitor	180			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Zearalenone	0-1000	Inhibitor	149			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
+hOAT2	alpha-Zearalenol	0-1000	Inhibitor	180			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 hOAT3	Fumonisin B1	0-1000	Inhibitor	181			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOCT1	Patulin	0-1000	Inhibitor	584			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOAT1	Fumonisin B1	0-1000	Inhibitor	768			[14C]PAH			hOAT1-expressing S2 Cells	18319568
 hOAT4	Citreoverdine	0-1000	Inhibitor	823			[3H]ES			hOAT4-expressing S2 Cells	18319568
-hOAT2	Aflatoxin B1	0-1000	Inhibitor	1502			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Aflatoxin B1	0-1000	Inhibitor	1502			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 hOCT1	Fumonisin B1	0-1000	No interaction	>1000			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOCT1	Gliotoxin	0-1000	No interaction	>1000			[14C]TEA			hOCT1-expressing S2 Cells	18319568
 hOCT2	Cyclopiazonic acid	0-1000	No interaction	>1000			[14C]TEA			hOCT2-expressing S2 Cells	18319568
 hOCT2	Patulin	0-1000	No interaction	>1000			[14C]TEA			hOCT2-expressing S2 Cells	18319568
-hOAT2	Citreoverdine	0-1000	No interaction	>1000			[3H] PGF2α			hOAT2-expressing S2 Cells	18319568
+hOAT2	Citreoverdine	0-1000	No interaction	>1000			[3H] PGF2alpha			hOAT2-expressing S2 Cells	18319568
 hOAT3	Patulin	0-1000	No interaction	>1000			[3H]ES			hOAT3-expressing S2 Cells	18319568
 hOAT4	Aflatoxin B1	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
 hOAT4	Fumonisin B1	0-1000	No interaction	>1000			[3H]ES			hOAT4-expressing S2 Cells	18319568
@@ -193,52 +193,52 @@ P-gp	HgCl2	0.01-1	Inhibitor	1.69			Calcein			PLHC-1 Cells	22580103
 P-gp	As2O3	0.01-1	Inhibitor	2			Calcein			PLHC-1 Cells	22580103
 P-gp	K2Cr2O7	0.01-1	Inhibitor	2.83			Calcein			PLHC-1 Cells	22580103
 P-gp	CdCl2	0.01-1	Inhibitor	4.32			Calcein			PLHC-1 Cells	22580103
-BCRP	p,p’-DDD	0-100	Inhibitor	3			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	p,p’-DDT	0-100	Inhibitor	3.8			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-BCRP	p,p’-DDE	0-100	Inhibitor	4			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-BCRP	p,p’-DDT	0-100	Inhibitor	5			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-BCRP	Resmethrin	0-100	Inhibitor	5.6			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-BCRP	Endosulfan	0-100	Inhibitor	6.9			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-BCRP	Permethrin	0-100	Inhibitor	7			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	o,p’-DDT	0-100	Inhibitor	7.8			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-BCRP	o,p’-DDT	0-100	Inhibitor	10.4			ATPase assay	Measured in the presence and absence of orthovanadate	10 uM sulfasalazine	sf9 cell membranes	23169446
-P-gp	p,p’-DDD	0-100	Inhibitor	10.7			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
-P-gp	Endosulfan	0-100	Inhibitor	33.6			ATPase assay	Measured in the presence and absence of orthovanadate	40 uM Verapamil	sf9 cell membranes	23169446
+BCRP	p,p'-DDD	0-100	Inhibitor	3			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	p,p'-DDT	0-100	Inhibitor	3.8			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+BCRP	p,p'-DDE	0-100	Inhibitor	4			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+BCRP	p,p'-DDT	0-100	Inhibitor	5			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+BCRP	Resmethrin	0-100	Inhibitor	5.6			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+BCRP	Endosulfan	0-100	Inhibitor	6.9			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+BCRP	Permethrin	0-100	Inhibitor	7			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	o,p'-DDT	0-100	Inhibitor	7.8			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+BCRP	o,p'-DDT	0-100	Inhibitor	10.4			ATPase assay	Measured in the presence and absence of orthovanadate	10uM Sulfasalazine	sf9 cell membranes	23169446
+P-gp	p,p'-DDD	0-100	Inhibitor	10.7			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
+P-gp	Endosulfan	0-100	Inhibitor	33.6			ATPase assay	Measured in the presence and absence of orthovanadate	40uM Verapamil	sf9 cell membranes	23169446
 P-gp	TBBPA	1-100	Inhibitor	22.9			[3H]-NMQ			P-gp-expressing HEK293 membrane vesicles 	24014645
 MRP4	TBBPA	1-100	Inhibitor	24			[3H]-MTX			MRP4-expressing HEK293 membrane vesicles 	24014645
 P-gp	Tebufenozide	1	Inhibitor	21.5			Quinidine			LLC-PK1 and LLC-GA5-COL150 cells	26995013
 P-gp	Methoxyfenozide	1	Inhibitor	44.3			Quinidine			LLC-PK1 and LLC-GA5-COL150 cells	26995013
-P-gp	Endrin	0.001 - 333uM	Inhibitor	1.1			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	Mirex	0.001 - 333uM	Inhibitor	3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-145	0.001 - 333uM	Inhibitor	4.4			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-142	0.001 - 333uM	Inhibitor	6.1			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PBDE-209	0.001 - 333uM	Inhibitor	6.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-186	0.001 - 333uM	Inhibitor	6.9			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-170	0.001 - 333uM	Inhibitor	9.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-169	0.001 - 333uM	Inhibitor	9.7			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	Heptachlor	0.001 - 333uM	Inhibitor	10.4			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-187	0.001 - 333uM	Inhibitor	11.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-134	0.001 - 333uM	Inhibitor	12.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-146	0.001 - 333uM	Inhibitor	12.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-154	0.001 - 333uM	Inhibitor	14.3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-118	0.001 - 333uM	Inhibitor	15.9			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	Methoxychlor	0.001 - 333uM	Inhibitor	21.7			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	Dieldrin	0.001 - 333uM	Inhbitor	21.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-153	0.001 - 333uM	Inhibitor	21.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-152	0.001 - 333uM	Inhibitor	22			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PBDE-47	0.001 - 333uM	Inhibitor	22.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PBDE-100	0.001 - 333uM	Inhibitor	23.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-147	0.001 - 333uM	Inhibitor	23.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	4,4′-DDT	0.001 - 333uM	Inhibitor	25.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-168	0.001 - 333uM	Inhibitor	25.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	Aldrin	0.001 - 333uM	Inhibitor	26.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	alpha-HCH	0.001 - 333uM	Inhibitor	26.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	4,4′-DDE	0.001 - 333uM	Inhibitor	31.3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PBDE-49	0.001 - 333uM	Inhibitor	35.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PCB-161	0.001 - 333uM	Inhibitor	43.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	4,4′-DDD	0.001 - 333uM	Inhibitor	72.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	gamma-HCH (lindane)	0.001 - 333uM	Inhibitor	82.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
-P-gp	PFOA	0.001 - 333uM	Inhibitor	156.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	Endrin	0.001 - 333	Inhibitor	1.1			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	Mirex	0.001 - 333	Inhibitor	3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-145	0.001 - 333	Inhibitor	4.4			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-142	0.001 - 333	Inhibitor	6.1			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PBDE-209	0.001 - 333	Inhibitor	6.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-186	0.001 - 333	Inhibitor	6.9			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-170	0.001 - 333	Inhibitor	9.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-169	0.001 - 333	Inhibitor	9.7			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	Heptachlor	0.001 - 333	Inhibitor	10.4			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-187	0.001 - 333	Inhibitor	11.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-134	0.001 - 333	Inhibitor	12.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-146	0.001 - 333	Inhibitor	12.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-154	0.001 - 333	Inhibitor	14.3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-118	0.001 - 333	Inhibitor	15.9			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	Methoxychlor	0.001 - 333	Inhibitor	21.7			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	Dieldrin	0.001 - 333	Inhibitor	21.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-153	0.001 - 333	Inhibitor	21.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-152	0.001 - 333	Inhibitor	22			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PBDE-47	0.001 - 333	Inhibitor	22.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PBDE-100	0.001 - 333	Inhibitor	23.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-147	0.001 - 333	Inhibitor	23.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	4,4'-DDT	0.001 - 333	Inhibitor	25.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-168	0.001 - 333	Inhibitor	25.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	Aldrin	0.001 - 333	Inhibitor	26.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	alpha-HCH	0.001 - 333	Inhibitor	26.8			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	4,4'-DDE	0.001 - 333	Inhibitor	31.3			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PBDE-49	0.001 - 333	Inhibitor	35.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PCB-161	0.001 - 333	Inhibitor	43.2			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	4,4'-DDD	0.001 - 333	Inhibitor	72.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	gamma-HCH (lindane)	0.001 - 333	Inhibitor	82.6			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
+P-gp	PFOA	0.001 - 333	Inhibitor	156.5			ATPase assay	Basal activity not stimulated by presence of chemical	100uM Verapamil	purified, detergent-solubilized protein	27152359
 P-gp	23 nm silver nanoparticle	0.6-5 mg/mL	Inhibitor	2.9			Calcein			MDCKII-MDR1 cells	27376922
 P-gp	Silver Nitrate	0.6-5 mg/mL	Inhibitor	3.2			Calcein			MDCKII-MDR1 cells	27376922
 MATE2-K	Propamocarb	100	Inhibitor	4.6			4-DiASP			MATE2-K-expressing HEK cells	32421406

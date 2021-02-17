@@ -1,0 +1,5 @@
+pk	mouse Slco1a4	rat Slco1a1	rat Slc22a6	rat Slc22a8
+synonymFull	"Oa, Oat, Slc2, Oatp2, Oatp1a4, Slc21a5, AI785519"	"Oatp1, OATP-1, Slc21a1, Slc21a3"	"Oat1, Paht, Roat1, Orctl1"	"OCT3, Oat3, Roct"
+synonyms	"Oat, Oatp2, Oatp1a4, Slc21a5"	"Oatp1, OATP-1, Slc21a1, Slc21a3"	"Oat1, Paht, Roat1, Orctl1"	"OCT3, Oat3, Roct"
+species	Mus musculus	Rattus norvegicus	Rattus norvegicus	Rattus norvegicus
+ncbiID	28250	50572	29509	83500

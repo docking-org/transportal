@@ -1,0 +1,30 @@
+Transporter	DDI	Implicated Transporter	Interacting Drug	Affected Drug	AUC	Cmax	CLR	CL/F	t1/2	Effect on PD	Reference	Pubmed ID					
+OATP1B3	#REF!	"OATP1B1, OATP1B3"	Atazanavir/ ritonavir 	Glecaprevir 	6.53	4.51	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	#REF!	"OATP1B1, OATP1B3"	Atorvastatin	Glecaprevir/ pibrentasvir	8.28	22.00	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	1	OATP1B3	Cefiderocol	Rosuvastatin	1.18	1.25	ND	NR	1.21		https://www.ncbi.nlm.nih.gov/pubmed/29627897						
+OATP1B3	2	"OATP1B1, OATP1B3"	Clarithromycin 	Bosentan	3.73	3.82	ND	0.27	NR		https://pubmed.ncbi.nlm.nih.gov/23738582/	23738582					
+OATP1B3	4	"OATP1B1, OATP1B3,OATP2B1"	Clarithromycin 	Pravastatin	2.11	2.28	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/15518608/	15518608					
+OATP1B3	7	"OATP1B1, OATP1B3,OATP2B1"	Clarithromycin 	Simvastatin	9.95	7.14	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/15518608/	15518608					
+OATP1B3	8	"OATP1B1, OATP1B3,OATP2B1"	Clarithromycin 	Atorvastatin	4.45	5.38	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/15518608/	15518608					
+OATP1B3	3	"OATP1B1, OATP1B3,OATP2B1"	Cyclosporine 	Pitavastatin	4.60	ND	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30648735/	30648735					
+OATP1B3	5	"OATP1B1, OATP1B3,OATP2B1"	Cyclosporine 	Rosuvastatin	5.03	10.63	ND	ND	0.47		https://pubmed.ncbi.nlm.nih.gov/15289793/	15289793					
+OATP1B3	6	"OATP1B1, OATP1B3, P-gp, BCRP "	Cyclosporine 	Voxilaprevir 	9.73	14.29	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	7	"OATP1B1, OATP1B3, P-gp, and BCRP"	Cyclosporine 	Glecaprevir 	5.08	4.51	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	5	"OATP1B1, OATP1B3,OATP2B1"	Rifamin	Rosuvastatin	4.37	9.93	ND	ND	0.24		https://pubmed.ncbi.nlm.nih.gov/24617605/	24617605					
+OATP1B3	6	"OATP1B1, OATP1B3,OATP2B1"	Rifamin	Pitavastatin	5.70	4.36	ND	ND	0.75		https://pubmed.ncbi.nlm.nih.gov/24617605/	24617605					
+OATP1B3	7	"OATP1B1, OATP1B3 "	Rifampin 	Glecaprevir 	8.55	6.52	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	8	"OATP1B1, OATP1B3 "	Rifampin 	Voxilaprevir 	7.96	8.74	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	9	"BCRP, OATP1B1, OATP1B3"	Rosuvastatin 	Voxilaprevir 	7.35	17.96	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+OATP1B3	10	"OATP1B1, OATP1B3, P-gp, BCRP "	Cyclosporine 	Voxilaprevir 	9.73	14.29	ND	ND	ND		https://pubmed.ncbi.nlm.nih.gov/30442649/	30442649					
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+"As their names imply, victims are drugs directly affected by DDIs, while perpetrators are drugs that cause DDIs."																	

@@ -1,0 +1,243 @@
+Transporter	Inhibitor	IC50 (_M)	Ki (_M)	Substrate used	Cell System	Reference	
+OAT3	Valsartan	0.36		Bestatin	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT3	Telmisartan	1.38		Bestatin	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT3	Irbesartan	0.41		Bestatin	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT3	Eprosartan	3.8		Bestatin	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24338900/?from_single_result=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats&expanded_search_query=Inhibitory+Effect+of+Valsartan+on+the+Intestinal+Absorption+and+Renal+Excretion+of+Bestatin+in+Rats	
+OAT3	Loxoprofen	34.2		Pemetrexed	HEK-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9	
+OAT3	Ibuprofen	27.9		Pemetrexed	HEK-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9	
+OAT3	Pravastatin	76.3		Pemetrexed	HEK-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9	
+OAT3	Cefazolin	650		Pemetrexed	HEK-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9	
+OAT3	Nateglinide	0.86		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Oxaprozin	0.87		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Nitazoxanide	0.154		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Valsartan	0.25		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Ethacrynic acid	0.662		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Diflunisal	0.72		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Mefenamic acid	1.75		6-CF	COS-7-OAT3	https://pubmed.ncbi.nlm.nih.gov/22973893/?from_term=guofeng+you+library&from_sort=date&from_pos=2	
+OAT3	Dotinurad	1.32		Urate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31371478/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=6	
+OAT3	Benzbromarone	0.967		Urate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31371478/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=6	
+OAT3	Lesinurad	1.07		Urate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31371478/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=6	
+OAT3	Leflunomide	4.1		6-CF	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31341258/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=7	
+OAT3	Terflunomide	0.87		6-CF	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31341258/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=2&from_pos=7	
+OAT3	Probenecid	1.9		Relebactam	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/30891606/?from_single_result=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29&expanded_search_query=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29	
+OAT3	Cefazolin	99		Relebactam	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/30891606/?from_single_result=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29&expanded_search_query=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29	
+OAT3	Piperacillin	108		Relebactam	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/30891606/?from_single_result=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29&expanded_search_query=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29	
+OAT3	Linezolid	53		Relebactam	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/30891606/?from_single_result=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29&expanded_search_query=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29	
+OAT3	Selexipag	1.7		Furosemide	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28737453/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=2	
+OAT3	Dantrolene	0.3		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT3	Glafenine	5.31		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT3	Nalidixic acid	24.87		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT3	Prazosin	29.84		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28630284/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=6&from_pos=5	
+OAT3	Dabrafenib	3.4		6-CF	S2-OAT3	https://pubmed.ncbi.nlm.nih.gov/28320730/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=4	
+OAT3	Sacubitril	0.795		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28281384/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=6	
+OAT3	Valsartan	1.11		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28281384/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=6	
+OAT3	Epacadostat	21		Estrone-3-sulfate	HEK293-Flp-In-OAT3	https://pubmed.ncbi.nlm.nih.gov/28283500/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=5	
+OAT3	Probenecid	24.6		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Indomethacin	2.18		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Ibuprofen	1.98		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Diclofenac	2		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Naproxen	4.6		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Omeprazole	5.1		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Lansoprazole	2.18		para-aminosalicylic acid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28223391/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=7&from_pos=8	
+OAT3	Olaparib	18.4		Furosemide	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/27684210/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=8&from_pos=9	
+OAT3	Probenecid	4.41		Baricitinib	HEK-PEAK-OAT3	https://pubmed.ncbi.nlm.nih.gov/28749581/?from_single_result=Baricitinib+OAT3&expanded_search_query=Baricitinib+OAT3	
+OAT3	Ibuprofen	4.46		Baricitinib	HEK-PEAK-OAT3	https://pubmed.ncbi.nlm.nih.gov/28749581/?from_single_result=Baricitinib+OAT3&expanded_search_query=Baricitinib+OAT3	
+OAT3	Diclofenac	3.7		Baricitinib	HEK-PEAK-OAT3	https://pubmed.ncbi.nlm.nih.gov/28749581/?from_single_result=Baricitinib+OAT3&expanded_search_query=Baricitinib+OAT3	
+OAT3	Methotrexate	92.2		Baricitinib	HEK-PEAK-OAT3	https://pubmed.ncbi.nlm.nih.gov/28749581/?from_single_result=Baricitinib+OAT3&expanded_search_query=Baricitinib+OAT3	
+OAT3	Linezolid	21.9		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT3	para-aminosalicylic acid	24.6		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT3	Rifampin	30.2		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT3	Rifabutin	54		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT3	Rifapentine	52.9		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/27550354/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=9&from_pos=1	
+OAT3	Ketoconazole	0.86		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/26668209/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=8	
+OAT3	Cabotegravir	0.41		Estrone-3-sulfate	S2-OAT3	https://pubmed.ncbi.nlm.nih.gov/26340566/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=11&from_pos=3	
+OAT3	Chlorambucil	9.5		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/25477469/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=12&from_pos=5	
+OAT3	Bendamustin	0.8		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/25477469/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=12&from_pos=5	
+OAT3	Nilotinib	0.41		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/25165131/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=12&from_pos=8	
+OAT3	Aspirin	17	15	Cilostazol	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24692216/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=13&from_pos=7	
+OAT3	Benzylpenicillin	137	126	Cilostazol	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24692216/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=13&from_pos=7	
+OAT3	Raltegravir	18.8		Estrone-3-sulfate	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/24295974/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=14&from_pos=4	
+OAT3	Mycophenolic acid	4.3		Methotrexate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24036158/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=14&from_pos=8	
+OAT3	Ketoconazole	15.77		Rivaroxaban	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31506301/?from_single_result=31506301&expanded_search_query=31506301	
+OAT3	Probenecid	12.5		Isoniazid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/30012768/?from_single_result=30012768&expanded_search_query=30012768	
+OAT3	Ibuprofen	6.1		Isoniazid	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/30012768/?from_single_result=30012768&expanded_search_query=30012768	
+OAT3	Probenecid	14.4		Amoxicillin	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/30012768/?from_single_result=30012768&expanded_search_query=30012768	
+OAT3	Darulutamide	4.5		Furosemide	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31571146/?from_single_result=Drug%E2%80%93Drug+Interaction+Potential+of+Darolutamide%3A+In+Vitro+and+Clinical+Studies&expanded_search_query=Drug%E2%80%93Drug+Interaction+Potential+of+Darolutamide%3A+In+Vitro+and+Clinical+Studies	
+OAT3	Nitrofurantoin	6.23	5.86	Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/29307856/?from_single_result=29307856&expanded_search_query=29307856	
+OAT3	Sulfadiazine	6.65	3.98	Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/29307856/?from_single_result=29307856&expanded_search_query=29307856	
+OAT3	Metronidazole	6.51	6.48	Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/29307856/?from_single_result=29307856&expanded_search_query=29307856	
+OAT3	Esomeprazole	1.2		Methotrexate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28801980/?from_single_result=28801980&expanded_search_query=28801980	
+OAT3	Lansoprazole	0.4		Methotrexate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28801980/?from_single_result=28801980&expanded_search_query=28801980	
+OAT3	Omeprazole	5.5		Methotrexate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28801980/?from_single_result=28801980&expanded_search_query=28801980	
+OAT3	Rabeprazole	4.8		Methotrexate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28801980/?from_single_result=28801980&expanded_search_query=28801980	
+OAT3	Apixaban	289		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28456731/?from_term=Rivaroxaban+OAT3&from_sort=date&from_pos=2	
+OAT3	Rivaroxaban	8.2		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28456731/?from_term=Rivaroxaban+OAT3&from_sort=date&from_pos=2	
+OAT3	Ketoconazole	64		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/28456731/?from_term=Rivaroxaban+OAT3&from_sort=date&from_pos=2	
+OAT3	Probenecid		32	Dimesna	HeLa-OAT3	https://pubmed.ncbi.nlm.nih.gov/21505084/?from_term=OAT1&from_filter=pubt.clinicaltrial&from_sort=date&from_page=2&from_pos=8	
+OAT3	Hydrochlorothiazide	213		Estrone-3-sulfate	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418	
+OAT3	Probenecid	5.8		Hydrochlorothiazide	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418	
+OAT3	Valsartan	2.3		Hydrochlorothiazide	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/31322418/?from_single_result=31322418&expanded_search_query=31322418	
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

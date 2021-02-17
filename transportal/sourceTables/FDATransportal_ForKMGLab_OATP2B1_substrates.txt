@@ -1,0 +1,4 @@
+Transporter	Substrate	Km (_M)	Cell System	Reference
+SLCO2B1	Permetrexed	300 µM	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=22021325
+SLCO2B1	Permetrexed	348 µM	OATP2B1-expressing HeLa R1-11	https://www.ncbi.nlm.nih.gov/pubmed/?term=22021325
+SLCO2B1	Methotrexate	>300 µM	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=22021325

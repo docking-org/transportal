@@ -1,0 +1,17 @@
+Transporter	Substrate	Km (_M)	Cell System	Reference	
+OCTN1	Ergothioneine	21	HEK-hOCTN1	"Grundemann, 2005"	
+OCTN1	Ipratropium	444	HEK293-hOCTN1	"Nakamura, 2010"	
+OCTN1	Quinidine	ND	hOCTN1-expressing oocytes	"Yabuuchi, 1999"	
+OCTN1	Tetraethylammonium	195	OCTN1-expressing oocytes	"Yabuuchi, 1999"	
+OCTN1	Tetraethylammonium	1800	HEK293-hOCTN1	"Urban, 2007"	
+OCTN1	Verapamil	ND	hOCTN1-expressing oocytes	"Yabuuchi, 1999"	
+OCTN1	Amisulpride	180	HEK293-hOCTN1	https://link.springer.com/content/pdf/10.1208/s12248-014-9649-9.pdf	
+OCTN1	Ipratropium	444	HEK293-hOCTN1	https://pubs.acs.org/doi/pdf/10.1021/mp900206j	
+OCTN1	Ethambutol	336.8	HEK293-hOCTN1	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6125539/	
+OCTN1	Acetylcholine	1000	hOCTN1 reconstituted proteoliposome	https://www.sciencedirect.com/science/article/pii/S000527361100441X?via%3Dihub	
+OCTN1	Tetraethylammonium	770	hOCTN1 reconstituted proteoliposome	https://portlandpress.com/biochemj/article-lookup/doi/10.1042/BJ20110544	
+OCTN1	Cytarabine	1.95	HEK293-hOCTN1	https://cancerres.aacrjournals.org/content/canres/77/8/2102.full.pdf	
+OCTN1	L-carnitine	571	HEK293-hOCTN1	https://www.nature.com/articles/ng1339	
+OCTN1	Ergothioneine	38.4	HEK293-hOCTN1	https://onlinelibrary.wiley.com/doi/full/10.1111/jphp.12574	
+OCTN1	Gabapentin	417	HEK293-hOCTN1	https://onlinelibrary.wiley.com/doi/full/10.1111/jphp.12574	
+OCTN1	Sulpiride	250	MDCK-hOCTN1	https://onlinelibrary.wiley.com/doi/full/10.1002/bdd.2104	

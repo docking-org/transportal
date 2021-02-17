@@ -1,0 +1,34 @@
+Transporter	Tissues	Protein	Age (N= number of samples)	Source	Unit	Method	
+ABCG2	Kidney	0.48	Adult	31127606	Absolute abundance: pmol/mg total membrane protein	Quantitative proteomics using liquid chromatography tandem mass spectrometry with selective reaction monitoring	
+ABCG2	Kidney	0.41	Children	31127606	Absolute abundance: pmol/mg total membrane protein	Quantitative proteomics using liquid chromatography tandem mass spectrometry with selective reaction monitoring	
+ABCG2	duodenum	4.54	Adult (N=9)	30447067	Absolute abundance: fmol/mg	"Protein quantification by LC-MS/
+MS"	
+ABCG2	jejunum (from two sections)	24.4	Adult (N=9)	30447067	Absolute abundance: fmol/mg	"Protein quantification by LC-MS/
+MS"	
+ABCG2	ileum	32.51	Adult (N=9)	30447067	Absolute abundance: fmol/mg	"Protein quantification by LC-MS/
+MS"	
+ABCG2	colon	5.58	Adult (N=9)	30447067	Absolute abundance: fmol/mg	"Protein quantification by LC-MS/
+MS"	
+ABCG2	liver	BLQ	Adult (N=9)	30447067	Absolute abundance: fmol/mg	"Protein quantification by LC-MS/
+MS"	
+ABCG2	jejunum	0.59	Adult (N=4)	31959703	Absolute abundance: pmol/mg (Protein abundance is reported in picomoles per milligram of total mucosal protein)	"Protein quantification by LC-MS/
+MS"	
+ABCG2	ileum	0.45	Adult (N=12)	31959703	Absolute abundance: pmol/mg (Protein abundance is reported in picomoles per milligram of total mucosal protein)	"Protein quantification by LC-MS/
+MS"	
+ABCG2	brain microvascular endothelial cells (BMECs) region #1	5.28	Adult (N=30)	30673124	Absolute abundance: pmol/mg protein 	"Protein quantification by LC-MS/
+MS"	
+ABCG2	brain microvascular endothelial cells (BMECs) region #2	5.64	Adult (N=30)	30673124	Absolute abundance: pmol/mg protein 	"Protein quantification by LC-MS/
+MS"	
+ABCG2	brain homogenates region #1	20.12	Adult (N=30)	30673124	Absolute abundance: pmol/g brain tissue	"Protein quantification by LC-MS/
+MS"	
+ABCG2	brain homogenates region #2	14.2	Adult (N=30)	30673124	Absolute abundance: pmol/g brain tissue	"Protein quantification by LC-MS/
+MS"	
+							
+							
+							
+							
+							
+							
+							
+							
+			 				

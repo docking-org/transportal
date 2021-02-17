@@ -5,6 +5,7 @@ class Transporter(models.Model):
 	synonyms = models.CharField(max_length=100, verbose_name="limited list of synonyms")
 	synonymsFull = models.CharField(max_length=100, verbose_name="all synonyms from NCBI database")
 	ncbiID = models.CharField(max_length=10, null=True)
+	species = models.CharField(max_length=20)
 	def __unicode__(self):
 		return self.symbol
 

@@ -1,0 +1,75 @@
+Transporter	Inhibitor	IC50 (_M)	Ki (_M)	Substrate used	Cell System	Reference
+SLCO2B1	BSP	6		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Rifamycin SV	2.7		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Lopinavir	0.72		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Tipranavir	0.88		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Nelfinavir	0.9		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Ritonavir	2.2		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Atazanavir	3.6		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Saquinavir	4.6		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Darunavir	26		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Efavirenz	9.6		Estrone 3-sulfate	MDCK II-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=20507927
+SLCO2B1	Naringin	4.63		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Naringenin	49.2		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Hesperidine	1.92		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Hesperetin	67.6		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Phloridzin	23.2		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Phloretin	1.31		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Quercetin	9.47		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Kaempferol	21.3		Estrone 3-sulfate	OATP2B1-expressing oocytes	https://www.ncbi.nlm.nih.gov/pubmed/?term=23794501
+SLCO2B1	Raltitrexed		70 µM	Permetrexed	OATP2B1-expressing HeLa R1-11	https://www.ncbi.nlm.nih.gov/pubmed/?term=22021325
+SLCO2B1	Meloxicam	1.59		Estrone 3-sulfate	CHO-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=28562037
+SLCO2B1	Bicalutamide	12.9		Estrone 3-sulfate	CHO-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=28562037
+SLCO2B1	Ticagrelor	2.12		Estrone 3-sulfate	CHO-OATP2B1	https://www.ncbi.nlm.nih.gov/pubmed/?term=28562037
+SLCO2B1	Ronacaleret	12		Rosuvastatin	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/?term=27737931
+SLCO2B1	tropesin	0.03		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	erlotinib	0.07		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	atorvastatin	0.09		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	acemetacin	0.1		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	benzbromarone	0.1		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	fluvastatin	0.1		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	tipranavir	0.2		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	montelukast	0.38		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	ethinyl estradiol	1.3		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	irbesartan	1.3		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	zafirlukast	1.4		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	diethylstilbestrol	1.6		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	glimepiride	1.6		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	ezetimibe	1.8		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	lornoxicam	1.8		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	glyburide	1.9		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	dipyridamole	2		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	silymarin	2.5		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	estradiol	2.7		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	sulfasalazine	2.7		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	olsalazine	2.8		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	novobiocin	3.4		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	felodipine	3.5		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	reserpine	3.5		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	olmesartan	4.71		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	ticagrelor	4.8		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	ketoconazole	5.7		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	prasurgel	5.9		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	latanoprost	6.76		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	raloxifene	7.4		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	calcitriol	7.5		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	losartan potassium	8		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	simvastatin	9.4		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	lovastatin	9.92		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	levothyroxine	10.4		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	drospirenone	11.1		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	diflunisal	12		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	loratidine	13.3		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	celecoxib	13.7		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	norethindrone	14.2		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	doxazosin mesylatee	15		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	indomethacin	16.3		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	bicalutamide	16.3		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	quetiapine fumarate	19.1		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	diacerein	19.98		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	itraconazole	24.8		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	oxybutynin	27.79		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	desogestrel	30.3		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	flutamide	32.4		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	piroxicam	35.42		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
+SLCO2B1	vilazodone hydrochloride	47.1		Dibromofluorescein	HEK293-OATP2B1	https://www-ncbi-nlm-nih-gov.ucsf.idm.oclc.org/pubmed/31834804
