@@ -125,8 +125,19 @@ class InVitroInteraction(models.Model):
 	ec50 = models.CharField(max_length=10, blank=True, null=True)
 	km = models.CharField(max_length=10, blank=True, null=True)
 	reference = models.ForeignKey(Reference, blank=True, null=True)
-	stimConc = models.FloatField()
+	stimConcentration = models.FloatField()
 	def __unicode__(self):
 		return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
+
+class InVitroSubstrate(models.Model):
+        trans = models.ForeignKey(Transporter)
+        substrate = models.ForeignKey(Compound, related_name='affect_sub')
+        concentration = models.CharField(max_length=20)
+        system = models.TextField()
+	ic50 = models.CharField(max_length=10, blank=True, null=True)
+        km = models.CharField(max_length=10, blank=True, null=True)
+        reference = models.ForeignKey(Reference, blank=True, null=True)
+        def __unicode__(self):
+                return 'pk=' + self.pk + ','.join([str(self.transName),str(self.system)])
 
 
