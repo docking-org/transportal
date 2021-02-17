@@ -323,40 +323,40 @@
   "pk": "mouse Slco1a4",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "Oa, Oat, Slc2, Oatp2, Oatp1a4, Slc21a5, AI785519",
-   "synonyms": "Oat, Oatp2, Oatp1a4, Slc21a5",
-   "species": "Mus musculus",
-   "ncbiID": "28250"
+   "synonymsFull": "",
+   "synonyms": "",
+   "species": "",
+   "ncbiID": ""
   }
  },
  {
   "pk": "rat Slco1a1",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "Oatp1, OATP-1, Slc21a1, Slc21a3",
-   "synonyms": "Oatp1, OATP-1, Slc21a1, Slc21a3",
-   "species": "Rattus norvegicus",
-   "ncbiID": "50572"
+   "synonymsFull": "",
+   "synonyms": "",
+   "species": "",
+   "ncbiID": ""
   }
  },
  {
   "pk": "rat Slc22a6",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "Oat1, Paht, Roat1, Orctl1",
-   "synonyms": "Oat1, Paht, Roat1, Orctl1",
-   "species": "Rattus norvegicus",
-   "ncbiID": "29509"
+   "synonymsFull": "",
+   "synonyms": "",
+   "species": "",
+   "ncbiID": ""
   }
  },
  {
   "pk": "rat Slc22a8",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "OCT3, Oat3, Roct",
-   "synonyms": "OCT3, Oat3, Roct",
-   "species": "Rattus norvegicus",
-   "ncbiID": "83500"
+   "synonymsFull": "",
+   "synonyms": "",
+   "species": "",
+   "ncbiID": ""
   }
  },
  {
@@ -40261,8 +40261,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1992",
-   "authors": "Hollt"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40271,8 +40271,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2014",
-   "authors": "Georgantzopoulou"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40281,8 +40281,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2016",
-   "authors": "Georgantzopoulou"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40291,8 +40291,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2016",
-   "authors": "Nicklisch"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40301,8 +40301,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2010",
-   "authors": "Tsirulnikov"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40311,8 +40311,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2008",
-   "authors": "Oosterhuis"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40321,8 +40321,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2008",
-   "authors": "Tachampa"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40331,8 +40331,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2014",
-   "authors": "Halwachs"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40341,8 +40341,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2020",
-   "authors": "Gueniche"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40351,8 +40351,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2011",
-   "authors": "Palmeira"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40361,8 +40361,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2001",
-   "authors": "van der Sandt"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40371,8 +40371,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2009",
-   "authors": "Bakhiya"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40381,8 +40381,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2006",
-   "authors": "Lu"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40391,8 +40391,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2012",
-   "authors": "Torre"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40401,8 +40401,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1997",
-   "authors": "Bain"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40411,8 +40411,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2010",
-   "authors": "Janneh"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40421,8 +40421,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2007",
-   "authors": "Shitan"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40431,8 +40431,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2013",
-   "authors": "Dankers"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40441,8 +40441,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2002",
-   "authors": "Endo"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40451,8 +40451,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1996",
-   "authors": "Bain"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40461,8 +40461,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2001",
-   "authors": "Eneroth"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40471,8 +40471,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1998",
-   "authors": "Doppenschmitt"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40481,8 +40481,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2000",
-   "authors": "de Lange"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40491,8 +40491,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1996",
-   "authors": "Tiberghien"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40501,8 +40501,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2007",
-   "authors": "Sreeramulu"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40511,8 +40511,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2005",
-   "authors": "Shabbir"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40521,8 +40521,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2006",
-   "authors": "Pivcevic"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40531,8 +40531,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2006",
-   "authors": "Lecoeur"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40541,8 +40541,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2010",
-   "authors": "Ose"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40551,8 +40551,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2009",
-   "authors": "Li"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40561,8 +40561,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2013",
-   "authors": "Bircsak"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40571,8 +40571,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2007",
-   "authors": "Shi"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40581,8 +40581,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1998",
-   "authors": "Schuetz"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40591,8 +40591,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2009",
-   "authors": "Sergent"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40601,8 +40601,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2016",
-   "authors": "Miyata"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40611,8 +40611,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2000",
-   "authors": "Wandel"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40621,8 +40621,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1996",
-   "authors": "Huwyler"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40631,8 +40631,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2001",
-   "authors": "Leslie"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40641,8 +40641,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2010",
-   "authors": "Yang"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40651,8 +40651,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2009",
-   "authors": "Yang"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40661,8 +40661,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2008",
-   "authors": "Nakagawa"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40671,8 +40671,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2008",
-   "authors": "Zhou"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40681,8 +40681,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2013",
-   "authors": "Eldasher"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40691,8 +40691,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2003",
-   "authors": "Fehrenbach"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40701,8 +40701,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "1998",
-   "authors": "Alsenz"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40711,8 +40711,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2006",
-   "authors": "Anglicheau"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40721,8 +40721,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2007",
-   "authors": "Pawarode"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -40731,8 +40731,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "2007",
-   "authors": "Chen"
+   "year": "",
+   "authors": ""
   }
  },
  {
@@ -43882,7 +43882,7 @@
   "pk": "not_listed",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "Not_listed"
+   "name": "not_listed"
   }
  },
  {
@@ -67187,7 +67187,7 @@
    "km": "",
    "reference": "18433974",
    "system": "MDR1 expressing sf9 membranes/K562 MDR cells",
-   "affectedSubstrate": "Not_listed",
+   "affectedSubstrate": "not_listed",
    "subtype": "P",
    "interactingChemical": "acetochlor",
    "trans": "ABCB1",
@@ -67277,7 +67277,7 @@
    "km": "",
    "reference": "18433974",
    "system": "MDR1 expressing sf9 membranes/K562 MDR cells",
-   "affectedSubstrate": "Not_listed",
+   "affectedSubstrate": "not_listed",
    "subtype": "P",
    "interactingChemical": "alachlor",
    "trans": "ABCB1",
@@ -69491,7 +69491,7 @@
    "km": "",
    "reference": "18433974",
    "system": "MDR1 expressing sf9 membranes/K562 MDR cells",
-   "affectedSubstrate": "Not_listed",
+   "affectedSubstrate": "not_listed",
    "subtype": "P",
    "interactingChemical": "metazachlor",
    "trans": "ABCB1",
@@ -69563,7 +69563,7 @@
    "km": "",
    "reference": "18433974",
    "system": "MDR1 expressing sf9 membranes/K562 MDR cells",
-   "affectedSubstrate": "Not_listed",
+   "affectedSubstrate": "not_listed",
    "subtype": "P",
    "interactingChemical": "metolachlor",
    "trans": "ABCB1",
@@ -72531,7 +72531,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "44-ddt",
+   "substrate": "ac-dcvc",
    "trans": "ABCC2"
   }
  },
@@ -72544,7 +72544,7 @@
    "km": "",
    "reference": "16495352",
    "system": "MDCKII-OATP1B3 cells",
-   "substrate": "aldrin",
+   "substrate": "alpha_amanitin",
    "trans": "SLCO1B3"
   }
  },
@@ -72557,7 +72557,7 @@
    "km": "",
    "reference": "11242145",
    "system": "LLC-PK1 and Caco-2 cells",
-   "substrate": "amoxapine",
+   "substrate": "amprenavir",
    "trans": "ABCB1"
   }
  },
@@ -72570,7 +72570,7 @@
    "km": "",
    "reference": "19643159",
    "system": "hOAT3-expressing HEK293 cells",
-   "substrate": "amoxapine",
+   "substrate": "aristolochic_acid",
    "trans": "SLC22A8"
   }
  },
@@ -72583,7 +72583,7 @@
    "km": "",
    "reference": "19643159",
    "system": "hOAT4-expressing HEK293 cells",
-   "substrate": "amoxapine",
+   "substrate": "aristolochic_acid",
    "trans": "SLC22A11"
   }
  },
@@ -72596,7 +72596,7 @@
    "km": "",
    "reference": "19643159",
    "system": "hOAT1-expressing HEK293 cells",
-   "substrate": "amoxapine",
+   "substrate": "aristolochic_acid",
    "trans": "SLC22A6"
   }
  },
@@ -72609,7 +72609,7 @@
    "km": "",
    "reference": "19643159",
    "system": "hOAT3-expressing HEK293 cells",
-   "substrate": "amoxapine",
+   "substrate": "aristolochic_acid_i_(aai)",
    "trans": "SLC22A8"
   }
  },
@@ -72622,7 +72622,7 @@
    "km": "",
    "reference": "19643159",
    "system": "hOAT4-expressing HEK293 cells",
-   "substrate": "amoxapine",
+   "substrate": "aristolochic_acid_i_(aai)",
    "trans": "SLC22A11"
   }
  },
@@ -72635,7 +72635,7 @@
    "km": "",
    "reference": "19643159",
    "system": "hOAT1-expressing HEK293 cells",
-   "substrate": "amoxapine",
+   "substrate": "aristolochic_acid_i_(aai)",
    "trans": "SLC22A6"
   }
  },
@@ -72648,7 +72648,7 @@
    "km": "",
    "reference": "16479312",
    "system": "HEK293-OATP1B1 cells",
-   "substrate": "amoxapine",
+   "substrate": "arsenic",
    "trans": "SLCO1B1"
   }
  },
@@ -72661,7 +72661,7 @@
    "km": "",
    "reference": "17213652",
    "system": "KB3-1 cells",
-   "substrate": "bbp",
+   "substrate": "berberine",
    "trans": "ABCC1"
   }
  },
@@ -72674,7 +72674,7 @@
    "km": "",
    "reference": "12498733",
    "system": "LLC-PK1 and OK cells",
-   "substrate": "bsp",
+   "substrate": "cadmium_chloride",
    "trans": "ABCB1"
   }
  },
@@ -72687,7 +72687,7 @@
    "km": "",
    "reference": "11102735",
    "system": "LLC-PK1 Cells",
-   "substrate": "cimetidine",
+   "substrate": "ciprofloxacin",
    "trans": "ABCB1"
   }
  },
@@ -72700,7 +72700,7 @@
    "km": "",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "dieldrin",
+   "substrate": "digoxin",
    "trans": "mouse Slco1a4"
   }
  },
@@ -72713,7 +72713,7 @@
    "km": "",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "domperidone",
+   "substrate": "dpdpe",
    "trans": "mouse Slco1a4"
   }
  },
@@ -72739,7 +72739,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "erythromycin",
+   "substrate": "estradiol-17beta-d-glucuronide",
    "trans": "ABCC2"
   }
  },
@@ -72752,7 +72752,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "erythromycin",
+   "substrate": "eukotriene_c4",
    "trans": "ABCC2"
   }
  },
@@ -72765,7 +72765,7 @@
    "km": "",
    "reference": "11242145",
    "system": "LLC-PK1 and Caco-2 cells",
-   "substrate": "hydremethylnon",
+   "substrate": "indinavir",
    "trans": "ABCC1"
   }
  },
@@ -72778,7 +72778,7 @@
    "km": "",
    "reference": "11242145",
    "system": "LLC-PK1 and Caco-2 cells",
-   "substrate": "hydremethylnon",
+   "substrate": "indinavir",
    "trans": "ABCB1"
   }
  },
@@ -72791,7 +72791,7 @@
    "km": "",
    "reference": "8864518",
    "system": "Porcine brain capillary endothelial cells",
-   "substrate": "montelukast",
+   "substrate": "morphine-6-glucuronide",
    "trans": "ABCB1"
   }
  },
@@ -72804,7 +72804,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "montelukast",
+   "substrate": "n-acetyl-s-(11-dichloro-22-difluoroethyl)-l-cysteine",
    "trans": "ABCC2"
   }
  },
@@ -72817,7 +72817,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "montelukast",
+   "substrate": "n-acetyl-s-(11-difluoro-22-dichloroethyl)-l-cysteine",
    "trans": "ABCC2"
   }
  },
@@ -72830,7 +72830,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "montelukast",
+   "substrate": "n-acetyl-s-(22-dichlorovinyl)-l-cysteine",
    "trans": "ABCC2"
   }
  },
@@ -72843,7 +72843,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "montelukast",
+   "substrate": "n-acetyl-s-(4-bromobenzyl)-l-cysteine",
    "trans": "ABCC2"
   }
  },
@@ -72856,7 +72856,7 @@
    "km": "",
    "reference": "20060011",
    "system": "MRP2-expressing mPCT-A2 membrane vesicles",
-   "substrate": "montelukast",
+   "substrate": "n-acetyl-s-(4-chlorobenzyl)-l-cysteine",
    "trans": "ABCC2"
   }
  },
@@ -72869,7 +72869,7 @@
    "km": "",
    "reference": "11375986",
    "system": "MRP1-expressing HeLa membrane vesicles",
-   "substrate": "nigericin",
+   "substrate": "nnal",
    "trans": "ABCC1"
   }
  },
@@ -72882,7 +72882,7 @@
    "km": "",
    "reference": "11102735",
    "system": "LLC-PK1 Cells",
-   "substrate": "nigericin",
+   "substrate": "norfloxacin",
    "trans": "ABCB1"
   }
  },
@@ -72895,7 +72895,7 @@
    "km": "",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "op-ddt",
+   "substrate": "ochratoxin_a",
    "trans": "mouse Slco1a4"
   }
  },
@@ -72908,7 +72908,7 @@
    "km": "",
    "reference": "11102735",
    "system": "LLC-PK1 Cells",
-   "substrate": "pcp",
+   "substrate": "pefloxacin",
    "trans": "ABCB1"
   }
  },
@@ -72921,7 +72921,7 @@
    "km": "48",
    "reference": "18373647",
    "system": "hOAT1-expressing HEK293 cells",
-   "substrate": "perfluorooctanoate",
+   "substrate": "perfluorooctanoic_acid",
    "trans": "SLC22A6"
   }
  },
@@ -72934,7 +72934,7 @@
    "km": "49.1",
    "reference": "18373647",
    "system": "hOAT1-expressing HEK293 cells",
-   "substrate": "perfluorooctanoate",
+   "substrate": "perfluorooctanoic_acid",
    "trans": "SLC22A8"
   }
  },
@@ -72947,7 +72947,7 @@
    "km": "51",
    "reference": "18373647",
    "system": "rOAT1-expressing HEK293 cells",
-   "substrate": "perfluorooctanoate",
+   "substrate": "perfluorooctanoic_acid",
    "trans": "rat Slc22a6"
   }
  },
@@ -72973,7 +72973,7 @@
    "km": "39",
    "reference": "14530907",
    "system": "MDCKII-SLC21A6 cells",
-   "substrate": "pfos",
+   "substrate": "phalloidin",
    "trans": "SLCO1B1"
   }
  },
@@ -72986,7 +72986,7 @@
    "km": "",
    "reference": "14530907",
    "system": "MDCKII-ABCC2 cells",
-   "substrate": "pfos",
+   "substrate": "phalloidin",
    "trans": "ABCC2"
   }
  },
@@ -72999,7 +72999,7 @@
    "km": "8.3",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "phosalone",
+   "substrate": "pitavastatin",
    "trans": "mouse Slco1a4"
   }
  },
@@ -73012,7 +73012,7 @@
    "km": "",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "phosalone",
+   "substrate": "pravastatin",
    "trans": "mouse Slco1a4"
   }
  },
@@ -73038,7 +73038,7 @@
    "km": "",
    "reference": "9563072",
    "system": "Caco-2 cells",
-   "substrate": "rifamycin_sv",
+   "substrate": "ritonavir",
    "trans": "ABCB1"
   }
  },
@@ -73051,7 +73051,7 @@
    "km": "",
    "reference": "11242145",
    "system": "LLC-PK1 and Caco-2 cells",
-   "substrate": "rifamycin_sv",
+   "substrate": "ritonavir",
    "trans": "ABCC1"
   }
  },
@@ -73064,7 +73064,7 @@
    "km": "",
    "reference": "11242145",
    "system": "LLC-PK1 and Caco-2 cells",
-   "substrate": "rifamycin_sv",
+   "substrate": "ritonavir",
    "trans": "ABCB1"
   }
  },
@@ -73077,7 +73077,7 @@
    "km": "12",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "rifamycin_sv",
+   "substrate": "rosuvastatin",
    "trans": "mouse Slco1a4"
   }
  },
@@ -73090,7 +73090,7 @@
    "km": "",
    "reference": "9563072",
    "system": "Caco-2 cells",
-   "substrate": "rifamycin_sv",
+   "substrate": "saquinavir",
    "trans": "ABCB1"
   }
  },
@@ -73103,7 +73103,7 @@
    "km": "",
    "reference": "11102735",
    "system": "LLC-PK1 Cells",
-   "substrate": "sirolimus",
+   "substrate": "sparfloxicin",
    "trans": "ABCB1"
   }
  },
@@ -73116,7 +73116,7 @@
    "km": "40",
    "reference": "19833843",
    "system": "HEK293-OATP1A4 cells",
-   "substrate": "tacrolimus",
+   "substrate": "taurocholate",
    "trans": "mouse Slco1a4"
   }
  }

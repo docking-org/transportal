@@ -5,7 +5,7 @@ class Transporter(models.Model):
 	synonyms = models.CharField(max_length=100, verbose_name="limited list of synonyms")
 	synonymsFull = models.CharField(max_length=100, verbose_name="all synonyms from NCBI database")
 	ncbiID = models.CharField(max_length=10, null=True)
-	species = models.CharField(max_length=20)
+	species = models.CharField(max_length=20, null=True)
 	def __unicode__(self):
 		return self.symbol
 
@@ -115,9 +115,9 @@ class InVitroInteraction(models.Model):
 	TYPE_CHOICES = (('V', 'Vesicular Transport'),('A', 'ATPase Activity '),)
 	type = models.CharField(max_length=1, choices=TYPE_CHOICES)
 	interactingChemical = models.ForeignKey(Compound, related_name='interact_chem')
-	interactingConcentration = models.CharField(max_length=20)
+	interactingConcentration = models.CharField(max_length=20, null=True)
 	affectedSubstrate = models.ForeignKey(Compound, related_name='affect_sub')
-	system = models.TextField()
+	system = models.TextField(null=True)
 	SUBTYPE_CHOICES = (('B','Basal activity'),('P','Pre-stimulation caused activity'))
 	subtype = models.CharField(max_length=1, choices = SUBTYPE_CHOICES, blank=True)
 	basalATPaseActivityType = models.TextField(blank=True, null=True)
@@ -125,19 +125,19 @@ class InVitroInteraction(models.Model):
 	ec50 = models.CharField(max_length=10, blank=True, null=True)
 	km = models.CharField(max_length=10, blank=True, null=True)
 	reference = models.ForeignKey(Reference, blank=True, null=True)
-	stimConcentration = models.FloatField()
+	stimConcentration = models.CharField(max_length=15, null=True)
 	def __unicode__(self):
 		return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
 
 class InVitroSubstrate(models.Model):
-        trans = models.ForeignKey(Transporter)
-        substrate = models.ForeignKey(Compound, related_name='affect_sub')
-        concentration = models.CharField(max_length=20)
-        system = models.TextField()
+	trans = models.ForeignKey(Transporter)
+	substrate = models.ForeignKey(Compound)
+	concentration = models.CharField(max_length=20, null=True)
+	system = models.TextField(null=True)
 	ic50 = models.CharField(max_length=10, blank=True, null=True)
-        km = models.CharField(max_length=10, blank=True, null=True)
-        reference = models.ForeignKey(Reference, blank=True, null=True)
-        def __unicode__(self):
-                return 'pk=' + self.pk + ','.join([str(self.transName),str(self.system)])
+	km = models.CharField(max_length=10, blank=True, null=True)
+	reference = models.ForeignKey(Reference, blank=True, null=True)
+	def __unicode__(self):
+		return 'pk=' + self.pk + ','.join([str(self.transName),str(self.system)])
 
 

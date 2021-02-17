@@ -155,7 +155,7 @@ for line in reader:
     temp = line['ATPase stimulation']
     if temp != '':
         if temp == 'Not listed':
-            temp = 'Not_listed'
+            temp = 'not_listed'
         else:
             temp = temp.split()[-1]
         if not slugify(temp) in chemicals:
@@ -172,7 +172,7 @@ for line in reader:
             atpinfo = line['ATPase stimulation']
             if atpinfo == 'Not listed':
                 stimConc = 'Not listed'
-                affectChem = 'Not_listed'
+                affectChem = 'not_listed'
             else:
                 affectChem = slugify(atpinfo.split()[-1])
                 stimConc = atpinfo.split()[0][:-2]
@@ -201,7 +201,7 @@ for line in reader:
             atpinfo = line['ATPase stimulation']
             if atpinfo == 'Not listed':
                 stimConc = 'Not listed'
-                affectChem = 'Not_listed'
+                affectChem = 'not_listed'
             else:
                 affectChem = slugify(atpinfo.split()[-1])
                 stimConc = atpinfo.split()[0][:-2]
@@ -215,7 +215,7 @@ for line in reader:
         system = line['Cell/in vitro System']
         substrate = slugify(line['Chemical'])
         trans = line['Transporter']
-        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'concentration': conc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': interactChem, u'trans': trans,}})
+        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'concentration': conc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': substrate, u'trans': trans,}})
         numInVitroSubstrates += 1
         inVitroSubstratesEnd += 1
 
