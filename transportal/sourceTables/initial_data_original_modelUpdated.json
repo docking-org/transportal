@@ -43181,6 +43181,20 @@
   }
  },
  {
+  "pk": "talinolol",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Talinolol"
+  }
+ },
+ {
+  "pk": "N/A",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Not applicable"
+  }
+ },
+ {
   "pk": 1,
   "model": "transporterDatabase.substrate",
   "fields": {

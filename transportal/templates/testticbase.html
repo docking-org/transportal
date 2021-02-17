@@ -108,10 +108,10 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
     </tr>
     {% for instance in inVitroATPPre %}
         <tr>
-        <td scope="row"><a href="../../compounds/{{instance.interact_chem.slugName}}/">{{instance.interact_chem.name}}</a></td>
-        <td>{{instance.get_system_display}}</td>
-        <td scope="row"><a href="../../compounds/{{instance.affect_sub.slugName}}/">{{instance.affect_sub.name}}</a></td>
-        <td>{{instance.stimConc}}</td>
+        <td scope="row"><a href="../../compounds/{{instance.interactingChemical.slugName}}/">{{instance.interactingChemical.name}}</a></td>
+        <td>{{instance.system}}</td>
+        <td scope="row"><a href="../../compounds/{{instance.affectedSubstrate.slugName}}/">{{instance.affectedSubstrate.name}}</a></td>
+        <td>{{instance.stimConcentration}}</td>
         {% if instance.ic50 %}
             <td>{{instance.ic50}}</td>
         {% else %}

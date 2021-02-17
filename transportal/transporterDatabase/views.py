@@ -31,12 +31,12 @@ def transporter(request, transporter_id):
 #Build DDI table
         ddiInfo = {}
         for x in ddi:
-                temp = x.pk
+                temp = str(x.pk)
                 build = [x]
                 build.append(Compound.objects.filter(interact_drug__pk=x.pk))
                 build.append(Compound.objects.filter(affect_drug__pk=x.pk))
-                ddiInfo[x.pk] = build
-        ddiInfo = ddiInfo.values()
+                ddiInfo[temp] = build
+        ddiInfo = list(ddiInfo.values())
         ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
 #Build expression level table
         transporter = Transporter.objects.get(pk=transporter_id)
@@ -47,8 +47,8 @@ def transporter(request, transporter_id):
         pmt = {}
 #For PMT data, calculate averages across all samples
         for x in expressLevelsPMT:
-                temp = x.organ
-                if not pmt.has_key(temp):
+                temp = str(x.organ)
+                if not temp in pmt:
                         pmt[temp] = [0,0.0]
                 pmt[temp][0] += 1
                 pmt[temp][1] += x.value
@@ -58,12 +58,12 @@ def transporter(request, transporter_id):
         if len(expressLevelsNishi) >0:
                 for x in range(len(expressLevelsNishi)):
                         buildExp.append([expressLevelsNishi[x].organ, expressLevelsNishi[x].experiment, expressLevelsNishi[x].value, expressLevelsNishi[x].reference])
-                temp = pmt.keys()
+                temp = list(pmt.keys())
                 temp.sort()
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
         elif len(expressLevelsPMT) > 0:
-                temp = pmt.keys()
+                temp = list(pmt.keys())
                 temp.sort(key=str)
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
@@ -358,7 +358,7 @@ def compound(request, compound_id):
                 build.append(Compound.objects.filter(interact_drug__pk=x.pk))
                 build.append(Compound.objects.filter(affect_drug__pk=x.pk))
                 ddiInfo[x.pk] = build
-        ddiInfo = ddiInfo.values()
+        ddiInfo = list(ddiInfo.values())
         ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
         compound = Compound.objects.get(slugName=compound_id)
         return render_to_response('compound.html', {'compound': compound, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo})
@@ -387,6 +387,6 @@ def search(request):
         return render_to_response('search.html', {'organs':organs, 'trans':trans, 'comps':comps})
 
 def testticbase(request, transporter_id):
-        inVitroATPPre = InVitroInteraction.objects.filter(trans=transporter_id, type='A', subtype='P').order_by('stimConc','interactingChemical','affectedSubstrate')
+        inVitroATPPre = InVitroInteraction.objects.filter(trans=transporter_id, type='A', subtype='P').order_by('stimConcentration','interactingChemical','affectedSubstrate')
         transporter = Transporter.objects.get(pk=transporter_id)
         return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroATPPre':inVitroATPPre})
