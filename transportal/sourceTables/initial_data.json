@@ -323,50 +323,50 @@
   "pk": "mouse Slco1a4",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "",
-   "synonyms": "",
-   "species": "",
-   "ncbiID": ""
+   "synonymsFull": "Oa, Oat, Slc2, Oatp2, Oatp1a4, Slc21a5, AI785519",
+   "synonyms": "Oat, Oatp2, Oatp1a4, Slc21a5",
+   "species": "Mus musculus",
+   "ncbiID": "28250"
   }
  },
  {
   "pk": "rat Slco1a1",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "",
-   "synonyms": "",
-   "species": "",
-   "ncbiID": ""
+   "synonymsFull": "Oatp1, OATP-1, Slc21a1, Slc21a3",
+   "synonyms": "Oatp1, OATP-1, Slc21a1, Slc21a3",
+   "species": "Rattus norvegicus",
+   "ncbiID": "50572"
   }
  },
  {
   "pk": "rat Slc22a6",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "",
-   "synonyms": "",
-   "species": "",
-   "ncbiID": ""
+   "synonymsFull": "Oat1, Paht, Roat1, Orctl1",
+   "synonyms": "Oat1, Paht, Roat1, Orctl1",
+   "species": "Rattus norvegicus",
+   "ncbiID": "29509"
   }
  },
  {
   "pk": "rat Slc22a8",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "",
-   "synonyms": "",
-   "species": "",
-   "ncbiID": ""
+   "synonymsFull": "OCT3, Oat3, Roct",
+   "synonyms": "OCT3, Oat3, Roct",
+   "species": "Rattus norvegicus",
+   "ncbiID": "83500"
   }
  },
  {
   "pk": "rat Slc47a1",
   "model": "transporterDatabase.transporter",
   "fields": {
-   "synonymsFull": "",
-   "synonyms": "",
-   "species": "",
-   "ncbiID": ""
+   "synonymsFull": "MATE1, RGD1311123",
+   "synonyms": "MATE1",
+   "species": "Rattus norvegicus",
+   "ncbiID": "360539"
   }
  },
  {
@@ -40261,8 +40261,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1992",
+   "authors": "Hollt"
   }
  },
  {
@@ -40271,8 +40271,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2014",
+   "authors": "Georgantzopoulou"
   }
  },
  {
@@ -40281,8 +40281,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2016",
+   "authors": "Georgantzopoulou"
   }
  },
  {
@@ -40291,8 +40291,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2016",
+   "authors": "Nicklisch"
   }
  },
  {
@@ -40301,8 +40301,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2010",
+   "authors": "Tsirulnikov"
   }
  },
  {
@@ -40311,8 +40311,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2008",
+   "authors": "Oosterhuis"
   }
  },
  {
@@ -40321,8 +40321,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2008",
+   "authors": "Tachampa"
   }
  },
  {
@@ -40331,8 +40331,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2014",
+   "authors": "Halwachs"
   }
  },
  {
@@ -40341,8 +40341,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2020",
+   "authors": "Gueniche"
   }
  },
  {
@@ -40351,8 +40351,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2011",
+   "authors": "Palmeira"
   }
  },
  {
@@ -40361,8 +40361,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2001",
+   "authors": "van der Sandt"
   }
  },
  {
@@ -40371,8 +40371,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2009",
+   "authors": "Bakhiya"
   }
  },
  {
@@ -40381,8 +40381,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2006",
+   "authors": "Lu"
   }
  },
  {
@@ -40391,8 +40391,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2012",
+   "authors": "Torre"
   }
  },
  {
@@ -40401,8 +40401,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1997",
+   "authors": "Bain"
   }
  },
  {
@@ -40411,8 +40411,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2010",
+   "authors": "Janneh"
   }
  },
  {
@@ -40421,8 +40421,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2007",
+   "authors": "Shitan"
   }
  },
  {
@@ -40431,8 +40431,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2013",
+   "authors": "Dankers"
   }
  },
  {
@@ -40441,8 +40441,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2002",
+   "authors": "Endo"
   }
  },
  {
@@ -40451,8 +40451,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1996",
+   "authors": "Bain"
   }
  },
  {
@@ -40461,8 +40461,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2001",
+   "authors": "Eneroth"
   }
  },
  {
@@ -40471,8 +40471,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1998",
+   "authors": "Doppenschmitt"
   }
  },
  {
@@ -40481,8 +40481,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2000",
+   "authors": "de Lange"
   }
  },
  {
@@ -40491,8 +40491,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1996",
+   "authors": "Tiberghien"
   }
  },
  {
@@ -40501,8 +40501,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2007",
+   "authors": "Sreeramulu"
   }
  },
  {
@@ -40511,8 +40511,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2005",
+   "authors": "Shabbir"
   }
  },
  {
@@ -40521,8 +40521,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2006",
+   "authors": "Pivcevic"
   }
  },
  {
@@ -40531,8 +40531,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2006",
+   "authors": "Lecoeur"
   }
  },
  {
@@ -40541,8 +40541,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2010",
+   "authors": "Ose"
   }
  },
  {
@@ -40551,8 +40551,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2009",
+   "authors": "Li"
   }
  },
  {
@@ -40561,8 +40561,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2013",
+   "authors": "Bircsak"
   }
  },
  {
@@ -40571,8 +40571,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2007",
+   "authors": "Shi"
   }
  },
  {
@@ -40581,8 +40581,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1998",
+   "authors": "Schuetz"
   }
  },
  {
@@ -40591,8 +40591,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2009",
+   "authors": "Sergent"
   }
  },
  {
@@ -40601,8 +40601,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2016",
+   "authors": "Miyata"
   }
  },
  {
@@ -40611,8 +40611,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2000",
+   "authors": "Wandel"
   }
  },
  {
@@ -40621,8 +40621,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1996",
+   "authors": "Huwyler"
   }
  },
  {
@@ -40631,8 +40631,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2001",
+   "authors": "Leslie"
   }
  },
  {
@@ -40641,8 +40641,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2010",
+   "authors": "Yang"
   }
  },
  {
@@ -40651,8 +40651,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2009",
+   "authors": "Yang"
   }
  },
  {
@@ -40661,8 +40661,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2008",
+   "authors": "Nakagawa"
   }
  },
  {
@@ -40671,8 +40671,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2008",
+   "authors": "Zhou"
   }
  },
  {
@@ -40681,8 +40681,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2013",
+   "authors": "Eldasher"
   }
  },
  {
@@ -40691,8 +40691,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2003",
+   "authors": "Fehrenbach"
   }
  },
  {
@@ -40701,8 +40701,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "1998",
+   "authors": "Alsenz"
   }
  },
  {
@@ -40711,8 +40711,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2006",
+   "authors": "Anglicheau"
   }
  },
  {
@@ -40721,8 +40721,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2007",
+   "authors": "Pawarode"
   }
  },
  {
@@ -40731,8 +40731,8 @@
   "fields": {
    "otherLink": null,
    "otherText": null,
-   "year": "",
-   "authors": ""
+   "year": "2007",
+   "authors": "Chen"
   }
  },
  {
