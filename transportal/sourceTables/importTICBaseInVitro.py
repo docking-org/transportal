@@ -20,7 +20,7 @@ def slugify(text):
             text = text.replace(c, '')
     # Strip leading, trailing and multiple whitespace, convert remaining whitespace to _
     text = u'_'.join(text.split())
-    return text.capitalize()
+    return text.lower()
 
 
 originalData = sys.argv[1]
@@ -172,7 +172,7 @@ for line in reader:
             atpinfo = line['ATPase stimulation']
             if atpinfo == 'Not listed':
                 stimConc = 'Not listed'
-                affectChem = 'notlisted'
+                affectChem = 'Not_listed'
             else:
                 affectChem = slugify(atpinfo.split()[-1])
                 stimConc = atpinfo.split()[0][:-2]
@@ -208,14 +208,14 @@ for line in reader:
         else:
             affectChem = slugify(line['Substrate used/ATPase assay/Cell-viability assay'])
             stimConc = None
-        intConc = line['Chemical Concentration (uM)']            
+        conc = line['Chemical Concentration (uM)']            
         ic50 = line['IC50 (uM)']
         km = line['Km (uM)']
         ref = line['Reference (Pubmed ID)']
         system = line['Cell/in vitro System']
         substrate = slugify(line['Chemical'])
         trans = line['Transporter']
-        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'interactingConcentration': intConc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': interactChem, u'trans': trans,}})
+        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'concentration': conc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': interactChem, u'trans': trans,}})
         numInVitroSubstrates += 1
         inVitroSubstratesEnd += 1
 
