@@ -26,6 +26,8 @@ def slugify(text):
 originalData = sys.argv[1]
 newData = sys.argv[2]
 outputfilename = sys.argv[3]
+additionalTransFile = sys.argv[4]
+additionalReferenceFile = sys.argv[5]
 
 infile = open(originalData)
 data = json.load(infile)
@@ -107,6 +109,18 @@ if inVitroInteractionsEnd == 0:
 if inVitroSubstratesEnd == 0:
     inVitroSubstratesEnd = index
 
+additionalTransInfo = {}
+infile = open(additionalTransFile)
+reader = csv.DictReader(infile,delimiter = '\t')
+for line in reader:
+    additionalTransInfo[line['pk']] = line
+
+additionalRefsInfo = {}
+infile = open(additionalReferenceFile)
+reader = csv.DictReader(infile,delimiter = '\t')
+for line in reader:
+    additionalRefsInfo[line['pubmed']] = line
+
 infile = open(newData)
 reader = csv.DictReader(infile,delimiter = '\t')
 for line in reader:
@@ -118,8 +132,19 @@ for line in reader:
     if line['Transporter'] == '':
         continue
     if not line['Transporter'] in transporters:
-        data.insert(transportersEnd+1,{u'pk': line['Transporter'], u'model': u'transporterDatabase.transporter', u'fields': {u'synonymsFull': u'', u'synonyms': u'', u'species': u'', u'ncbiID': u''}})
-        transporters.add(line['Transporter'])
+        trans = line['Transporter']
+        if trans in additionalTransInfo:
+            syns = additionalTransInfo[trans]['synonyms']
+            synsFull = additionalTransInfo[trans]['synonymFull']
+            species = additionalTransInfo[trans]['species']
+            ncbiid = additionalTransInfo[trans]['ncbiID']
+        else:
+            syns = u''
+            synsFull = u''
+            species = u''
+            ncbiid = u''
+        data.insert(transportersEnd+1,{u'pk': trans, u'model': u'transporterDatabase.transporter', u'fields': {u'synonymsFull': synsFull, u'synonyms': syns, u'species': species, u'ncbiID': ncbiid}})
+        transporters.add(trans)
         transportersEnd += 1
         referencesEnd += 1
         chemicalsEnd += 1
@@ -127,12 +152,20 @@ for line in reader:
         inVitroSubstratesEnd += 1
     if (not line['Reference (Pubmed ID)'] in references) and (not line['Reference (Pubmed ID)'] in referencesNonPubmed):
         temp = line['Reference (Pubmed ID)']
+        if temp in additionalRefsInfo:
+            author = additionalRefsInfo[temp]['author']
+            year = additionalRefsInfo[temp]['year']
+            otherText = additionalRefsInfo[temp]['otherText']
+        else:
+            author = u''
+            year = u''
+            otherText = u''
         if temp.isdigit():
-            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': None, u'otherText': None, u'year': u'', u'authors': u''}})
+            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': None, u'otherText': otherText, u'year': year, u'authors': author}})
             references.add(temp)
         else:
             numReferencesNonPubmed += 1
-            data.insert(referencesEnd+1,{u'pk': 'NA'+str(numReferencesNonPubmed), u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': temp, u'otherText': None, u'year': None, u'authors': None}})
+            data.insert(referencesEnd+1,{u'pk': 'NA'+str(numReferencesNonPubmed), u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': temp, u'otherText': otherText, u'year': year, u'authors': author}})
             referencesNonPubmed[temp] = 'NA'+str(numReferencesNonPubmed)        
         referencesEnd += 1
         chemicalsEnd += 1
