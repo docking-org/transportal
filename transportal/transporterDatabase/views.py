@@ -387,6 +387,7 @@ def search(request):
         return render_to_response('search.html', {'organs':organs, 'trans':trans, 'comps':comps})
 
 def testticbase(request, transporter_id):
+        inVitroVesicular = InVitroInteraction.objects.filter(trans=transporter_id, type='V').order_by('stimConcentration','interactingChemical','affectedSubstrate')
         inVitroATPPre = InVitroInteraction.objects.filter(trans=transporter_id, type='A', subtype='P').order_by('stimConcentration','interactingChemical','affectedSubstrate')
         transporter = Transporter.objects.get(pk=transporter_id)
-        return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroATPPre':inVitroATPPre})
+        return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroVesicular':inVitroVesicular, 'inVitroATPPre':inVitroATPPre})
