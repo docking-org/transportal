@@ -90,6 +90,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 <p style="margin-left:20pt">Synonyms: {{transporter.synonymsFull}}<br /><br />
 <a href="http://www.ncbi.nlm.nih.gov/gene?term={{transporter.ncbiID}}">Entrez Gene Link</a></p>
 <a href="#InVitInt"><i>In vitro</i> Interactions</a><br />
+<a href="#InVitSub"><i>In vitro</i> Substrates</a><br />
 <br />
 <h2><a name="InVitInt"><i>In vitro</i> Interactions</a></h2>
 <h3>Vesicular Transport experiments</h3>
@@ -184,7 +185,49 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 {% endif %}
 <br />
 <a href="#content">Back to top</a>
+<h2><a name="InVitSub"><i>In vitro</i> Substrates</a></h2>
+{% if inVitroSubstrate %}
+    <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
+    <tr style="background-color:#FFAD5C">
+    <th scope="col">Environmental chemical</th>
+    <th>System (Cells, Liposomes, IMV)</th>
+    <th>IC50 (uM)</th>
+    <th>EC50 (uM)</th>
+    <th>Km (uM)</th>
+    <th>Reference</th>
+    </tr>
+    {% for instance in inVitroSubstrate %}
+        <tr>
+        <td scope="row"><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a></td>
+        <td>{{instance.system}}</td>
+        {% if instance.ic50 %}
+            <td>{{instance.ic50}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.ec50 %}
+            <td>{{instance.ec50}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.km %}
+            <td>{{instance.km}}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        {% if instance.reference %}
+            <td>{% if not instance.reference.otherText %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{instance.reference.pmid}}">{{instance.reference.authors}}, {{instance.reference.year}}</a>{% else %}{% if instance.reference.otherLink %}<a href="{{instance.reference.otherLink}}">{{instance.reference.otherText}}</a>{% else %}{{instance.reference.otherText}}{% endif %}{% endif %}</td>
+        {% else %}
+            <td />
+        {% endif %}
+        </tr>
+    {% endfor %}
+    </table>
+{% else %}
+    <p>No <i>In vitro</i> substrate data.</p>
+{% endif %}
 <br />
+<a href="#content">Back to top</a>
 <br />
 <a href="/contact/">Contact us</a> | <a href="/glossary/">Glossary</a>
 <br />

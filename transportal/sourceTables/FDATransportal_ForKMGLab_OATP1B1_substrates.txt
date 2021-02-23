@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference		Object Therapeutic Class			
+Transporter	Substrate	Km(uM)	Cell System	Reference		Object Therapeutic Class			
 OATP1B1	4-Aminosalicylic acid	50	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/28223391/					
 OATP1B1	Atorvastatin	0.761	HEK-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/25414411/					
 OATP1B1	Bosentan	44	CHO-OATP1B1	https://pubmed.ncbi.nlm.nih.gov/17496208/					

@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (µM)	Cell System	References
+Transporter	Substrate	Km(uM)	Cell System	References
 MRP2	"2,4-dinitrophenyl-S-glutathione"	70	MRP2-expressing MDCK vesicles	10024515
 MRP2	Estradiol-17beta-D-glucuronide	7.2	MRP2-expressing MDCK vesicles	10220572
 MRP2	Leukotrien C4	1	MRP2-expressing MDCK vesicles	10220572

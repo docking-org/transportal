@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference
+Transporter	Substrate	Km(uM)	Cell System	Reference
 OAT1	Acamprosate	700	HEK293-Flp-In-OAT1	https://pubmed.ncbi.nlm.nih.gov/32344570/?from_single_result=32344570&expanded_search_query=32344570
 OAT1	Tazobactam	431	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/29277663/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=5&from_pos=7
 OAT1	Piperacillin	37	HEK293-OAT1	https://pubmed.ncbi.nlm.nih.gov/29277663/?from_term=OAT1+inhibitor&from_filter=years.2012-2020&from_sort=date&from_page=5&from_pos=7

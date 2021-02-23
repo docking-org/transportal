@@ -64,7 +64,7 @@ transporterTransTable = {'P-gp':'ABCB1',
         'OATP1B3':'SLCO1B3',
         'OATP2B1':'SLCO2B1',
         'rOAT1':'rat_Slc22a6',
-        'rOAT2':'rat_Slc22a7',
+        'rOAT2':'rat-Slc22a7',
         'rOAT3':'rat_Slc22a8',
         'rMATE1':'rat_Slc47a1',
         'OATP1a1':'rat_Slco1a1',
@@ -124,8 +124,15 @@ for line in reader:
 infile = open(newData)
 reader = csv.DictReader(infile,delimiter = '\t')
 for line in reader:
-    if not line['Transporter Protein'] in transporters:
-        trans = line['Transporter Protein']
+    if line['Interaction Type'] not in['Substrate','Inhibitor']:
+        continue
+    if line['Substrate used/ATPase assay/Cell-viability assay'] == 'Cell-viability assay':
+        continue
+    line['Transporter'] = transporterTransTable[line['Transporter']]
+    if line['Transporter'] == '':
+        continue
+    if not line['Transporter'] in transporters:
+        trans = line['Transporter']
         if trans in additionalTransInfo:
             syns = additionalTransInfo[trans]['synonyms']
             synsFull = additionalTransInfo[trans]['synonymFull']
@@ -143,22 +150,18 @@ for line in reader:
         chemicalsEnd += 1
         inVitroInteractionsEnd += 1
         inVitroSubstratesEnd += 1
-    if (not line['Pubmed ID'] in references) and (not line['Pubmed ID'] in referencesNonPubmed):
-        temp = line['Pubmed ID']
+    if (not line['Reference (Pubmed ID)'] in references) and (not line['Reference (Pubmed ID)'] in referencesNonPubmed):
+        temp = line['Reference (Pubmed ID)']
         if temp in additionalRefsInfo:
             author = additionalRefsInfo[temp]['author']
             year = additionalRefsInfo[temp]['year']
             otherText = additionalRefsInfo[temp]['otherText']
-            otherLink = line['DOI']
         else:
             author = u''
             year = u''
             otherText = u''
-            otherLink = line['DOI']
-        if otherLink == 'none (1)':
-            otherLink = u''
         if temp.isdigit():
-            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': otherLink, u'otherText': otherText, u'year': year, u'authors': author}})
+            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': None, u'otherText': otherText, u'year': year, u'authors': author}})
             references.add(temp)
         else:
             numReferencesNonPubmed += 1
@@ -175,39 +178,76 @@ for line in reader:
         chemicalsEnd += 1
         inVitroInteractionsEnd += 1
         inVitroSubstratesEnd += 1
-    if line['Interaction Type'] == 'Inhibitor' or line['Interaction Type'] == 'Weak inhibitor':
-        temp = line['Assay type']
-        if temp== 'ATPase':
+    temp = line['Substrate used/ATPase assay/Cell-viability assay']
+    if temp != 'ATPase assay' and temp != 'ATPase assay/Calcein' and not slugify(temp) in chemicals:
+        data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
+        chemicals.add(slugify(temp))
+        chemicalsEnd += 1
+        inVitroInteractionsEnd += 1
+        inVitroSubstratesEnd += 1
+    temp = line['ATPase stimulation']
+    if temp != '':
+        if temp == 'Not listed':
+            temp = 'not_listed'
+        else:
+            temp = temp.split()[-1]
+        if not slugify(temp) in chemicals:
+            data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
+            chemicals.add(slugify(temp))
+            chemicalsEnd += 1
+            inVitroInteractionsEnd += 1
+            inVitroSubstratesEnd += 1
+    
+    if line['Interaction Type'] == 'Inhibitor':
+        temp = line['Substrate used/ATPase assay/Cell-viability assay']
+        if temp== 'ATPase assay' or temp == 'ATPase assay/Calcein':
             expType = 'A'
-            stimConc = u''
-            affectChem = u''
+            atpinfo = line['ATPase stimulation']
+            if atpinfo == 'Not listed':
+                stimConc = 'Not listed'
+                affectChem = 'not_listed'
+            else:
+                affectChem = slugify(atpinfo.split()[-1])
+                stimConc = atpinfo.split()[0][:-2]
         else:
             expType = 'V'
-            affectChem = u''
+            affectChem = slugify(line['Substrate used/ATPase assay/Cell-viability assay'])
             stimConc = None
-        intConc = u''          
+        intConc = line['Chemical Concentration (uM)']            
         ic50 = line['IC50 (uM)']
         ec50 = line['EC 50 (uM)']
         km = line['Km (uM)']
-        ref = line['Pubmed ID']
+        ref = line['Reference (Pubmed ID)']
         if not ref.isdigit():
             ref = referencesNonPubmed[ref]
-        system = line['In Vitro System']
-        interactChem = None
-        trans = line['Transporter Protein']
+        system = line['Cell/in vitro System']
+        interactChem = slugify(line['Chemical'])
+        trans = line['Transporter']
         data.insert(inVitroInteractionsEnd+1,{u'pk': numInVitroInteractions+1, u'model': u'transporterDatabase.invitrointeraction', u'fields': {u'interactingConcentration': intConc, u'stimConcentration': stimConc, u'ic50': ic50, u'ec50': ec50, u'km': km, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem, u'subtype': u'P', u'interactingChemical': interactChem, u'trans': trans, u'type': expType}})
         numInVitroInteractions += 1
         inVitroInteractionsEnd += 1
         inVitroSubstratesEnd += 1
         
-    elif line['Interaction Type'] == '' and line['Substrate / Nonsubstrate'] == 'Substrate':
-        conc = u''
+    elif line['Interaction Type'] == 'Substrate':
+        temp = line['Substrate used/ATPase assay/Cell-viability assay']
+        if temp== 'ATPase assay':
+            atpinfo = line['ATPase stimulation']
+            if atpinfo == 'Not listed':
+                stimConc = 'Not listed'
+                affectChem = 'not_listed'
+            else:
+                affectChem = slugify(atpinfo.split()[-1])
+                stimConc = atpinfo.split()[0][:-2]
+        else:
+            affectChem = slugify(line['Substrate used/ATPase assay/Cell-viability assay'])
+            stimConc = None
+        conc = line['Chemical Concentration (uM)']            
         ic50 = line['IC50 (uM)']
         km = line['Km (uM)']
-        ref = line['Pubmed ID']
-        system = line['In Vitro System']
+        ref = line['Reference (Pubmed ID)']
+        system = line['Cell/in vitro System']
         substrate = slugify(line['Chemical'])
-        trans = line['Transporter Protein']
+        trans = line['Transporter']
         data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'concentration': conc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': substrate, u'trans': trans,}})
         numInVitroSubstrates += 1
         inVitroSubstratesEnd += 1

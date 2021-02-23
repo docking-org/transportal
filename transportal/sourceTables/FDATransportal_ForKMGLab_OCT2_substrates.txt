@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference					
+Transporter	Substrate	Km(uM)	Cell System	Reference					
  OCT2	Hydrochlorothiazide	812	HEK293-OCT2	"Yin, 2019 PMID: 31322418"	https://pubmed.ncbi.nlm.nih.gov/31322418/				
 	Atenonol	280	HEK293-OCT2	"Yin, 2015 PMID: 26374172"					
 	Fampridine	51	HEK293-OCT2	"Xiao, 2018 PMID: 29915999"	https://pubmed.ncbi.nlm.nih.gov/29915999/				

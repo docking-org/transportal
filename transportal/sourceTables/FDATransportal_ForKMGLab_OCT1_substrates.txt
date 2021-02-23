@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference
+Transporter	Substrate	Km(uM)	Cell System	Reference
 OCT1	Amisulpride	31	HEK293-OCT1	https://www.ncbi.nlm.nih.gov/pubmed/25155823?dopt=Abstract
 OCT1	ASP+	21.1	HEK293-OCT1	https://www.ncbi.nlm.nih.gov/pubmed/28230985
 OCT1	ASP+	2.32	HEK293-OCT1	https://www.ncbi.nlm.nih.gov/pubmed/18788725?dopt=Abstract

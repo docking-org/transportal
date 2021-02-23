@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference
+Transporter	Substrate	Km(uM)	Cell System	Reference
 OAT3	Pemetrexed	28.2	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9
 OAT3	Methotrexed	76.6	HEK293-OAT3	https://pubmed.ncbi.nlm.nih.gov/24042472/?from_term=SLC22A6&from_filter=years.2012-2020&from_sort=date&from_page=10&from_pos=9
 OAT3	Relebactam	ND	MDCKII-OAT3	https://pubmed.ncbi.nlm.nih.gov/30891606/?from_single_result=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29&expanded_search_query=Role+of+Transporters+in+the+Disposition+of+a+Novel+%CE%B2-Lactamase+Inhibitor%3A+Relebactam+%28MK-7655%29

@@ -1,4 +1,4 @@
-Transporter	Substrate	Km(µM)	Cell System	References
+Transporter	Substrate	Km(uM)	Cell System	References
 MDR1	Oseltamivir	4200	MDR1-expressing LLC-PK1 cells	CHEMBL1687750
 MDR1	Damgo	43	MDR1-expressing SW1573/S1 vesicles	CHEMBL2074060
 MDR1	Colchicine	45	MDR1-containing proteoliposomes	CHEMBL2074521

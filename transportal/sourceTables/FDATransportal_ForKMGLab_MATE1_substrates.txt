@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference
+Transporter	Substrate	Km(uM)	Cell System	Reference
 MATE1	Amphetamine	14	HEK293-MATE1	28428365
 MATE1	Metamphetamine	21	HEK293-MATE1	28428365
 MATE1	Butylscopolamine	28.9	HEK293-MATE1	27676604

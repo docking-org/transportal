@@ -1,4 +1,4 @@
-Transporter	Substrate	Km (_M)	Cell System	Reference	
+Transporter	Substrate	Km(uM)	Cell System	Reference	
 OATP1B3	Fluvastatin 	7	MDCKII-ABCC2-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16046661/	16046661
 OATP1B3	Bromosulfophthalein	2.2	MDCKII-ABCC2-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16046661/	16046661
 OATP1B3	Olmesartan 	71.8	oocytes-OATP1B3	https://pubmed.ncbi.nlm.nih.gov/16501004/	16501004
