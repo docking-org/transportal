@@ -89,19 +89,18 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 <h1>{{transporter.symbol}}</h1>
 <p style="margin-left:20pt">Synonyms: {{transporter.synonymsFull}}<br /><br />
 <a href="http://www.ncbi.nlm.nih.gov/gene?term={{transporter.ncbiID}}">Entrez Gene Link</a></p>
-<a href="#InVitInt"><i>In vitro</i> Interactions</a><br />
+<a href="#InVitInhib"><i>In vitro</i> Inhibitors</a><br />
 <a href="#InVitSub"><i>In vitro</i> Substrates</a><br />
 <br />
-<h2><a name="InVitInt"><i>In vitro</i> Interactions</a></h2>
-<h3>Vesicular Transport experiments</h3>
-{% if inVitroVesicular %}
+<h2><a name="InVitInhib"><i>In vitro</i> Inhibitors</a></h2>
+{% if inVitroInhibitor %}
     <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
     <tr style="background-color:#FFAD5C">
     <th scope="col">Environmental chemical</th>
-    <th>System (Cells, Liposomes, IMV)</th>
+    <th><i>In vitro</i> System</th>
+    <th>Assay type</th>
     <th>IC50 (uM)</th>
-    <th>EC50 (uM)</th>
-    <th>Km (uM)</th>
+    <th>Ki (uM)</th>
     <th>Substrate</th>
     <th>Reference</th>
     </tr>
@@ -109,18 +108,14 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
         <tr>
         <td scope="row"><a href="../../compounds/{{instance.interactingChemical.slugName}}/">{{instance.interactingChemical.name}}</a></td>
         <td>{{instance.system}}</td>
+        <td>{{instance.assayType}}</td>
         {% if instance.ic50 %}
             <td>{{instance.ic50}}</td>
         {% else %}
             <td />
         {% endif %}
-        {% if instance.ec50 %}
-            <td>{{instance.ec50}}</td>
-        {% else %}
-            <td />
-        {% endif %}
-        {% if instance.km %}
-            <td>{{instance.km}}</td>
+        {% if instance.ki %}
+            <td>{{instance.ki}}</td>
         {% else %}
             <td />
         {% endif %}
@@ -134,54 +129,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
     {% endfor %}
     </table>
 {% else %}
-    <p>No <i>In vitro</i> vesicular transport data.</p>
-{% endif %}
-<h3>ATPase activity experiments</h3>
-<h4>Basal activity</h4>
-<h4>Activity after pre-stimulation</h4>
-{% if inVitroATPPre %}
-    <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
-    <tr style="background-color:#FFAD5C">
-    <th scope="col">Environmental chemical</th>
-    <th>System (Cells, Liposomes, IMV, Membrane patch, Solubilized)</th>
-    <th>Victim drug/chemical</th>
-    <th>Stimulator concentration (uM)</th>
-    <th>IC50 (uM)</th>
-    <th>EC50 (uM)</th>
-    <th>Km (uM)</th>
-    <th>Reference</th>
-    </tr>
-    {% for instance in inVitroATPPre %}
-        <tr>
-        <td scope="row"><a href="../../compounds/{{instance.interactingChemical.slugName}}/">{{instance.interactingChemical.name}}</a></td>
-        <td>{{instance.system}}</td>
-        <td scope="row"><a href="../../compounds/{{instance.affectedSubstrate.slugName}}/">{{instance.affectedSubstrate.name}}</a></td>
-        <td>{{instance.stimConcentration}}</td>
-        {% if instance.ic50 %}
-            <td>{{instance.ic50}}</td>
-        {% else %}
-            <td />
-        {% endif %}
-        {% if instance.ec50 %}
-            <td>{{instance.ec50}}</td>
-        {% else %}
-            <td />
-        {% endif %}
-        {% if instance.km %}
-            <td>{{instance.km}}</td>
-        {% else %}
-            <td />
-        {% endif %}
-        {% if instance.reference %}
-            <td>{% if not instance.reference.otherText %}<a href="http://www.ncbi.nlm.nih.gov/pubmed/{{instance.reference.pmid}}">{{instance.reference.authors}}, {{instance.reference.year}}</a>{% else %}{% if instance.reference.otherLink %}<a href="{{instance.reference.otherLink}}">{{instance.reference.otherText}}</a>{% else %}{{instance.reference.otherText}}{% endif %}{% endif %}</td>
-        {% else %}
-            <td />
-        {% endif %}
-        </tr>
-    {% endfor %}
-    </table>
-{% else %}
-    <p>No <i>In vitro</i> ATPase data.</p>
+    <p>No <i>In vitro</i> inhibitor data.</p>
 {% endif %}
 <br />
 <a href="#content">Back to top</a>
@@ -190,9 +138,8 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
     <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
     <tr style="background-color:#FFAD5C">
     <th scope="col">Environmental chemical</th>
-    <th>System (Cells, Liposomes, IMV)</th>
-    <th>IC50 (uM)</th>
-    <th>EC50 (uM)</th>
+    <th><i>In vitro</i> System</th>
+    <th>Assay type</th>
     <th>Km (uM)</th>
     <th>Reference</th>
     </tr>
@@ -200,16 +147,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
         <tr>
         <td scope="row"><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a></td>
         <td>{{instance.system}}</td>
-        {% if instance.ic50 %}
-            <td>{{instance.ic50}}</td>
-        {% else %}
-            <td />
-        {% endif %}
-        {% if instance.ec50 %}
-            <td>{{instance.ec50}}</td>
-        {% else %}
-            <td />
-        {% endif %}
+        <td>{{instance.assayType}}</td>
         {% if instance.km %}
             <td>{{instance.km}}</td>
         {% else %}

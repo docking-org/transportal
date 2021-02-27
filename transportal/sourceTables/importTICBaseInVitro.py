@@ -1,4 +1,4 @@
-##Import in vitro interaction tsv to initial_data.json
+##Import in vitro interactions tsv to initial_data.json
 
 
 import json
@@ -77,8 +77,8 @@ transportersEnd = 0
 referencesEnd = 0
 numReferencesNonPubmed = 0
 chemicalsEnd = 0
-inVitroInteractionsEnd = 0
-numInVitroInteractions = 0
+inVitroInhibitorsEnd = 0
+numInVitroInhibitors = 0
 numInVitroSubstrates = 0
 inVitroSubstratesEnd = 0
 for index in range(len(data)):
@@ -97,15 +97,15 @@ for index in range(len(data)):
     elif x['model'] == 'transporterDatabase.compound':
         chemicals.add(x['pk'])
         chemicalsEnd = index
-    elif x['model'] == 'transporterDatabase.invitrointeraction':
-        inVitroInteractionsEnd = index
-        numInVitroInteractions += 1
+    elif x['model'] == 'transporterDatabase.invitroinhibitor':
+        inVitroInhibitorsEnd = index
+        numInVitroInhibitors += 1
     elif x['model'] == 'transporterDatabase.invitrosubstrate':
         inVitroSubstratesEnd = index
         numInVitroSubstrates += 1
 
-if inVitroInteractionsEnd == 0:
-    inVitroInteractionsEnd = index
+if inVitroInhibitorsEnd == 0:
+    inVitroInhibitorsEnd = index
 if inVitroSubstratesEnd == 0:
     inVitroSubstratesEnd = index
 
@@ -141,7 +141,7 @@ for line in reader:
         transportersEnd += 1
         referencesEnd += 1
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
+        inVitroInhibitorsEnd += 1
         inVitroSubstratesEnd += 1
     if (not line['Pubmed ID'] in references) and (not line['Pubmed ID'] in referencesNonPubmed):
         temp = line['Pubmed ID']
@@ -149,16 +149,12 @@ for line in reader:
             author = additionalRefsInfo[temp]['author']
             year = additionalRefsInfo[temp]['year']
             otherText = additionalRefsInfo[temp]['otherText']
-            otherLink = line['DOI']
         else:
             author = u''
             year = u''
             otherText = u''
-            otherLink = line['DOI']
-        if otherLink == 'none (1)':
-            otherLink = u''
         if temp.isdigit():
-            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': otherLink, u'otherText': otherText, u'year': year, u'authors': author}})
+            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
             references.add(temp)
         else:
             numReferencesNonPubmed += 1
@@ -166,49 +162,46 @@ for line in reader:
             referencesNonPubmed[temp] = 'NA'+str(numReferencesNonPubmed)        
         referencesEnd += 1
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
+        inVitroInhibitorsEnd += 1
         inVitroSubstratesEnd += 1
     if not slugify(line['Chemical']) in chemicals:
         temp = line['Chemical']
         data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
         chemicals.add(slugify(temp))
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
+        inVitroInhibitorsEnd += 1
         inVitroSubstratesEnd += 1
-    if line['Interaction Type'] == 'Inhibitor' or line['Interaction Type'] == 'Weak inhibitor':
-        temp = line['Assay type']
-        if temp== 'ATPase':
-            expType = 'A'
-            stimConc = u''
-            affectChem = u''
-        else:
-            expType = 'V'
-            affectChem = u''
-            stimConc = None
-        intConc = u''          
+    if line['Interaction Type'] == 'Inhibitor':
+        affectChem = line['Reporter molecule']
+        if affectChem.startswith('[3H]'):
+            affectChem = affectChem[4:].strip()
         ic50 = line['IC50 (uM)']
         ec50 = line['EC 50 (uM)']
-        km = line['Km (uM)']
+        ki = line['Ki (uM)']
+        if ic50 != '':
+            inhibVal = ic50
+        else:
+            inhibVal = ec50
         ref = line['Pubmed ID']
         if not ref.isdigit():
             ref = referencesNonPubmed[ref]
         system = line['In Vitro System']
-        interactChem = None
+        interactChem = line['Chemical']
         trans = line['Transporter Protein']
-        data.insert(inVitroInteractionsEnd+1,{u'pk': numInVitroInteractions+1, u'model': u'transporterDatabase.invitrointeraction', u'fields': {u'interactingConcentration': intConc, u'stimConcentration': stimConc, u'ic50': ic50, u'ec50': ec50, u'km': km, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem, u'subtype': u'P', u'interactingChemical': interactChem, u'trans': trans, u'type': expType}})
-        numInVitroInteractions += 1
-        inVitroInteractionsEnd += 1
+        assayType = line['Assay type']
+        data.insert(inVitroInhibitorsEnd+1,{u'pk': numInVitroInhibitors+1, u'model': u'transporterDatabase.invitroinhibitor', u'fields': {u'trans': trans, u'interactingChemical': interactChem, u'ic50': inhibVal, u'ki': ki, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem, u'assayType': assayType}})
+        numInVitroInhibitors += 1
+        inVitroInhibitorsEnd += 1
         inVitroSubstratesEnd += 1
         
     elif line['Interaction Type'] == '' and line['Substrate / Nonsubstrate'] == 'Substrate':
-        conc = u''
-        ic50 = line['IC50 (uM)']
         km = line['Km (uM)']
         ref = line['Pubmed ID']
         system = line['In Vitro System']
         substrate = slugify(line['Chemical'])
+        assayType = line['Assay type']
         trans = line['Transporter Protein']
-        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'concentration': conc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': substrate, u'trans': trans,}})
+        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'trans': trans, u'substrate': substrate, u'km': km, u'reference': ref, u'system': system, u'assayType': assayType}})
         numInVitroSubstrates += 1
         inVitroSubstratesEnd += 1
 
