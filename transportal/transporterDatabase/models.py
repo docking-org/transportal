@@ -117,7 +117,6 @@ class InVitroInhibitor(models.Model):
 	system = models.TextField(null=True)
 	ic50 = models.CharField(max_length=10, blank=True, null=True)
 	ki = models.CharField(max_length=10, blank=True, null=True)
-	assayType = models.CharField(max_length=30, blank=True, default='')
 	reference = models.ForeignKey(Reference, blank=True, null=True)
 	def __unicode__(self):
 		return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
@@ -127,9 +126,6 @@ class InVitroSubstrate(models.Model):
 	substrate = models.ForeignKey(Compound)
 	system = models.TextField(null=True)
 	km = models.CharField(max_length=10, blank=True, null=True)
-	assayType = models.CharField(max_length=30, blank=True, default='')
 	reference = models.ForeignKey(Reference, blank=True, null=True)
 	def __unicode__(self):
 		return 'pk=' + self.pk + ','.join([str(self.transName),str(self.system)])
-
-
