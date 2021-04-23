@@ -182,6 +182,7 @@ for line in reader:
             affectChem = affectChem[5:].strip()
         if '(prestimulation)' in affectChem:
             affectChem = affectChem.split()[0]
+        affectChem = slugify(affectChem)
         ic50 = line['IC50 (uM)']
         ec50 = line['EC50 (uM)']
         ki = line['Ki (uM)']
@@ -193,7 +194,7 @@ for line in reader:
         if not ref.isdigit():
             ref = referencesNonPubmed[ref]
         system = line['In vitro system']
-        interactChem = line['Chemical']
+        interactChem = slugify(line['Chemical'])
         trans = transporterName
         data.insert(inVitroInhibitorsEnd+1,{u'pk': numInVitroInhibitors+1, u'model': u'transporterDatabase.invitroinhibitor', u'fields': {u'trans': trans, u'interactingChemical': interactChem, u'ic50': inhibVal, u'ki': ki, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem}})
         numInVitroInhibitors += 1

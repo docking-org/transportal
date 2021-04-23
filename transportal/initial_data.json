@@ -66135,7 +66135,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-devapamil",
+   "interactingChemical": "()-devapamil",
    "ic50": "1.3",
    "ki": "",
    "reference": "1352973",
@@ -66148,7 +66148,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-devapamil",
+   "interactingChemical": "()-devapamil",
    "ic50": "1",
    "ki": "",
    "reference": "1352973",
@@ -66161,7 +66161,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-emopamil",
+   "interactingChemical": "()-emopamil",
    "ic50": "3.8",
    "ki": "",
    "reference": "1352973",
@@ -66174,7 +66174,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-emopamil",
+   "interactingChemical": "()-emopamil",
    "ic50": "2.4",
    "ki": "",
    "reference": "1352973",
@@ -66187,7 +66187,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-felodipine",
+   "interactingChemical": "()-felodipine",
    "ic50": "19.6",
    "ki": "",
    "reference": "1352973",
@@ -66200,7 +66200,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-felodipine",
+   "interactingChemical": "()-felodipine",
    "ic50": "6.3",
    "ki": "",
    "reference": "1352973",
@@ -66213,7 +66213,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-isradipine",
+   "interactingChemical": "()-isradipine",
    "ic50": "6.9",
    "ki": "",
    "reference": "1352973",
@@ -66226,7 +66226,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-isradipine",
+   "interactingChemical": "()-isradipine",
    "ic50": "9.2",
    "ki": "",
    "reference": "1352973",
@@ -66239,7 +66239,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-niguldipine",
+   "interactingChemical": "()-niguldipine",
    "ic50": "1.1",
    "ki": "",
    "reference": "1352973",
@@ -66252,7 +66252,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-niguldipine",
+   "interactingChemical": "()-niguldipine",
    "ic50": "1.2",
    "ki": "",
    "reference": "1352973",
@@ -66265,7 +66265,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-nimodipine",
+   "interactingChemical": "()-nimodipine",
    "ic50": "5.2",
    "ki": "",
    "reference": "1352973",
@@ -66278,7 +66278,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-nimodipine",
+   "interactingChemical": "()-nimodipine",
    "ic50": "12.6",
    "ki": "",
    "reference": "1352973",
@@ -66291,7 +66291,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-nitrendipine",
+   "interactingChemical": "()-nitrendipine",
    "ic50": "5.7",
    "ki": "",
    "reference": "1352973",
@@ -66304,7 +66304,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-nitrendipine",
+   "interactingChemical": "()-nitrendipine",
    "ic50": "10.3",
    "ki": "",
    "reference": "1352973",
@@ -66317,7 +66317,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "(+)-verapamil",
+   "interactingChemical": "()-verapamil",
    "ic50": "1.6",
    "ki": "",
    "reference": "1352973",
@@ -66330,7 +66330,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-verapamil",
+   "interactingChemical": "()-verapamil",
    "ic50": "2.6",
    "ki": "",
    "reference": "1352973",
@@ -66343,7 +66343,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "B869-60",
+   "interactingChemical": "b869-60",
    "ic50": "67.8",
    "ki": "",
    "reference": "1352973",
@@ -66356,7 +66356,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "B869-60",
+   "interactingChemical": "b869-60",
    "ic50": "58",
    "ki": "",
    "reference": "1352973",
@@ -66369,7 +66369,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "B869-61",
+   "interactingChemical": "b869-61",
    "ic50": "51.3",
    "ki": "",
    "reference": "1352973",
@@ -66382,7 +66382,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "B869-61",
+   "interactingChemical": "b869-61",
    "ic50": "50",
    "ki": "",
    "reference": "1352973",
@@ -66395,7 +66395,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "Bay K 8644",
+   "interactingChemical": "bay_k_8644",
    "ic50": "100",
    "ki": "",
    "reference": "1352973",
@@ -66408,7 +66408,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Bay K 8644",
+   "interactingChemical": "bay_k_8644",
    "ic50": "79",
    "ki": "",
    "reference": "1352973",
@@ -66421,7 +66421,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "Gallopamil",
+   "interactingChemical": "gallopamil",
    "ic50": "2.4",
    "ki": "",
    "reference": "1352973",
@@ -66434,7 +66434,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Gallopamil",
+   "interactingChemical": "gallopamil",
    "ic50": "2.5",
    "ki": "",
    "reference": "1352973",
@@ -66447,7 +66447,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "grivet_Abcb1",
-   "interactingChemical": "Nifedipine",
+   "interactingChemical": "nifedipine",
    "ic50": "74",
    "ki": "",
    "reference": "1352973",
@@ -66460,7 +66460,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Nifedipine",
+   "interactingChemical": "nifedipine",
    "ic50": "73",
    "ki": "",
    "reference": "1352973",
@@ -66473,12 +66473,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Amiodarone",
+   "interactingChemical": "amiodarone",
    "ic50": "12.8",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66486,12 +66486,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "3.4",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66499,12 +66499,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinacrine",
+   "interactingChemical": "quinacrine",
    "ic50": "14.4",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66512,12 +66512,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinidine",
+   "interactingChemical": "quinidine",
    "ic50": "30.5",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66525,12 +66525,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "SDZ 280-446",
+   "interactingChemical": "sdz_280-446",
    "ic50": "0.22",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66538,12 +66538,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Valspodar",
+   "interactingChemical": "valspodar",
    "ic50": "0.41",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66551,12 +66551,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "22.5",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66564,12 +66564,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Vinblastine",
+   "interactingChemical": "vinblastine",
    "ic50": "34",
    "ki": "",
    "reference": "8862725",
    "system": "CEM cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66577,12 +66577,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Chlorpyrifos",
+   "interactingChemical": "chlorpyrifos",
    "ic50": "140.6",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66590,12 +66590,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Clotrimazole",
+   "interactingChemical": "clotrimazole",
    "ic50": "16.6",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66603,12 +66603,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Dicapthon",
+   "interactingChemical": "dicapthon",
    "ic50": "191.7",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66616,12 +66616,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Endosulfan",
+   "interactingChemical": "endosulfan",
    "ic50": "34.1",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66629,12 +66629,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Hydramethylnon",
+   "interactingChemical": "hydramethylnon",
    "ic50": "7.3",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66642,12 +66642,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "10.9",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66655,12 +66655,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Parathion",
+   "interactingChemical": "parathion",
    "ic50": "229.8",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66668,12 +66668,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "3.2",
    "ki": "",
    "reference": "8917702",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66681,12 +66681,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Azinphos-ethyl",
+   "interactingChemical": "azinphos-ethyl",
    "ic50": "129",
    "ki": "",
    "reference": "9347896",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66694,12 +66694,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Coumaphos",
+   "interactingChemical": "coumaphos",
    "ic50": "26.9",
    "ki": "",
    "reference": "9347896",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66707,12 +66707,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Phosalone",
+   "interactingChemical": "phosalone",
    "ic50": "96.4",
    "ki": "",
    "reference": "9347896",
    "system": "B16/F10 cells",
-   "affectedSubstrate": "Doxorubicin"
+   "affectedSubstrate": "doxorubicin"
   }
  },
  {
@@ -66720,7 +66720,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Celiprolol",
+   "interactingChemical": "celiprolol",
    "ic50": "730",
    "ki": "",
    "reference": "9688051",
@@ -66733,7 +66733,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Chloropromazine",
+   "interactingChemical": "chloropromazine",
    "ic50": "1.2",
    "ki": "",
    "reference": "9688051",
@@ -66746,7 +66746,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Cimetidine",
+   "interactingChemical": "cimetidine",
    "ic50": "6500",
    "ki": "",
    "reference": "9688051",
@@ -66759,7 +66759,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Doxorubicin",
+   "interactingChemical": "doxorubicin",
    "ic50": "990",
    "ki": "",
    "reference": "9688051",
@@ -66772,7 +66772,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Haloperidol",
+   "interactingChemical": "haloperidol",
    "ic50": "5.3",
    "ki": "",
    "reference": "9688051",
@@ -66785,7 +66785,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ketoconazole",
+   "interactingChemical": "ketoconazole",
    "ic50": "13",
    "ki": "",
    "reference": "9688051",
@@ -66798,7 +66798,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Metoprolol",
+   "interactingChemical": "metoprolol",
    "ic50": "1300",
    "ki": "",
    "reference": "9688051",
@@ -66811,7 +66811,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Pindolol",
+   "interactingChemical": "pindolol",
    "ic50": "1950",
    "ki": "",
    "reference": "9688051",
@@ -66824,7 +66824,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Propranolol",
+   "interactingChemical": "propranolol",
    "ic50": "350",
    "ki": "",
    "reference": "9688051",
@@ -66837,7 +66837,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinidine",
+   "interactingChemical": "quinidine",
    "ic50": "340",
    "ki": "",
    "reference": "9688051",
@@ -66850,7 +66850,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinine",
+   "interactingChemical": "quinine",
    "ic50": "430",
    "ki": "",
    "reference": "9688051",
@@ -66863,7 +66863,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Rhodamine 123",
+   "interactingChemical": "rhodamine_123",
    "ic50": "0.5",
    "ki": "",
    "reference": "9688051",
@@ -66876,7 +66876,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Talinolol",
+   "interactingChemical": "talinolol",
    "ic50": "830",
    "ki": "",
    "reference": "9688051",
@@ -66889,7 +66889,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Tranylcypromine",
+   "interactingChemical": "tranylcypromine",
    "ic50": "14000",
    "ki": "",
    "reference": "9688051",
@@ -66902,7 +66902,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "1.5",
    "ki": "",
    "reference": "9688051",
@@ -66915,7 +66915,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Vinblastine",
+   "interactingChemical": "vinblastine",
    "ic50": "34",
    "ki": "",
    "reference": "9688051",
@@ -66928,7 +66928,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Vincristine",
+   "interactingChemical": "vincristine",
    "ic50": "86",
    "ki": "",
    "reference": "9688051",
@@ -66941,7 +66941,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ketoconazole",
+   "interactingChemical": "ketoconazole",
    "ic50": "1.4",
    "ki": "",
    "reference": "10901697",
@@ -66954,7 +66954,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Mibefradil",
+   "interactingChemical": "mibefradil",
    "ic50": "1.6",
    "ki": "",
    "reference": "10901697",
@@ -66967,7 +66967,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Valspodar",
+   "interactingChemical": "valspodar",
    "ic50": "0.11",
    "ki": "",
    "reference": "10901697",
@@ -66980,12 +66980,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Chloropromazine",
+   "interactingChemical": "chloropromazine",
    "ic50": "196",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -66993,12 +66993,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "7",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67006,12 +67006,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Domperidone",
+   "interactingChemical": "domperidone",
    "ic50": "106",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67019,12 +67019,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "9",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67032,12 +67032,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ketoconazole",
+   "interactingChemical": "ketoconazole",
    "ic50": "36",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67045,12 +67045,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Loperamide",
+   "interactingChemical": "loperamide",
    "ic50": "16",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67058,12 +67058,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Metoprolol",
+   "interactingChemical": "metoprolol",
    "ic50": "1440",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67071,12 +67071,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Progesterone",
+   "interactingChemical": "progesterone",
    "ic50": "121",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67084,12 +67084,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Propranolol",
+   "interactingChemical": "propranolol",
    "ic50": "429",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67097,12 +67097,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinidine",
+   "interactingChemical": "quinidine",
    "ic50": "157",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67110,12 +67110,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinine",
+   "interactingChemical": "quinine",
    "ic50": "280",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67123,12 +67123,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "70",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67136,12 +67136,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Vincristine",
+   "interactingChemical": "vincristine",
    "ic50": "345",
    "ki": "",
    "reference": "11113639",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67149,12 +67149,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "0.1",
    "ki": "",
    "reference": "15953199",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -67162,12 +67162,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Moxidectin",
+   "interactingChemical": "moxidectin",
    "ic50": "10",
    "ki": "",
    "reference": "15953199",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -67175,12 +67175,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Selamectin",
+   "interactingChemical": "selamectin",
    "ic50": "0.12",
    "ki": "",
    "reference": "15953199",
    "system": "Caco-2 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -67188,12 +67188,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "",
    "ki": "0.06",
    "reference": "16384552",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67201,7 +67201,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Erythromycin A",
+   "interactingChemical": "erythromycin_a",
    "ic50": "119",
    "ki": "",
    "reference": "16455803",
@@ -67214,7 +67214,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Quinidine",
+   "interactingChemical": "quinidine",
    "ic50": "1.8",
    "ki": "",
    "reference": "16455803",
@@ -67227,7 +67227,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "1.7",
    "ki": "",
    "reference": "16455803",
@@ -67266,7 +67266,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "(+)-citronellal",
+   "interactingChemical": "()-citronellal",
    "ic50": "167",
    "ki": "",
    "reference": "16904803",
@@ -67279,7 +67279,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Abietic acid",
+   "interactingChemical": "abietic_acid",
    "ic50": "172",
    "ki": "",
    "reference": "16904803",
@@ -67292,7 +67292,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Alpha-terpinene",
+   "interactingChemical": "alpha-terpinene",
    "ic50": "414",
    "ki": "",
    "reference": "16904803",
@@ -67305,7 +67305,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Cucurbitacin I",
+   "interactingChemical": "cucurbitacin_i",
    "ic50": "181",
    "ki": "",
    "reference": "16904803",
@@ -67318,7 +67318,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Glycyrrhetic acid",
+   "interactingChemical": "glycyrrhetic_acid",
    "ic50": "80.8",
    "ki": "",
    "reference": "16904803",
@@ -67331,7 +67331,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Ophiobolin A",
+   "interactingChemical": "ophiobolin_a",
    "ic50": "7.86",
    "ki": "",
    "reference": "16904803",
@@ -67344,7 +67344,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Terpinolene",
+   "interactingChemical": "terpinolene",
    "ic50": "481",
    "ki": "",
    "reference": "16904803",
@@ -67357,7 +67357,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "237",
    "ki": "",
    "reference": "16904803",
@@ -67370,12 +67370,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Diazinon",
+   "interactingChemical": "diazinon",
    "ic50": "58.4",
    "ki": "",
    "reference": "21783720",
    "system": "NIH 3T3 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67383,12 +67383,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Endosulfan",
+   "interactingChemical": "endosulfan",
    "ic50": "2.8",
    "ki": "",
    "reference": "21783720",
    "system": "NIH 3T3 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67396,12 +67396,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Phosalone",
+   "interactingChemical": "phosalone",
    "ic50": "3",
    "ki": "",
    "reference": "21783720",
    "system": "NIH 3T3 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67409,12 +67409,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Propiconazole",
+   "interactingChemical": "propiconazole",
    "ic50": "3.6",
    "ki": "",
    "reference": "21783720",
    "system": "NIH 3T3 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67422,12 +67422,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "1.5",
    "ki": "",
    "reference": "21783720",
    "system": "NIH 3T3 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67435,12 +67435,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "0.7",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67448,12 +67448,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Endosulfan",
+   "interactingChemical": "endosulfan",
    "ic50": "33.6",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67461,12 +67461,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "o,p'-DDT",
+   "interactingChemical": "op-ddt",
    "ic50": "7.8",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67474,12 +67474,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "p,p'-DDD",
+   "interactingChemical": "pp-ddd",
    "ic50": "10.7",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67487,12 +67487,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "p,p'-DDT",
+   "interactingChemical": "pp-ddt",
    "ic50": "3.8",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67500,12 +67500,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "22.9",
    "ki": "",
    "reference": "24014645",
    "system": "HEK293 cell membrane vesicles",
-   "affectedSubstrate": "  [3H]N-methylquinidine"
+   "affectedSubstrate": "3hn-methylquinidine"
   }
  },
  {
@@ -67513,12 +67513,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Amiodarone",
+   "interactingChemical": "amiodarone",
    "ic50": "65.4",
    "ki": "",
    "reference": "24375866",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67526,12 +67526,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Pentachlorophenol",
+   "interactingChemical": "pentachlorophenol",
    "ic50": "1.6",
    "ki": "",
    "reference": "24375866",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67539,12 +67539,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Valspodar",
+   "interactingChemical": "valspodar",
    "ic50": "3.2",
    "ki": "",
    "reference": "24375866",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67552,12 +67552,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "63.9",
    "ki": "",
    "reference": "24375866",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -67565,12 +67565,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Alpha-hydroxy-propiconazole",
+   "interactingChemical": "alpha-hydroxy-propiconazole",
    "ic50": "366.4",
    "ki": "",
    "reference": "25268938",
    "system": "Human \"K\" cell inverted vesicles",
-   "affectedSubstrate": "N-methyl-quinidine"
+   "affectedSubstrate": "n-methyl-quinidine"
   }
  },
  {
@@ -67578,12 +67578,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Beta-hydroxy-propiconazole",
+   "interactingChemical": "beta-hydroxy-propiconazole",
    "ic50": "456.3",
    "ki": "",
    "reference": "25268938",
    "system": "Human \"K\" cell inverted vesicles",
-   "affectedSubstrate": "N-methyl-quinidine"
+   "affectedSubstrate": "n-methyl-quinidine"
   }
  },
  {
@@ -67591,12 +67591,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Erythromycin A",
+   "interactingChemical": "erythromycin_a",
    "ic50": "145.1",
    "ki": "",
    "reference": "25268938",
    "system": "Human \"K\" cell inverted vesicles",
-   "affectedSubstrate": "N-methyl-quinidine"
+   "affectedSubstrate": "n-methyl-quinidine"
   }
  },
  {
@@ -67604,12 +67604,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Gamma-hydroxy-propiconazole",
+   "interactingChemical": "gamma-hydroxy-propiconazole",
    "ic50": "350.8",
    "ki": "",
    "reference": "25268938",
    "system": "Human \"K\" cell inverted vesicles",
-   "affectedSubstrate": "N-methyl-quinidine"
+   "affectedSubstrate": "n-methyl-quinidine"
   }
  },
  {
@@ -67617,12 +67617,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Propiconazole",
+   "interactingChemical": "propiconazole",
    "ic50": "122.9",
    "ki": "",
    "reference": "25268938",
    "system": "Human \"K\" cell inverted vesicles",
-   "affectedSubstrate": "N-methyl-quinidine"
+   "affectedSubstrate": "n-methyl-quinidine"
   }
  },
  {
@@ -67630,12 +67630,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Verapamil",
+   "interactingChemical": "verapamil",
    "ic50": "1.8",
    "ki": "",
    "reference": "25268938",
    "system": "Human \"K\" cell inverted vesicles",
-   "affectedSubstrate": "N-methyl-quinidine"
+   "affectedSubstrate": "n-methyl-quinidine"
   }
  },
  {
@@ -67643,12 +67643,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Methoxyfenozide",
+   "interactingChemical": "methoxyfenozide",
    "ic50": "44.3",
    "ki": "",
    "reference": "26995013",
    "system": "LLC-PK1 cells",
-   "affectedSubstrate": "Quinidine"
+   "affectedSubstrate": "quinidine"
   }
  },
  {
@@ -67656,12 +67656,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCB1",
-   "interactingChemical": "Tebufenozide",
+   "interactingChemical": "tebufenozide",
    "ic50": "21.5",
    "ki": "",
    "reference": "26995013",
    "system": "LLC-PK1 cells",
-   "affectedSubstrate": "Quinidine"
+   "affectedSubstrate": "quinidine"
   }
  },
  {
@@ -67669,12 +67669,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "0.4",
    "ki": "",
    "reference": "16384552",
    "system": "LLC-PK1 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -67682,12 +67682,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Aldrin",
+   "interactingChemical": "aldrin",
    "ic50": "26.2",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67695,12 +67695,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Alpha-hexachlorocyclohexane",
+   "interactingChemical": "alpha-hexachlorocyclohexane",
    "ic50": "26.8",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67708,12 +67708,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Dieldrin",
+   "interactingChemical": "dieldrin",
    "ic50": "21.8",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67721,12 +67721,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Gamma-hexachlorocyclohexane",
+   "interactingChemical": "gamma-hexachlorocyclohexane",
    "ic50": "82.6",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67734,12 +67734,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Heptachlor",
+   "interactingChemical": "heptachlor",
    "ic50": "10.4",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67747,12 +67747,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Methoxychlor (not specified)",
+   "interactingChemical": "methoxychlor_(not_specified)",
    "ic50": "21.7",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67760,12 +67760,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Mirex",
+   "interactingChemical": "mirex",
    "ic50": "3",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67773,12 +67773,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "p,p'-DDD",
+   "interactingChemical": "pp-ddd",
    "ic50": "72.5",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67786,12 +67786,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "p,p'-DDE",
+   "interactingChemical": "pp-dde",
    "ic50": "31.3",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67799,12 +67799,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "p,p'-DDT",
+   "interactingChemical": "pp-ddt",
    "ic50": "25.6",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67812,12 +67812,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PBDE-100",
+   "interactingChemical": "pbde-100",
    "ic50": "23.2",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67825,12 +67825,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PBDE-209",
+   "interactingChemical": "pbde-209",
    "ic50": "6.5",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67838,12 +67838,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PBDE-47",
+   "interactingChemical": "pbde-47",
    "ic50": "22.6",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67851,12 +67851,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PBDE-49",
+   "interactingChemical": "pbde-49",
    "ic50": "35.6",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67864,12 +67864,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-118",
+   "interactingChemical": "pcb-118",
    "ic50": "15.9",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67877,12 +67877,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-134",
+   "interactingChemical": "pcb-134",
    "ic50": "12.5",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67890,12 +67890,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-142",
+   "interactingChemical": "pcb-142",
    "ic50": "6.1",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67903,12 +67903,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-145",
+   "interactingChemical": "pcb-145",
    "ic50": "4.4",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67916,12 +67916,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-146",
+   "interactingChemical": "pcb-146",
    "ic50": "12.8",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67929,12 +67929,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-147",
+   "interactingChemical": "pcb-147",
    "ic50": "23.6",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67942,12 +67942,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-152",
+   "interactingChemical": "pcb-152",
    "ic50": "22",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67955,12 +67955,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-153",
+   "interactingChemical": "pcb-153",
    "ic50": "21.8",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67968,12 +67968,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-154",
+   "interactingChemical": "pcb-154",
    "ic50": "14.3",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67981,12 +67981,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-161",
+   "interactingChemical": "pcb-161",
    "ic50": "43.2",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -67994,12 +67994,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-168",
+   "interactingChemical": "pcb-168",
    "ic50": "25.8",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68007,12 +68007,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-169",
+   "interactingChemical": "pcb-169",
    "ic50": "9.7",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68020,12 +68020,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-170",
+   "interactingChemical": "pcb-170",
    "ic50": "9.2",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68033,12 +68033,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-186",
+   "interactingChemical": "pcb-186",
    "ic50": "6.9",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68046,12 +68046,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "PCB-187",
+   "interactingChemical": "pcb-187",
    "ic50": "11.6",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68059,12 +68059,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Perfluorooctanoic acid",
+   "interactingChemical": "perfluorooctanoic_acid",
    "ic50": "156.5",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68072,12 +68072,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "mouse_Abcb1a",
-   "interactingChemical": "Rutin",
+   "interactingChemical": "rutin",
    "ic50": "1.1",
    "ki": "",
    "reference": "27152359",
    "system": "Purified, detergent-solubilized protein",
-   "affectedSubstrate": "Verapamil"
+   "affectedSubstrate": "verapamil"
   }
  },
  {
@@ -68085,12 +68085,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC1",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "3.8",
    "ki": "",
    "reference": "16384552",
    "system": "HL60 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -68098,12 +68098,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC1",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "",
    "ki": "0.5",
    "reference": "16384552",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "N-ethylmaleimide-GS"
+   "affectedSubstrate": "n-ethylmaleimide-gs"
   }
  },
  {
@@ -68111,12 +68111,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC1",
-   "interactingChemical": "MK571",
+   "interactingChemical": "mk571",
    "ic50": "2",
    "ki": "",
    "reference": "16384552",
    "system": "HL60 cells",
-   "affectedSubstrate": "Calcein-AM"
+   "affectedSubstrate": "calcein-am"
   }
  },
  {
@@ -68124,12 +68124,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "",
    "ki": "3.6",
    "reference": "16384552",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Probenecid"
+   "affectedSubstrate": "probenecid"
   }
  },
  {
@@ -68137,12 +68137,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "48.2",
    "ki": "",
    "reference": "28099443",
    "system": "HuH-7 cells",
-   "affectedSubstrate": "Carboxy-2',7'-dichlorofluorescein diacetate"
+   "affectedSubstrate": "carboxy-27-dichlorofluorescein_diacetate"
   }
  },
  {
@@ -68150,12 +68150,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "65.5",
    "ki": "",
    "reference": "28099443",
    "system": "HuH-7 cells",
-   "affectedSubstrate": "Carboxy-2',7'-dichlorofluorescein diacetate"
+   "affectedSubstrate": "carboxy-27-dichlorofluorescein_diacetate"
   }
  },
  {
@@ -68163,12 +68163,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Allura red",
+   "interactingChemical": "allura_red",
    "ic50": "20",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "5-Carboxy-2',7'-dichlorofluorescein"
+   "affectedSubstrate": "5-carboxy-27-dichlorofluorescein"
   }
  },
  {
@@ -68176,12 +68176,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Brilliant blue",
+   "interactingChemical": "brilliant_blue",
    "ic50": "3.22",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "5-Carboxy-2',7'-dichlorofluorescein"
+   "affectedSubstrate": "5-carboxy-27-dichlorofluorescein"
   }
  },
  {
@@ -68189,12 +68189,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Brlliant black",
+   "interactingChemical": "brlliant_black",
    "ic50": "7.21",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "5-Carboxy-2',7'-dichlorofluorescein"
+   "affectedSubstrate": "5-carboxy-27-dichlorofluorescein"
   }
  },
  {
@@ -68202,12 +68202,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC2",
-   "interactingChemical": "Carmoisine",
+   "interactingChemical": "carmoisine",
    "ic50": "29",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "5-Carboxy-2',7'-dichlorofluorescein"
+   "affectedSubstrate": "5-carboxy-27-dichlorofluorescein"
   }
  },
  {
@@ -68215,12 +68215,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC3",
-   "interactingChemical": "Ivermectin",
+   "interactingChemical": "ivermectin",
    "ic50": "",
    "ki": "2.7",
    "reference": "16384552",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Benzbromarone"
+   "affectedSubstrate": "benzbromarone"
   }
  },
  {
@@ -68228,7 +68228,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCC4",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "24",
    "ki": "",
    "reference": "24014645",
@@ -68241,12 +68241,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "1.4",
    "ki": "",
    "reference": "17031644",
    "system": "High Five insect cell crude membranes",
-   "affectedSubstrate": "Basal activity"
+   "affectedSubstrate": "basal_activity"
   }
  },
  {
@@ -68254,12 +68254,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Sirolimus",
+   "interactingChemical": "sirolimus",
    "ic50": "1.53",
    "ki": "",
    "reference": "17031644",
    "system": "High Five insect cell crude membranes",
-   "affectedSubstrate": "Basal activity"
+   "affectedSubstrate": "basal_activity"
   }
  },
  {
@@ -68267,12 +68267,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Tacrolimus",
+   "interactingChemical": "tacrolimus",
    "ic50": "2.1",
    "ki": "",
    "reference": "17031644",
    "system": "High Five insect cell crude membranes",
-   "affectedSubstrate": "Basal activity"
+   "affectedSubstrate": "basal_activity"
   }
  },
  {
@@ -68280,12 +68280,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Endosulfan",
+   "interactingChemical": "endosulfan",
    "ic50": "6.9",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68293,12 +68293,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Hoechst 33342",
+   "interactingChemical": "hoechst_33342",
    "ic50": "3.1",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68306,12 +68306,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "o,p'-DDT",
+   "interactingChemical": "op-ddt",
    "ic50": "10.4",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68319,12 +68319,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "p,p'-DDD",
+   "interactingChemical": "pp-ddd",
    "ic50": "3",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68332,12 +68332,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "p,p'-DDE",
+   "interactingChemical": "pp-dde",
    "ic50": "4",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68345,12 +68345,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "p,p'-DDT",
+   "interactingChemical": "pp-ddt",
    "ic50": "5",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68358,12 +68358,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Permethrin",
+   "interactingChemical": "permethrin",
    "ic50": "7",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68371,12 +68371,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Resmethrin",
+   "interactingChemical": "resmethrin",
    "ic50": "5.6",
    "ki": "",
    "reference": "23169446",
    "system": "Sf9 cell membranes",
-   "affectedSubstrate": "Sulfasalazine"
+   "affectedSubstrate": "sulfasalazine"
   }
  },
  {
@@ -68384,12 +68384,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "42.5",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Hoechst 33342"
+   "affectedSubstrate": "hoechst_33342"
   }
  },
  {
@@ -68397,12 +68397,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "72.5",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Hoechst 33342"
+   "affectedSubstrate": "hoechst_33342"
   }
  },
  {
@@ -68410,12 +68410,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Allura red",
+   "interactingChemical": "allura_red",
    "ic50": "13.3",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "Lucifer yellow"
+   "affectedSubstrate": "lucifer_yellow"
   }
  },
  {
@@ -68423,12 +68423,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Brlliant black",
+   "interactingChemical": "brlliant_black",
    "ic50": "6.06",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "Lucifer yellow"
+   "affectedSubstrate": "lucifer_yellow"
   }
  },
  {
@@ -68436,12 +68436,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Carmoisine",
+   "interactingChemical": "carmoisine",
    "ic50": "5.38",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "Lucifer yellow"
+   "affectedSubstrate": "lucifer_yellow"
   }
  },
  {
@@ -68449,12 +68449,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Neohesperidin dihydrochalcone",
+   "interactingChemical": "neohesperidin_dihydrochalcone",
    "ic50": "0.86",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "Lucifer yellow"
+   "affectedSubstrate": "lucifer_yellow"
   }
  },
  {
@@ -68462,12 +68462,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Sunset yellow",
+   "interactingChemical": "sunset_yellow",
    "ic50": "10.6",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "Lucifer yellow"
+   "affectedSubstrate": "lucifer_yellow"
   }
  },
  {
@@ -68475,12 +68475,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Tartrazine",
+   "interactingChemical": "tartrazine",
    "ic50": "23.5",
    "ki": "",
    "reference": "28921988",
    "system": "Sf9 cell membrane vesicles",
-   "affectedSubstrate": "Lucifer yellow"
+   "affectedSubstrate": "lucifer_yellow"
   }
  },
  {
@@ -68488,12 +68488,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "ABCG2",
-   "interactingChemical": "Chlorpropham",
+   "interactingChemical": "chlorpropham",
    "ic50": "53.2",
    "ki": "",
    "reference": "32421406",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Hoechst 33342"
+   "affectedSubstrate": "hoechst_33342"
   }
  },
  {
@@ -68501,12 +68501,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC10A1",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "4.5",
    "ki": "",
    "reference": "27989701",
    "system": "HEK293 cells",
-   "affectedSubstrate": "taurocholic acid"
+   "affectedSubstrate": "taurocholic_acid"
   }
  },
  {
@@ -68514,7 +68514,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "(-)-Zearalenone",
+   "interactingChemical": "(-)-zearalenone",
    "ic50": "0.62",
    "ki": "",
    "reference": "18319568",
@@ -68527,7 +68527,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Aflatoxin B1",
+   "interactingChemical": "aflatoxin_b1",
    "ic50": "103",
    "ki": "",
    "reference": "18319568",
@@ -68540,7 +68540,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Alpha-zearalenol",
+   "interactingChemical": "alpha-zearalenol",
    "ic50": "64.4",
    "ki": "",
    "reference": "18319568",
@@ -68553,7 +68553,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Citreoviridin A",
+   "interactingChemical": "citreoviridin_a",
    "ic50": "1.7",
    "ki": "",
    "reference": "18319568",
@@ -68566,7 +68566,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Cyclopiazonic acid",
+   "interactingChemical": "cyclopiazonic_acid",
    "ic50": "6.63",
    "ki": "",
    "reference": "18319568",
@@ -68579,7 +68579,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Bisphenol A",
+   "interactingChemical": "bisphenol_a",
    "ic50": "39",
    "ki": "",
    "reference": "27989701",
@@ -68592,7 +68592,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "37.5",
    "ki": "",
    "reference": "27989701",
@@ -68605,12 +68605,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "2.6",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',6'-diamidino-2-phenylindole"
+   "affectedSubstrate": "46-diamidino-2-phenylindole"
   }
  },
  {
@@ -68618,12 +68618,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "4.9",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',6'-diamidino-2-phenylindole"
+   "affectedSubstrate": "46-diamidino-2-phenylindole"
   }
  },
  {
@@ -68631,7 +68631,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Fenamiphos",
+   "interactingChemical": "fenamiphos",
    "ic50": "9.2",
    "ki": "",
    "reference": "29448871",
@@ -68644,12 +68644,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Fenamiphos",
+   "interactingChemical": "fenamiphos",
    "ic50": "27.5",
    "ki": "",
    "reference": "29448871",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',6'-diamidino-2-phenylindole"
+   "affectedSubstrate": "46-diamidino-2-phenylindole"
   }
  },
  {
@@ -68657,7 +68657,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Phosmet",
+   "interactingChemical": "phosmet",
    "ic50": "7.1",
    "ki": "",
    "reference": "29448871",
@@ -68670,12 +68670,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Phosmet",
+   "interactingChemical": "phosmet",
    "ic50": "10.4",
    "ki": "",
    "reference": "29448871",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',6'-diamidino-2-phenylindole"
+   "affectedSubstrate": "46-diamidino-2-phenylindole"
   }
  },
  {
@@ -68683,12 +68683,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A1",
-   "interactingChemical": "Propamocarb",
+   "interactingChemical": "propamocarb",
    "ic50": "48.1",
    "ki": "",
    "reference": "32421406",
    "system": "HEK293 cells",
-   "affectedSubstrate": "TEA"
+   "affectedSubstrate": "tea"
   }
  },
  {
@@ -68696,12 +68696,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A11",
-   "interactingChemical": "Alpha-zearalenol",
+   "interactingChemical": "alpha-zearalenol",
    "ic50": "130",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -68709,12 +68709,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A11",
-   "interactingChemical": "Citreoviridin A",
+   "interactingChemical": "citreoviridin_a",
    "ic50": "823",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -68722,12 +68722,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A11",
-   "interactingChemical": "Cyclopiazonic acid",
+   "interactingChemical": "cyclopiazonic_acid",
    "ic50": "86.6",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -68735,12 +68735,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A11",
-   "interactingChemical": "Aristolochic acid I",
+   "interactingChemical": "aristolochic_acid_i",
    "ic50": "",
    "ki": "20.5",
    "reference": "19643159",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -68748,7 +68748,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "(-)-Zearalenone",
+   "interactingChemical": "(-)-zearalenone",
    "ic50": "24.8",
    "ki": "",
    "reference": "18319568",
@@ -68761,7 +68761,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Aflatoxin B1",
+   "interactingChemical": "aflatoxin_b1",
    "ic50": "121",
    "ki": "",
    "reference": "18319568",
@@ -68774,7 +68774,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Alpha-zearalenol",
+   "interactingChemical": "alpha-zearalenol",
    "ic50": "34.3",
    "ki": "",
    "reference": "18319568",
@@ -68787,7 +68787,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Citreoviridin A",
+   "interactingChemical": "citreoviridin_a",
    "ic50": "17.7",
    "ki": "",
    "reference": "18319568",
@@ -68800,7 +68800,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Gliotoxin",
+   "interactingChemical": "gliotoxin",
    "ic50": "117",
    "ki": "",
    "reference": "18319568",
@@ -68813,12 +68813,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "42.6",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -68826,12 +68826,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "11.2",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -68839,7 +68839,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Fenamiphos",
+   "interactingChemical": "fenamiphos",
    "ic50": "2.8",
    "ki": "",
    "reference": "29448871",
@@ -68852,12 +68852,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Fenamiphos",
+   "interactingChemical": "fenamiphos",
    "ic50": "6.9",
    "ki": "",
    "reference": "29448871",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -68865,7 +68865,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Phosmet",
+   "interactingChemical": "phosmet",
    "ic50": "3.6",
    "ki": "",
    "reference": "29448871",
@@ -68878,12 +68878,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Phosmet",
+   "interactingChemical": "phosmet",
    "ic50": "7.9",
    "ki": "",
    "reference": "29448871",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Rhodamine 123"
+   "affectedSubstrate": "rhodamine_123"
   }
  },
  {
@@ -68891,12 +68891,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A2",
-   "interactingChemical": "Propamocarb",
+   "interactingChemical": "propamocarb",
    "ic50": "38.1",
    "ki": "",
    "reference": "32421406",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4-DiASP"
+   "affectedSubstrate": "4-diasp"
   }
  },
  {
@@ -68904,7 +68904,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Cefaclor",
+   "interactingChemical": "cefaclor",
    "ic50": "1095.6",
    "ki": "",
    "reference": "16098483",
@@ -68917,7 +68917,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Cefdinir",
+   "interactingChemical": "cefdinir",
    "ic50": "691.8",
    "ki": "",
    "reference": "16098483",
@@ -68930,7 +68930,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Cefoselis",
+   "interactingChemical": "cefoselis",
    "ic50": "2600.5",
    "ki": "",
    "reference": "16098483",
@@ -68943,7 +68943,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Cefotiam",
+   "interactingChemical": "cefotiam",
    "ic50": "639.7",
    "ki": "",
    "reference": "16098483",
@@ -68956,7 +68956,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Ceftibuten",
+   "interactingChemical": "ceftibuten",
    "ic50": "563.1",
    "ki": "",
    "reference": "16098483",
@@ -68969,7 +68969,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Ceftizoxime",
+   "interactingChemical": "ceftizoxime",
    "ic50": "3598.6",
    "ki": "",
    "reference": "16098483",
@@ -68982,7 +68982,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Cephaloridine",
+   "interactingChemical": "cephaloridine",
    "ic50": "2470",
    "ki": "",
    "reference": "16098483",
@@ -68995,12 +68995,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "(-)-Zearalenone",
+   "interactingChemical": "(-)-zearalenone",
    "ic50": "147",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69008,12 +69008,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Aflatoxin B1",
+   "interactingChemical": "aflatoxin_b1",
    "ic50": "12.3",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69021,12 +69021,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Alpha-zearalenol",
+   "interactingChemical": "alpha-zearalenol",
    "ic50": "28.4",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69034,12 +69034,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Citreoviridin A",
+   "interactingChemical": "citreoviridin_a",
    "ic50": "16.9",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69047,12 +69047,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Cyclopiazonic acid",
+   "interactingChemical": "cyclopiazonic_acid",
    "ic50": "6.59",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69060,12 +69060,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Fumonisin B1",
+   "interactingChemical": "fumonisin_b1",
    "ic50": "768",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69073,12 +69073,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Gliotoxin",
+   "interactingChemical": "gliotoxin",
    "ic50": "117",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69086,12 +69086,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Patulin",
+   "interactingChemical": "patulin",
    "ic50": "44.8",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "para-aminohippuric acid"
+   "affectedSubstrate": "para-aminohippuric_acid"
   }
  },
  {
@@ -69099,7 +69099,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A6",
-   "interactingChemical": "Aristolochic acid I",
+   "interactingChemical": "aristolochic_acid_i",
    "ic50": "",
    "ki": "0.6",
    "reference": "19643159",
@@ -69112,12 +69112,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A7",
-   "interactingChemical": "(-)-Zearalenone",
+   "interactingChemical": "(-)-zearalenone",
    "ic50": "149",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "prostaglandin F2-alpha"
+   "affectedSubstrate": "prostaglandin_f2-alpha"
   }
  },
  {
@@ -69125,12 +69125,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A7",
-   "interactingChemical": "Aflatoxin B1",
+   "interactingChemical": "aflatoxin_b1",
    "ic50": "1502",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "prostaglandin F2-alpha"
+   "affectedSubstrate": "prostaglandin_f2-alpha"
   }
  },
  {
@@ -69138,12 +69138,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A7",
-   "interactingChemical": "Alpha-zearalenol",
+   "interactingChemical": "alpha-zearalenol",
    "ic50": "180",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "prostaglandin F2-alpha"
+   "affectedSubstrate": "prostaglandin_f2-alpha"
   }
  },
  {
@@ -69151,12 +69151,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A7",
-   "interactingChemical": "Cyclopiazonic acid",
+   "interactingChemical": "cyclopiazonic_acid",
    "ic50": "126",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "prostaglandin F2-alpha"
+   "affectedSubstrate": "prostaglandin_f2-alpha"
   }
  },
  {
@@ -69164,12 +69164,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Cefaclor",
+   "interactingChemical": "cefaclor",
    "ic50": "120.2",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69177,12 +69177,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Cefdinir",
+   "interactingChemical": "cefdinir",
    "ic50": "271.5",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69190,12 +69190,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Cefoselis",
+   "interactingChemical": "cefoselis",
    "ic50": "2925.1",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69203,12 +69203,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Cefotiam",
+   "interactingChemical": "cefotiam",
    "ic50": "212.6",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69216,12 +69216,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Ceftibuten",
+   "interactingChemical": "ceftibuten",
    "ic50": "247.3",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69229,12 +69229,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Ceftizoxime",
+   "interactingChemical": "ceftizoxime",
    "ic50": "956.7",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69242,12 +69242,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Cephaloridine",
+   "interactingChemical": "cephaloridine",
    "ic50": "626.4",
    "ki": "",
    "reference": "16098483",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69255,12 +69255,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "(-)-Zearalenone",
+   "interactingChemical": "(-)-zearalenone",
    "ic50": "6.71",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69268,12 +69268,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Aflatoxin B1",
+   "interactingChemical": "aflatoxin_b1",
    "ic50": "13.1",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69281,12 +69281,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Alpha-zearalenol",
+   "interactingChemical": "alpha-zearalenol",
    "ic50": "4.55",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69294,12 +69294,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Citreoviridin A",
+   "interactingChemical": "citreoviridin_a",
    "ic50": "6.63",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69307,12 +69307,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Cyclopiazonic acid",
+   "interactingChemical": "cyclopiazonic_acid",
    "ic50": "1.9",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69320,12 +69320,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Fumonisin B1",
+   "interactingChemical": "fumonisin_b1",
    "ic50": "181",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69333,12 +69333,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Gliotoxin",
+   "interactingChemical": "gliotoxin",
    "ic50": "73.9",
    "ki": "",
    "reference": "18319568",
    "system": "S2 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69346,12 +69346,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Aristolochic acid I",
+   "interactingChemical": "aristolochic_acid_i",
    "ic50": "",
    "ki": "0.5",
    "reference": "19643159",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69359,12 +69359,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Bisphenol A",
+   "interactingChemical": "bisphenol_a",
    "ic50": "9.2",
    "ki": "",
    "reference": "27989701",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69372,12 +69372,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Bisphenol F",
+   "interactingChemical": "bisphenol_f",
    "ic50": "26.8",
    "ki": "",
    "reference": "27989701",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69385,12 +69385,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Bisphenol S",
+   "interactingChemical": "bisphenol_s",
    "ic50": "23.3",
    "ki": "",
    "reference": "27989701",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69398,12 +69398,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "0.5",
    "ki": "",
    "reference": "27989701",
    "system": "HEK293 cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69411,12 +69411,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "69.4",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Fluorescein"
+   "affectedSubstrate": "fluorescein"
   }
  },
  {
@@ -69424,12 +69424,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC22A8",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "77.6",
    "ki": "",
    "reference": "28099443",
    "system": "HEK293 cells",
-   "affectedSubstrate": "Fluorescein"
+   "affectedSubstrate": "fluorescein"
   }
  },
  {
@@ -69437,7 +69437,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Tetrabutylammonium",
+   "interactingChemical": "tetrabutylammonium",
    "ic50": "18",
    "ki": "",
    "reference": "17495125",
@@ -69450,7 +69450,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slc47a1",
-   "interactingChemical": "Tetrabutylammonium",
+   "interactingChemical": "tetrabutylammonium",
    "ic50": "13",
    "ki": "",
    "reference": "17495125",
@@ -69463,7 +69463,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Tetraethylammonium",
+   "interactingChemical": "tetraethylammonium",
    "ic50": "121",
    "ki": "",
    "reference": "17495125",
@@ -69476,7 +69476,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slc47a1",
-   "interactingChemical": "Tetraethylammonium",
+   "interactingChemical": "tetraethylammonium",
    "ic50": "153",
    "ki": "",
    "reference": "17495125",
@@ -69489,7 +69489,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Tetramethylammonium",
+   "interactingChemical": "tetramethylammonium",
    "ic50": "5073",
    "ki": "",
    "reference": "17495125",
@@ -69502,7 +69502,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slc47a1",
-   "interactingChemical": "Tetramethylammonium",
+   "interactingChemical": "tetramethylammonium",
    "ic50": "5880",
    "ki": "",
    "reference": "17495125",
@@ -69515,7 +69515,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Tetrapropylammonium",
+   "interactingChemical": "tetrapropylammonium",
    "ic50": "63",
    "ki": "",
    "reference": "17495125",
@@ -69528,7 +69528,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slc47a1",
-   "interactingChemical": "Tetrapropylammonium",
+   "interactingChemical": "tetrapropylammonium",
    "ic50": "42",
    "ki": "",
    "reference": "17495125",
@@ -69541,7 +69541,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Bisphenol A",
+   "interactingChemical": "bisphenol_a",
    "ic50": "73.5",
    "ki": "",
    "reference": "27989701",
@@ -69554,7 +69554,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "23.1",
    "ki": "",
    "reference": "27989701",
@@ -69567,7 +69567,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "50.2",
    "ki": "",
    "reference": "28099443",
@@ -69580,7 +69580,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLC47A1",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "47.5",
    "ki": "",
    "reference": "28099443",
@@ -69593,12 +69593,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slco1a1",
-   "interactingChemical": "Perfluorodecanoic acid ",
+   "interactingChemical": "perfluorodecanoic_acid",
    "ic50": "",
    "ki": "26.8",
    "reference": "19616083",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69606,12 +69606,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slco1a1",
-   "interactingChemical": "Perfluoroheptanoic acid",
+   "interactingChemical": "perfluoroheptanoic_acid",
    "ic50": "",
    "ki": "398.9",
    "reference": "19616083",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69619,12 +69619,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slco1a1",
-   "interactingChemical": "Perfluorohexanoic acid ",
+   "interactingChemical": "perfluorohexanoic_acid",
    "ic50": "",
    "ki": "1857.8",
    "reference": "19616083",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69632,12 +69632,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slco1a1",
-   "interactingChemical": "Perfluorononanoic acid ",
+   "interactingChemical": "perfluorononanoic_acid",
    "ic50": "",
    "ki": "44.6",
    "reference": "19616083",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69645,12 +69645,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "rat_Slco1a1",
-   "interactingChemical": "Perfluorooctanoic acid",
+   "interactingChemical": "perfluorooctanoic_acid",
    "ic50": "",
    "ki": "83.8",
    "reference": "19616083",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69658,7 +69658,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Antamanide",
+   "interactingChemical": "antamanide",
    "ic50": "1",
    "ki": "",
    "reference": "14530907",
@@ -69671,7 +69671,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Bromosulfophthalein",
+   "interactingChemical": "bromosulfophthalein",
    "ic50": "0.05",
    "ki": "",
    "reference": "14530907",
@@ -69684,7 +69684,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "0.5",
    "ki": "0.051",
    "reference": "14530907",
@@ -69697,7 +69697,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Sirolimus",
+   "interactingChemical": "sirolimus",
    "ic50": "1.1",
    "ki": "",
    "reference": "14530907",
@@ -69710,7 +69710,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Tacrolimus",
+   "interactingChemical": "tacrolimus",
    "ic50": "3.7",
    "ki": "",
    "reference": "14530907",
@@ -69723,7 +69723,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Antamanide",
+   "interactingChemical": "antamanide",
    "ic50": "100",
    "ki": "",
    "reference": "16495352",
@@ -69736,7 +69736,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "3.5",
    "ki": "",
    "reference": "16495352",
@@ -69749,7 +69749,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "MK571",
+   "interactingChemical": "mk571",
    "ic50": "5",
    "ki": "",
    "reference": "16495352",
@@ -69762,7 +69762,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Montelukast",
+   "interactingChemical": "montelukast",
    "ic50": "10",
    "ki": "",
    "reference": "16495352",
@@ -69775,7 +69775,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Paclitaxel",
+   "interactingChemical": "paclitaxel",
    "ic50": "50",
    "ki": "",
    "reference": "16495352",
@@ -69788,7 +69788,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Rifampicin",
+   "interactingChemical": "rifampicin",
    "ic50": "120",
    "ki": "",
    "reference": "16495352",
@@ -69801,7 +69801,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Silibinin dihemisuccinate",
+   "interactingChemical": "silibinin_dihemisuccinate",
    "ic50": "10",
    "ki": "",
    "reference": "16495352",
@@ -69814,12 +69814,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Bisphenol A",
+   "interactingChemical": "bisphenol_a",
    "ic50": "18.7",
    "ki": "",
    "reference": "27989701",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69827,12 +69827,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Bisphenol F",
+   "interactingChemical": "bisphenol_f",
    "ic50": "13.4",
    "ki": "",
    "reference": "27989701",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69840,12 +69840,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "0.6",
    "ki": "",
    "reference": "27989701",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69853,12 +69853,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Allethrin",
+   "interactingChemical": "allethrin",
    "ic50": "16.5",
    "ki": "",
    "reference": "28099443",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69866,12 +69866,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Tetramethrin",
+   "interactingChemical": "tetramethrin",
    "ic50": "5.7",
    "ki": "",
    "reference": "28099443",
    "system": "CHO cells",
-   "affectedSubstrate": "estrone sulfate"
+   "affectedSubstrate": "estrone_sulfate"
   }
  },
  {
@@ -69879,12 +69879,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Nobiletin",
+   "interactingChemical": "nobiletin",
    "ic50": "2.1",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -69892,12 +69892,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Rifampicin",
+   "interactingChemical": "rifampicin",
    "ic50": "2.4",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -69905,12 +69905,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Sinensetin",
+   "interactingChemical": "sinensetin",
    "ic50": "8",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -69918,12 +69918,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B1",
-   "interactingChemical": "Tangeretin",
+   "interactingChemical": "tangeretin",
    "ic50": "4.8",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -69931,12 +69931,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Antamanide",
+   "interactingChemical": "antamanide",
    "ic50": "0.7",
    "ki": "0.7",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -69944,7 +69944,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Antamanide",
+   "interactingChemical": "antamanide",
    "ic50": "15",
    "ki": "",
    "reference": "16495352",
@@ -69957,12 +69957,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Bromosulfophthalein",
+   "interactingChemical": "bromosulfophthalein",
    "ic50": "3",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -69970,12 +69970,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "0.3",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -69983,7 +69983,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "0.3",
    "ki": "",
    "reference": "16495352",
@@ -69996,7 +69996,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "MK571",
+   "interactingChemical": "mk571",
    "ic50": "0.3",
    "ki": "",
    "reference": "16495352",
@@ -70009,12 +70009,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "MK571",
+   "interactingChemical": "mk571",
    "ic50": "0.5",
    "ki": "0.2",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70022,7 +70022,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Montelukast",
+   "interactingChemical": "montelukast",
    "ic50": "0.5",
    "ki": "",
    "reference": "16495352",
@@ -70035,12 +70035,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Montelukast",
+   "interactingChemical": "montelukast",
    "ic50": "15",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70048,12 +70048,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Paclitaxel",
+   "interactingChemical": "paclitaxel",
    "ic50": "2",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70061,7 +70061,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Paclitaxel",
+   "interactingChemical": "paclitaxel",
    "ic50": "4",
    "ki": "",
    "reference": "16495352",
@@ -70074,12 +70074,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Penicillin G",
+   "interactingChemical": "penicillin_g",
    "ic50": "25",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70087,12 +70087,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Prednisolone phosphate",
+   "interactingChemical": "prednisolone_phosphate",
    "ic50": "75",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70100,12 +70100,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Rifampicin",
+   "interactingChemical": "rifampicin",
    "ic50": "0.8",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70113,7 +70113,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Rifampicin",
+   "interactingChemical": "rifampicin",
    "ic50": "1.5",
    "ki": "",
    "reference": "16495352",
@@ -70126,12 +70126,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Silibinin dihemisuccinate",
+   "interactingChemical": "silibinin_dihemisuccinate",
    "ic50": "0.4",
    "ki": "2.1",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70139,7 +70139,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Silibinin dihemisuccinate",
+   "interactingChemical": "silibinin_dihemisuccinate",
    "ic50": "1",
    "ki": "",
    "reference": "16495352",
@@ -70152,12 +70152,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Sincalide",
+   "interactingChemical": "sincalide",
    "ic50": "10",
    "ki": "",
    "reference": "16495352",
    "system": "MDCK-II cells",
-   "affectedSubstrate": "O-methyl-dehydroxymethyl-alpha-amanitin"
+   "affectedSubstrate": "o-methyl-dehydroxymethyl-alpha-amanitin"
   }
  },
  {
@@ -70165,12 +70165,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Tetrabromobisphenol A",
+   "interactingChemical": "tetrabromobisphenol_a",
    "ic50": "12.1",
    "ki": "",
    "reference": "27989701",
    "system": "CHO cells",
-   "affectedSubstrate": "Fluorescein"
+   "affectedSubstrate": "fluorescein"
   }
  },
  {
@@ -70178,12 +70178,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Nobiletin",
+   "interactingChemical": "nobiletin",
    "ic50": "6.6",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -70191,12 +70191,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Rifampicin",
+   "interactingChemical": "rifampicin",
    "ic50": "2.1",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -70204,12 +70204,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Sinensetin",
+   "interactingChemical": "sinensetin",
    "ic50": "21.1",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -70217,12 +70217,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO1B3",
-   "interactingChemical": "Tangeretin",
+   "interactingChemical": "tangeretin",
    "ic50": "5.6",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": " 8-Fluorescein-cAMP"
+   "affectedSubstrate": "8-fluorescein-camp"
   }
  },
  {
@@ -70230,7 +70230,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Cyclosporin A",
+   "interactingChemical": "cyclosporin_a",
    "ic50": "20",
    "ki": "",
    "reference": "16495352",
@@ -70243,7 +70243,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "MK571",
+   "interactingChemical": "mk571",
    "ic50": "0.2",
    "ki": "",
    "reference": "16495352",
@@ -70256,7 +70256,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Montelukast",
+   "interactingChemical": "montelukast",
    "ic50": "1",
    "ki": "",
    "reference": "16495352",
@@ -70269,7 +70269,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Paclitaxel",
+   "interactingChemical": "paclitaxel",
    "ic50": "25",
    "ki": "",
    "reference": "16495352",
@@ -70282,7 +70282,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Rifampicin",
+   "interactingChemical": "rifampicin",
    "ic50": "90",
    "ki": "",
    "reference": "16495352",
@@ -70295,7 +70295,7 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Silibinin dihemisuccinate",
+   "interactingChemical": "silibinin_dihemisuccinate",
    "ic50": "1",
    "ki": "",
    "reference": "16495352",
@@ -70308,12 +70308,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Didymin",
+   "interactingChemical": "didymin",
    "ic50": "3.8",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
@@ -70321,12 +70321,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Hesperidin",
+   "interactingChemical": "hesperidin",
    "ic50": "8.3",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
@@ -70334,12 +70334,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Naringin",
+   "interactingChemical": "naringin",
    "ic50": "6.9",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
@@ -70347,12 +70347,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Narirutin",
+   "interactingChemical": "narirutin",
    "ic50": "14.2",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
@@ -70360,12 +70360,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Nobiletin",
+   "interactingChemical": "nobiletin",
    "ic50": "1.6",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
@@ -70373,12 +70373,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Sinensetin",
+   "interactingChemical": "sinensetin",
    "ic50": "5.4",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
@@ -70386,12 +70386,12 @@
   "model": "transporterDatabase.invitroinhibitor",
   "fields": {
    "trans": "SLCO2B1",
-   "interactingChemical": "Tangeretin",
+   "interactingChemical": "tangeretin",
    "ic50": "1.6",
    "ki": "",
    "reference": "32661908",
    "system": "HEK293 cells",
-   "affectedSubstrate": "4',5'-dibromofluorescein"
+   "affectedSubstrate": "45-dibromofluorescein"
   }
  },
  {
