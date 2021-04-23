@@ -171,10 +171,19 @@ for line in reader:
         chemicalsEnd += 1
         inVitroInhibitorsEnd += 1
         inVitroSubstratesEnd += 1
+    temp = line['Reporter molecule']
+    if temp.startswith('[3H]'):
+        temp = temp[4:].strip()
+    if not slugify(temp) in chemicals:
+        data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
+        chemicals.add(slugify(temp))
+        chemicalsEnd += 1
+        inVitroInhibitorsEnd += 1
+        inVitroSubstratesEnd += 1
     if line['Interaction Type'] == 'Inhibitor':
         affectChem = line['Reporter molecule']
         if affectChem.startswith('[3H]'):
-            affectChem = affectChem[4:].strip()
+            affectChem = affectChem[4:].strip()	
         ic50 = line['IC50 (uM)']
         ec50 = line['EC 50 (uM)']
         ki = line['Ki (uM)']
@@ -189,7 +198,7 @@ for line in reader:
         interactChem = line['Chemical']
         trans = line['Transporter Protein']
         assayType = line['Assay type']
-        data.insert(inVitroInhibitorsEnd+1,{u'pk': numInVitroInhibitors+1, u'model': u'transporterDatabase.invitroinhibitor', u'fields': {u'trans': trans, u'interactingChemical': interactChem, u'ic50': inhibVal, u'ki': ki, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem, u'assayType': assayType}})
+        data.insert(inVitroInhibitorsEnd+1,{u'pk': numInVitroInhibitors+1, u'model': u'transporterDatabase.invitroinhibitor', u'fields': {u'trans': trans, u'interactingChemical': slugify(interactChem), u'ic50': inhibVal, u'ki': ki, u'reference': ref, u'system': system, u'affectedSubstrate': slugify(affectChem), u'assayType': assayType}})
         numInVitroInhibitors += 1
         inVitroInhibitorsEnd += 1
         inVitroSubstratesEnd += 1
@@ -198,10 +207,10 @@ for line in reader:
         km = line['Km (uM)']
         ref = line['Pubmed ID']
         system = line['In Vitro System']
-        substrate = slugify(line['Chemical'])
+        substrate = line['Chemical']
         assayType = line['Assay type']
         trans = line['Transporter Protein']
-        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'trans': trans, u'substrate': substrate, u'km': km, u'reference': ref, u'system': system, u'assayType': assayType}})
+        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'trans': trans, u'substrate': slugify(substrate), u'km': km, u'reference': ref, u'system': system, u'assayType': assayType}})
         numInVitroSubstrates += 1
         inVitroSubstratesEnd += 1
 
