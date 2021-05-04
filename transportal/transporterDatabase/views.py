@@ -390,4 +390,23 @@ def testticbase(request, transporter_id):
         inVitroInhibitor = InVitroInhibitor.objects.filter(trans=transporter_id).order_by('interactingChemical','affectedSubstrate')
         inVitroSubstrate = InVitroSubstrate.objects.filter(trans=transporter_id).order_by('substrate')
         transporter = Transporter.objects.get(pk=transporter_id)
-        return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate})
+        otherTrans = Transporter.objects.filter(humanTransporter=transporter_id).exclude(symbol=transporter_id)
+        return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'otherTrans':otherTrans})
+
+def testticbase1(request, transporter_id):
+        inVitroInhibitor = InVitroInhibitor.objects.filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
+        inVitroSubstrate = InVitroSubstrate.objects.filter(trans__humanTransporter=transporter_id).order_by('substrate')
+        transporter = Transporter.objects.get(pk=transporter_id)
+        return render_to_response('testticbase1.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate})
+
+def testticbase2(request, transporter_id):
+        inVitroInhibitor = InVitroInhibitor.objects.filter(trans=transporter_id).order_by('interactingChemical','affectedSubstrate')
+        inVitroSubstrate = InVitroSubstrate.objects.filter(trans=transporter_id).order_by('substrate')
+        transporter = Transporter.objects.get(pk=transporter_id)
+        mouseInhibitor = InVitroInhibitor.objects.filter(trans__species='Mus musculus').filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
+        mouseSubstrate = InVitroSubstrate.objects.filter(trans__species='Mus musculus').filter(trans__humanTransporter=transporter_id).order_by('substrate')
+        ratInhibitor = InVitroInhibitor.objects.filter(trans__species='Rattus norvegicus').filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
+        ratSubstrate = InVitroSubstrate.objects.filter(trans__species='Rattus norvegicus').filter(trans__humanTransporter=transporter_id).order_by('substrate')
+        grivetInhibitor = InVitroInhibitor.objects.filter(trans__species='Chlorocebus aethiops').filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
+        grivetSubstrate = InVitroSubstrate.objects.filter(trans__species='Chlorocebus aethiops').filter(trans__humanTransporter=transporter_id).order_by('substrate')
+        return render_to_response('testticbase2.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'mouseInhibitor':mouseInhibitor, 'mouseSubstrate':mouseSubstrate, 'ratInhibitor':ratInhibitor, 'ratSubstrate':ratSubstrate, 'grivetInhibitor':grivetInhibitor, 'grivetSubstrate':grivetSubstrate})

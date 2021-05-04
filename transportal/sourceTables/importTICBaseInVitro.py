@@ -131,12 +131,14 @@ for line in reader:
             synsFull = additionalTransInfo[trans]['synonymFull']
             species = additionalTransInfo[trans]['species']
             ncbiid = additionalTransInfo[trans]['ncbiID']
+            humanTransporter = additionalTransInfo[transporterName]['humanTransporter']
         else:
             syns = u''
             synsFull = u''
             species = u''
             ncbiid = u''
-        data.insert(transportersEnd+1,{u'pk': trans, u'model': u'transporterDatabase.transporter', u'fields': {u'synonymsFull': synsFull, u'synonyms': syns, u'species': species, u'ncbiID': ncbiid}})
+            humanTransporter = u''
+        data.insert(transportersEnd+1,{u'pk': trans, u'model': u'transporterDatabase.transporter', u'fields': {u'synonymsFull': synsFull, u'synonyms': syns, u'species': species, u'ncbiID': ncbiid, u'humanTransporter': humanTransporter}})
         transporters.add(trans)
         transportersEnd += 1
         referencesEnd += 1

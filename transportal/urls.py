@@ -35,6 +35,8 @@ urlpatterns = [
     url(r'^compounds/(?P<compound_id>[\w\+\(\)-]+)/$', views.compound),
     url(r'^ddi-info/(?P<ddi_id>\w+)/$', views.ddi),
     url(r'^testticbase/(?P<transporter_id>\w+)/$', views.testticbase),
+    url(r'^testticbase1/(?P<transporter_id>\w+)/$', views.testticbase1),
+    url(r'^testticbase2/(?P<transporter_id>\w+)/$', views.testticbase2),
     url(r'^search$', views.search),
     url(r'^sitemap.xml$', views.sitemap),
     url(r'^$', views.home),

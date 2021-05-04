@@ -92,14 +92,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 <a href="#InVitInhib"><i>In vitro</i> Inhibitors</a><br />
 <a href="#InVitSub"><i>In vitro</i> Substrates</a><br />
 <br />
-{% if otherTrans %}
-<h2>Orthologs in other species</h2>
-{% for instance in otherTrans %}
-<a href="../{{instance.symbol}}/">{{instance}}</a>
-{% endfor %}
-<br />
-{% endif %}
-<h2><a name="InVitInhib"><i>In vitro</i> Inhibitors</a></h2>
+<h2><a name="InVitInhib"><i>In vitro</i> Inhibitors including orthologs</a></h2>
 {% if inVitroInhibitor %}
     <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
     <tr style="background-color:#FFAD5C">
@@ -138,7 +131,7 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 {% endif %}
 <br />
 <a href="#content">Back to top</a>
-<h2><a name="InVitSub"><i>In vitro</i> Substrates</a></h2>
+<h2><a name="InVitSub"><i>In vitro</i> Substrates including orthologs</a></h2>
 {% if inVitroSubstrate %}
     <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
     <tr style="background-color:#FFAD5C">

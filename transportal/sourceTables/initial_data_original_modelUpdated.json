@@ -6,7 +6,8 @@
    "synonyms": "MDR1, P-gp",
    "synonymsFull": "ABC20, CD243, CLCS, GP170, MDR1, MGC163296, P-GP, PGP, PGY1",
    "ncbiID": "5243",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCB1"
   }
  },
  {
@@ -16,7 +17,8 @@
    "synonyms": "MDR3",
    "synonymsFull": "ABC21, GBD1, MDR2, MDR2/3, MDR3, PFIC-3, PGY3",
    "ncbiID": "5244",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCB4"
   }
  },
  {
@@ -26,7 +28,8 @@
    "synonyms": "BSEP",
    "synonymsFull": "ABC16, BRIC2, BSEP, PFIC-2, PFIC2, PGY4, SPGP",
    "ncbiID": "8647",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCB11"
   }
  },
  {
@@ -36,7 +39,8 @@
    "synonyms": "MRP1",
    "synonymsFull": "ABC29, ABCC, DKFZp686N04233, DKFZp781G125, GS-X, MRP, MRP1",
    "ncbiID": "4363",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCC1"
   }
  },
  {
@@ -46,7 +50,8 @@
    "synonyms": "MRP2, cMOAT",
    "synonymsFull": "ABC30, CMOAT, DJS, KIAA1010, MRP2, cMRP",
    "ncbiID": "1244",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCC2"
   }
  },
  {
@@ -56,7 +61,8 @@
    "synonyms": "MRP3",
    "synonymsFull": "ABC31, DKFZp686E22157, EST90757, MLP2, MOAT-D, MRP3, cMOAT2",
    "ncbiID": "8714",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCC3"
   }
  },
  {
@@ -66,7 +72,8 @@
    "synonyms": "MRP4",
    "synonymsFull": "EST170205, MOAT-B, MOATB, MRP4",
    "ncbiID": "10257",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCC4"
   }
  },
  {
@@ -76,7 +83,8 @@
    "synonyms": "MRP5",
    "synonymsFull": "ABC33, DKFZp686C1782, EST277145, MOAT-C, MOATC, MRP5, SMRP, pABC11",
    "ncbiID": "10057",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCC5"
   }
  },
  {
@@ -86,7 +94,8 @@
    "synonyms": "MRP6",
    "synonymsFull": "ABC34, ARA, EST349056, MLP1, MOATE, MRP6, PXE, PXE1, URG7",
    "ncbiID": "368",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCC6"
   }
  },
  {
@@ -96,7 +105,8 @@
    "synonyms": "BCRP, MXR",
    "synonymsFull": "ABC15, ABCP, BCRP, BCRP1, BMDP, CD338, CDw338, EST157481, MGC102821, MRX, MXR, MXR1",
    "ncbiID": "9429",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "ABCG2"
   }
  },
  {
@@ -106,7 +116,8 @@
    "synonyms": "OSTA",
    "synonymsFull": "MGC39807, OSTA",
    "ncbiID": "200931",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "OSTalpha"
   }
  },
  {
@@ -116,7 +127,8 @@
    "synonyms": "OSTB",
    "synonymsFull": "FLJ26090, MGC118959, MGC118960, MGC118961, OSTB",
    "ncbiID": "123264",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "OSTbeta"
   }
  },
  {
@@ -126,7 +138,8 @@
    "synonyms": "NTCP",
    "synonymsFull": "NTCP",
    "ncbiID": "6554",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC10A1"
   }
  },
  {
@@ -136,7 +149,8 @@
    "synonyms": "ASBT, SBAT2",
    "synonymsFull": "ASBT, IBAT, ISBT, NTCP2, PBAM",
    "ncbiID": "6555",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC10A2"
   }
  },
  {
@@ -146,7 +160,8 @@
    "synonyms": "PEPT1",
    "synonymsFull": "HPECT1, HPEPT1, PEPT1",
    "ncbiID": "6564",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC15A1"
   }
  },
  {
@@ -156,7 +171,8 @@
    "synonyms": "PEPT2",
    "synonymsFull": "FLJ33407, PEPT2",
    "ncbiID": "6565",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC15A2"
   }
  },
  {
@@ -166,7 +182,8 @@
    "synonyms": "OCT1",
    "synonymsFull": "HOCT1, OCT1, oct1_cds",
    "ncbiID": "6580",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A1"
   }
  },
  {
@@ -176,7 +193,8 @@
    "synonyms": "OCT2",
    "synonymsFull": "MGC32628, OCT2",
    "ncbiID": "6582",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A2"
   }
  },
  {
@@ -186,7 +204,8 @@
    "synonyms": "OCT3",
    "synonymsFull": "EMT, EMTH, OCT3",
    "ncbiID": "6581",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A3"
   }
  },
  {
@@ -196,7 +215,8 @@
    "synonyms": "OCTN1",
    "synonymsFull": "MGC34546, MGC40524, OCTN1",
    "ncbiID": "6583",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A4"
   }
  },
  {
@@ -206,7 +226,8 @@
    "synonyms": "OCTN2",
    "synonymsFull": "CDSP, FLJ46769, OCTN2, OCTN2VT",
    "ncbiID": "6584",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A5"
   }
  },
  {
@@ -216,7 +237,8 @@
    "synonyms": "OAT1",
    "synonymsFull": "FLJ55736, HOAT1, MGC45260, OAT1, PAHT, ROAT1",
    "ncbiID": "9356",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A6"
   }
  },
  {
@@ -226,7 +248,8 @@
    "synonyms": "OAT2",
    "synonymsFull": "MGC24091, MGC45202, NLT, OAT2",
    "ncbiID": "10864",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A7"
   }
  },
  {
@@ -236,7 +259,8 @@
    "synonyms": "OAT3",
    "synonymsFull": "MGC24086, OAT3",
    "ncbiID": "9376",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A8"
   }
  },
  {
@@ -246,7 +270,8 @@
    "synonyms": "OAT4",
    "synonymsFull": "MGC34282, OAT4, hOAT4",
    "ncbiID": "55867",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A11"
   }
  },
  {
@@ -256,7 +281,8 @@
    "synonyms": "URAT1",
    "synonymsFull": "OAT4L, RST, URAT1",
    "ncbiID": "116085",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC22A12"
   }
  },
  {
@@ -266,7 +292,8 @@
    "synonyms": "MATE1",
    "synonymsFull": "FLJ10847, MATE1, MGC64822",
    "ncbiID": "55244",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC47A1"
   }
  },
  {
@@ -276,7 +303,8 @@
    "synonyms": "MATE2K",
    "synonymsFull": "FLJ31196, MATE2, MATE2-B, MATE2-K, MATE2K",
    "ncbiID": "146802",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLC47A2"
   }
  },
  {
@@ -286,7 +314,8 @@
    "synonyms": "OATP1A2, OATP-A",
    "synonymsFull": "OATP, OATP-A, OATP1A2, SLC21A3",
    "ncbiID": "6579",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLCO1A2"
   }
  },
  {
@@ -296,7 +325,8 @@
    "synonyms": "OATP1B1, OATP-C, OATP2, LST-1",
    "synonymsFull": "LST-1, LST1, MGC133282, OATP-C, OATP1B1, OATP2, OATPC, SLC21A6",
    "ncbiID": "10599",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLCO1B1"
   }
  },
  {
@@ -306,7 +336,8 @@
    "synonyms": "OATP1B3, OATP8",
    "synonymsFull": "LST-3TM13, LST3, OATP1B3, OATP8, SLC21A8",
    "ncbiID": "28234",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLCO1B3"
   }
  },
  {
@@ -316,7 +347,8 @@
    "synonyms": "OATP2B1, OATP-B",
    "synonymsFull": "DKFZp686E0517, KIAA0880, OATP-B, OATP2B1, OATPB, SLC21A9",
    "ncbiID": "11309",
-   "species": "Homo sapiens"
+   "species": "Homo sapiens",
+   "humanTransporter": "SLCO2B1"
   }
  },
  {

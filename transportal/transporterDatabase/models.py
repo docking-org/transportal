@@ -1,11 +1,12 @@
 from django.db import models
 
 class Transporter(models.Model):
-	symbol = models.CharField(max_length=10, primary_key=True)
+	symbol = models.CharField(max_length=20, primary_key=True)
 	synonyms = models.CharField(max_length=100, verbose_name="limited list of synonyms")
 	synonymsFull = models.CharField(max_length=100, verbose_name="all synonyms from NCBI database")
 	ncbiID = models.CharField(max_length=10, null=True)
 	species = models.CharField(max_length=20, null=True)
+	humanTransporter = models.CharField(max_length=10)
 	def __str__(self):
 		return self.symbol.replace('_',' ')
 
