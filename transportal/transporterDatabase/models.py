@@ -6,8 +6,8 @@ class Transporter(models.Model):
 	synonymsFull = models.CharField(max_length=100, verbose_name="all synonyms from NCBI database")
 	ncbiID = models.CharField(max_length=10, null=True)
 	species = models.CharField(max_length=20, null=True)
-	def __unicode__(self):
-		return self.symbol
+	def __str__(self):
+		return self.symbol.replace('_',' ')
 
 class Organ(models.Model):
 	name = models.CharField(max_length=30, primary_key=True)
