@@ -95,9 +95,8 @@ Search:&nbsp;<input size=15 type="text" name="keyword">&nbsp;<input type="submit
 {% if otherTrans %}
 <h2>Orthologs in other species</h2>
 {% for instance in otherTrans %}
-<a href="../{{instance.symbol}}/">{{instance}}</a>
+<a href="../{{instance.symbol}}/">{{instance}}</a><br />
 {% endfor %}
-<br />
 {% endif %}
 <h2><a name="InVitInhib"><i>In vitro</i> Inhibitors</a></h2>
 {% if inVitroInhibitor %}
