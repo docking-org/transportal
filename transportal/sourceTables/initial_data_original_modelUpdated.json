@@ -45478,7 +45478,7 @@
    "trans": "SLC22A1",
    "cellSystem": "OCT1-expressing oocytes",
    "km": "14.6",
-   "cmpnd": "n-methylpyridinium",
+   "cmpnd": "1-methyl-4-phenylpyridinium-(mpp+)",
    "cmpndClinical": false
   }
  },
@@ -59475,7 +59475,7 @@
   "pk": 696,
   "model": "transporterDatabase.inhibitor",
   "fields": {
-   "ic50": "4",
+   "ic50": "0.8",
    "substrate": "bosentan",
    "reference": "17496208",
    "ki": null,

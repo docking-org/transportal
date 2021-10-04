@@ -1,9 +1,0 @@
-Transporter	Organ	Transcript	Adult/Children	Source	Unit	Method
-ABCG2	Brain Cortex	10.8564	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Colon Sigmoid	1.2953	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Colon Transverse	3.08483	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Kidney Cortex	1.46284	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Kidney Medulla	1.38244	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Liver	4.0431	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Stomach	0.944095	Adult	https://gtexportal.org/home/	TPM	RNAseq
-ABCG2	Whole Blood	0.274278	Adult	https://gtexportal.org/home/	TPM	RNAseq

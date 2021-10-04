@@ -1,2 +1,0 @@
-Transporter	DDI	Implicated Transporter	Interacting Drug	Affected Drug	AUC	Cmax	CLR	CL/F	t1/2	Effect on PD	Reference
-SLCO2B1		SLCO2B1	Ronacaleret	Rosuvastatin	0.52	0.66	ND	ND	1	ND	27737931

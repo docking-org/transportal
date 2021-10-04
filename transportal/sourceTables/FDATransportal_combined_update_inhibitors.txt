@@ -1,0 +1,2184 @@
+Transporter	Inhibitor	IC50 (uM)	KI (uM)	Substrate used	Cell system	References	OtherLink	
+ABCC2	Bilirubin monoglucuronide	0.28		Leukotriene C4	MRP2-expressing HepG2 cells	9355767		
+ABCC2	Bilirubin bisglucuronide	0.4		Leukotriene C4	MRP2-expressing HepG2 cells	9355767		
+ABCC2	Cyclosporine		21	monoglucuronosyl bilirubin	MRP2-expressing HEK vesicles	10421658		
+ABCC2	Leukotrien C4	3.3		para-aminohippurate	MRP2-expressing HEK vesicles	10760098		
+ABCC2	MK-571	4		para-aminohippurate	MRP2-expressing HEK vesicles	10760098		
+ABCC2	Ochratoxin A	58		para-aminohippurate	MRP2-expressing HEK vesicles	10760098		
+ABCC2	Atorvastatin lactone	15		calcein AM	MRP2-expressing MDCK cells	15616150		
+ABCC2	VINBLASTINE	21		calcein AM	MRP2-expressing MDCK cells	15616150		
+ABCC2	Simvastatin lactone	25		calcein AM	MRP2-expressing MDCK cells	15616150		
+ABCC2	Probenecid		42.2	"S-(2,4-dinitrophenyl)-glutathione"	Liver canalicular membrane vesicles	15618649		
+ABCC2	MK-571	10		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	18457386		
+ABCC2	Cyclosporine	13.6		calcein AM	MRP2-expressing MDCK-II cells	18707884		
+ABCC2	MK-571	20.7		calcein AM	MRP2-expressing MDCK-II cells	18707884		
+ABCC2	verapamil	200		calcein AM	MRP2-expressing MDCK-II cells	18707884		
+ABCC2	Indomethacin	235		calcein AM	MRP2-expressing MDCK-II cells	18707884		
+ABCC2	LCT4	0.15		chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519		
+ABCC2	MK-571	1		chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519		
+ABCC2	KO-143	50		chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519		
+ABCC2	KO-143+C15	50		chloromethylfluorescein-diacetate	MRP2-expressing MDCK cells	19170519		
+ABCC2	myricetin	22		calcein AM	MRP2-expressing MDCK-II cells	19725578		
+ABCC2	diosmetin	50		calcein AM	MRP2-expressing MDCK-II cells	19725578		
+ABCC2	chrysoeril	50		calcein AM	MRP2-expressing MDCK-II cells	19725578		
+ABCC2	Etravirine	7.8		calcein AM	MRP2-expressing MDCK-II cells	21189339		
+ABCC2	Isoscutellarin	50		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	22822035		
+ABCC2	Scutellarin	75		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	22822035		
+ABCC2	Dolutegravir	90		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23132334		
+ABCC2	Dolutegravir	100		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23132334		
+ABCC2	Ethacrynic acid	3.85		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clofazimine	10.4		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Everolimus	11.3		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cyclosporine	14.5		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rifaximin	15.4		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rifapentine	16.3		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Temsirolimus	17.6		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Daptomycin	29.1		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Suramin	36.8		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tacrolimus	40.3		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Benzbromarone	41.6		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Wortmannin	46.1		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rifabutin	49.8		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rifampicin	53		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ertapenem sodium	56.2		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Eprosartan	57.9		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zafirlukast	58.8		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rubitecan	60.5		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Valrubicin	64		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Reserpine	68.4		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Repaglinide	72.3		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Leuprolide acetate	80.2		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	EPALRESTAT	84.4		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefixime	89.4		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Foscarnet sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nefopam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Orlistat	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Thiotepa	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Voriconazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Hydrochlorothiazide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Isoxicam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Melphalan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Metformin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vorinostat	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zolpidem tartrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tiapride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Terlipressin acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Venlafaxine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Roquinimex	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fluvoxamine maleate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Talniflumate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fluoxetine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	MINOXIDIL	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nateglinide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sumatriptan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zaleplon	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pindolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ramipril	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Remoxipride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	RIBAVIRIN	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Risperidone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	D(-)-Norgestrel	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nimesulide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Famciclovir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vigabtrin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ethosuximide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ethambutol dihydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dutasteride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Doxazosin Mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefdinir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tacrine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Aspirin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Azlocillin sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bronopol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Decitabine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	M-AMSA	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mebendazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amlodipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Alendronate sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Alprenolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Atropine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Donepezil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dipyridamole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sunitinib malate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Alprostadil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lornoxicam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Quercetin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nisoldipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Gefitinib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxymetholone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Exemestane	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Maraviroc	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Isradipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Enfuvirtide acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bromopride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Celecoxib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ciclesonide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Acecainide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Agomelatine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Colchicine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dofetilide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	DOX	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlorzoxazone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Erythromycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bifonazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	1-Naphthylisothiocyanate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dinoprost tromethamine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Abiraterone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Acipimox	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Enoxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	methimazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxcarbazepine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Flutamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zonisamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Minocycline hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Topiramate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nevirapine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nitrazepam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Probenecid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	ranitidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rivaroxaban	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rocuronium bromide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zileuton	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zolmitriptan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Maxipost	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tadalafil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tenoxicam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tetracycline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Metronidazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mizoribine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Phenacetin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tinidazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tobramycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cidofovir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clarithromycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Diltiazem	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Emetine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clopamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dexchlorpheniramine maleate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pyrazinamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sulfacetamide sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Terfenadine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Piroxicam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Voglibose	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Warfarin sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pramipexole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Terbinafine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Triamterene	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Trilostane	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Timolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Valacyclovir hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sulfamethoxazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Etidronate disodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Flutiaddinfoone propionate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Quetiapine hemifumarate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fenoldopam mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fleroxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Atenolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Benznidazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bivalirudin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Caffeine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Carvedilol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Enalaprilat	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Eszopiclone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Epirubicin hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Eptifibatide acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Imiquimod	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Etretinate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Iohexol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Iproniazid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lacosamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lansoprazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lenalidomide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ipratropium bromide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Formoterol fumarate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Gatifloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Plerixafor	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Stavudine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Flupirtine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ciprofloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Desipramine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Doripenem	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Eflornithine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxybutynin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Primaquine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dasatinib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cisapride Monohydrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Octreotide Acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mifepristone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ritonavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Racecadotril	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cilostazol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlordiazepoxide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefotaxime sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Quinidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chloroquine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Aminoglutethimide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Aprepitant	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cytarabine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Misoprostol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fluphenazine Hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Adefovir Dipivoxil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Telithromycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Saquinavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nelfinavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fusidic Acid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rosuvastatin calcium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefazolin sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ofloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Medroxyprogesterone Acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Felodipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Simvastatin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Iloperidone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lovastatin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dronedarone Hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nifedipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nicardipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Danazol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Drotaverine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rabeprazole Sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Praziquantel	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nefazodone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Docetaxel	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lapatinib Tosylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Posaconazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Deferasirox	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pazopanib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cinnarizine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ciglitazone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rimonabant	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Scopolamine hydrobromide trihydrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mirtazapine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Natamycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ondansetron	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxacillin sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Etoposide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pentoxifylline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sildenafil citrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Felbinac	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Acarbose	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amisulpride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Artemether	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Artemisinin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Atracurium besylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Brinzolamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Carbidopa	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	m-Chlorophenylpiperazine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dolasetron mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Duloxetine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Travoprost	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Methylprednisolone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Gemifioxacin mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Adapalene	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amikacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amrinone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clomifene citrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Alvimopan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Desmopressin acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Doxycycline hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fesoterodine fumarate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Perindopril erbumine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Betamethasone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dimenhydrinate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Doxepin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Strontium ranelate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lamivudine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Furosemide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tenofovir disoproxil fumarate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Goserelin acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Naloxone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Neomycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxytocin acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Levofloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vasopressin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mafenide acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Maprotiline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fulvestrant	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tolbutamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Triamcinolone acetonide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Procainamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Idazoxan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Haloperidol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Albendazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Piperacillin sodium salt	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sulbactam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Metocurine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	SID56422427	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Terazosine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Riluzole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rizatriptan benzoate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Saxagliptin hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Stepronin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Valdecoxib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Hydroflumethazide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Isoniazid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pancuronium bromide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tolterodine tartrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Guanfacine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tolnaftate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Flumazenil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pergolide mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nicotine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nitazoxanide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Olanzapine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Hydroxychloroquine sulfate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Imipramine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Leucovorin calcium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lidocaine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lisinopril	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lofepramine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Prednisolone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Propafenone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	R-apomorphine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Roxithromycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Salmeterol xinafoate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Selegiline hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	sotalol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sulfadiazine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Enalapril maleate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Eplerenone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Escitalopram oxalate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Atorvastatin Calcium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Telmisartan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	omeprazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cetrorelix Acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefpodoxime Proxetil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	amiodarone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Isotretinoin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tolvaptan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Megestrol Acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bicalutamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Indinavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tranilast	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Paclitaxel	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fenofibrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Valinomycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mevastatin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rotenone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxiconazole nitrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ergocalciferol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Toremifene citrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Diacerein	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	nitrofurantoin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Acetazolamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tazarotene	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	MOCLOBEMIDE	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nelarabine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Acyclovir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amoxapine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	acetaminophen	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Aripiprazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Atomoxetine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Carbon tetrachloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefadroxil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Disopyramide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Emtricitabine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Etoposide phosphate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ziprasidone mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Primidone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Famotidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Verapamil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Piribedil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pravastatin sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Raltitrexed	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Molsidomine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nadolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ketamine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ganciclovir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Glipizide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tamoxifen	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Thiacetazone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ticlopidine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tretinoin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Trimethoprim	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vioxx	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zalcitabine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sparfloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Spiramycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	5-Fluorouracil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sulfisoxazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	DISULFIRAM	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oseltamivir phosphate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mupirocin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	naproxen	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ornidazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Gliclazide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pazufloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pemoline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pimecrolimus	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Febuxostat	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dacarbazine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amidotrizoate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ebastine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Calcitriol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Budesonide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Astemizole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Loxapine Succinate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ketoconazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Loteprednol etabonate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Oxaprozin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Undecylenic acid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Antipyrine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Azathioprine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bexarotene	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Carmustine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clobazam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vildagliptin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Procarbazine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	promethazine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ramelteon	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Rasagiline mesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Meropenem	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Methotrexate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Levetiracetam	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Levodopa	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Levosulpiride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lorcainide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Staurosporine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bisoprolol fumarate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefaclor	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlorambucil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlorpheniramine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cibenzoline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cyclophosphamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Diazoxide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Flucytosine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fluorescein	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Flunisolide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Eenoximone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mefenamic acid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zopiclone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bupivacaine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zidovudine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Zoledronic acid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Gestodene	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Moxifloxacin hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pentamidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	PIRACETAM	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Hydroxyurea	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	MEXILETINE	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tegafur	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tegaserod maleate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Temozolomide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Theophylline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Thiamphenicol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Melperone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Propranolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Quinine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nicorandil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nikethamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Norfloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Paroxetine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vincristine sulfate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Indoramin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Kanamycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ketanserin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	LEFLUNOMIDE	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lomustine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lumiracoxib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Gemcitabine hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bimatoprost	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ezetimibe	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Itraconazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pranlukast	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clofibrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	MK-571	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mycophenolate Mofetil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	17alpha-ethinylestradiol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	GDC-0941 bimesylate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Midecamycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Norethindrone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sertindole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amlexanox	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cloprostenol sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Carprofen	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Camptothecin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tubocurarine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nalidixic acid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Allopurinol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Azithromycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Butorphanol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlorthalidone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cimetidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dapsone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dexbrompheniramine maleate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dirithromycin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Domperidone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	propylthiouracil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ketotifen fumarate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mesna	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Metoclopramide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Metoprolol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Loratadine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Latanoprost	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Norethindrone Acetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Finasteride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Entacapone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dicloxacillin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Erythromycin Estolate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Neratinib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dactolisib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Etoricoxib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Feprazone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pirinixic acid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ketorolac tromethamine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vinblastine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ceftriaxone sodium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amitriptyline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amoxicillin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Anastrozole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Anthralin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Baclofen	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Benzocaine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bortezomib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bupropion hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Captopril	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Carbamazepine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlorpropamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cladribine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clofarabine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clomipramine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	cp-690550	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dexamethasone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Dexlansoprazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Ifosfamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Indapamide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fludarabine phosphate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	GALANTAMINE	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Didanosine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nebivolol hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Sitagliptin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tilorone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Melatonin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Urapidil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Procyclidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Mibefradil hydrochloride	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Amprenavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Imatinib	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Lopinavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Digitoxin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clopidogrel bisulfate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Testosterone	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Miconazole nitrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pranoprofen	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Papaverine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefuroxime axetil	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Teniposide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Aminophylline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Albuterol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Artesunate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Atosiban	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Betamipron	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Bisacodyl	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Brompheniramine maleate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Busulphan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cabergoline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Cefotetan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Chlorpromazine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Citalopram	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clioquinol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Clozapine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Desloratadine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Efavirenz	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Entecavir	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pemirolast potassium	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Phenformin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Prochlorperazine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Linezolid	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Varenicline tartrate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pregabalin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tizanidine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Fluconazole	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Triamcinolone diacetate	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nalmefene	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Xamoterol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Terbutaline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Pefloxacin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Neostigmine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nortriptyline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Telbivudine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Vecuronium bromide	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Miglitol	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Nimodipine	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Tigecycline	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Somatostatin	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Valsartan	133		Estradiol-17beta-glucuronide	MRP2-expressing sf9 vesicles	23956101		
+ABCC2	Alisporivir	18		"5(6)-carboxy-2',7'-dichlorofluorescein"	MRP2-expressing sf9 vesicles	25310383		
+ABCC2	Cyclosporine	20		calcein AM	MRP2-expressing MDCK-II cells	27393949		
+ABCC2	Cyclosporine	25.6		calcein AM	MRP2-expressing MDCK-II cells	27393949		
+ABCB1	Colchicine	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Cimetidine	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Digoxin	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Midazolam	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Etoposide	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Morphine	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Hydrocortisone	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	ranitidine	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Dexamethasone	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Dpdpe	50		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Erythromycin	43		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Quinidine	2.2		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Vinblastine	2		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Miconazole	2		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Saquinavir	1.6		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Mibefradil	1.5		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Ritonavir	1.5		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Clotrimazole	1.3		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Terfenadine	1.1		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Ketoconazole	1		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Nicardipine	1		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Pimozide	0.8		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Cyclosporine	0.5		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Verapamil	0.4		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Nelfinavir	0.4		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Astemizole	0.3		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Ivermectin	0.2		calcein AM	MDR1 expressing porcine PBCEC cells	12699389		
+ABCB1	Digoxin	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ranitidine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Morphine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Vinblastine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Midazolam	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Hydrocortisone	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Cimetidine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Dpdpe	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Em-A	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Dexamethasone	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ritonavir	12		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Saquinavir	12		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Clotrimazole	6.7		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Verapamil	6.3		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Quinidine	5.6		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ketoconazole	4.8		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Miconazole	3.5		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Nelfinavir	3.4		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Pimozide	2.9		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Nicardipine	2.3		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Itraconazole	2.1		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Mibefradil	1.8		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Terfenadine	1.4		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Astemizole	1.3		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Csa	0.8		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ivermectin	0.1		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ranitidine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Etoposide (Vp-16)	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Midazolam	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Colchicine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Cimetidine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Sid11533002	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Enkephalin (Dpdpe)	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Vinblastine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Dexamethasone	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Hydrocortisone	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Morphine	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Erythromycin	50		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Saquinavir	12		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ritonavir	12		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Clotrimazole	6.7		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Verapamil	6.3		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Quinidine	5.6		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ketoconazole	4.8		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Miconazole	3.5		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Nelfinavir	3.4		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Pimozide	2.9		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Nicardipine	2.3		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Itc	2.1		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Mibefradil	1.8		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Terfenadine	1.4		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Astemizole	1.3		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Ivermectin	0.1		calcein AM	MDR1 expressing LLC-PK1 cells	12699389		
+ABCB1	Verapamil	14		calcein AM	MDR1 expressing MDCK2 cells 	19402665		
+ABCB1	"Lsn335984, 42"	0.9		calcein AM	MDR1 expressing MDCK2 cells 	19402665		
+ABCB1	Progesterone	47.9		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Diltiazem	42.7		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Vinblastine	10.5		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Imatinib	7.2		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Nicardipine	4.8		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Verapamil	4.6		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Reserpine	3.2		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Cyclosporine	1.4		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Wk-X-50	0.8		calcein AM	MDR1 expressing A2780/ADR cells	17890094		
+ABCB1	Verapamil	4.6		calcein AM	MDR1 expressing A2780/ADR cells	18083034		
+ABCB1	Cyclosporine	1.4		calcein AM	MDR1 expressing A2780/ADR cells	18083034		
+ABCB1	Verapamil	6.6		Hoechst 33342	MDR1 expressing A2780/ADR cells	18083034		
+ABCB1	Cyclosporine	1.4		Hoechst 33342	MDR1 expressing A2780/ADR cells	18083034		
+ABCB1	Diltiazem	49		calcein AM	MDR1 expressing A2780/ADR cells	19250834		
+ABCB1	Verapamil	5.2		calcein AM	MDR1 expressing A2780/ADR cells	19250834		
+ABCB1	Cyclosporine	1.4		calcein AM	MDR1 expressing A2780/ADR cells	19250834		
+ABCB1	Cyclosporine	9.3		calcein AM	MDR1 expressing MDCK2 cells 	17664327		
+ABCB1	Progesterone	47.9		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Diltiazem	42.7		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Imatinib	7.2		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Nicardipine	4.8		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Verapamil	4.6		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Reserpine	3.2		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Cyclosporine	1.4		Hoechst 33342	MDR1 expressing A2780/ADR cells	18678495		
+ABCB1	Verapamil	9.8		Rhodamine 123	MDR1 expressing MDCK cells	21354800		
+ABCB1	Tariquidar	0.2		calcein AM	MDR1 expressing Kb-V1 cells	21570282		
+ABCB1	Elacridar	0.2		calcein AM	MDR1 expressing Kb-V1 cells	21570282		
+ABCB1	Sertindole	6.5		Rhodamine 123	MDR1 expressing L5178 cells	21341745		
+ABCB1	Ebastine	1.5		Rhodamine 123	MDR1 expressing L5178 cells	21341745		
+ABCB1	Aripiprazole	0.8		Rhodamine 123	MDR1 expressing L5178 cells	21341745		
+ABCB1	Cyclosporine	0.7		Rhodamine 123	MDR1 expressing L5178 cells	21341745		
+ABCB1	Verapamil	0.5		calcein AM	MDR1 expressing MDCK cells	22112208		
+ABCB1	Niguldipine	0.7		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Gpv005	0.6		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Valspodar	0.5		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Propafenone	0.3		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Cyclosporine	0.1		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Elacridar	0.1		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Zosuquidar	0.1		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Gpv062	0.1		Daunorubicin	MDR1 exressing CCRF-cEM/VCR 1000 cells	22452412		
+ABCB1	Atorvastatin	307		Rhodamine 123	MDR1 expressing 3T3-G185 cells	11474784		
+ABCB1	Lovastatin	67		Rhodamine 123	MDR1 expressing 3T3-G185 cells	11474784		
+ABCB1	Simvastatin	46		Rhodamine 123	MDR1 expressing 3T3-G185 cells	11474784		
+ABCB1	Atorvastatin	271		Daunorubicin	MDR1 expressing 3T3-G185 cells	11474784		
+ABCB1	Lovastatin	26		Daunorubicin	MDR1 expressing 3T3-G185 cells	11474784		
+ABCB1	Simvastatin	9		Daunorubicin	MDR1 expressing 3T3-G185 cells	11474784		
+ABCB1	Methadone	7.5		Rhodamine 123	Caco-2 cells	11408360		
+ABCB1	Vinblastine	29		calcein AM	MDR1 expressing MDCK cells	15616150		
+ABCB1	Atorvastatin Lactone	14		calcein AM	MDR1 expressing MDCK cells	15616150		
+ABCB1	Simvastatin Lactone	10		calcein AM	MDR1 expressing MDCK cells	15616150		
+ABCB1	Lovastatin Lactone	10		calcein AM	MDR1 expressing MDCK cells	15616150		
+ABCB1	Alfentanil	112		Digoxin	Caco-2 cells	11964599		
+ABCB1	Fentanyl	6.5		Digoxin	Caco-2 cells	11964599		
+ABCB1	Sulfentanil	4.5		Digoxin	Caco-2 cells	11964599		
+ABCB1	Loperamide	2.5		Digoxin	Caco-2 cells	11964599		
+ABCB1	Verapamil	224		Digoxin	MDR1 expressing LLC-PK1 cells	10997946		
+ABCB1	Cyclosporine	3.7		Digoxin	MDR1 expressing LLC-PK1 cells	9914792		
+ABCB1	Cyclosporine		0.02	Verapamil	MDR1-expressing Sf9 vesicles	7514263		
+ABCB1	Lopinavir	1.7		Rhodamine 123	MDR1 expressing Caco-2 cells	12700464		
+ABCB1	Cholesterol	8.2		Daunorubicin	NIH-G185 cells	11027568		
+ABCB1	Dexniguldipine		2.3	calcein AM	MDR1-expressing CEM/VLB100 cells	10198227		
+ABCB1	Valspodar		1.3	calcein AM	CEM/VBL 100	10198227		
+ABCB1	Cyclosporine		1.8	calcein AM	MDR1-expressing CEM/VLB100 cells	10198227		
+ABCB1	Nifedipine	113		Daunorubicin	NIH-G185 cells	11743742		
+ABCB1	Spironolactone	23.6		Daunorubicin	NIH-G185 cells	11743742		
+ABCB1	Nobiletin	11.5		Daunorubicin	NIH-G185 cells	11743742		
+ABCB1	Valinomycin	3.2		Daunorubicin	NIH-G185 cells	11743742		
+ABCB1	Gallopamil	3.2		Daunorubicin	NIH-G185 cells	11743742		
+ABCB1	Norverapamil	0.9		Daunorubicin	NIH-G185 cells	11743742		
+ABCB1	Trimethoxybenzoylyohimbine		2.1	Verapamil	MDR1-expressing CEM/VLB100 cells	9751076		
+ABCB1	Vinblastine		2.1	Verapamil	MDR1-expressing CEM/VLB100 cells	9751076		
+ABCB1	Indinavir	44		Digoxin	Caco-2 cells	10820137		
+ABCB1	Saquinavir	6.5		Digoxin	Caco-2 cells	10820137		
+ABCB1	Quinidine	2.2		Digoxin	Caco-2 cells	10820137		
+ABCB1	Verapamil	2.1		Digoxin	Caco-2 cells	10820137		
+ABCB1	Cyclosporine	1.3		Digoxin	Caco-2 cells	10820137		
+ABCB1	Ketoconazole	1.2		Digoxin	Caco-2 cells	10820137		
+ABCB1	Nelfinavir	1.4		Daunorubicin	Caco-2 cells	10820137		
+ABCB1	Verapamil (R)	2.6		paclitaxel	HCT15/CL02 cells	12569305		
+ABCB1	Verapamil (S)	2.4		paclitaxel	HCT15/CL02 cells	12569305		
+ABCB1	Verapamil (R)	5.5		paclitaxel	MES-SA/DX5 cells	12569305		
+ABCB1	Verapamil (S)	5.3		paclitaxel	MES-SA/DX5 cells	12569305		
+ABCB1	Verapamil (Racemic)	4.8		paclitaxel	MES-SA/DX5 cells	12569305		
+ABCB1	Mibefradil	1.6		Digoxin	Caco-2 cells	10901697		
+ABCB1	Piperine	15.5		Digoxin	Caco-2 cells	12130727		
+ABCB1	Piperine	74.1		Cyclosporine A	Caco-2 cells	12130727		
+ABCB1	Desmethylazelastine	11.8		Daunorubicin	MDR1 transfected LLC-PK1	11231118		
+ABCB1	Ritonavir	15.7		Cyclosporine A	MDR1 expressing LLC-PK1 cells	12604693		
+ABCB1	Ketoconazole	5.6		Daunorubicin	G185 cells	11751127		
+ABCB1	Itraconazole	1.7		Daunorubicin	G185 cells	11751127		
+ABCB1	Verapamil		3	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Etoposide		276	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Quinidine		1.5	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Vinblastine		36.5	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Doxorubicin		8.5	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Celiprolol		313	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Daunorubicin		2.5	Taxol	MDR1-expressing Caco-2 cells	11405287		
+ABCB1	Quinine	167.8		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	56.1		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Emetine	35.1		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	28.9		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	6.6		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	2.6		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Cyclosporine	1.7		calcein AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Progesterone	192.2		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Lovastatin Lactone	114.4		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinine	87.6		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Troleandomycin	86.3		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Taxol (Paclitaxel)	70.2		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Felodipine	60		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Simvastatin	56.8		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Ketoconazole	53.4		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Dipyridamole	34.3		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinidine	33.9		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Tamoxifen	31.4		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Vinblastine	29.5		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	25.8		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	15.1		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Trifluoperazine	10.9		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Fluphenazine	10.4		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Sid170465705	9.6		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	N-Norgallopamil	8.6		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Carvedilol	6.6		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	6.5		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	3.9		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Terfenadine	2.7		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Csa	1.7		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Clofazimine	1		Rhodamine 123	NIH-3T3-G185 cells	11716514		
+ABCB1	Tetraphenylphosphonium	490		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Progesterone	96.2		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Forskolin	80.2		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Troleandomycin	68.3		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Taxol (Paclitaxel)	54		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Felodipine	26.3		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Dipyridamole	22.7		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinine	22.6		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinidine	18.8		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Vinblastine	17.7		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Emetine	9.2		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Trifluoperazine	7.2		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Fluphenazine	6.5		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Tamoxifen	6.4		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Ketoconazole	5.6		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Carvedilol	4.6		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	4.2		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	3.8		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	N-Norgallopamil	3.6		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	3.2		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Terfenadine	1.8		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Clofazimine	0.6		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	0.5		Daunorubicin	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	446.5		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Emetine	130.3		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinine	112.4		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	86.7		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	14.6		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Cyclosporine	2.4		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	2.1		Fluo-3-AM	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinine	159.3		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Emetine	115.6		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	50.2		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	42		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	7.1		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	6.1		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Cyclosporine	4.3		JC-1	NIH-3T3-G185 cells	11716514		
+ABCB1	Tetraphenylphosphonium	426.6		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Forskolin	188.2		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Progesterone	88.1		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Troleandomycin	78.2		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinine	74.4		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Taxol (Paclitaxel)	53.9		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Lovastatin	32.7		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Felodipine	32.3		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Simvastatin	26.1		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Dipyridamole	23.7		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Ketoconazole	23.4		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Vinblastine	19.9		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Tamoxifen	12.1		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	7.2		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Trifluoperazine	6.3		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Carvedilol	6		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Fluphenazine	5.7		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	5.6		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	N-Norgallopamil	4.9		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	4.7		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Terfenadine	2.5		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Emetine	2.4		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Itraconazole	2.4		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	2.1		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Csa	1.8		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Clofazimine	1.1		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinidine	1		LDS-751	NIH-3T3-G185 cells	11716514		
+ABCB1	Emetine	207.1		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Quinine	184.9		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Verapamil	38.2		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Clarithromycin	23.8		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Nicardipine	11.7		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Reserpine	5.3		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Cyclosporine	2.1		Tetramethylrosamine	NIH-3T3-G185 cells	11716514		
+ABCB1	Lansoprazole	62.8		Digoxin	Caco-2 cells	11770010		
+ABCB1	Pantoprazole	17.9		Digoxin	Caco-2 cells	11770010		
+ABCB1	Cepharanthin	2.1		Daunorubicin	MDR1 expressing LLC-PK1 cells	7562598		
+ABCB1	Amlodipine	22		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Nicardipine	17.5		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Benidipine	9.5		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Barnidipine	8.6		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Manidipine	4.6		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Efonidipine	17.3		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Efonidipine	20.6		Daunorubicin	MDR1 expressing LLC-PK1 cells	11145223		
+ABCB1	Elacridar Hydrochloride		0.04	Digoxin	MDR1-expressing Caco-2 cells	12636153		
+ABCB1	Cyclosporine		0.35	Digoxin	MDR1-expressing Caco-2 cells	12636153		
+ABCB1	Quinidine		0.43	Digoxin	MDR1-expressing Caco-2 cells	12636153		
+ABCB1	Verapamil		0.88	Digoxin	MDR1-expressing Caco-2 cells	12636153		
+ABCB1	Vinblastine		15	Digoxin	MDR1-expressing Caco-2 cells	12636153		
+ABCB1	Reserpine		2.31	Digoxin	MDR1-expressing Caco-2 cells	12636153		
+ABCB1	Norverapamil	0.3		Digoxin	Caco-2 cells	10773005		
+ABCB1	Vinblastine		140	Digoxin	MDR1-expressing MDCK cells	12134945		
+ABCB1	Daunorubicin		111	Digoxin	MDR1-expressing MDCK cells	12134945		
+ABCB1	Vincristine		213	Digoxin	MDR1-expressing MDCK cells	12134945		
+ABCB1	Etoposide		768	Digoxin	MDR1-expressing MDCK cells	12134945		
+ABCB1	Bromocriptine		3.96	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Troleandomycin		483.3	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Dihydroergotamine		1000	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Fluconazole		400	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Dihydroergocryptine		360.5	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ketoconazole		24.9	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergocryptine		6.43	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergotamine		98.9	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Cyclosporine		1.3	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Erythromycin		1000	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergocristine		42.8	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ketoconazole		5.27	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Clotrimazole		44	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergocornine		24.5	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Clotrimazole		29.92	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Fluconazole		1000	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Reserpine		0.97	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergonovine		100	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Cyclosporine		4.66	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Troleandomycin		87.64	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Reserpine		12.2	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Miconazole		26.36	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergocornine		105.2	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergocryptine		12.2	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Dihydroergocristine		16	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergocristine		13.33	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergotamine		14.25	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Dihydroergocryptine		19.82	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Dihydroergotamine		119.94	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Erythromycin		37.79	Vinblastine	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Dihydroergocristine		511	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Miconazole		55.5	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Ergonovine		115.5	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Bromocriptine		2.81	calcein AM	MDR1-expressing LLC-PK1 cells	11961113		
+ABCB1	Mibefradil	1.2		Digoxin	Caco-2 cells	11961113		
+ABCB1	Amiodarone		5.78	calcein AM	MDR1-expressing LLC-PK1 cells	17045309		
+ABCB1	Sirolimus	1.3		Rhodamine 123	Caco-2 cells	12235265		
+ABCB1	Nifedipine	472		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Diltiazem	77.7		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Nitrendipine	68.2		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Nisoldipine	44.1		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Nilvadipine	18		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Efonidipine	13		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Barnidipine	12.6		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Benidipine	5		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Manidipine	4.7		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Nicardipine	4.5		Digoxin	MDR1 expressing LLC-PK1 cells	12128170		
+ABCB1	Nefazodone	4.7		Rhodamine 123	NIH-3T3-G185 cells	11452702		
+ABCB1	Cyclosporine	0.9		calcein AM	Doxorubicin-resistant A2780 adr cells	24184213		
+ABCB1	Verapamil	1.7		Hoechst 33342	Hela cells		https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606266/	
+ABCB1	Csa	0.9		calcein AM	MDR1 expressing A2780/ADR cells	25855895		
+ABCB1	Reversan	6.8		calcein AM	KBV1 cells	26774038		
+ABCB1	Tariquidar	0.2		calcein AM	KBV1 cells	26774038		
+ABCB1	Cyclosporine	1.2		calcein AM	MDR1 expressing A2780/ADR cells	28841513		
+SLC22A4	Cimetidine	1500		tetraethylammonium	HRPE-rOCTN1	10825452		
+SLC22A4	Desipramine	80		tetraethylammonium	HRPE-rOCTN1	10825452		
+SLC22A4	Procainamide	1000		tetraethylammonium	HRPE-rOCTN1	10825452		
+SLC22A4	Flecainide	176		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	Propafenone	67.5		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	Spironolactone	125		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	Carvedilol	73.1		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	Diltiazem	126.4		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	Nifedipine	74.6		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	Verapamil	11		tetraethylammonium	MDCKII-hOCTN1	21641380		
+SLC22A4	gamma-butyrobetaine		630	tetraethylammonium	hOCTN1-reconstituted proteoliposomes	21726197		
+SLC22A4	Acetylcholine		440	tetraethylammonium	hOCTN1-reconstituted proteoliposomes	21726197		
+SLC22A4	Linagliptin	>100		not stated	HEK293-hOCTN1		https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/201280Orig1s000ClinPharmR.pdf	
+SLC22A4	Carnitine		24.08	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Choline		230.5	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Tetraethylammonium		439	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Verapamil		8.38	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Cimetidine		434.8	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Lidocaine		0.83	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Quinidine		68.38	tetraethylammonium	HEK293-hOCTN1	15107849		
+SLC22A4	Doxorubicin	0.00931		tetraethylammonium	KB-3-3-hOCTN1	18790787		
+SLC22A4	Mitoxantrone	0.00275		tetraethylammonium	KB-3-3-hOCTN1	18790787		
+SLC22A4	Imatinib	31		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-hOCTN1	23284953		
+SLC22A4	Dipyridamole	0.0077		cytarabine	HEK293-hOCTN1	28209616		
+SLC22A4	Cobicistat	2.49		tetraethylammonium	S2-hOCTN1		https://www.pmda.go.jp/drugs/2016/P20161125002/800155000_22800AMX00714_I100_1.pdf	
+SLC22A4	Verapamil	12		ethambutol	HEK293-hOCTN1	30012768		
+SLC22A5	Cefepime	1000		L-carnitine	JAR-hOCTN2	10636865		
+SLC22A5	Cephaloridine	180		L-carnitine	JAR-hOCTN2	10636865		
+SLC22A5	Grepafloxacin		300	L-carnitine	BeWo cells expressing OCTN2	17977676		
+SLC22A5	Levofloxacin		3000	L-carnitine	BeWo cells expressing OCTN2	17977676		
+SLC22A5	Levofloxacin	6800		L-carnitine	Caco-2 cells expressing OCTN2	16928358		
+SLC22A5	Grepafloxacin	1000		L-carnitine	Caco-2 cells expressing OCTN2	16928358		
+SLC22A5	Verapamil	50.9		L-carnitine	MDCKII-hOCTN2	21641380		
+SLC22A5	Spironolactone	36		L-carnitine	MDCKII-hOCTN2	21641380		
+SLC22A5	Nifedipine	59.4		L-carnitine	MDCKII-hOCTN2	21641380		
+SLC22A5	Progesterone		48.6	L-carnitine	BeWo cells expressing OCTN2	17977516		
+SLC22A5	Cediranib	2.49		L-carnitine	HEK293-hOCTN2	25165131		
+SLC22A5	Omeprazole		5.2	L-carnitine	hOCTN2-reconstituted proteoliposomes	19041296		
+SLC22A5	Thioridazine	1.06		L-carnitine	MDCKII-hOCTN2	31437515		
+SLC22A5	Mildronate		26.1	L-carnitine	MDCKII-hOCTN2	16490820		
+SLC22A5	Pyrilamine	41.7		L-carnitine	HEK293-hOCTN2	17965255		
+SLC22A5	Verapamil	58.8		L-carnitine	HEK293-hOCTN2	17965255		
+SLC22A5	Quinidine	239		L-carnitine	HEK293-hOCTN2	17965255		
+SLC22A5	Tetraethylammonium	132		L-carnitine	HEK293-hOCTN2	17965255		
+SLC22A5	Atenolol		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Atropine		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Lomefloxacin		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Acyclovir		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Pramipexole		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Guanosine		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Hydrochlorothiazide		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Sulfanilamide		3000	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Roxithromycin		333	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Reserpine		32.2	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Cisapride		66.7	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Penfluridol		26.5	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Vincristine		15.9	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Propafenone		74.2	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Cetirizine		79.8	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Nizatidine		183	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Daunorubicin		502	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Cephaloridine		379	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Vinorelbine		26.8	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Irinotecan		219	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Risperidone		114	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Erythromycin		2870	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Ritonavir		7.73	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Ezetimibe		29.3	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Simvastatin		12.4	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Furosemide		1350	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Procainamide		1400	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Metformin		2050	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Zidovudine		2140	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Lamivudine		2590	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Ketorolac		1530	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Gabapentin		1700	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Levofloxacin		1890	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Succinylcholine		2700	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Procarbazine		2520	L-carnitine	MDCKII-hOCTN2	20831193		
+SLC22A5	Verapamil		5.3	L-carnitine	L6-hOCTN2	18408886		
+SLC22A5	Cefazolin		6740	L-carnitine	L6-hOCTN2	18408886		
+SLC22A5	Cefuroxime		525	L-carnitine	L6-hOCTN2	18408886		
+SLC22A5	Cephalexin		3037	L-carnitine	L6-hOCTN2	18408886		
+SLC22A5	L-carnitine	3.7		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Acetyl-DL-carnitine	15.7		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	D-carnitine	16.5		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Tetraethylammonium	1200		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	1-methyl-4-phenylpyridinium (MPP+)	1700		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Sodium valproate	2600		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Methamphetamine	2300		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Ephedrine	2700		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Chloroephedrine	4800		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Amphetamine	6000		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Norephedrine	7100		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	psi - ephedrine	4200		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	nor-psi-ephedrine	9200		L-carnitine	BeWo cells expressing OCTN2	15316089		
+SLC22A5	Vinblastine		4.85	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Carvedilol		10.7	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Raloxifene		13.8	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Bromocriptine		16.6	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Verapamil		17.6	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Propantheline		20.4	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Thioridazine		23	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Clozapine		47.3	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Prochlorperazine		51.3	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Desloratadine		53.3	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Trifluoperazine		67.3	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Amlodipine		96	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Duloxetine		118	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Cerivastatin		425	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Amiodarone		5.72	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Nelfinavir		29.2	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Thioridazine		23	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Rifampin		1150	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Succinylcholine		2700	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Gefitinib		29	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Tamoxifen		20	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Levofloxacin		1900	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Lomefloxacin		4000	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Lamivudine		2590	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Ketorolac		1530	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Acyclovir		5130	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Procarbazine		2520	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Erythromycin		2870	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Hydrochlorothiazide		4110	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Atenolol		8000	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Selegiline		1230	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Atropine		4000	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Zidovudine		2140	L-carnitine	MDCKII-hOCTN2	19437106		
+SLC22A5	Etoposide	55		L-carnitine	LLC-PK1-hOCTN2	22389472		
+SLC22A5	Verapamil	21.4		ethambutol	HEK293-hOCTN2	30012768		
+SLC22A5	Tetraethylammonium		80	L-carnitine	HRPE-hOCTN2	10454528		
+SLC22A5	L-carnitine		11.8	L-carnitine	HRPE-hOCTN2	10454528		
+SLC22A2	Fampridine	66.8		Metformin	HEK293-OCT2	29915999		
+SLC22A2	Pazopanib	3.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	27178732		
+SLC22A2	Vandetanib	73.4		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	24026623		
+SLC22A2	Vandetanib	8.8		Metformin	HEK293-OCT2	24026623		
+SLC22A2	Pyrimethamine 	23.6		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	24026623		
+SLC22A2	Pyrimethamine 	4.8		Metformin	HEK293-OCT2	24026623		
+SLC22A2	Amitriptyline	0.51		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Doxepin	0.25		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Lansoprazole	3.28		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Pantoprazole	0.56		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Sitagliptin	7.41		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Spironolactone	1.29		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Trimipramine	0.44		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Trospium chloride	0.07		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Zolpidem	0.15		Metformin	HEK293-OCT2	26327616		
+SLC22A2	Omeprazole	6.7		Metformin	HEK293-OCT2	21779389		
+SLC22A2	Pantoprazole	2.8		Metformin	HEK293-OCT2	21779389		
+SLC22A2	Lansoprazole	9.5		Metformin	HEK293-OCT2	21779389		
+SLC22A2	Rabeprazole	5.7		Metformin	HEK293-OCT2	21779389		
+SLC22A2	Tenatoprazole	20.3		Metformin	HEK293-OCT2	21779389		
+SLC22A2	Imatinib	6.7		Creatinine	HEK293-OCT2	19540211		
+SLC22A2	Dolutegravir	1.9		Metformin	MDCKII_OCT2	23132334		
+SLC22A2	Anisodine	139.6		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	31514980		
+SLC22A2	Monocrotaline	1852.6		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	31514980		
+SLC22A2	Doravirine	67		Metformin	CHO-K1-OCT2	30745395		
+SLC22A2	Efavirenz	5.66		Metformin	MDCK-OCT2	30114293		
+SLC22A2	Berberine	8		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT2	24246570		
+SLC22A2	Berberine	0.371		serotonin	MDCK-OCT2	24246570		
+SLC22A2	Berberine	0.438		norepinephrine	MDCK-OCT2	24246570		
+SLC22A2	Decynium-22	0.0014		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT2	24246570		
+SLC22A2	Decynium-22	0.0012		serotonin	MDCK-OCT2	24246570		
+SLC22A2	Decynium-22	0.005		norepinephrine	MDCK-OCT2	24246570		
+SLC22A2	Amodiaquine	11		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	29061131		
+SLC22A2	Proguanil	13		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	29061131		
+SLC22A2	Pyrimethamine	1.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	29061131		
+SLC22A2	Quinine	3.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	29061131		
+SLC22A2	Ethidium	0.8		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	1-methyl-4-phenylpyridinium (MPP+)	7		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Imipramine	28.9		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Diphenidol	34.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	NBD-MTMA	46		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	TEA	77		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Quinidine	92.6		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Cimetidine	113		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Tramadol	140.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Metformin	223		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	TMA	301		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Choline	435		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	28615288		
+SLC22A2	Verapamil	21.4		para-Aminosalicylic acid (PAS)	HEK293-OCT2	28223391		
+SLC22A2	Cimetidine	111.5		para-Aminosalicylic acid (PAS)	HEK293-OCT2	28223391		
+SLC22A2	Metformin	125.6		para-Aminosalicylic acid (PAS)	HEK293-OCT2	28223391		
+SLC22A2	Quinidine	10.7		para-Aminosalicylic acid (PAS)	HEK293-OCT2	28223391		
+SLC22A2	Omeprazole	5.53		para-Aminosalicylic acid (PAS)	HEK293-OCT2	28223391		
+SLC22A2	Lansoprazole	13		para-Aminosalicylic acid (PAS)	HEK293-OCT2	28223391		
+SLC22A2	Chelerythrine	10.8		1-methyl-4-phenylpyridinium (MPP+)	 OCT2	28093031		
+SLC22A2	Olaparib	19.9		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	27684210		
+SLC22A2	Verapamil	66		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	27550354		
+SLC22A2	para-aminosalicylate acid (PAS)	94.2		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	27550354		
+SLC22A2	Ethambutol 	229		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	27550354		
+SLC22A2	Verapamil	36		Metformin	HEK293-OCT2	27550354		
+SLC22A2	para-aminosalicylate acid (PAS)	85.8		Metformin	HEK293-OCT2	27550354		
+SLC22A2	Ethambutol 	189.2		Metformin	HEK293-OCT2	27550354		
+SLC22A2	Amantadine	27.1		Metformin	CHO-OCT2	29884691		
+SLC22A2	Amitriptyline	2.4		Metformin	CHO-OCT2	29884691		
+SLC22A2	Anastrozole	51.1		Metformin	CHO-OCT2	29884691		
+SLC22A2	Atomoxetine	6.6		Metformin	CHO-OCT2	29884691		
+SLC22A2	Atropine	1.3		Metformin	CHO-OCT2	29884691		
+SLC22A2	Benztropine	0.4		Metformin	CHO-OCT2	29884691		
+SLC22A2	Bupropion	8.6		Metformin	CHO-OCT2	29884691		
+SLC22A2	Buspirone	10.2		Metformin	CHO-OCT2	29884691		
+SLC22A2	Fluoxetine	18.6		Metformin	CHO-OCT2	29884691		
+SLC22A2	Imipramine	0.4		Metformin	CHO-OCT2	29884691		
+SLC22A2	Irinotecan	3.3		Metformin	CHO-OCT2	29884691		
+SLC22A2	Mexiletine	21.5		Metformin	CHO-OCT2	29884691		
+SLC22A2	Naloxone	29.5		Metformin	CHO-OCT2	29884691		
+SLC22A2	Pilocarpine	34.5		Metformin	CHO-OCT2	29884691		
+SLC22A2	Quinidine	18.6		Metformin	CHO-OCT2	29884691		
+SLC22A2	Tacrine	0.6		Metformin	CHO-OCT2	29884691		
+SLC22A2	Trimethoprim	19.8		Metformin	CHO-OCT2	29884691		
+SLC22A2	Tripelennamine	2.1		Metformin	CHO-OCT2	29884691		
+SLC22A2	Tropicamide	94.3		Metformin	CHO-OCT2	29884691		
+SLC22A2	Verapamil	10.3		Metformin	CHO-OCT2	29884691		
+SLC22A2	Amantadine	51		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Amitriptyline	11.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Anastrozole	327.6		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Atomoxetine	20.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Atropine	12.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Benztropine	13.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Bupropion	32.2		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Buspirone	68.5		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Fluoxetine	56.7		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Imipramine	4.9		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Irinotecan	15.6		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Mexiletine	50.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Naloxone	235.7		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Pilocarpine	109.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Quinidine	91.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Tacrine	2.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Trimethoprim	199.2		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Tripelennamine	12.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Tropicamide	691.5		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Verapamil	49.7		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	29884691		
+SLC22A2	Amantadine	32.1		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Amitriptyline	5		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Anastrozole	113.4		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Atomoxetine	12.8		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Atropine	3.4		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Benztropine	1		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Bupropion	13.4		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Buspirone	19.8		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Fluoxetine	36		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Imipramine	1.3		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Irinotecan	4.5		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Mexiletine	28.5		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Naloxone	67.3		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Pilocarpine	61.9		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Quinidine	23.6		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Tacrine	0.9		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Trimethoprim	50.2		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Tripelennamine	5		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Tropicamide	205.4		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Verapamil	17.8		Tetraethylammonium	CHO-OCT2	29884691		
+SLC22A2	Amantadine	24.5		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Amitriptyline	4		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Anastrozole	86		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Atomoxetine	7.6		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Atropine	2.3		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Benztropine	0.8		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Bupropion	10.8		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Buspirone	19.6		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Fluoxetine	20.1		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Imipramine	1.4		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Irinotecan	3.2		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Mexiletine	30.5		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Naloxone	55.1		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Pilocarpine	48.2		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Quinidine	18.7		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Tacrine	1		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Trimethoprim	43		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Tripelennamine	5.7		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Tropicamide	189		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Verapamil	9.7		NBD-MTMA	CHO-OCT2	29884691		
+SLC22A2	Amantadine	10.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Amitriptyline	1.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Anastrozole	39.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Atomoxetine	3.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Atropine	1.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Benztropine	0.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Bupropion	11.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Buspirone	8.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Fluoxetine	16.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Imipramine	0.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Irinotecan	1.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Mexiletine	19.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Naloxone	20.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Pilocarpine	55.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Quinidine	6.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Tacrine	0.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Trimethoprim	14.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Tripelennamine	3.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Tropicamide	141.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Verapamil	4.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	CHO-OCT2	29884691		
+SLC22A2	Imipramine	3.9		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Clonidine	6		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Carvedilol	55.2		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Propranolol	71.6		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Verapamil	91.9		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Chloroquine	129		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Quinidine	91.6		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Cimetidine	171		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Metformin	566		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Trimethoprim	775		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT2	23709117		
+SLC22A2	Ethylacridinium	0.08		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Ipratropium	0.17		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Imipramine	1.4		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Doxepin	1.5		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Amitriptyline	2.5		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Chlorpromazine	2.6		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	1-methyl-4-phenylpyridinium (MPP+)	3		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Propafenone	3.6		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Clonidine	4.5		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Diphenhydramine	5.8		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Carvedilol	13.1		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Verapamil	21		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Quinidine	29.6		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Disopyramide	39		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Propranolol	67.2		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Cimetidine	70.4		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	TEA	110		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Trimethoprim	113		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Chloroquine	117		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	TEMA	125		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Flecainide	234		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Metformin	1180		NBD-MTMA	CHO-OCT2	23709117		
+SLC22A2	Imipramine	0.77		Metformin	CHO-OCT2	23709117		
+SLC22A2	Clonidine	0.68		Metformin	CHO-OCT2	23709117		
+SLC22A2	Verapamil	20		Metformin	CHO-OCT2	23709117		
+SLC22A2	Quinidine	6.4		Metformin	CHO-OCT2	23709117		
+SLC22A2	Cimetidine	25.4		Metformin	CHO-OCT2	23709117		
+SLC22A2	Chloroquine	9.6		Metformin	CHO-OCT2	23709117		
+SLC22A2	Veliparib	3913		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	24122511		
+SLC22A2	Phenanthriplatin	2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	29888219		
+SLC22A2	Ranitidine	482		Trospium	HEK293-OCT2	31542894		
+SLC22A2	Linagliptin	80		Metformin	HEK293-OCT2	23073734		
+SLC22A2	Ondansetron		85	Metformin	HEK293-OCT2	24001450		
+SLC22A2	Methamphetamine	15		Metformin	HEK293-OCT2	28428365		
+SLC22A2	Amphetamine	20.3		Metformin	HEK293-OCT2	28428365		
+SLC22A2	p-hydroxymethamphetamine (p-OHMA)	83.8		Metformin	HEK293-OCT2	28428365		
+SLC22A2	Aconitine	59.2	145.6	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Amitriptyline	2.4	2.5	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Atropine	2	2.4	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Chlorpyrifos	20.7	24.8	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Diazepam	32.3		Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Fenitrothion	13.2	16.9	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Haloperidol	32.5	51.6	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Lidocaine	104.6	86.8	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Malathion	71.1		Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Mianserin	17.7		Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Nicotine	52.8	57.7	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Triazolam	65.5		Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Corticosterone	6.7	9.1	Tetraethylammonium	S2-OCT2	23770354		
+SLC22A2	Telaprevir	6.4		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	22902721		
+SLC22A2	Cimetidine		144	Tetraethylammonium	HEK293-OCT2	22072731		
+SLC22A2	Cimetidine		124	Metformin	HEK293-OCT2	22072731		
+SLC22A2	Cimetidine		146	1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT2	22072731		
+SLC22A2	Cimetidine		104	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT2	22072731		
+SLC22A2	Cimetidine		95	m-iodobenzylguanidine (MIBG)	HEK293-OCT2	22072731		
+SLC22A2	Rucaparib	31		Metformin	CHO-OCT2	32129697		
+SLC22A1	Indinavir	37		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Lamivudine	17		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Nelfinavir	7		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Pentamidine	0.4		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Saquinavir	37		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Trimethoprim	20		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Zalcitabine	24		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18490433		
+SLC22A1	Afatinib	80		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Bosutinib	2.06		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Cediranib	54		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Erlotinib	86		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Foretinib	74		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Gefitinib	57		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Lapatinib	96		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Neratinib	77		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Nilotinib	91		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Pelitinib	76		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Sorafenib	99		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Sunitinib	67		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Vandetanib	68		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	25165131		
+SLC22A1	Artemisinin	4.2		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	27504015		
+SLC22A1	Mefloquine	6.6		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	27504015		
+SLC22A1	Pyrimethamine	8.5		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	27504015		
+SLC22A1	Quinine	3.5		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	27504015		
+SLC22A1	Amphetamine	97		Metformin	HEK293-OCT1	28428365		
+SLC22A1	Methamphetamine	21.1		Metformin	HEK293-OCT1	28428365		
+SLC22A1	Para-hydroxymethamphetamine	12		Metformin	HEK293-OCT1	28428365		
+SLC22A1	Tenofovir	>10		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	28104831		
+SLC22A1	Verapamil	12		Ethambutol	HEK293-OCT1	30012768		
+SLC22A1	Verapamil	3.9		Prothionamide	HEK293-OCT1	30012768		
+SLC22A1	Carvedilol	1.4		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Diltiazem	1.7		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Flecainide	2.5		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Metoprolol	52.6		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Nifedipine	31.1		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Propafenone	1		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Propranolol	1.3		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Spironolactone	1.2		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Talinolol	23.7		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Verapamil	1.2		1-methyl-4-phenylpyridinium (MPP+)	MDCK-OCT1	21641380		
+SLC22A1	Amitriptyline	3.47		Sumatriptan	HEK293-OCT1	26659468		
+SLC22A1	Domperidone	32.8		Sumatriptan	HEK293-OCT1	26659468		
+SLC22A1	Eletriptan	6.8		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	26659468		
+SLC22A1	Metoclopramide	15.9		Sumatriptan	HEK293-OCT1	26659468		
+SLC22A1	Naratriptan	25		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	26659468		
+SLC22A1	Propranolol	6.2		Sumatriptan	HEK293-OCT1	26659468		
+SLC22A1	Rizatriptan	41		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	26659468		
+SLC22A1	Sumatriptan	47		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	26659468		
+SLC22A1	Zolmitriptan	>1000		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	26659468		
+SLC22A1	Cimetidine	275		Metformin	Caco-OCT1	28971610		
+SLC22A1	Pyrimethamine	4.46		Metformin	Caco-OCT1	28971610		
+SLC22A1	Trimethoprim	27.7		Metformin	Caco-OCT1	28971610		
+SLC22A1	Imatinib	5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23284953		
+SLC22A1	Amitriptyline	1.89		Morphine	HEK293-OCT1	30361780		
+SLC22A1	Fluoxetine	9.1		Morphine	HEK293-OCT1	30361780		
+SLC22A1	Imipramine	4.03		Morphine	HEK293-OCT1	30361780		
+SLC22A1	Irinotecan	1.4		Morphine	HEK293-OCT1	30361780		
+SLC22A1	Ondansetron	0.3		Morphine	HEK293-OCT1	30361780		
+SLC22A1	Verapamil	9.62		Morphine	HEK293-OCT1	30361780		
+SLC22A1	Amitriptyline	58.1		Rhodamine 123	HEK293-OCT1	22913740		
+SLC22A1	Rhodamine 123	0.37		Tetraethylammonium	HEK293-OCT1	22913740		
+SLC22A1	Verapamil	33.2		Rhodamine 123	HEK293-OCT1	22913740		
+SLC22A1	Atropine	3		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27676604		
+SLC22A1	Butylscopolamine	28		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27676604		
+SLC22A1	Homatropine	4		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27676604		
+SLC22A1	Ipratropium	17		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27676604		
+SLC22A1	Scopolamine	6.7		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27676604		
+SLC22A1	Trospium	15		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27676604		
+SLC22A1	Darunavir	16		Tetraethylammonium	KCL22-OCT1	25914645		
+SLC22A1	Efavirenz	7.4		Tetraethylammonium	KCL22-OCT1	25914645		
+SLC22A1	Prazosin	2.3		Tetraethylammonium	KCL22-OCT1	25914645		
+SLC22A1	Saracatinib	57		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28455521		
+SLC22A1	Diphenhydramine	4.1		Serotonin	HEK293-OCT1	24688079		
+SLC22A1	Fluoxetine	6.2		Serotonin	HEK293-OCT1	24688079		
+SLC22A1	Imatinib	10.2		Serotonin	HEK293-OCT1	24688079		
+SLC22A1	Verapamil	1.5		Serotonin	HEK293-OCT1	24688079		
+SLC22A1	Ethambutol	>100		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27550354		
+SLC22A1	Levofloxacin	30.3		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27550354		
+SLC22A1	Levofloxacin	22.6		Metformin	HEK293-OCT1	27550354		
+SLC22A1	Pyrazinamide	36.5		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27550354		
+SLC22A1	Pyrazinamide	25.8		Metformin	HEK293-OCT1	27550354		
+SLC22A1	Rifabutin	42.7		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27550354		
+SLC22A1	Rifabutin	38.7		Metformin	HEK293-OCT1	27550354		
+SLC22A1	Verapamil	1.1		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27550354		
+SLC22A1	Verapamil	0.8		Metformin	HEK293-OCT1	27550354		
+SLC22A1	Corticosterone	21.7		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	Decynium-22	0.98		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	O-methylisoprenaline	>100		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	Phenoxybenzamine	2.72		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	Prazosin	1.84		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	Progesterone	3.05		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	SKF550	>0.3		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	17beta-estradiol	5.73		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	12110607		
+SLC22A1	Amantadine	18.4		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Chlorpromazine	4.3		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Clonidine	0.71		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Pindolol	9.7		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Procainamide	14.5		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Quinidine	5.4		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Ranitidine	21.7		Tetraethylammonium	HeLa-OCT1	12606755		
+SLC22A1	Acetylcholine	580		1-methyl-4-phenylpyridinium (MPP+)	OCT1-expressing oocytes	15817714		
+SLC22A1	Diltiazem	15.8		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Flecainide	41.5		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Metoprolol	268		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Oxprenolol	87.3		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Pindolol	39.1		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Propranolol	113		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Quinidine	16.8		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	YM758	40.5		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	18686197		
+SLC22A1	Amascrine	5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Amiloride	57		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Amitriptyline	16.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Atropine	12.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Bucindolol	27		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Chlorpromazine	27		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Citalopram	18.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Clemastine	4.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Clomipramine	19.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Clonidine	22.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Desipramine	56.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Diltiazem	12.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Imipramine	17.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Memantine	27		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Methoclopramide	95		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Morphine	28		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Orphenadrine	12.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Prazosin	9.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Prochlorperazine	49.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Promazine	17.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Quinine	51.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Repaglinide	9.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Terazosine	23.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Trimethoprim	56.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Trimipramine	28		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	18788725		
+SLC22A1	Abacavir	0.00007		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT1	19141712		
+SLC22A1	Azidothymidine	0.0002		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT1	19141712		
+SLC22A1	Emtricitabine	0.00002		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT1	19141712		
+SLC22A1	Tenofovir	0.0009		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT1	19141712		
+SLC22A1	Cimetidine	2830		Ethidium	CHO-OCT1	19357179		
+SLC22A1	1-methyl-4-phenylpyridinium (MPP+)	390		Ethidium	CHO-OCT1	19357179		
+SLC22A1	Quinine	70		Ethidium	CHO-OCT1	19357179		
+SLC22A1	Tetraethylammonium	7410		Ethidium	CHO-OCT1	19357179		
+SLC22A1	Metformin	3420		1-methyl-4-phenylpyridinium (MPP+)	CHO-OCT1	19591196		
+SLC22A1	Bucindolol	15.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Chlorpromazine	52.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Desipramine	43.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Doxazosin	14.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Ketoconazole	7.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Prazosin	50.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Propafenone	14.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Quinidine	340		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Spironolactone	3.08		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20567254		
+SLC22A1	Ondansetron	63		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20921968		
+SLC22A1	Tropisetron	8.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	20921968		
+SLC22A1	Oxibutynin	20		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	21212936		
+SLC22A1	Trospium	18.1		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	21212936		
+SLC22A1	Dasatinib	1.07		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Erlotinib	0.356		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Gefitinib	1.07		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Imatinib	1.47		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Lapatinib	>30		Metformin	HEK293-OCT1	21252289		
+SLC22A1	N-desmethyl imatinib 	1.76		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Nilotinib	2.92		Metformin	HEK293-OCT1	21252289		
+SLC22A1	O-desmethyl erlotinib 	3.62		Metformin	HEK293-OCT1	21252289		
+SLC22A1	O-desmethyl gefitinib 	2.19		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Sorafenib	>30		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Sunitinib	0.33		Metformin	HEK293-OCT1	21252289		
+SLC22A1	Cimetidine	>100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	21599003		
+SLC22A1	Dipyridamole	81		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	21599003		
+SLC22A1	Disopyramide	>100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	21599003		
+SLC22A1	Orphenadrine	>100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	21599003		
+SLC22A1	Tacrine	83		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	21599003		
+SLC22A1	Lansoprazole	35.8		Metformin	HEK293-OCT1	21779389		
+SLC22A1	Omeprazole	15.7		Metformin	HEK293-OCT1	21779389		
+SLC22A1	Pantoprazole	30.8		Metformin	HEK293-OCT1	21779389		
+SLC22A1	Rabeprazole	3		Metformin	HEK293-OCT1	21779389		
+SLC22A1	Tenatoprazole	23.3		Metformin	HEK293-OCT1	21779389		
+SLC22A1	Famotidine	>300		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Imatinib	107		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Indinavir	208		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Irinotecan	20.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Mitoxantrone	43.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Nifekalant	>300		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Ondansetron	>300		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Pantoprazole	>500		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Pentamidine	22.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	Ritonavir	33.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	23241029		
+SLC22A1	d-Tetrahydropalmatine	13.9		Monocrotaline	MDCK-OCT1	23831208		
+SLC22A1	Quinidine	3.58		Monocrotaline	MDCK-OCT1	23831208		
+SLC22A1	Amitriptyline	4.4		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Clomipramine	5		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Codeine	11		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Fluoxetine	6		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Imipramine	6.2		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Irinotecan	1.5		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Morphine	4.2		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	23835420		
+SLC22A1	Ondansetron	1.2		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Tropisetron	3.3		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Verapamil	1.6		Morphine	HEK293-OCT1	23835420		
+SLC22A1	Chloroquine	12.8		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	27504015		
+SLC22A1	Alfuzosin	14.87		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Bithionol	2.23		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Camylofine	9.12		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Carbetapentane	1.55		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Carvedilol	3.43		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Clonidine	18.98		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Cloperastine	14.89		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Closantel	3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Clotrimazole	11.97		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Desipramine	9.18		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Dextromethorphan	10.45		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Dichlorophene	8.41		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Dobutamine	4.17		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Doxepin	11.19		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Erlotinib	16.24		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Ethopropazine	20.46		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Griseofulvin	7.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Guanabenz	4.85		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Imipramine	7.95		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Ketoconazole	2.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Nitroprusside	43.84		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Propafenone	15.54		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Pyrimethamine	13.57		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Sunitinib	6.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Tacrine	21.72		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Thiamine	4354		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Trimethoprim	50.68		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	28230985		
+SLC22A1	Ranitidine	45.5		Morphine	HEK293-OCT1	29236753		
+SLC22A1	Ranitidine	20.93		Metformin	HEK293-OCT1	29236753		
+SLC22A1	Ranitidine	336.59		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-OCT1	29236753		
+SLC22A1	Ranitidine	81.91		1-methyl-4-phenylpyridinium (MPP+)	HEK293-OCT1	29236753		
+SLC22A1	Sulpiride	182		Tetraethylammonium	HEK293-OCT1	28499878		
+SLCO2B1	BSP	6		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Rifamycin SV	2.7		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Lopinavir	0.72		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Tipranavir	0.88		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Nelfinavir	0.9		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Ritonavir	2.2		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Atazanavir	3.6		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Saquinavir	4.6		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Darunavir	26		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Efavirenz	9.6		Estrone 3-sulfate	MDCK II-OATP2B1	20507927		
+SLCO2B1	Naringin	4.63		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Naringenin	49.2		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Hesperidine	1.92		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Hesperetin	67.6		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Phloridzin	23.2		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Phloretin	1.31		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Quercetin	9.47		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Kaempferol	21.3		Estrone 3-sulfate	OATP2B1-expressing oocytes	23794501		
+SLCO2B1	Raltitrexed		70	Pemetrexed	OATP2B1-expressing HeLa R1-11	22021325		
+SLCO2B1	Meloxicam	1.59		Estrone 3-sulfate	CHO-OATP2B1	28562037		
+SLCO2B1	Bicalutamide	12.9		Estrone 3-sulfate	CHO-OATP2B1	28562037		
+SLCO2B1	Ticagrelor	2.12		Estrone 3-sulfate	CHO-OATP2B1	28562037		
+SLCO2B1	Ronacaleret	12		Rosuvastatin	HEK293-OATP2B1	27737931		
+SLCO2B1	tropesin	0.03		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	erlotinib	0.07		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	atorvastatin	0.09		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	acemetacin	0.1		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	benzbromarone	0.1		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	fluvastatin	0.1		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	tipranavir	0.2		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	montelukast	0.38		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	ethinyl estradiol	1.3		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	irbesartan	1.3		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	zafirlukast	1.4		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	diethylstilbestrol	1.6		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	glimepiride	1.6		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	ezetimibe	1.8		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	lornoxicam	1.8		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	glyburide	1.9		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	dipyridamole	2		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	silymarin	2.5		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	estradiol	2.7		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	sulfasalazine	2.7		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	olsalazine	2.8		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	novobiocin	3.4		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	felodipine	3.5		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	reserpine	3.5		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	olmesartan	4.71		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	ticagrelor	4.8		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	ketoconazole	5.7		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	prasurgel	5.9		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	latanoprost	6.76		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	raloxifene	7.4		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	calcitriol	7.5		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	losartan potassium	8		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	simvastatin	9.4		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	lovastatin	9.92		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	levothyroxine	10.4		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	drospirenone	11.1		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	diflunisal	12		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	Loratadine	13.3		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	celecoxib	13.7		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	norethindrone	14.2		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	doxazosin mesylate	15		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	indomethacin	16.3		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	bicalutamide	16.3		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	quetiapine fumarate	19.1		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	diacerein	19.98		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	itraconazole	24.8		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	oxybutynin	27.79		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	desogestrel	30.3		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	flutamide	32.4		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	piroxicam	35.42		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO2B1	vilazodone hydrochloride	47.1		Dibromofluorescein	HEK293-OATP2B1	31834804		
+SLCO1B3	boceprevir	4.9		Bromsulphthalein (BSP)	MDCKII-OATP1B3	23293300		
+SLCO1B3	atazanavir 	0.4	0.37	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	Cyclosporine	1.3	1.2	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	erlotinib 	44	41	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	indometacin 	41	8	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	pravastatin 	62	57	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	rifampicin 	1.5	1.4	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	ritonavir 	4.4	4	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	sulfasalazine	12	11	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	vincristine 	11	9.8	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	doxorubicin 	41	38	Estradiol-17beta-glucuronide	HEK293-OATP1B3	22541068		
+SLCO1B3	Clarithromycin	32		Bromsulphthalein (BSP)	HEK293-OATP1B3	17296622		
+SLCO1B3	Erythromycin 	34		Bromsulphthalein (BSP)	HEK293-OATP1B3	17296622		
+SLCO1B3	Roxithromycin 	37		Bromsulphthalein (BSP)	HEK293-OATP1B3	17296622		
+SLCO1B3	Telithromycin	11		Bromsulphthalein (BSP)	HEK293-OATP1B3	17296622		
+SLCO1B3	Saquinavir 	0.47		Estradiol-17beta-glucuronide	HEK-OATP1B3	23886114		
+SLCO1B3	Amprenavir 	38		Estradiol-17beta-glucuronide	HEK-OATP1B3	23886114		
+SLCO1B3	Indinavir 	16		Estradiol-17beta-glucuronide	HEK-OATP1B3	23886114		
+SLCO1B3	Fexofenadine	83.3		CCK-8	HEK293-OATP1B3	16014768		
+SLCO1B3	glibenclamide	9.8	8.1	Bromsulphthalein (BSP)	HEK293-OATP1B3	23121773		
+SLCO1B3	glimepiride	40.9		Bromsulphthalein (BSP)	HEK293-OATP1B3	23121773		
+SLCO1B3	Dabrafenib	4.7		Estradiol-17beta-glucuronide	HEK-MSRII-OATP1B3	28320730		
+SLCO1B3	Carfilzomib	0.9		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Dronedarone hydrochlorid	1.12		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Fosinopril sodium	5.19		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Gliquidone	1.17		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Lapayonib	33.78		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Rapamycin	0.4		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Trametinib	30.82		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Zafirlukast	4.96		FMTX 	CHO-OATP1B3	2646988		
+SLCO1B3	Dasatinib	5.76		Estradiol-17beta-glucuronide	HEK293-OATP1B3	28373111		
+SLCO1B3	rilpivirine	6.1		8-fluorescein-cAMP	HEK293-OATP1B3	23428312		
+SLCO1B3	sacubitril	3.81		Estradiol-17beta-glucuronide	HEK293-OATP1B3	27321165		
+SLCO1B3	Simeprevir	0.22		CCK-8	HEK293-OATP1B3	24867984		
+SLCO1B3	asunaprevir	0.65		CCK-8	HEK293-OATP1B3	24867984		
+SLCO1B3	daclatasvir	3.27		CCK-8	HEK293-OATP1B3	24867984		
+SLCO1B3	sofosbuvir	61.9		CCK-8	HEK293-OATP1B3	24867984		
+SLCO1B3	telaprevir	9.69		CCK-8	HEK293-OATP1B3	24867984		
+SLCO1B3	Darolutamide	39.3		Atorvastatin	HEK293-OATP1B3	31571146		
+SLCO1B3	Dovtinib	105.2		8-fluorescein-cAMP	HEK293-OATP1B3	25521244		
+SLCO1B3	Everolimus	3.7		mycophenolic acid 7-O-glucuronide	HEK293-OATP1B3	31047942		
+SLCO1B3	Sirolimus	1.3		mycophenolic acid 7-O-glucuronide	HEK293-OATP1B3	31047942		
+SLCO1B3	Mevinolin	92.6		Estradiol-17beta-glucuronide	CHO-OATP1B3	18321482		
+SLCO1B3	Carbamazepine	510		Estradiol-17beta-glucuronide	CHO-OATP1B3	18321482		
+SLCO1B3	Tolbutamide	10		CCK-8	MDCKII-OATP1B3	24150606		
+SLCO1B3	Nateglinide	45.6		CCK-8	MDCKII-OATP1B3	24150606		
+SLCO1B1	Simeprevir	0.72		Estradiol-17beta-glucuronide	CHO-OATP1B1		http://www.hivandhepatitis.com/2010_conference/aasld/posters/Huisman.pdf	
+SLCO1B1	Cyclosporine		0.238	Cerivastatin	MDCK II-OAT1B1	12538813		
+SLCO1B1	Atorvastatin (lactone)	2.6		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Atorvastatin (acid)	0.87		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Lovastatin (acid)	4		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Lovastatin (lactone)	28		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Pravastatin (acid)	>100		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Rifamycin SV	0.23		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Simvastatin (acid)	3.6		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Simvastatin (lactone)	9.7		Estradiol-17beta-glucuronide	HEK-OATP1B1	15616150		
+SLCO1B1	Azithromycin	>250 		Bromsulphthalein (BSP)	HEK-OATP1B1	17296622		
+SLCO1B1	Clarithromycin	96		Bromsulphthalein (BSP)	HEK-OATP1B1	17296622		
+SLCO1B1	Erythromycin	217		Bromsulphthalein (BSP)	HEK-OATP1B1	17296622		
+SLCO1B1	Roxithromycin	153		Bromsulphthalein (BSP)	HEK-OATP1B1	17296622		
+SLCO1B1	Telithromycin	121		Bromsulphthalein (BSP)	HEK-OATP1B1	17296622		
+SLCO1B1	Gadoxetic acid	600		Bromsulphthalein (BSP)	HEK-OATP1B1	20406852		
+SLCO1B1	Rifampicin	11.9		Bromsulphthalein (BSP)	HEK-OATP1B1	20406852		
+SLCO1B1	Ceftriaxone	470		Lithocholyl-(Ne-NBD)-lysine	HEK-OATP1B1	21372390		
+SLCO1B1	Clarithromycin	75		Lithocholyl-(Ne-NBD)-lysine	HEK-OATP1B1	21372390		
+SLCO1B1	Rifampicin	8.8		Lithocholyl-(Ne-NBD)-lysine	HEK-OATP1B1	21372390		
+SLCO1B1	Amprenavir	16.8	9.52	Atorvastatin	HEK-OATP1B1	21861202		
+SLCO1B1	Atazanavir	1.61	0.91	Atorvastatin	HEK-OATP1B1	21861202		
+SLCO1B1	Cyclosporine	1.88	0.82	Atorvastatin	HEK-OATP1B1	21861202		
+SLCO1B1	Gemfibrozil	156.2	68.05	Atorvastatin	HEK-OATP1B1	21861202		
+SLCO1B1	Lopinavir	0.74	0.32	Atorvastatin	HEK-OATP1B1	21861202		
+SLCO1B1	Atazanavir	1.4	1.3	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Cyclosporine	1.4	1.3	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Doxorubicin	160	150	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Erlotinib	21	21	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Indomethacin	12	11	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Pravastatin	3.6	3.4	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Rifampicin	1.2	1.1	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Ritonavir	1.3	1.3	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Sulfasalazine	0.56	0.53	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Vincristine	44	42	Estradiol-17beta-glucuronide	HEK-OATP1B1	22541068		
+SLCO1B1	Glimepiride	3.55		Estradiol-17beta-glucuronide	HEK-OATP1B1	23248200		
+SLCO1B1	Glimepiride	3.62		Rosuvastatin	HEK-OATP1B1	23248200		
+SLCO1B1	Glipizide	45.3		Estradiol-17beta-glucuronide	HEK-OATP1B1	23248200		
+SLCO1B1	Glipizide	110		Rosuvastatin	HEK-OATP1B1	23248200		
+SLCO1B1	Glyburide	2.99		Estradiol-17beta-glucuronide	HEK-OATP1B1	23248200		
+SLCO1B1	Glyburide	1.77		Rosuvastatin	HEK-OATP1B1	23248200		
+SLCO1B1	Pioglitazone	5.09		Estradiol-17beta-glucuronide	HEK-OATP1B1	23248200		
+SLCO1B1	Pioglitazone	32.2		Rosuvastatin	HEK-OATP1B1	23248200		
+SLCO1B1	Tolbutamide	368		Rosuvastatin	HEK-OATP1B1	23248200		
+SLCO1B1	Rilpivirine	4.1		8-fluorescein-cAMP	HEK-OATP1B1	23428312		
+SLCO1B1	Amlodipine	35.5		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Amlodipine	39.6		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Clopidogrel	3.95		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Clopidogrel	>100		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Glyburide	0.26		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Glyburide	1.4		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Levothyroxine	0.88		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Levothyroxine	2.04		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Montelukast	2.04		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Montelukast	1.4		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Pioglitazone	39.6		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Pioglitazone	6.8		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Rifampicin	5.65		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Rifampicin	0.88		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Rosiglitazone	43.4		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Rosiglitazone	4.27		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Verapamil	>100		Cerivastatin	HEK-OATP1B1	23652407		
+SLCO1B1	Verapamil	75.7		Estrone 3-sulfate	HEK-OATP1B1	23652407		
+SLCO1B1	Sorafenib	0.0696		Docetaxel	T-Rex293-OATP1B1	24398510		
+SLCO1B1	Eltrombopag	0.09		Rosuvastatin	HEK-OATP1B1	24440960		
+SLCO1B1	Digitoxin	14.2		Estradiol-17beta-glucuronide	HEK-OATP1B1	24754247		
+SLCO1B1	Digoxin	63		Estradiol-17beta-glucuronide	HEK-OATP1B1	24754247		
+SLCO1B1	Octreotide	24.1		Estradiol-17beta-glucuronide	CHO-OATP1B1	26330539		
+SLCO1B1	Clarithromycin	5.3		Estradiol-17beta-glucuronide	HEK-OATP1B1	26668209		
+SLCO1B1	Ketoconazole	1.8		Estradiol-17beta-glucuronide	HEK-OATP1B1	26668209		
+SLCO1B1	Ritonavir	0.68		Estradiol-17beta-glucuronide	HEK-OATP1B1	26668209		
+SLCO1B1	Cyclosporine		0.116	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Erythromycin		5.27	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Estrone 3-sulfate		0.0449	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Gemfibrozil		18.1	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Ketoconazole		11.5	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Probenecid		39.8	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Rifampicin		0.355	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Ritonavir		0.32	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Tacrolimus		0.533	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Verapamil		15.3	Dichlorofluorescein	HEK-OATP1B1	26696140		
+SLCO1B1	Venetoclax	47.8		8-fluorescein-cAMP	HEK-OATP1B1	26927160		
+SLCO1B1	Lesinurad	9.3		Bromsulphthalein (BSP)	MDCK II-OAT1B1	26951201		
+SLCO1B1	4-Aminosalicylic acid	72.6		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Amoxicillin	36.2		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Ethambutol	57.6		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Linezolid	65.9		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Rifabutin	35.4		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Rifampicin	1.9		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Rifapentine	26.7		Estrone 3-sulfate	HEK-OATP1B1	26976869		
+SLCO1B1	Sacubitril	1.91		Estradiol-17beta-glucuronide	HEK-OATP1B1	27321165		
+SLCO1B1	Fusidic acid	3.9		Rosuvastatin	HEK-OATP1B1	27458210		
+SLCO1B1	Olaparib	20.3		Estradiol-17beta-glucuronide	HEK-OATP1B1	27684210		
+SLCO1B1	Olaparib	27.1		Pravastatin	HEK-OATP1B1	27684210		
+SLCO1B1	Dabrafenib	1.4		Estradiol-17beta-glucuronide	CHO-OATP1B1	28320730		
+SLCO1B1	Dasatinib	2.33		Estradiol-17beta-glucuronide	HEK-OATP1B1	28373111		
+SLCO1B1	Rifampicin	0.24		Estradiol-17beta-glucuronide	HEK-OATP1B1	28373111		
+SLCO1B1	Cyclosporine		2.32	Cilostazol	HEK-OATP1B1	28535976		
+SLCO1B1	Rifampicin		6.75	Cilostazol	HEK-OATP1B1	28535976		
+SLCO1B1	Telmisartan		4.88	Cilostazol	HEK-OATP1B1	28535976		
+SLCO1B1	Irbesartan	4.65		Estrone 3-sulfate	HEK-OATP1B1	29748863		
+SLCO1B1	Valsartan	14.98		Estrone 3-sulfate	HEK-OATP1B1	29748863		
+SLCO1B1	Everolimus	0.23		Estradiol-17beta-glucuronide	HEK-OATP1B1	31047942		
+SLCO1B1	Everolimus	0.16		Estrone 3-sulfate	HEK-OATP1B1	31047942		
+SLCO1B1	Everolimus	0.19		Rosuvastatin	HEK-OATP1B1	31047942		
+SLCO1B1	Sirolimus	0.22		Estradiol-17beta-glucuronide	HEK-OATP1B1	31047942		
+SLCO1B1	Sirolimus	0.65		Estrone 3-sulfate	HEK-OATP1B1	31047942		
+SLCO1B1	Sirolimus	0.32		Rosuvastatin	HEK-OATP1B1	31047942		
+SLCO1B1	Darolutamide	3.8		Pravastatin	HEK-OATP1B1	31571146		
+SLCO1B1	Cerivastatin	1.7		Estradiol-17beta-glucuronide	HEK-OATP1B1	17901929		
+SLCO1B1	Cyclosporine	0.05		Estradiol-17beta-glucuronide	HEK-OATP1B1	17901929		
+SLCO1B1	Gemfibrozil	7.4		Estradiol-17beta-glucuronide	HEK-OATP1B1	17901929		
+SLCO1B1	Repaglinide	0.32		Estradiol-17beta-glucuronide	HEK-OATP1B1	17901929		
+SLCO1B1	Sirolimus	6.49		Bromsulphthalein (BSP)	HEK-OATP1B1	20220747		
+SLCO1B1	Beclomethasone	6.7		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Bromocriptine	0.7		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Estrone 3-sulfate	0.06		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Etomidate	>100		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Metronidazole	>100		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Moricizine	8.1		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Progesterone	5.4		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Ramipril	4		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Repaglinide	1.1		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Rifampicin	1.3		Fluorescein-Methotrexate	CHO-OATP1B1	20448812		
+SLCO1B1	Nisoldipine		7.4	Estradiol-17beta-glucuronide	HEK-OATP1B1	22534868		
+SLCO1B1	Sulfinpyrazone		32	Estradiol-17beta-glucuronide	HEK-OATP1B1	22534868		
+SLCO1B1	Tipranavir		1.1	Estradiol-17beta-glucuronide	HEK-OATP1B1	22534868		
+SLCO1B1	Trimethoprim		>100	Estradiol-17beta-glucuronide	HEK-OATP1B1	22534868		
+SLCO1B1	Ursodeoxycholic acid		10	Estradiol-17beta-glucuronide	HEK-OATP1B1	22534868		
+SLCO1B1	Nilotinib	2.78		Estrone 3-sulfate	CHO-OATP1B1	24807167		
+SLCO1B1	Pazopanib	3.89		Estrone 3-sulfate	CHO-OATP1B1	24807167		
+SLCO1B1	Rifampicin	10.46		Estrone 3-sulfate	CHO-OATP1B1	24807167		
+SLC22A8	Valsartan	0.36		Bestatin	HEK293-OAT3	24338900		
+SLC22A8	Telmisartan	1.38		Bestatin	HEK293-OAT3	24338900		
+SLC22A8	Irbesartan	0.41		Bestatin	HEK293-OAT3	24338900		
+SLC22A8	Eprosartan	3.8		Bestatin	HEK293-OAT3	24338900		
+SLC22A8	Loxoprofen	34.2		Pemetrexed	HEK-OAT3	24042472		
+SLC22A8	Ibuprofen	27.9		Pemetrexed	HEK-OAT3	24042472		
+SLC22A8	Pravastatin	76.3		Pemetrexed	HEK-OAT3	24042472		
+SLC22A8	Cefazolin	650		Pemetrexed	HEK-OAT3	24042472		
+SLC22A8	Nateglinide	0.86		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Oxaprozin	0.87		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Nitazoxanide	0.154		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Valsartan	0.25		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Ethacrynic acid	0.662		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Diflunisal	0.72		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Mefenamic acid	1.75		6-CF	COS-7-OAT3	22973893		
+SLC22A8	Dotinurad	1.32		Urate	HEK293-OAT3	31371478		
+SLC22A8	Benzbromarone	0.967		Urate	HEK293-OAT3	31371478		
+SLC22A8	Lesinurad	1.07		Urate	HEK293-OAT3	31371478		
+SLC22A8	Leflunomide	4.1		6-CF	HEK293-OAT3	31341258		
+SLC22A8	teriflunomide	0.87		6-CF	HEK293-OAT3	31341258		
+SLC22A8	Probenecid	1.9		Relebactam	MDCKII-OAT3	30891606		
+SLC22A8	Cefazolin	99		Relebactam	MDCKII-OAT3	30891606		
+SLC22A8	Piperacillin	108		Relebactam	MDCKII-OAT3	30891606		
+SLC22A8	Linezolid	53		Relebactam	MDCKII-OAT3	30891606		
+SLC22A8	Selexipag	1.7		Furosemide	HEK293-OAT3	28737453		
+SLC22A8	Dantrolene	0.3		Estrone 3-sulfate	HEK293-OAT3	28630284		
+SLC22A8	Glafenine	5.31		Estrone 3-sulfate	HEK293-OAT3	28630284		
+SLC22A8	Nalidixic acid	24.87		Estrone 3-sulfate	HEK293-OAT3	28630284		
+SLC22A8	Prazosin	29.84		Estrone 3-sulfate	HEK293-OAT3	28630284		
+SLC22A8	Dabrafenib	3.4		6-CF	S2-OAT3	28320730		
+SLC22A8	Sacubitril	0.795		Estrone 3-sulfate	HEK293-OAT3	28281384		
+SLC22A8	Valsartan	1.11		Estrone 3-sulfate	HEK293-OAT3	28281384		
+SLC22A8	Epacadostat	21		Estrone 3-sulfate	HEK293-Flp-In-OAT3	28283500		
+SLC22A8	Probenecid	24.6		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Indomethacin	2.18		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Ibuprofen	1.98		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Diclofenac	2		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Naproxen	4.6		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Omeprazole	5.1		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Lansoprazole	2.18		para-aminosalicylic acid	HEK293-OAT3	28223391		
+SLC22A8	Olaparib	18.4		Furosemide	HEK293-OAT3	27684210		
+SLC22A8	Probenecid	4.41		Baricitinib	HEK-PEAK-OAT3	28749581		
+SLC22A8	Ibuprofen	4.46		Baricitinib	HEK-PEAK-OAT3	28749581		
+SLC22A8	Diclofenac	3.7		Baricitinib	HEK-PEAK-OAT3	28749581		
+SLC22A8	Methotrexate	92.2		Baricitinib	HEK-PEAK-OAT3	28749581		
+SLC22A8	Linezolid	21.9		Estrone 3-sulfate	HEK293-OAT3	27550354		
+SLC22A8	para-aminosalicylic acid	24.6		Estrone 3-sulfate	HEK293-OAT3	27550354		
+SLC22A8	Rifampin	30.2		Estrone 3-sulfate	HEK293-OAT3	27550354		
+SLC22A8	Rifabutin	54		Estrone 3-sulfate	HEK293-OAT3	27550354		
+SLC22A8	Rifapentine	52.9		Estrone 3-sulfate	HEK293-OAT3	27550354		
+SLC22A8	Ketoconazole	0.86		Estrone 3-sulfate	HEK293-OAT3	26668209		
+SLC22A8	Cabotegravir	0.41		Estrone 3-sulfate	S2-OAT3	26340566		
+SLC22A8	Chlorambucil	9.5		Estrone 3-sulfate	HEK293-OAT3	25477469		
+SLC22A8	Bendamustin	0.8		Estrone 3-sulfate	HEK293-OAT3	25477469		
+SLC22A8	Nilotinib	0.41		Estrone 3-sulfate	HEK293-OAT3	25165131		
+SLC22A8	Aspirin	17	15	Cilostazol	HEK293-OAT3	24692216		
+SLC22A8	Benzylpenicillin	137	126	Cilostazol	HEK293-OAT3	24692216		
+SLC22A8	Raltegravir	18.8		Estrone 3-sulfate	MDCKII-OAT3	24295974		
+SLC22A8	Mycophenolic acid	4.3		Methotrexate	HEK293-OAT3	24036158		
+SLC22A8	Ketoconazole	15.77		Rivaroxaban	HEK293-OAT3	31506301		
+SLC22A8	Probenecid	12.5		Isoniazid	HEK293-OAT3	30012768		
+SLC22A8	Ibuprofen	6.1		Isoniazid	HEK293-OAT3	30012768		
+SLC22A8	Probenecid	14.4		Amoxicillin	HEK293-OAT3	30012768		
+SLC22A8	Darolutamide	4.5		Furosemide	HEK293-OAT3	31571146		
+SLC22A8	Nitrofurantoin	6.23	5.86	Estrone 3-sulfate	HEK293-OAT3	29307856		
+SLC22A8	Sulfadiazine	6.65	3.98	Estrone 3-sulfate	HEK293-OAT3	29307856		
+SLC22A8	Metronidazole	6.51	6.48	Estrone 3-sulfate	HEK293-OAT3	29307856		
+SLC22A8	Esomeprazole	1.2		Methotrexate	HEK293-OAT3	28801980		
+SLC22A8	Lansoprazole	0.4		Methotrexate	HEK293-OAT3	28801980		
+SLC22A8	Omeprazole	5.5		Methotrexate	HEK293-OAT3	28801980		
+SLC22A8	Rabeprazole	4.8		Methotrexate	HEK293-OAT3	28801980		
+SLC22A8	Apixaban	289		Estrone 3-sulfate	HEK293-OAT3	28456731		
+SLC22A8	Rivaroxaban	8.2		Estrone 3-sulfate	HEK293-OAT3	28456731		
+SLC22A8	Ketoconazole	64		Estrone 3-sulfate	HEK293-OAT3	28456731		
+SLC22A8	Hydrochlorothiazide	213		Estrone 3-sulfate	HEK293-OAT3	31322418		
+SLC22A8	Probenecid	5.8		Hydrochlorothiazide	HEK293-OAT3	31322418		
+SLC22A8	Valsartan	2.3		Hydrochlorothiazide	HEK293-OAT3	31322418		
+SLC22A6	Valsartan	1.97		Bestatin	HEK293-OAT1	24338900		
+SLC22A6	Telmisartan	0.44		Bestatin	HEK293-OAT1	24338900		
+SLC22A6	Irbesartan	0.039		Bestatin	HEK293-OAT1	24338900		
+SLC22A6	Eprosartan	0.13		Bestatin	HEK293-OAT1	24338900		
+SLC22A6	Oxaprozin	0.891		6-CF	COS-7-OAT1	22973893		
+SLC22A6	Mefenamic acid	1.085		6-CF	COS-7-OAT1	22973893		
+SLC22A6	Ketorolac tromethamine	0.653		6-CF	COS-7-OAT1	22973893		
+SLC22A6	Dotinurad	4.08		Urate	HEK293-OAT1	31371478		
+SLC22A6	Benzbromarone	3.14		Urate	HEK293-OAT1	31371478		
+SLC22A6	Lesinurad	6.99		Urate	HEK293-OAT1	31371478		
+SLC22A6	teriflunomide	3.39		6-CF	HEK293-OAT1	31341258		
+SLC22A6	Selexipag	1.4		PAH	CHO-OAT1	28737453		
+SLC22A6	Dantrolene	1.89		PAH	HEK293-OAT1	28630284		
+SLC22A6	Nalidixic acid	110.6		PAH	HEK293-OAT1	28630284		
+SLC22A6	Prazosin	4.89		PAH	HEK293-OAT1	28630284		
+SLC22A6	Dantrolene	78.3		Glutarate	HEK293-OAT1	28630284		
+SLC22A6	Glafenine	54.5		Glutarate	HEK293-OAT1	28630284		
+SLC22A6	Nalidixic acid	10.8		Glutarate	HEK293-OAT1	28630284		
+SLC22A6	Dabrafenib	6.9		6-CF	S2-OAT1	28320730		
+SLC22A6	Valsartan	14.8		Cidofovir	HEK293-OAT1	28281384		
+SLC22A6	Probenecid	16.3		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Indomethacin	1.91		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Ibuprofen	5.1		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Diclofenac	1.8		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Naproxen	4.13		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Omeprazole	1.76		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Lansoprazole	4.13		para-aminosalicylic acid	HEK293-OAT1	28223391		
+SLC22A6	Ciprofloxacin	35.1		PAH	HEK293-OAT1	27550354		
+SLC22A6	Linezolid	31.1		PAH	HEK293-OAT1	27550354		
+SLC22A6	para-aminosalicylic acid	37.6		PAH	HEK293-OAT1	27550354		
+SLC22A6	Rifampin	48.1		PAH	HEK293-OAT1	27550354		
+SLC22A6	Rifabutin	55.1		PAH	HEK293-OAT1	27550354		
+SLC22A6	Rifapentine	61.8		PAH	HEK293-OAT1	27550354		
+SLC22A6	Ketoconazole	5.7		PAH	HEK293-OAT1	26668209		
+SLC22A6	Cabotegravir	0.81		PAH	S2-OAT1	26340566		
+SLC22A6	Chlorambucil	44.3		PAH	HEK293-OAT1	25477469		
+SLC22A6	Raltegravir	108		Cidofovir	MDCKII-OAT1	24295974		
+SLC22A6	Tenofovir	29.3		PAH	HeLa-OAT1	23856525		
+SLC22A6	Adefovir	8.1		PAH	HeLa-OAT1	23856525		
+SLC22A6	Hydrochlorothiazide	126		PAH	HEK293-OAT1	31322418		
+SLC22A6	Probenecid	7.1		Hydrochlorothiazide	HEK293-OAT1	31322418		
+SLC22A6	Valsartan	9		Hydrochlorothiazide	HEK293-OAT1	31322418		
+SLC47A2	Agmatine	60.8		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Amantadine 	89		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Amiloride	3.06		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Atropine	52		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Clonidine 	54		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Famotidine	6.28		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Guanfacine 	218		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Imiquimod	19.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Ketoconazole	9.33		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Metformin	89.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Midodrine	87.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	1-methyl-4-phenylpyridinium (MPP+)	3.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Naloxone	43.2		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Nialamide	236		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Nicotine	134		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Phentolamine	5.3		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Procainamide	19.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Proguanil	1.39		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Propranolol	7.71		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Pyrimethamine (PYR)	0.059		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Quinidine	1.47		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Quinine	6.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	ranitidine	10		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Scopolamine	272		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Tacrine	1.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Tramadol	74		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Trimethoprim	2.61		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Verapamil	37.9		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE2K	22419765		
+SLC47A2	Amphetamine 	158		Metformin	HEK293-MATE2K	28428365		
+SLC47A2	Metamphetamine	84.3		Metformin	HEK293-MATE2K	28428365		
+SLC47A2	Butylscopolamine	38.2		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE2K	27676604		
+SLC47A2	Ipratropium	62.8		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE2K	27676604		
+SLC47A2	Trospium	5.1		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE2K	27676604		
+SLC47A2	Homatropine	128.3		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE2K	27676604		
+SLC47A2	disopyramide	100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	ondansetron	6.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	tacrine	100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	imipramine	100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	cimetidine	39		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	dipyridamole	74		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	orphenadrine	100		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	imatinib	2.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	tubocurarine	55.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	irinotecan	7.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	mitoxantrone	0.83		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	buspirone	46		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	rimantadine	288		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	imatinib	0.35		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	risperidone	291		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	epinastine	29.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	aripiprazole	500		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	mitoxantrone	0.53		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	ethinyl estradiol	20.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	indinavir	500		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	pentamidine	2.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	pimozide	500		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	dihydroergotamine	12.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	pantoprazole	43.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	vecuronium bromide	25.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	nifekalant	6.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	pantoprazole	500		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	camostat	12.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	ondansetron	0.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	ondansetron	0.16		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	famotidine	36.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	ritonavir	4.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	granisetron	311		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	pentamidine	10.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	ritonavir	23.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	maraviroc	297		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	gabexate	10.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	irinotecan	78.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	topotecan	8.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	Zafirlukast	7.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	Dabigatran	25.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	bithionol	6.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	prazosin	38.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	domperidone	14.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	chlorhexidine	0.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	nifekalant	2.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	indinavir	7.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	23241029		
+SLC47A2	Chloroquine	4		ipratropium 	HEK293-MATE2K	27676604		
+SLC47A2	Pyrimethamine 	0.01		ipratropium 	HEK293-MATE2K	27676604		
+SLC47A2	Cobicistat	3.2		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE2K	31034908		
+SLC47A2	Cimetidine 	5.47		Metformin	HEK293-MATE2K	27271370		
+SLC47A2	Abemaciclib	0.75		Metformin	HEK293-MATE2K	30449032		
+SLC47A2	Dasatinib	0.8		Metformin	HEK293-MATE2K	21252289		
+SLC47A2	Erlotinib	3.45		Metformin	HEK293-MATE2K	21252289		
+SLC47A2	Gefitinib	0.194		Metformin	HEK293-MATE2K	21252289		
+SLC47A2	Sunitinib	0.86		Metformin	HEK293-MATE2K	21252289		
+SLC47A2	Dipyridamole 	74		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE2K	21599003		
+SLC47A2	moxifloxacin 	7.6		Metformin	HEK293-MATE2K	27645247		
+SLC47A1	Agmatine	54		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Amantadine 	7.5		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Amiloride	2.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Atropine	6		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Clonidine 	8.09		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Famotidine	2.16		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Guanfacine 	3.5		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Imiquimod	14		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Ketoconazole	1.33		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Metformin	47		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Midodrine	109		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Naloxone	24.1		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Nialamide	212		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Nicotine	167		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Phentolamine	4.64		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Procainamide	24		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Proguanil	4.35		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Propranolol	7.81		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Quinidine	1.57		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Quinine	2		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	ranitidine	5.4		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Scopolamine	47.6		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Tacrine	0.51		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Tramadol	17.8		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Trichlormethiazide	249		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Trimethoprim	9.7		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Verapamil	42		1-methyl-4-phenylpyridinium (MPP+)	CHO-MATE1	22419765		
+SLC47A1	Amphetamine 	94		Metformin	HEK293-MATE1	28428365		
+SLC47A1	Metamphetamine	107		Metformin	HEK293-MATE1	28428365		
+SLC47A1	Butylscopolamine	8.2		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE1	27676604		
+SLC47A1	Ipratropium	30.5		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE1	27676604		
+SLC47A1	Trospium	11.6		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE1	27676604		
+SLC47A1	Homatropine	18.7		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE1	27676604		
+SLC47A1	Scopolamine 	119.2		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE1	27676604		
+SLC47A1	disopyramide	66		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	orphenadrine	65		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	tacrine	1.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	dipyridamole	26		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	Imipramine	10		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	ondansetron	0.15		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	cimetidine	5.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	epinastine	1.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	ritonavir	2.1		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	indinavir	1.9		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	nifekalant	0.65		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	pantoprazole	2.8		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	ondansetron	0.01		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	nifekalant	1.1		Metformin	HEK293-MATE1	23241029		
+SLC47A1	maraviroc	17.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	irinotecan	7.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	pentamidine	2		Metformin	HEK293-MATE1	23241029		
+SLC47A1	irinotecan	4.3		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	cimetidine	1.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	pantoprazole	43.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	aripiprazole	130		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	Dabigatran	8.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	BITHIONOL	5.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	risperidone	1.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	topotecan	1.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	dihydroergotamine	2.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	imatinib	0.04		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	mitoxantrone	0.19		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	mitoxantrone	0.4		Metformin	HEK293-MATE1	23241029		
+SLC47A1	cortisone	21.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	camostat	2.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	zafirlukast	1.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	famotidine	0.76		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	spironolactone	18.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	ranitidine	8.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	metformin	250		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	pentamidine	2.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	indinavir	7.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	ritonavir	4.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	irinotecan	2.1		Metformin	HEK293-MATE1	23241029		
+SLC47A1	ritonavir	0.08		Metformin	HEK293-MATE1	23241029		
+SLC47A1	pentamidine	0.41		Metformin	MDCK2- MATE1	23241029		
+SLC47A1	pantoprazole	2.8		Metformin	HEK293-MATE1	23241029		
+SLC47A1	prazosin	1.6		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	Vecuronium bromide	1.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	tubocurarine	9.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	amantadine	37.8		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	carvedilol	92.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	chlorhexidine	0.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	gabexate	0.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	buspirone	1.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	ethinyl estradiol	21.1		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	mitoxantrone	0.53		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	imatinib	0.35		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	noscapine	34.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	nifekalant	6.5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	sumatriptan	6.7		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	clonidine	33.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	losartan	250		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	rimantadine	7.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	astemizole	26.4		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	domperidone	2.3		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	granisetron	5		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	imatinib	0.05		Metformin	HEK293-MATE1	23241029		
+SLC47A1	ondansetron	0.03		Metformin	HEK293-MATE1	23241029		
+SLC47A1	indinavir	1.7		Metformin	HEK293-MATE1	23241029		
+SLC47A1	telmisartan	17.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	methyl ergonovine	250		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	ondansetron	0.16		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	quinidine	11.2		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	Levofloxacin	17.9		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	23241029		
+SLC47A1	Chloroquine	1.5		ipratropium 	HEK293-MATE1	27676604		
+SLC47A1	Pyrimethamine 	0.07		ipratropium 	HEK293-MATE1	27676604		
+SLC47A1	Cimetidine 	2.56		Metformin	HEK293-MATE1	27271370		
+SLC47A1	Cobicistat	4.4		1-methyl-4-phenylpyridinium (MPP+)	HEK293-MATE1	31034908		
+SLC47A1	Abemaciclib	0.52		Metformin	HEK293-MATE1	30449032		
+SLC47A1	Dasatinib	0.8		Metformin	HEK293-MATE1	21252289		
+SLC47A1	Erlotinib	8		Metformin	HEK293-MATE1	21252289		
+SLC47A1	Gefitinib	1.82		Metformin	HEK293-MATE1	21252289		
+SLC47A1	Sunitinib	0.275		Metformin	HEK293-MATE1	21252289		
+SLC47A1	Dipyridamole 	24		4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)	HEK293-MATE1	21599003		
+SLC47A1	Donepezil	0.78		Metformin	CHO-MATE1	27418674		
+SLC47A1	Esmolol	11		Metformin	CHO-MATE1	27418674		
+SLC47A1	Prochlorperazine	7.9		Metformin	CHO-MATE1	27418674		
+SLC47A1	Omeprazole	16.1		Metformin	CHO-MATE1	27418674		
+SLC47A1	Ketotifen	12.7		Metformin	CHO-MATE1	27418674		
+SLC47A1	Dolutegravir	4.7		tetraethylammonium	CHO-MATE1	24646860		
+ABCG2	Eltrombopag	2.1		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	Fostamatinib	0.05		Estrone 3-sulfate	BCRP membrane vesicles 	26700956		
+ABCG2	Curcumin	1.6	0.7	sulfasalazine	BCRP membrane vesicles 	22300367		
+ABCG2	Lapatinib	0.025		cimetidine	polarized MDCKII-BCRP  	25587128		
+ABCG2	sulfasalazine	0.61		Estrone 3-sulfate	BCRP membrane vesicles 	26700956		
+ABCG2	darunavir	75		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	lopinavir	8.7		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	clopidogrel	63		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	ezetimibe	2.9		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	fenofibrate	170		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	novobiocin	1.4		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	Ko143 	0.4		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	Cyclosporine	3.7		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	pantoprazole	9.6		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	sulfasalazine	2.9		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	atorvastatin	0.6		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	diclofenac	19.8		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	fluvastatin	1.1		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	nifedipine	10.7		rosuvastatin	polarized Caco-2 monolayer	26700956		
+ABCG2	Afatinib	0.75		Estrone 3-sulfate	polarized Caco-2 monolayer		https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/201292Orig1s000ClinPharmR.pdf 	
+ABCG2	Aripiprazole	3.5		Methotrexate	BCRP membrane vesicles 	22847220		
+ABCG2	Dehydroaripiprazole	0.52		Methotrexate	BCRP membrane vesicles 	22847220		
+ABCG2	Axitinib	4.4		topotecan	polarized MDCKII-BCRP  	23729661		
+ABCG2	Cyclosporine	13.4	6.7	Estrone 3-sulfate	BCRP membrane vesicles 	17220244		
+ABCG2	Cyclosporine		7.8	Methotrexate	BCRP membrane vesicles 	17220244		
+ABCG2	Elacridar	0.31		sunitinib	polarized MDCKII-BCRP  	21351087		
+ABCG2	Gefitinib	1.01		topotecan	Transfected K562-BCRP	15367706		
+ABCG2	Ivermectin	2.8	1.4	Estrone 3-sulfate	BCRP membrane vesicles 	20574995		
+ABCG2	Ko143	0.013		Estrone 3-sulfate	BCRP membrane vesicles 	17220244		
+ABCG2	Pantoprazole	5.5		Methotrexate	BCRP membrane vesicles 	19076159		
+ABCG2	Quercetin	0.6		Methotrexate	BCRP membrane vesicles 	16489126		
+ABCG2	Quizartinib (AC220)	0.5		pheophorbide A	Transfected K562-BCRP	23967177		
+ABCG2	Rabeprazole	8.5		Methotrexate	BCRP membrane vesicles 	19076159		
+ABCG2	Rilpivirine	1.5		pheophorbide A	polarized MDCKII-BCRP  	23428312		
+ABCG2	Sunitinib	0.64	0.32	Estrone 3-sulfate	BCRP membrane vesicles 	20345483		
+ABCG2	Tacrolimus	6		Methotrexate	BCRP membrane vesicles 	16489126		
+ABCG2	Trametinib	1.1		cimetidine	polarized MDCKII-BCRP  		https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/204114Orig1s000ClinPharmR.pdf	
+ABCG2	Vismodegib	2.4		prazosin	polarized MDCKII-BCRP  		https://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203388Orig1s000ClinPharmR.pdf	
+ABCG2	omeprazole 	17		Methotrexate	BCRP membrane vesicles 	19076159		
+ABCG2	lansoprazole	14.4		Methotrexate	BCRP membrane vesicles 	19076159		
+ABCG2	prazosin	10		Methotrexate	BCRP membrane vesicles 	16489126		
+ABCG2	leflunomide	1.86		Methotrexate	BCRP membrane vesicles 	18397960		
+ABCG2	teriflunomide	0.093		Methotrexate	BCRP membrane vesicles 	18397960		
+ABCG2	Baricitinib	50		multiple	BCRP membrane vesicles 		https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/207924Orig1s000ClinPharmR.pdf	

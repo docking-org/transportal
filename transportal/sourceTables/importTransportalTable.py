@@ -1,4 +1,5 @@
-##Import in vitro interaction tsv to initial_data.json
+##Import in vitro interactions tsv to initial_data.json
+##python importTicBaseInVitro.py origFile newDataFile outputFile additionalTransInfoFile
 
 
 import json
@@ -24,10 +25,11 @@ def slugify(text):
 
 
 originalData = sys.argv[1]
-newData = sys.argv[2]
-outputfilename = sys.argv[3]
-additionalTransFile = sys.argv[4]
-additionalReferenceFile = sys.argv[5]
+newSubstrates = sys.argv[2]
+newInhibitors = sys.argv[3]
+newDDI = sys.argv[4]
+outputfilename = sys.argv[5]
+additionalRefsFile = sys.argv[6]
 
 infile = open(originalData)
 data = json.load(infile)
@@ -36,7 +38,9 @@ transporters = set()
 references = set()
 referencesNonPubmed= {}
 chemicals = set()
-
+organismTransTable = {'Mus musculus': 'mouse',
+        'Chlorocebus aethiops': 'grivet',
+        'Rattus norvegicus': 'rat'}
 transporterTransTable = {'P-gp':'ABCB1',
         'MRP1':'ABCC1',
         'MRP2':'ABCC2',
@@ -63,13 +67,13 @@ transporterTransTable = {'P-gp':'ABCB1',
         'OATP1B1':'SLCO1B1',
         'OATP1B3':'SLCO1B3',
         'OATP2B1':'SLCO2B1',
-        'rOAT1':'rat Slc22a6',
-        'rOAT2':'rat Slc22a7',
-        'rOAT3':'rat Slc22a8',
-        'rMATE1':'rat Slc47a1',
-        'OATP1a1':'rat Slco1a1',
-        'BCRP1':'mouse Abcg2',
-        'OATP1A4':'mouse Slco1a4',
+        'rOAT1':'rat_Slc22a6',
+        'rOAT2':'rat_Slc22a7',
+        'rOAT3':'rat_Slc22a8',
+        'rMATE1':'rat_Slc47a1',
+        'OATP1a1':'rat_Slco1a1',
+        'BCRP1':'mouse_Abcg2',
+        'OATP1A4':'mouse_Slco1a4',
         'MRP1-4':'',
         'P-gp like':''}
 
@@ -77,10 +81,15 @@ transportersEnd = 0
 referencesEnd = 0
 numReferencesNonPubmed = 0
 chemicalsEnd = 0
-inVitroInteractionsEnd = 0
-numInVitroInteractions = 0
-numInVitroSubstrates = 0
-inVitroSubstratesEnd = 0
+inhibitorsEnd = 0
+numInhibitors = 0
+numSubstrates = 0
+substratesEnd = 0
+numDDI = 0
+ddiEnd = 0
+prevSubstrates = {}
+prevInhibitors = {}
+prevDDI = set()
 for index in range(len(data)):
     x = data[index]
     if x['model'] == 'transporterDatabase.transporter':
@@ -88,7 +97,7 @@ for index in range(len(data)):
         transportersEnd = index
     elif x['model'] == 'transporterDatabase.reference':
         if x['pk'].startswith('NA'):
-            temp = x['pk'][2:]
+            temp = x['pk']
             referencesNonPubmed[x['fields']['otherLink']] = temp
             numReferencesNonPubmed += 1
         else:
@@ -97,160 +106,204 @@ for index in range(len(data)):
     elif x['model'] == 'transporterDatabase.compound':
         chemicals.add(x['pk'])
         chemicalsEnd = index
-    elif x['model'] == 'transporterDatabase.invitrointeraction':
-        inVitroInteractionsEnd = index
-        numInVitroInteractions += 1
-    elif x['model'] == 'transporterDatabase.invitrosubstrate':
-        inVitroSubstratesEnd = index
-        numInVitroSubstrates += 1
+    elif x['model'] == 'transporterDatabase.inhibitor':
+        inhibitorsEnd = index
+        numInhibitors += 1
+        if not x['fields']['trans'] in prevInhibitors:
+            prevInhibitors[x['fields']['trans']] = set()
+        prevInhibitors[x['fields']['trans']].add(x['fields']['reference'])
+    elif x['model'] == 'transporterDatabase.substrate':
+        substratesEnd = index
+        numSubstrates += 1
+        if not x['fields']['trans'] in prevSubstrates:
+            prevSubstrates[x['fields']['trans']] = set()
+        prevSubstrates[x['fields']['trans']].add(x['fields']['reference'])
+    elif x['model'] == 'transporterDatabase.ddi':
+        ddiEnd = index
+        numDDI += 1
+        for ref in x['fields']['reference']:
+            prevDDI.add(ref)
 
-if inVitroInteractionsEnd == 0:
-    inVitroInteractionsEnd = index
-if inVitroSubstratesEnd == 0:
-    inVitroSubstratesEnd = index
-
-additionalTransInfo = {}
-infile = open(additionalTransFile)
-reader = csv.DictReader(infile,delimiter = '\t')
-for line in reader:
-    additionalTransInfo[line['pk']] = line
+if inhibitorsEnd == 0:
+    inhibitorsEnd = index
+    
+if substratesEnd == 0:
+    substratesEnd = index
+    
+if ddiEnd == 0:
+    ddiEnd = index
 
 additionalRefsInfo = {}
-infile = open(additionalReferenceFile)
+infile = open(additionalRefsFile)
 reader = csv.DictReader(infile,delimiter = '\t')
 for line in reader:
-    additionalRefsInfo[line['pubmed']] = line
+    if line['PUBMEDID'] != '':
+        additionalRefsInfo[line['PUBMEDID']] = line
+    else:
+        additionalRefsInfo[line['OtherLink']] = line
 
-infile = open(newData)
+infile = open(newSubstrates)
+reader = csv.DictReader(infile,delimiter = '\t')
+
+for line in reader:
+    line = reader.next()
+    if line['References'] != '' and (not line['References'] in references):
+        refID = line['References']
+        author = additionalRefsInfo[refID]['Author']
+        year = additionalRefsInfo[refID]['Author']
+        otherText = ''
+        data.insert(referencesEnd+1,{u'pk': refID, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
+        references.add(refID)      
+        referencesEnd += 1
+        chemicalsEnd += 1
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    if not slugify(line['Substrate']) in chemicals:
+        temp = line['Substrate']
+        data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
+        chemicals.add(slugify(temp))
+        chemicalsEnd += 1
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    km = line['Km (uM)']
+    ref = line['References']
+    system = line['Cell System']
+    substrate = slugify(line['Substrate'])
+    trans = line['Transporter']
+    #    if ref in prevSubstrates[trans]:
+    #        print 'Warning, potential repeat substrate:', trans, ref, substrate, km
+    data.insert(substratesEnd+1,{u'pk': numSubstrates+1, u'model': u'transporterDatabase.substrate', u'fields': {u'trans': trans, u'cmpnd': substrate, u'km': km, u'reference': ref, u'cellSystem': system, u'cmpndClinical': 'false'}})
+    numSubstrates += 1
+    substratesEnd += 1
+    inhibitorsEnd += 1
+    ddiEnd += 1
+
+infile = open(newInhibitors)
 reader = csv.DictReader(infile,delimiter = '\t')
 for line in reader:
-    if line['Interaction Type'] not in['Substrate','Inhibitor']:
-        continue
-    if line['Substrate used/ATPase assay/Cell-viability assay'] == 'Cell-viability assay':
-        continue
-    line['Transporter'] = transporterTransTable[line['Transporter']]
-    if line['Transporter'] == '':
-        continue
-    if not line['Transporter'] in transporters:
-        trans = line['Transporter']
-        if trans in additionalTransInfo:
-            syns = additionalTransInfo[trans]['synonyms']
-            synsFull = additionalTransInfo[trans]['synonymFull']
-            species = additionalTransInfo[trans]['species']
-            ncbiid = additionalTransInfo[trans]['ncbiID']
-        else:
-            syns = u''
-            synsFull = u''
-            species = u''
-            ncbiid = u''
-        data.insert(transportersEnd+1,{u'pk': trans, u'model': u'transporterDatabase.transporter', u'fields': {u'synonymsFull': synsFull, u'synonyms': syns, u'species': species, u'ncbiID': ncbiid}})
-        transporters.add(trans)
-        transportersEnd += 1
+    if line['References'] == '' and (not line['OtherLink'] in referencesNonPubmed):
+        otherLink = line['OtherLink']
+        otherText = additionalRefsInfo[otherLink]['OtherText']
+        numReferencesNonPubmed += 1
+        data.insert(referencesEnd+1,{u'pk': 'NA'+str(numReferencesNonPubmed), u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': otherLink, u'otherText': otherText, u'year': u'', u'authors': u''}})
+        referencesNonPubmed[otherLink] = 'NA'+str(numReferencesNonPubmed)
         referencesEnd += 1
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
-        inVitroSubstratesEnd += 1
-    if (not line['Reference (Pubmed ID)'] in references) and (not line['Reference (Pubmed ID)'] in referencesNonPubmed):
-        temp = line['Reference (Pubmed ID)']
-        if temp in additionalRefsInfo:
-            author = additionalRefsInfo[temp]['author']
-            year = additionalRefsInfo[temp]['year']
-            otherText = additionalRefsInfo[temp]['otherText']
-        else:
-            author = u''
-            year = u''
-            otherText = u''
-        if temp.isdigit():
-            data.insert(referencesEnd+1,{u'pk': temp, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': None, u'otherText': otherText, u'year': year, u'authors': author}})
-            references.add(temp)
-        else:
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    elif not line['References'] in references:
+        refID = line['References']
+        author = additionalRefsInfo[refID]['Author']
+        year = additionalRefsInfo[refID]['Author']
+        otherText = ''
+        data.insert(referencesEnd+1,{u'pk': refID, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
+        references.add(refID)      
+        referencesEnd += 1
+        chemicalsEnd += 1
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    if not slugify(line['Substrate used']) in chemicals:
+        temp = line['Substrate used']
+        data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
+        chemicals.add(slugify(temp))
+        chemicalsEnd += 1
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    if not slugify(line['Inhibitor']) in chemicals:
+        temp = line['Inhibitor']
+        data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
+        chemicals.add(slugify(temp))
+        chemicalsEnd += 1
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    substrate = slugify(line['Substrate used'])
+    ic50 = line['IC50 (uM)']
+    ki = line['KI (uM)']
+    if line['References'] != '':
+        ref = line['References']
+    else:
+        ref = referencesNonPubmed[line['OtherLink']]
+    system = line['Cell system']
+    inhib = slugify(line['Inhibitor'])
+    trans = line['Transporter']
+#    if ref in prevInhibitors[trans]:
+#        print 'Warning, potential repeat inhibitor:', trans, ref, inhib, substrate, ic50, ki
+    data.insert(inhibitorsEnd+1,{u'pk': numInhibitors+1, u'model': u'transporterDatabase.inhibitor', u'fields': {u'trans': trans, u'cmpnd': inhib, u'ic50': ic50, u'ki': ki, u'reference': ref, u'cellSystem': system, u'substrate': substrate, u'substrateClinical': 'false', u'cmpndClinical': 'false'}})
+    numInhibitors += 1
+    inhibitorsEnd += 1
+    ddiEnd += 1
+
+infile = open(newDDI)
+reader = csv.DictReader(infile,delimiter = '\t')
+for line in reader:
+    if line['References'] == '':
+        if (not line['OtherLink'] in referencesNonPubmed):
+            otherLink = line['OtherLink']
+            otherText = additionalRefsInfo[otherLink]['OtherText']
             numReferencesNonPubmed += 1
-            data.insert(referencesEnd+1,{u'pk': 'NA'+str(numReferencesNonPubmed), u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': temp, u'otherText': otherText, u'year': year, u'authors': author}})
-            referencesNonPubmed[temp] = 'NA'+str(numReferencesNonPubmed)        
+            data.insert(referencesEnd+1,{u'pk': 'NA'+str(numReferencesNonPubmed), u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': otherLink, u'otherText': otherText, u'year': u'', u'authors': u''}})
+            referencesNonPubmed[otherLink] = 'NA'+str(numReferencesNonPubmed)
+            referencesEnd += 1
+            chemicalsEnd += 1
+            inhibitorsEnd += 1
+            substratesEnd += 1
+            ddiEnd += 1
+    elif not line['References'] in references:
+        refID = line['References']
+        author = additionalRefsInfo[refID]['Author']
+        year = additionalRefsInfo[refID]['Author']
+        otherText = ''
+        data.insert(referencesEnd+1,{u'pk': refID, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
+        references.add(refID)      
         referencesEnd += 1
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
-        inVitroSubstratesEnd += 1
-    if not slugify(line['Chemical']) in chemicals:
-        temp = line['Chemical']
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    if not slugify(line['Interacting Drug']) in chemicals:
+        temp = line['Interacting Drug']
         data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
         chemicals.add(slugify(temp))
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
-        inVitroSubstratesEnd += 1
-    temp = line['Substrate used/ATPase assay/Cell-viability assay']
-    if temp != 'ATPase assay' and temp != 'ATPase assay/Calcein' and not slugify(temp) in chemicals:
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    if not slugify(line['Affected Drug']) in chemicals:
+        temp = line['Affected Drug']
         data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
         chemicals.add(slugify(temp))
         chemicalsEnd += 1
-        inVitroInteractionsEnd += 1
-        inVitroSubstratesEnd += 1
-    temp = line['ATPase stimulation']
-    if temp != '':
-        if temp == 'Not listed':
-            temp = 'not_listed'
-        else:
-            temp = temp.split()[-1]
-        if not slugify(temp) in chemicals:
-            data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
-            chemicals.add(slugify(temp))
-            chemicalsEnd += 1
-            inVitroInteractionsEnd += 1
-            inVitroSubstratesEnd += 1
-    
-    if line['Interaction Type'] == 'Inhibitor':
-        temp = line['Substrate used/ATPase assay/Cell-viability assay']
-        if temp== 'ATPase assay' or temp == 'ATPase assay/Calcein':
-            expType = 'A'
-            atpinfo = line['ATPase stimulation']
-            if atpinfo == 'Not listed':
-                stimConc = 'Not listed'
-                affectChem = 'not_listed'
-            else:
-                affectChem = slugify(atpinfo.split()[-1])
-                stimConc = atpinfo.split()[0][:-2]
-        else:
-            expType = 'V'
-            affectChem = slugify(line['Substrate used/ATPase assay/Cell-viability assay'])
-            stimConc = None
-        intConc = line['Chemical Concentration (uM)']            
-        ic50 = line['IC50 (uM)']
-        ec50 = line['EC 50 (uM)']
-        km = line['Km (uM)']
-        ref = line['Reference (Pubmed ID)']
-        if not ref.isdigit():
-            ref = referencesNonPubmed[ref]
-        system = line['Cell/in vitro System']
-        interactChem = slugify(line['Chemical'])
-        trans = line['Transporter']
-        data.insert(inVitroInteractionsEnd+1,{u'pk': numInVitroInteractions+1, u'model': u'transporterDatabase.invitrointeraction', u'fields': {u'interactingConcentration': intConc, u'stimConcentration': stimConc, u'ic50': ic50, u'ec50': ec50, u'km': km, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem, u'subtype': u'P', u'interactingChemical': interactChem, u'trans': trans, u'type': expType}})
-        numInVitroInteractions += 1
-        inVitroInteractionsEnd += 1
-        inVitroSubstratesEnd += 1
-        
-    elif line['Interaction Type'] == 'Substrate':
-        temp = line['Substrate used/ATPase assay/Cell-viability assay']
-        if temp== 'ATPase assay':
-            atpinfo = line['ATPase stimulation']
-            if atpinfo == 'Not listed':
-                stimConc = 'Not listed'
-                affectChem = 'not_listed'
-            else:
-                affectChem = slugify(atpinfo.split()[-1])
-                stimConc = atpinfo.split()[0][:-2]
-        else:
-            affectChem = slugify(line['Substrate used/ATPase assay/Cell-viability assay'])
-            stimConc = None
-        conc = line['Chemical Concentration (uM)']            
-        ic50 = line['IC50 (uM)']
-        km = line['Km (uM)']
-        ref = line['Reference (Pubmed ID)']
-        system = line['Cell/in vitro System']
-        substrate = slugify(line['Chemical'])
-        trans = line['Transporter']
-        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'concentration': conc, u'ic50': ic50, u'km': km, u'reference': ref, u'system': system, u'substrate': substrate, u'trans': trans,}})
-        numInVitroSubstrates += 1
-        inVitroSubstratesEnd += 1
+        inhibitorsEnd += 1
+        substratesEnd += 1
+        ddiEnd += 1
+    substrate = slugify(line['Affected Drug'])
+    if line['References'] != '':
+        ref = line['References']
+    else:
+        ref = referencesNonPubmed[line['OtherLink']]
+    inhib = slugify(line['Interacting Drug'])
+    trans = line['Transporter']
+    impTrans = line['Implicated Transporter']
+    auc = line['AUC']
+    cmax = line['Cmax']
+    clr = line['CLR']
+    clf = line['CL/F']
+    t12 = line['t1/2']
+    pd = line['Effect on PD']
+    intDose = line['Interacting Dose Information']
+    affDose = line['Affected Dose Information']
+    design = line['Study Design']
+#    if ref in prevDDI:
+#        print 'Warning, potential repeat ddi:', trans, ref, inhib, substrate
+    data.insert(ddiEnd+1,{u'pk': numDDI+1, u'model': u'transporterDatabase.ddi', u'fields': {u'affectedDrugDose': affDose, u'transName': impTrans, u'reference': [ref], u'interactingDrugDose': intDose, u'transporters': trans.split(';'), u'AUC': auc, u'affectedDrug':[substrate], u'interactingDrug': [inhib], u'PDEffect': pd, u't1Over2': t12, u'CLOverF': clf, u'studyDesign': design, u'Cmax': cmax, u'CLr': clr}})
+    numDDI += 1
+    ddiEnd += 1
 
 outfile= open(outputfilename, 'w')
 json.dump(data, outfile, indent=1)
