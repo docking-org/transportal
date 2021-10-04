@@ -405,8 +405,17 @@ def testticbase2(request, transporter_id):
         transporter = Transporter.objects.get(pk=transporter_id)
         mouseInhibitor = InVitroInhibitor.objects.filter(trans__species='Mus musculus').filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
         mouseSubstrate = InVitroSubstrate.objects.filter(trans__species='Mus musculus').filter(trans__humanTransporter=transporter_id).order_by('substrate')
+        mouseTrans = Transporter.objects.filter(species='Mus musculus').filter(humanTransporter=transporter_id)
+        if mouseTrans:
+                mouseTrans = mouseTrans.get()
         ratInhibitor = InVitroInhibitor.objects.filter(trans__species='Rattus norvegicus').filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
         ratSubstrate = InVitroSubstrate.objects.filter(trans__species='Rattus norvegicus').filter(trans__humanTransporter=transporter_id).order_by('substrate')
+        ratTrans = Transporter.objects.filter(species='Rattus norvegicus').filter(humanTransporter=transporter_id)
+        if ratTrans:
+                ratTrans = ratTrans.get()
         grivetInhibitor = InVitroInhibitor.objects.filter(trans__species='Chlorocebus aethiops').filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
         grivetSubstrate = InVitroSubstrate.objects.filter(trans__species='Chlorocebus aethiops').filter(trans__humanTransporter=transporter_id).order_by('substrate')
-        return render_to_response('testticbase2.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'mouseInhibitor':mouseInhibitor, 'mouseSubstrate':mouseSubstrate, 'ratInhibitor':ratInhibitor, 'ratSubstrate':ratSubstrate, 'grivetInhibitor':grivetInhibitor, 'grivetSubstrate':grivetSubstrate})
+        grivetTrans = Transporter.objects.filter(species='Chlorocebus aethiops').filter(humanTransporter=transporter_id)
+        if grivetTrans:
+                grivetTrans = grivetTrans.get()
+        return render_to_response('testticbase2.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'mouseInhibitor':mouseInhibitor, 'mouseSubstrate':mouseSubstrate, 'ratInhibitor':ratInhibitor, 'ratSubstrate':ratSubstrate, 'grivetInhibitor':grivetInhibitor, 'grivetSubstrate':grivetSubstrate, 'mouseTrans':mouseTrans, 'ratTrans':ratTrans, 'grivetTrans':grivetTrans})

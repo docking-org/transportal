@@ -137,7 +137,7 @@ ABCB1	Propiconazole	Homo Sapiens	122.9				Inhibitor		"Human ""K"" cell inverted 
 ABCB1	Verapamil	Homo Sapiens	1.8				Inhibitor		"Human ""K"" cell inverted vesicles"	N-methyl-quinidine	25268938	"Mazur, 2015"
 ABCB1	Methoxyfenozide	Homo Sapiens	44.3				Inhibitor		LLC-PK1 cells	Quinidine	26995013	"Miyata, 2016"
 ABCB1	Tebufenozide	Homo Sapiens	21.5				Inhibitor		LLC-PK1 cells	Quinidine	26995013	"Miyata, 2016"
-Abcb1a	Ivermectin	Mus musculus	0.4				Inhibitor		LLC-PK1 cells	Rhodamine 123	16384552	"Lespine, 2006"
+Abcb1a	Ivermectin	Mus musculus	0.4				Inhibitor		LLC-PK1 cells using mouse ABCB1	Rhodamine 123	16384552	"Lespine, 2006"
 Abcb1a	Aldrin	Mus musculus	26.2				Inhibitor		"Purified, detergent-solubilized protein using mouse ABCB1"	Verapamil (prestimulation)	27152359	"Nicklisch, 2016"
 Abcb1a	Alpha-hexachlorocyclohexane	Mus musculus	26.8				Inhibitor		"Purified, detergent-solubilized protein using mouse ABCB1"	Verapamil (prestimulation)	27152359	"Nicklisch, 2016"
 Abcb1a	Dieldrin	Mus musculus	21.8				Inhibitor		"Purified, detergent-solubilized protein using mouse ABCB1"	Verapamil (prestimulation)	27152359	"Nicklisch, 2016"

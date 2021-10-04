@@ -113513,7 +113513,7 @@
    "ic50": "0.4", 
    "reference": "16384552", 
    "ki": "", 
-   "system": "LLC-PK1 cells", 
+   "system": "LLC-PK1 cells using mouse ABCB1", 
    "affectedSubstrate": "rhodamine_123", 
    "interactingChemical": "ivermectin", 
    "trans": "mouse_Abcb1a"
