@@ -150,7 +150,7 @@ for line in reader:
     if line['References'] != '' and (not line['References'] in references):
         refID = line['References']
         author = additionalRefsInfo[refID]['Author']
-        year = additionalRefsInfo[refID]['Author']
+        year = additionalRefsInfo[refID]['Year']
         otherText = ''
         data.insert(referencesEnd+1,{u'pk': refID, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
         references.add(refID)      
@@ -197,7 +197,7 @@ for line in reader:
     elif not line['References'] in references:
         refID = line['References']
         author = additionalRefsInfo[refID]['Author']
-        year = additionalRefsInfo[refID]['Author']
+        year = additionalRefsInfo[refID]['Year']
         otherText = ''
         data.insert(referencesEnd+1,{u'pk': refID, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
         references.add(refID)      
@@ -257,7 +257,7 @@ for line in reader:
     elif not line['References'] in references:
         refID = line['References']
         author = additionalRefsInfo[refID]['Author']
-        year = additionalRefsInfo[refID]['Author']
+        year = additionalRefsInfo[refID]['Year']
         otherText = ''
         data.insert(referencesEnd+1,{u'pk': refID, u'model': u'transporterDatabase.reference', u'fields': {u'otherLink': u'', u'otherText': otherText, u'year': year, u'authors': author}})
         references.add(refID)      
