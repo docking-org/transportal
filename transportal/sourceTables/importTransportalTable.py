@@ -146,7 +146,7 @@ infile = open(newSubstrates)
 reader = csv.DictReader(infile,delimiter = '\t')
 
 for line in reader:
-    line = reader.next()
+    line = next(reader)
     if line['References'] != '' and (not line['References'] in references):
         refID = line['References']
         author = additionalRefsInfo[refID]['Author']
@@ -174,7 +174,7 @@ for line in reader:
     trans = line['Transporter']
     #    if ref in prevSubstrates[trans]:
     #        print 'Warning, potential repeat substrate:', trans, ref, substrate, km
-    data.insert(substratesEnd+1,{u'pk': numSubstrates+1, u'model': u'transporterDatabase.substrate', u'fields': {u'trans': trans, u'cmpnd': substrate, u'km': km, u'reference': ref, u'cellSystem': system, u'cmpndClinical': 'false'}})
+    data.insert(substratesEnd+1,{u'pk': numSubstrates+1, u'model': u'transporterDatabase.substrate', u'fields': {u'trans': trans, u'cmpnd': substrate, u'km': km, u'reference': ref, u'cellSystem': system, u'cmpndClinical': False}})
     numSubstrates += 1
     substratesEnd += 1
     inhibitorsEnd += 1
@@ -234,7 +234,7 @@ for line in reader:
     trans = line['Transporter']
 #    if ref in prevInhibitors[trans]:
 #        print 'Warning, potential repeat inhibitor:', trans, ref, inhib, substrate, ic50, ki
-    data.insert(inhibitorsEnd+1,{u'pk': numInhibitors+1, u'model': u'transporterDatabase.inhibitor', u'fields': {u'trans': trans, u'cmpnd': inhib, u'ic50': ic50, u'ki': ki, u'reference': ref, u'cellSystem': system, u'substrate': substrate, u'substrateClinical': 'false', u'cmpndClinical': 'false'}})
+    data.insert(inhibitorsEnd+1,{u'pk': numInhibitors+1, u'model': u'transporterDatabase.inhibitor', u'fields': {u'trans': trans, u'cmpnd': inhib, u'ic50': ic50, u'ki': ki, u'reference': ref, u'cellSystem': system, u'substrate': substrate, u'substrateClinical': False, u'cmpndClinical': False}})
     numInhibitors += 1
     inhibitorsEnd += 1
     ddiEnd += 1
