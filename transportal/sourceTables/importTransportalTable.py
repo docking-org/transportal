@@ -146,7 +146,6 @@ infile = open(newSubstrates)
 reader = csv.DictReader(infile,delimiter = '\t')
 
 for line in reader:
-    line = next(reader)
     if line['References'] != '' and (not line['References'] in references):
         refID = line['References']
         author = additionalRefsInfo[refID]['Author']

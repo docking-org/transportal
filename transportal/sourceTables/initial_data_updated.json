@@ -40238,6 +40238,16 @@
   }
  },
  {
+  "pk": "10024515",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "1999",
+   "authors": "Paulusma"
+  }
+ },
+ {
   "pk": "10330006",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40265,6 +40275,16 @@
    "otherText": "",
    "year": "2000",
    "authors": "Hirohashi"
+  }
+ },
+ {
+  "pk": "19721074",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2009",
+   "authors": "Hoffmann"
   }
  },
  {
@@ -40308,6 +40328,16 @@
   }
  },
  {
+  "pk": "9380680",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "1997",
+   "authors": "Dey"
+  }
+ },
+ {
   "pk": "8842452",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40315,6 +40345,16 @@
    "otherText": "",
    "year": "1996",
    "authors": "Fricker"
+  }
+ },
+ {
+  "pk": "11786185",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2001",
+   "authors": "Oude"
   }
  },
  {
@@ -40328,6 +40368,16 @@
   }
  },
  {
+  "pk": "7681059",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "1993",
+   "authors": "Saeki"
+  }
+ },
+ {
   "pk": "8100632",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40338,6 +40388,16 @@
   }
  },
  {
+  "pk": "10617675",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2000",
+   "authors": "Lecureur"
+  }
+ },
+ {
   "pk": "11504828",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40345,6 +40405,16 @@
    "otherText": "",
    "year": "2001",
    "authors": "Smith"
+  }
+ },
+ {
+  "pk": "9262363",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "1997",
+   "authors": "Ito"
   }
  },
  {
@@ -40365,6 +40435,16 @@
    "otherText": "",
    "year": "1999",
    "authors": "Bebawy"
+  }
+ },
+ {
+  "pk": "11504826",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2001",
+   "authors": "Jang"
   }
  },
  {
@@ -40408,12 +40488,32 @@
   }
  },
  {
+  "pk": "30012768",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2018",
+   "authors": "Parvez"
+  }
+ },
+ {
   "pk": "22206629",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
    "year": "2012",
+   "authors": "Pochini"
+  }
+ },
+ {
+  "pk": "21726197",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2011",
    "authors": "Pochini"
   }
  },
@@ -40425,6 +40525,16 @@
    "otherText": "",
    "year": "2017",
    "authors": "Drenberg"
+  }
+ },
+ {
+  "pk": "15107849",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2004",
+   "authors": "Peltekova"
   }
  },
  {
@@ -40448,6 +40558,16 @@
   }
  },
  {
+  "pk": "19220985",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2009",
+   "authors": "Kano"
+  }
+ },
+ {
   "pk": "18981167",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40465,6 +40585,16 @@
    "otherText": "",
    "year": "2008",
    "authors": "Ohnishi"
+  }
+ },
+ {
+  "pk": "10454528",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "1999",
+   "authors": "Wu"
   }
  },
  {
@@ -40498,13 +40628,23 @@
   }
  },
  {
-  "pk": "30012768",
+  "pk": "22389472",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
-   "year": "2018",
-   "authors": "Parvez"
+   "year": "2012",
+   "authors": "Hu"
+  }
+ },
+ {
+  "pk": "31322418",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2019",
+   "authors": "Yin"
   }
  },
  {
@@ -40515,6 +40655,16 @@
    "otherText": "",
    "year": "2015",
    "authors": "Yin"
+  }
+ },
+ {
+  "pk": "29915999",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2018",
+   "authors": "Xiao"
   }
  },
  {
@@ -40538,6 +40688,16 @@
   }
  },
  {
+  "pk": "31511257",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2019",
+   "authors": "Miyake"
+  }
+ },
+ {
   "pk": "32334013",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40545,6 +40705,26 @@
    "otherText": "",
    "year": "2020",
    "authors": "Sarkar"
+  }
+ },
+ {
+  "pk": "30361780",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2018",
+   "authors": "Zhu"
+  }
+ },
+ {
+  "pk": "24246570",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2014",
+   "authors": "Sun"
   }
  },
  {
@@ -40565,6 +40745,16 @@
    "otherText": "",
    "year": "2017",
    "authors": "Takano"
+  }
+ },
+ {
+  "pk": "28223391",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2017",
+   "authors": "Parvez"
   }
  },
  {
@@ -40598,6 +40788,16 @@
   }
  },
  {
+  "pk": "26702643",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2016",
+   "authors": "Misaka"
+  }
+ },
+ {
   "pk": "27324234",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40605,6 +40805,16 @@
    "otherText": "",
    "year": "2016",
    "authors": "Li"
+  }
+ },
+ {
+  "pk": "30656943",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2019",
+   "authors": "Deutsch"
   }
  },
  {
@@ -40628,6 +40838,16 @@
   }
  },
  {
+  "pk": "27503646",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2016",
+   "authors": "Yang"
+  }
+ },
+ {
   "pk": "28428365",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40638,6 +40858,16 @@
   }
  },
  {
+  "pk": "23763587",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2013",
+   "authors": "Thevenod"
+  }
+ },
+ {
   "pk": "18157518",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40645,6 +40875,16 @@
    "otherText": "",
    "year": "2008",
    "authors": "Nies"
+  }
+ },
+ {
+  "pk": "27676604",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2017",
+   "authors": "Chen"
   }
  },
  {
@@ -40678,6 +40918,16 @@
   }
  },
  {
+  "pk": "28971610",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2017",
+   "authors": "Elsby"
+  }
+ },
+ {
   "pk": "22913740",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40688,13 +40938,13 @@
   }
  },
  {
-  "pk": "27676604",
+  "pk": "25466967",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
-   "year": "2017",
-   "authors": "Chen"
+   "year": "2015",
+   "authors": "Bexten"
   }
  },
  {
@@ -40708,6 +40958,16 @@
   }
  },
  {
+  "pk": "29236753",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2017",
+   "authors": "Meyer"
+  }
+ },
+ {
   "pk": "19141712",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40715,6 +40975,16 @@
    "otherText": "",
    "year": "2009",
    "authors": "Minuesa"
+  }
+ },
+ {
+  "pk": "19357179",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2009",
+   "authors": "Lee"
   }
  },
  {
@@ -40735,6 +41005,16 @@
    "otherText": "",
    "year": "2011",
    "authors": "Yasujima"
+  }
+ },
+ {
+  "pk": "21562485",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2011",
+   "authors": "Tzvetkov"
   }
  },
  {
@@ -40828,6 +41108,16 @@
   }
  },
  {
+  "pk": "22711709",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2012",
+   "authors": "de"
+  }
+ },
+ {
   "pk": "21430235",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40835,6 +41125,16 @@
    "otherText": "",
    "year": "2011",
    "authors": "Konig"
+  }
+ },
+ {
+  "pk": "22771883",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2012",
+   "authors": "Nassif"
   }
  },
  {
@@ -40858,13 +41158,13 @@
   }
  },
  {
-  "pk": "22711709",
+  "pk": "28535976",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
-   "year": "2012",
-   "authors": "de"
+   "year": "2017",
+   "authors": "Wang"
   }
  },
  {
@@ -40878,6 +41178,16 @@
   }
  },
  {
+  "pk": "26037524",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2015",
+   "authors": "Chapy"
+  }
+ },
+ {
   "pk": "20406852",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40888,13 +41198,13 @@
   }
  },
  {
-  "pk": "26037524",
+  "pk": "21217360",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
-   "year": "2015",
-   "authors": "Chapy"
+   "year": "2010",
+   "authors": "Siccardi"
   }
  },
  {
@@ -40928,6 +41238,16 @@
   }
  },
  {
+  "pk": "19934028",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2010",
+   "authors": "Werner"
+  }
+ },
+ {
   "pk": "24042472",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40958,13 +41278,23 @@
   }
  },
  {
-  "pk": "28223391",
+  "pk": "28281384",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2018",
+   "authors": "Hanna"
+  }
+ },
+ {
+  "pk": "28749581",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
    "year": "2017",
-   "authors": "Parvez"
+   "authors": "Posada"
   }
  },
  {
@@ -40978,6 +41308,16 @@
   }
  },
  {
+  "pk": "24692216",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2014",
+   "authors": "Wang"
+  }
+ },
+ {
   "pk": "28179375",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -40988,23 +41328,13 @@
   }
  },
  {
-  "pk": "28281384",
+  "pk": "32344570",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
-   "year": "2018",
-   "authors": "Hanna"
-  }
- },
- {
-  "pk": "31322418",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2019",
-   "authors": "Yin"
+   "year": "2020",
+   "authors": "Antonescu"
   }
  },
  {
@@ -41038,6 +41368,16 @@
   }
  },
  {
+  "pk": "17682070",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2007",
+   "authors": "Mizuno"
+  }
+ },
+ {
   "pk": "20360303",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -41045,6 +41385,16 @@
    "otherText": "",
    "year": "2010",
    "authors": "Han"
+  }
+ },
+ {
+  "pk": "23020787",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2013",
+   "authors": "Jin"
   }
  },
  {
@@ -41058,6 +41408,16 @@
   }
  },
  {
+  "pk": "18058507",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2007",
+   "authors": "Kim"
+  }
+ },
+ {
   "pk": "17504223",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -41065,6 +41425,16 @@
    "otherText": "",
    "year": "2007",
    "authors": "Xia"
+  }
+ },
+ {
+  "pk": "22004608",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2011",
+   "authors": "Wright"
   }
  },
  {
@@ -41078,6 +41448,16 @@
   }
  },
  {
+  "pk": "22775210",
+  "model": "transporterDatabase.reference",
+  "fields": {
+   "otherLink": "",
+   "otherText": "",
+   "year": "2012",
+   "authors": "Choi"
+  }
+ },
+ {
   "pk": "18834354",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -41088,13 +41468,13 @@
   }
  },
  {
-  "pk": "22775210",
+  "pk": "20670210",
   "model": "transporterDatabase.reference",
   "fields": {
    "otherLink": "",
    "otherText": "",
-   "year": "2012",
-   "authors": "Choi"
+   "year": "2010",
+   "authors": "Yang"
   }
  },
  {
@@ -41678,16 +42058,6 @@
   }
  },
  {
-  "pk": "21726197",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2011",
-   "authors": "Pochini"
-  }
- },
- {
   "pk": "NA5",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -41695,16 +42065,6 @@
    "otherText": "Linagliptin NDA application",
    "year": "",
    "authors": ""
-  }
- },
- {
-  "pk": "15107849",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2004",
-   "authors": "Peltekova"
   }
  },
  {
@@ -41848,36 +42208,6 @@
   }
  },
  {
-  "pk": "22389472",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2012",
-   "authors": "Hu"
-  }
- },
- {
-  "pk": "10454528",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "1999",
-   "authors": "Wu"
-  }
- },
- {
-  "pk": "29915999",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2018",
-   "authors": "Xiao"
-  }
- },
- {
   "pk": "27178732",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -41945,16 +42275,6 @@
    "otherText": "",
    "year": "2018",
    "authors": "Ceckova"
-  }
- },
- {
-  "pk": "24246570",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2014",
-   "authors": "Sun"
   }
  },
  {
@@ -42088,26 +42408,6 @@
   }
  },
  {
-  "pk": "28971610",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2017",
-   "authors": "Elsby"
-  }
- },
- {
-  "pk": "30361780",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2018",
-   "authors": "Zhu"
-  }
- },
- {
   "pk": "25914645",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -42158,16 +42458,6 @@
   }
  },
  {
-  "pk": "19357179",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2009",
-   "authors": "Lee"
-  }
- },
- {
   "pk": "20921968",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -42205,16 +42495,6 @@
    "otherText": "",
    "year": "2013",
    "authors": "Wittwer"
-  }
- },
- {
-  "pk": "29236753",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2017",
-   "authors": "Meyer"
   }
  },
  {
@@ -42558,16 +42838,6 @@
   }
  },
  {
-  "pk": "28535976",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2017",
-   "authors": "Wang"
-  }
- },
- {
   "pk": "29748863",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -42698,16 +42968,6 @@
   }
  },
  {
-  "pk": "28749581",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2017",
-   "authors": "Posada"
-  }
- },
- {
   "pk": "26340566",
   "model": "transporterDatabase.reference",
   "fields": {
@@ -42725,16 +42985,6 @@
    "otherText": "",
    "year": "2015",
    "authors": "Hagos"
-  }
- },
- {
-  "pk": "24692216",
-  "model": "transporterDatabase.reference",
-  "fields": {
-   "otherLink": "",
-   "otherText": "",
-   "year": "2014",
-   "authors": "Wang"
   }
  },
  {
@@ -46437,6 +46687,13 @@
   }
  },
  {
+  "pk": "24-dinitrophenyl-s-glutathione",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "2,4-dinitrophenyl-S-glutathione"
+  }
+ },
+ {
   "pk": "leukotriene_c4",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46444,10 +46701,17 @@
   }
  },
  {
-  "pk": "24-dinitrophenyl-s-glutathione",
+  "pk": "e3040_glucuronide",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "2,4-dinitrophenyl-S-glutathione"
+   "name": "E3040 glucuronide"
+  }
+ },
+ {
+  "pk": "bilirubin_bisglucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Bilirubin bisglucuronide"
   }
  },
  {
@@ -46462,6 +46726,27 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "3-O-glucuronide of ethinylestradiol"
+  }
+ },
+ {
+  "pk": "dolastatin-10",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Dolastatin-10"
+  }
+ },
+ {
+  "pk": "progesterone",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Progesterone"
+  }
+ },
+ {
+  "pk": "damgo",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Damgo"
   }
  },
  {
@@ -46486,6 +46771,13 @@
   }
  },
  {
+  "pk": "clozapine",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Clozapine"
+  }
+ },
+ {
   "pk": "haloperidol",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46493,10 +46785,31 @@
   }
  },
  {
+  "pk": "risperidone",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Risperidone"
+  }
+ },
+ {
+  "pk": "olanzapine",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Olanzapine"
+  }
+ },
+ {
   "pk": "amisulpride",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Amisulpride"
+  }
+ },
+ {
+  "pk": "ethambutol",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Ethambutol"
   }
  },
  {
@@ -46514,6 +46827,13 @@
   }
  },
  {
+  "pk": "gabapentin",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Gabapentin"
+  }
+ },
+ {
   "pk": "sulpiride",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46528,17 +46848,17 @@
   }
  },
  {
+  "pk": "pivaloylcarnitine",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Pivaloylcarnitine"
+  }
+ },
+ {
   "pk": "valproylcarnitine",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Valproylcarnitine"
-  }
- },
- {
-  "pk": "ethambutol",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Ethambutol"
   }
  },
  {
@@ -46549,10 +46869,31 @@
   }
  },
  {
+  "pk": "fampridine",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Fampridine"
+  }
+ },
+ {
+  "pk": "anisodine",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Anisodine"
+  }
+ },
+ {
   "pk": "monocrotaline",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Monocrotaline"
+  }
+ },
+ {
+  "pk": "n1-methyladenosine_(m1a)",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "N1-methyladenosine (m1A)"
   }
  },
  {
@@ -46563,6 +46904,13 @@
   }
  },
  {
+  "pk": "morphine",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Morphine"
+  }
+ },
+ {
   "pk": "proguanil",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46570,10 +46918,24 @@
   }
  },
  {
+  "pk": "para-aminosalicylic_acid_(pas)",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "para-Aminosalicylic acid (PAS)"
+  }
+ },
+ {
   "pk": "1-methyl-4-phenylpyridinium_(mpp)",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "1-methyl-4-phenylpyridinium (MPP+)"
+  }
+ },
+ {
+  "pk": "nbd-mtma",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "NBD-MTMA"
   }
  },
  {
@@ -46591,6 +46953,20 @@
   }
  },
  {
+  "pk": "choline",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Choline"
+  }
+ },
+ {
+  "pk": "nadolol",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Nadolol"
+  }
+ },
+ {
   "pk": "nitidine_chloride",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46598,10 +46974,24 @@
   }
  },
  {
+  "pk": "trospium",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Trospium"
+  }
+ },
+ {
   "pk": "veliparib",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Veliparib"
+  }
+ },
+ {
+  "pk": "entecavir",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Entecavir"
   }
  },
  {
@@ -46619,10 +47009,31 @@
   }
  },
  {
+  "pk": "cadmium_ion_(cd2)",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Cadmium ion (Cd2+)"
+  }
+ },
+ {
   "pk": "prothionamide",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Prothionamide"
+  }
+ },
+ {
+  "pk": "cycloguanil",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Cycloguanil"
+  }
+ },
+ {
+  "pk": "sumatriptan",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Sumatriptan"
   }
  },
  {
@@ -46640,10 +47051,17 @@
   }
  },
  {
-  "pk": "trospium",
+  "pk": "impratropium",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "Trospium"
+   "name": "Impratropium"
+  }
+ },
+ {
+  "pk": "ethidium",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Ethidium"
   }
  },
  {
@@ -46661,10 +47079,10 @@
   }
  },
  {
-  "pk": "morphine",
+  "pk": "o_desmethyltramadol",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "Morphine"
+   "name": "O_desmethyltramadol"
   }
  },
  {
@@ -46672,6 +47090,34 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Thiamine"
+  }
+ },
+ {
+  "pk": "bromosulfophthalein",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Bromosulfophthalein"
+  }
+ },
+ {
+  "pk": "cefditoren",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Cefditoren "
+  }
+ },
+ {
+  "pk": "nafcillin",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Nafcillin "
+  }
+ },
+ {
+  "pk": "glibenclamide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "glibenclamide"
   }
  },
  {
@@ -46689,10 +47135,24 @@
   }
  },
  {
+  "pk": "gadoxetic_acid",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Gadoxetic Acid"
+  }
+ },
+ {
   "pk": "amanitin",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "amanitin"
+  }
+ },
+ {
+  "pk": "dioscin",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "dioscin"
   }
  },
  {
@@ -46703,17 +47163,38 @@
   }
  },
  {
-  "pk": "gadoxetic_acid",
+  "pk": "4-aminosalicylic_acid",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "Gadoxetic acid"
+   "name": "4-Aminosalicylic acid"
   }
  },
  {
-  "pk": "nafcillin",
+  "pk": "cilostazol",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "Nafcillin"
+   "name": "Cilostazol"
+  }
+ },
+ {
+  "pk": "estrone_3-sulfate",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Estrone 3-sulfate"
+  }
+ },
+ {
+  "pk": "maraviroc",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Maraviroc"
+  }
+ },
+ {
+  "pk": "nateglinide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Nateglinide"
   }
  },
  {
@@ -46721,6 +47202,13 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Regorafenib"
+  }
+ },
+ {
+  "pk": "sincalide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Sincalide"
   }
  },
  {
@@ -46745,6 +47233,13 @@
   }
  },
  {
+  "pk": "tazobactam",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Tazobactam"
+  }
+ },
+ {
   "pk": "piperacillin",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46756,6 +47251,13 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "para-aminosalicylic acid"
+  }
+ },
+ {
+  "pk": "baricitinib",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Baricitinib"
   }
  },
  {
@@ -46773,10 +47275,17 @@
   }
  },
  {
-  "pk": "tazobactam",
+  "pk": "acamprosate",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "Tazobactam"
+   "name": "Acamprosate"
+  }
+ },
+ {
+  "pk": "(_)-pantoprazole",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "(_)-Pantoprazole"
   }
  },
  {
@@ -46787,10 +47296,24 @@
   }
  },
  {
+  "pk": "2-hydroxyflavone-o-glucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "2'-Hydroxyflavone-O-glucuronide"
+  }
+ },
+ {
   "pk": "32-dihydroxyflavone-o-glucuronide",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "3,2'-Dihydroxyflavone-O-glucuronide"
+  }
+ },
+ {
+  "pk": "33-dihydroxyflavone-o-glucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "3,3'-Dihydroxyflavone-O-glucuronide"
   }
  },
  {
@@ -46801,10 +47324,24 @@
   }
  },
  {
+  "pk": "35-dihydroxyflavone-o-glucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "3,5-Dihydroxyflavone-O-glucuronide"
+  }
+ },
+ {
   "pk": "36-dihydroxyflavone-o-glucuronide",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "3,6-Dihydroxyflavone-O-glucuronide"
+  }
+ },
+ {
+  "pk": "37-dihydroxyflavone-o-glucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "3,7-Dihydroxyflavone-O-glucuronide"
   }
  },
  {
@@ -46822,10 +47359,24 @@
   }
  },
  {
+  "pk": "5-hydroxyflavone-o-glucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "5-Hydroxyflavone-O-glucuronide"
+  }
+ },
+ {
   "pk": "6-hydroxyflavone-o-glucuronide",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "6-Hydroxyflavone-O-glucuronide"
+  }
+ },
+ {
+  "pk": "7-hydroxyflavone-o-glucuronide",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "7-Hydroxyflavone-O-glucuronide"
   }
  },
  {
@@ -46836,6 +47387,13 @@
   }
  },
  {
+  "pk": "edaravone_sulfate",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Edaravone sulfate"
+  }
+ },
+ {
   "pk": "ethinyl_estradiol_sulfate",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -46843,10 +47401,17 @@
   }
  },
  {
-  "pk": "glibenclamide",
+  "pk": "nitrofurantoin",
   "model": "transporterDatabase.compound",
   "fields": {
-   "name": "glibenclamide"
+   "name": "Nitrofurantoin"
+  }
+ },
+ {
+  "pk": "tandutinib",
+  "model": "transporterDatabase.compound",
+  "fields": {
+   "name": "Tandutinib"
   }
  },
  {
@@ -46854,13 +47419,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Vardenafil"
-  }
- },
- {
-  "pk": "bilirubin_bisglucuronide",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Bilirubin bisglucuronide"
   }
  },
  {
@@ -47221,20 +47779,6 @@
   }
  },
  {
-  "pk": "nateglinide",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Nateglinide"
-  }
- },
- {
-  "pk": "sumatriptan",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Sumatriptan"
-  }
- },
- {
   "pk": "zaleplon",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -47267,13 +47811,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "RIBAVIRIN"
-  }
- },
- {
-  "pk": "risperidone",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Risperidone"
   }
  },
  {
@@ -47463,13 +48000,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Exemestane"
-  }
- },
- {
-  "pk": "maraviroc",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Maraviroc"
   }
  },
  {
@@ -48016,13 +48546,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Racecadotril"
-  }
- },
- {
-  "pk": "cilostazol",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Cilostazol"
   }
  },
  {
@@ -48677,13 +49200,6 @@
   }
  },
  {
-  "pk": "olanzapine",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Olanzapine"
-  }
- },
- {
   "pk": "hydroxychloroquine_sulfate",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -48887,13 +49403,6 @@
   }
  },
  {
-  "pk": "nitrofurantoin",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "nitrofurantoin"
-  }
- },
- {
   "pk": "tazarotene",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -48996,13 +49505,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Molsidomine"
-  }
- },
- {
-  "pk": "nadolol",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Nadolol"
   }
  },
  {
@@ -50098,24 +50600,10 @@
   }
  },
  {
-  "pk": "clozapine",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Clozapine"
-  }
- },
- {
   "pk": "desloratadine",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Desloratadine"
-  }
- },
- {
-  "pk": "entecavir",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Entecavir"
   }
  },
  {
@@ -50361,13 +50849,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Lsn335984, 42"
-  }
- },
- {
-  "pk": "progesterone",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Progesterone"
   }
  },
  {
@@ -50812,13 +51293,6 @@
   }
  },
  {
-  "pk": "choline",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Choline"
-  }
- },
- {
   "pk": "cobicistat",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -50893,13 +51367,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Ketorolac"
-  }
- },
- {
-  "pk": "gabapentin",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Gabapentin"
   }
  },
  {
@@ -51001,13 +51468,6 @@
   }
  },
  {
-  "pk": "fampridine",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Fampridine"
-  }
- },
- {
   "pk": "trimipramine",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -51043,13 +51503,6 @@
   }
  },
  {
-  "pk": "anisodine",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Anisodine"
-  }
- },
- {
   "pk": "doravirine",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -51064,24 +51517,10 @@
   }
  },
  {
-  "pk": "ethidium",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Ethidium"
-  }
- },
- {
   "pk": "diphenidol",
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Diphenidol"
-  }
- },
- {
-  "pk": "nbd-mtma",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "NBD-MTMA"
   }
  },
  {
@@ -51103,13 +51542,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "TMA"
-  }
- },
- {
-  "pk": "para-aminosalicylic_acid_(pas)",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "para-Aminosalicylic acid (PAS)"
   }
  },
  {
@@ -51589,13 +52021,6 @@
   }
  },
  {
-  "pk": "estrone_3-sulfate",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Estrone 3-sulfate"
-  }
- },
- {
   "pk": "bsp",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -52037,13 +52462,6 @@
   }
  },
  {
-  "pk": "4-aminosalicylic_acid",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "4-Aminosalicylic acid"
-  }
- },
- {
   "pk": "fluorescein-methotrexate",
   "model": "transporterDatabase.compound",
   "fields": {
@@ -52139,13 +52557,6 @@
   "model": "transporterDatabase.compound",
   "fields": {
    "name": "Epacadostat"
-  }
- },
- {
-  "pk": "baricitinib",
-  "model": "transporterDatabase.compound",
-  "fields": {
-   "name": "Baricitinib"
   }
  },
  {
@@ -58428,6 +58839,18 @@
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCC2",
+   "cmpnd": "24-dinitrophenyl-s-glutathione",
+   "km": "70",
+   "reference": "10024515",
+   "cellSystem": "MRP2-expressing MDCK vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 487,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCC2",
    "cmpnd": "leukotriene_c4",
    "km": "1",
    "reference": "10220572",
@@ -58436,7 +58859,19 @@
   }
  },
  {
-  "pk": 487,
+  "pk": 488,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCC2",
+   "cmpnd": "e3040_glucuronide",
+   "km": "14.1",
+   "reference": "10330006",
+   "cellSystem": "Liver canalicular membrane vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 489,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCC2",
@@ -58448,7 +58883,19 @@
   }
  },
  {
-  "pk": 488,
+  "pk": 490,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCC2",
+   "cmpnd": "bilirubin_bisglucuronide",
+   "km": "0.9",
+   "reference": "10421658",
+   "cellSystem": "MRP2-expressing HEK vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 491,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCC2",
@@ -58460,7 +58907,19 @@
   }
  },
  {
-  "pk": 489,
+  "pk": 492,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCC2",
+   "cmpnd": "leukotriene_c4",
+   "km": "0.26",
+   "reference": "10570049",
+   "cellSystem": "MRP2-expressing LLC PK1 vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 493,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCC2",
@@ -58472,7 +58931,19 @@
   }
  },
  {
-  "pk": 490,
+  "pk": 494,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCC2",
+   "cmpnd": "24-dinitrophenyl-s-glutathione",
+   "km": "16.9",
+   "reference": "10604957",
+   "cellSystem": "Caco-2 brush border membrane vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 495,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCC2",
@@ -58484,7 +58955,19 @@
   }
  },
  {
-  "pk": 491,
+  "pk": 496,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "oseltamivir",
+   "km": "4200",
+   "reference": "19721074",
+   "cellSystem": "MDR1-expressing LLC-PK1 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 497,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58496,7 +58979,19 @@
   }
  },
  {
-  "pk": 492,
+  "pk": 498,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "paclitaxel",
+   "km": "0.7",
+   "reference": "15863325",
+   "cellSystem": "MDR1-expressing Sf9 vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 499,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58508,7 +59003,19 @@
   }
  },
  {
-  "pk": 493,
+  "pk": 500,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "grepafloxacin",
+   "km": "580",
+   "reference": "10992002",
+   "cellSystem": "MDR1-expressing Caco-2 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 501,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58520,7 +59027,19 @@
   }
  },
  {
-  "pk": 494,
+  "pk": 502,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "dolastatin-10",
+   "km": "0.9",
+   "reference": "8621716",
+   "cellSystem": "MDR1-containing proteoliposomes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 503,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58532,7 +59051,19 @@
   }
  },
  {
-  "pk": 495,
+  "pk": 504,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "vinblastine",
+   "km": "0.8",
+   "reference": "8621716",
+   "cellSystem": "MDR1-containing proteoliposomes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 505,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58544,7 +59075,19 @@
   }
  },
  {
-  "pk": 496,
+  "pk": 506,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "progesterone",
+   "km": "30",
+   "reference": "8621716",
+   "cellSystem": "MDR1-containing proteoliposomes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 507,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58556,7 +59099,19 @@
   }
  },
  {
-  "pk": 497,
+  "pk": 508,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "emetine",
+   "km": "6",
+   "reference": "8621716",
+   "cellSystem": "MDR1-containing proteoliposomes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 509,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58568,7 +59123,19 @@
   }
  },
  {
-  "pk": 498,
+  "pk": 510,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "prazosin",
+   "km": "20",
+   "reference": "9380680",
+   "cellSystem": "MDR1-expressing insect vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 511,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58580,7 +59147,19 @@
   }
  },
  {
-  "pk": 499,
+  "pk": 512,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "damgo",
+   "km": "43",
+   "reference": "11786185",
+   "cellSystem": "MDR1-expressing SW1573/S1 vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 513,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58592,7 +59171,19 @@
   }
  },
  {
-  "pk": 500,
+  "pk": 514,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "cyclosporine",
+   "km": "8.4",
+   "reference": "7681059",
+   "cellSystem": "MDR1-expressing LLC-PK1 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 515,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58604,7 +59195,19 @@
   }
  },
  {
-  "pk": 501,
+  "pk": 516,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "vinblastine",
+   "km": "99.4",
+   "reference": "10617675",
+   "cellSystem": "MDR1-expressing LLC-PK1 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 517,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58616,7 +59219,19 @@
   }
  },
  {
-  "pk": 502,
+  "pk": 518,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "levofloxacin",
+   "km": "3000",
+   "reference": "9262363",
+   "cellSystem": "MDR1-expressing LLC-PK1 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 519,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58628,7 +59243,19 @@
   }
  },
  {
-  "pk": 503,
+  "pk": 520,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "losartan",
+   "km": "403.2",
+   "reference": "10725273",
+   "cellSystem": "MDR1-expressing MDCK cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 521,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58640,7 +59267,19 @@
   }
  },
  {
-  "pk": 504,
+  "pk": 522,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "paclitaxel",
+   "km": "0.014",
+   "reference": "11504826",
+   "cellSystem": "MDR1-expressing MCF7 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 523,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58652,7 +59291,19 @@
   }
  },
  {
-  "pk": 505,
+  "pk": 524,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "colchicine",
+   "km": "45",
+   "reference": "1356264",
+   "cellSystem": "MDR1-containing proteoliposomes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 525,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58664,7 +59315,19 @@
   }
  },
  {
-  "pk": 506,
+  "pk": 526,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "doxorubicin",
+   "km": "3",
+   "reference": "1356264",
+   "cellSystem": "MDR1-containing proteoliposomes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 527,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58676,7 +59339,19 @@
   }
  },
  {
-  "pk": 507,
+  "pk": 528,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "clozapine",
+   "km": "58",
+   "reference": "12031686",
+   "cellSystem": "MDR1-expressing insect vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 529,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58688,7 +59363,19 @@
   }
  },
  {
-  "pk": 508,
+  "pk": 530,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "risperidone",
+   "km": "12.4",
+   "reference": "12031686",
+   "cellSystem": "MDR1-expressing insect vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 531,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCB1",
@@ -58700,7 +59387,19 @@
   }
  },
  {
-  "pk": 509,
+  "pk": 532,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCB1",
+   "cmpnd": "olanzapine",
+   "km": "8.3",
+   "reference": "12031686",
+   "cellSystem": "MDR1-expressing insect vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 533,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A4",
@@ -58712,7 +59411,19 @@
   }
  },
  {
-  "pk": 510,
+  "pk": 534,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A4",
+   "cmpnd": "ethambutol",
+   "km": "336.8",
+   "reference": "30012768",
+   "cellSystem": "HEK293-hOCTN1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 535,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A4",
@@ -58724,7 +59435,19 @@
   }
  },
  {
-  "pk": 511,
+  "pk": 536,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A4",
+   "cmpnd": "tetraethylammonium",
+   "km": "770",
+   "reference": "21726197",
+   "cellSystem": "hOCTN1 reconstituted proteoliposome",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 537,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A4",
@@ -58736,7 +59459,19 @@
   }
  },
  {
-  "pk": 512,
+  "pk": 538,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A4",
+   "cmpnd": "l-carnitine",
+   "km": "571",
+   "reference": "15107849",
+   "cellSystem": "HEK293-hOCTN1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 539,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A4",
@@ -58748,7 +59483,19 @@
   }
  },
  {
-  "pk": 513,
+  "pk": 540,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A4",
+   "cmpnd": "gabapentin",
+   "km": "417",
+   "reference": "27350110",
+   "cellSystem": "HEK293-hOCTN1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 541,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A4",
@@ -58760,7 +59507,19 @@
   }
  },
  {
-  "pk": 514,
+  "pk": 542,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "amisulpride",
+   "km": "185",
+   "reference": "25155823",
+   "cellSystem": "HEK293-hOCTN2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 543,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58772,7 +59531,19 @@
   }
  },
  {
-  "pk": 515,
+  "pk": 544,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "cephaloridine",
+   "km": "3000",
+   "reference": "19220985",
+   "cellSystem": "hOCTN2-expressing oocytes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 545,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58784,7 +59555,19 @@
   }
  },
  {
-  "pk": 516,
+  "pk": 546,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "pivaloylcarnitine",
+   "km": "166",
+   "reference": "18762717",
+   "cellSystem": "HEK293-hOCTN2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 547,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58796,7 +59579,19 @@
   }
  },
  {
-  "pk": 517,
+  "pk": 548,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "tetraethylammonium",
+   "km": "63",
+   "reference": "10454528",
+   "cellSystem": "HRPE-hOCTN2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 549,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58808,7 +59603,19 @@
   }
  },
  {
-  "pk": 518,
+  "pk": 550,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "acetyl-l-carnitine",
+   "km": "26",
+   "reference": "19684012",
+   "cellSystem": "TR-iBRB2 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 551,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58820,7 +59627,19 @@
   }
  },
  {
-  "pk": 519,
+  "pk": 552,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "acetyl-l-carnitine",
+   "km": "6.57",
+   "reference": "17965255",
+   "cellSystem": "primary epididymal spermatozoa",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 553,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58832,7 +59651,19 @@
   }
  },
  {
-  "pk": 520,
+  "pk": 554,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A5",
+   "cmpnd": "etoposide",
+   "km": "150",
+   "reference": "22389472",
+   "cellSystem": "LLC-PK1-hOCTN2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 555,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A5",
@@ -58844,7 +59675,19 @@
   }
  },
  {
-  "pk": 521,
+  "pk": 556,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "hydrochlorothiazide",
+   "km": "812",
+   "reference": "31322418",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 557,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58856,7 +59699,19 @@
   }
  },
  {
-  "pk": 522,
+  "pk": 558,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "fampridine",
+   "km": "51",
+   "reference": "29915999",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 559,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58868,7 +59723,19 @@
   }
  },
  {
-  "pk": 523,
+  "pk": 560,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "anisodine",
+   "km": "13.3",
+   "reference": "31514980",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 561,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58880,7 +59747,19 @@
   }
  },
  {
-  "pk": 524,
+  "pk": 562,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "n1-methyladenosine_(m1a)",
+   "km": "N/A",
+   "reference": "31511257",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 563,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58892,7 +59771,19 @@
   }
  },
  {
-  "pk": 525,
+  "pk": 564,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "morphine",
+   "km": "N/A",
+   "reference": "30361780",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 565,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58904,7 +59795,19 @@
   }
  },
  {
-  "pk": 526,
+  "pk": 566,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "berberine",
+   "km": "1.01",
+   "reference": "24246570",
+   "cellSystem": "MDCK-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 567,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58916,7 +59819,19 @@
   }
  },
  {
-  "pk": 527,
+  "pk": 568,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "amisulpride",
+   "km": "167.9",
+   "reference": "25155823",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 569,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58928,7 +59843,19 @@
   }
  },
  {
-  "pk": 528,
+  "pk": 570,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "sulpiride",
+   "km": "390",
+   "reference": "28926871",
+   "cellSystem": "MDCK-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 571,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58940,7 +59867,19 @@
   }
  },
  {
-  "pk": 529,
+  "pk": 572,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "para-aminosalicylic_acid_(pas)",
+   "km": "28.7",
+   "reference": "28223391",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 573,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58952,7 +59891,19 @@
   }
  },
  {
-  "pk": 530,
+  "pk": 574,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "metformin",
+   "km": "285.2",
+   "reference": "29884691",
+   "cellSystem": "CHO-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 575,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58964,7 +59915,19 @@
   }
  },
  {
-  "pk": 531,
+  "pk": 576,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "nbd-mtma",
+   "km": "8.8",
+   "reference": "29884691",
+   "cellSystem": "CHO-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 577,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58976,7 +59939,19 @@
   }
  },
  {
-  "pk": 532,
+  "pk": 578,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "cimetidine",
+   "km": "15.1",
+   "reference": "29884691",
+   "cellSystem": "CHO-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 579,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -58988,7 +59963,19 @@
   }
  },
  {
-  "pk": 533,
+  "pk": 580,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "1-methyl-4-phenylpyridinium_(mpp)",
+   "km": "5.1",
+   "reference": "28615288",
+   "cellSystem": "CHO-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 581,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59000,7 +59987,19 @@
   }
  },
  {
-  "pk": 534,
+  "pk": 582,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "cimetidine",
+   "km": "20.8",
+   "reference": "28615288",
+   "cellSystem": "CHO-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 583,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59012,7 +60011,19 @@
   }
  },
  {
-  "pk": 535,
+  "pk": 584,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "choline",
+   "km": "465",
+   "reference": "28615288",
+   "cellSystem": "CHO-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 585,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59024,7 +60035,19 @@
   }
  },
  {
-  "pk": 536,
+  "pk": 586,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "nadolol",
+   "km": "122",
+   "reference": "26702643",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 587,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59036,7 +60059,19 @@
   }
  },
  {
-  "pk": 537,
+  "pk": 588,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "trospium",
+   "km": "2.1",
+   "reference": "30656943",
+   "cellSystem": "MDCK-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 589,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59048,7 +60083,19 @@
   }
  },
  {
-  "pk": 538,
+  "pk": 590,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "metformin",
+   "km": "235",
+   "reference": "23582785",
+   "cellSystem": "OCT2-expressing oocytes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 591,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59060,7 +60107,19 @@
   }
  },
  {
-  "pk": 539,
+  "pk": 592,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "entecavir",
+   "km": "300",
+   "reference": "27503646",
+   "cellSystem": "MDCK-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 593,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59072,7 +60131,19 @@
   }
  },
  {
-  "pk": 540,
+  "pk": 594,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "amphetamine",
+   "km": "0.83",
+   "reference": "28428365",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 595,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A2",
@@ -59084,7 +60155,19 @@
   }
  },
  {
-  "pk": 541,
+  "pk": 596,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A2",
+   "cmpnd": "cadmium_ion_(cd2)",
+   "km": "54",
+   "reference": "23763587",
+   "cellSystem": "HEK293-OCT2",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 597,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59096,7 +60179,19 @@
   }
  },
  {
-  "pk": 542,
+  "pk": 598,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "4-(4-dimethylamino)styryl-n-methylpyridinium_(asp)",
+   "km": "2.32",
+   "reference": "18788725",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 599,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59108,7 +60203,19 @@
   }
  },
  {
-  "pk": 543,
+  "pk": 600,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "atropine",
+   "km": "5.9",
+   "reference": "27676604",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 601,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59120,7 +60227,19 @@
   }
  },
  {
-  "pk": 544,
+  "pk": 602,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "lamivudine",
+   "km": "249",
+   "reference": "18490433",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 603,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59132,7 +60251,19 @@
   }
  },
  {
-  "pk": 545,
+  "pk": 604,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "ethambutol",
+   "km": "526",
+   "reference": "30012768",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 605,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59144,7 +60275,19 @@
   }
  },
  {
-  "pk": 546,
+  "pk": 606,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "cycloguanil",
+   "km": "18.3",
+   "reference": "29882324",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 607,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59156,7 +60299,19 @@
   }
  },
  {
-  "pk": 547,
+  "pk": 608,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "sumatriptan",
+   "km": "55.4",
+   "reference": "26659468",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 609,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59168,7 +60323,19 @@
   }
  },
  {
-  "pk": 548,
+  "pk": 610,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "metformin",
+   "km": "5422",
+   "reference": "28971610",
+   "cellSystem": "Caco-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 611,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59180,7 +60347,19 @@
   }
  },
  {
-  "pk": 549,
+  "pk": 612,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "trospium",
+   "km": "106",
+   "reference": "25466967",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 613,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59192,7 +60371,19 @@
   }
  },
  {
-  "pk": 550,
+  "pk": 614,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "impratropium",
+   "km": "14",
+   "reference": "27676604",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 615,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59204,7 +60395,19 @@
   }
  },
  {
-  "pk": 551,
+  "pk": 616,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "1-methyl-4-phenylpyridinium_(mpp)",
+   "km": "35",
+   "reference": "24688079",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 617,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59216,7 +60419,19 @@
   }
  },
  {
-  "pk": 552,
+  "pk": 618,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "ranitidine",
+   "km": "62.9",
+   "reference": "29236753",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 619,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59228,7 +60443,19 @@
   }
  },
  {
-  "pk": 553,
+  "pk": 620,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "ethidium",
+   "km": "0.8",
+   "reference": "19357179",
+   "cellSystem": "CHO-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 621,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59240,7 +60467,19 @@
   }
  },
  {
-  "pk": 554,
+  "pk": 622,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "trospium",
+   "km": "17",
+   "reference": "21212936",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 623,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59252,7 +60491,19 @@
   }
  },
  {
-  "pk": 555,
+  "pk": 624,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "o_desmethyltramadol",
+   "km": "149",
+   "reference": "21562485",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 625,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59264,7 +60515,19 @@
   }
  },
  {
-  "pk": 556,
+  "pk": 626,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "1-methyl-4-phenylpyridinium_(mpp)",
+   "km": "6.38",
+   "reference": "23831208",
+   "cellSystem": "MDCK-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 627,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59276,7 +60539,19 @@
   }
  },
  {
-  "pk": 557,
+  "pk": 628,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "impratropium",
+   "km": "9",
+   "reference": "23984907",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 629,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59288,7 +60563,19 @@
   }
  },
  {
-  "pk": 558,
+  "pk": 630,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "tetraethylammonium",
+   "km": "140",
+   "reference": "23984907",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 631,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59300,7 +60587,19 @@
   }
  },
  {
-  "pk": 559,
+  "pk": 632,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "sulpiride",
+   "km": "259.7",
+   "reference": "25155823",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 633,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A1",
@@ -59312,7 +60611,19 @@
   }
  },
  {
-  "pk": 560,
+  "pk": 634,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A1",
+   "cmpnd": "sulpiride",
+   "km": "2.6",
+   "reference": "28499878",
+   "cellSystem": "HEK293-OCT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 635,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO2B1",
@@ -59324,7 +60635,19 @@
   }
  },
  {
-  "pk": 561,
+  "pk": 636,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO2B1",
+   "cmpnd": "pemetrexed",
+   "km": "348",
+   "reference": "22021325",
+   "cellSystem": "OATP2B1-expressing HeLa R1-11",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 637,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO2B1",
@@ -59336,7 +60659,19 @@
   }
  },
  {
-  "pk": 562,
+  "pk": 638,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "bromosulfophthalein",
+   "km": "2.2",
+   "reference": "16046661",
+   "cellSystem": "MDCKII-ABCC2-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 639,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59348,7 +60683,19 @@
   }
  },
  {
-  "pk": 563,
+  "pk": 640,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "cefadroxil",
+   "km": "4.15",
+   "reference": "18974612",
+   "cellSystem": "oocytes-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 641,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59360,7 +60707,19 @@
   }
  },
  {
-  "pk": 564,
+  "pk": 642,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "cefditoren",
+   "km": "5.87",
+   "reference": "18974612",
+   "cellSystem": "oocytes-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 643,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59372,7 +60731,19 @@
   }
  },
  {
-  "pk": 565,
+  "pk": 644,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "cefoperazone",
+   "km": "1.95",
+   "reference": "18974612",
+   "cellSystem": "oocytes-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 645,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59384,7 +60755,19 @@
   }
  },
  {
-  "pk": 566,
+  "pk": 646,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "nafcillin",
+   "km": "0.07",
+   "reference": "18974612",
+   "cellSystem": "oocytes-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 647,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59396,7 +60779,19 @@
   }
  },
  {
-  "pk": 567,
+  "pk": 648,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "glibenclamide",
+   "km": "15.36",
+   "reference": "29498478",
+   "cellSystem": "HEK-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 649,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59408,7 +60803,19 @@
   }
  },
  {
-  "pk": 568,
+  "pk": 650,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "docetaxel",
+   "km": "2.2",
+   "reference": "22711709",
+   "cellSystem": "CHO-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 651,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59420,7 +60827,19 @@
   }
  },
  {
-  "pk": 569,
+  "pk": 652,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "gadoxetic_acid",
+   "km": "0.532",
+   "reference": "22771883",
+   "cellSystem": "HEK293-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 653,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59432,7 +60851,19 @@
   }
  },
  {
-  "pk": 570,
+  "pk": 654,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "dioscin",
+   "km": "2.08",
+   "reference": "30706983",
+   "cellSystem": "HEK293-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 655,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59444,7 +60875,19 @@
   }
  },
  {
-  "pk": 571,
+  "pk": 656,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B3",
+   "cmpnd": "nilotinib",
+   "km": "7.84",
+   "reference": "30706983",
+   "cellSystem": "HEK293-OATP1B3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 657,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B3",
@@ -59456,7 +60899,19 @@
   }
  },
  {
-  "pk": 572,
+  "pk": 658,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "4-aminosalicylic_acid",
+   "km": "50",
+   "reference": "28223391",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 659,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59468,7 +60923,19 @@
   }
  },
  {
-  "pk": 573,
+  "pk": 660,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "bosentan",
+   "km": "4.27",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 661,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59480,7 +60947,19 @@
   }
  },
  {
-  "pk": 574,
+  "pk": 662,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "cefditoren",
+   "km": "3.45",
+   "reference": "18974612",
+   "cellSystem": "OATP1B1-expressing oocytes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 663,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59492,7 +60971,19 @@
   }
  },
  {
-  "pk": 575,
+  "pk": 664,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "cilostazol",
+   "km": "17.7",
+   "reference": "28535976",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 665,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59504,7 +60995,19 @@
   }
  },
  {
-  "pk": 576,
+  "pk": 666,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "enalapril",
+   "km": "262",
+   "reference": "16627748",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 667,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59516,7 +61019,19 @@
   }
  },
  {
-  "pk": 577,
+  "pk": 668,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "estrone_3-sulfate",
+   "km": "0.0872",
+   "reference": "26037524",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 669,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59528,7 +61043,19 @@
   }
  },
  {
-  "pk": 578,
+  "pk": 670,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "fluvastatin",
+   "km": "4.8",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 671,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59540,7 +61067,19 @@
   }
  },
  {
-  "pk": 579,
+  "pk": 672,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "glyburide",
+   "km": "1.24",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 673,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59552,7 +61091,19 @@
   }
  },
  {
-  "pk": 580,
+  "pk": 674,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "maraviroc",
+   "km": "33.9",
+   "reference": "21217360",
+   "cellSystem": "OATP1B1-expressing oocytes",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 675,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59564,7 +61115,19 @@
   }
  },
  {
-  "pk": 581,
+  "pk": 676,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "nateglinide",
+   "km": "36.4",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 677,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59576,7 +61139,19 @@
   }
  },
  {
-  "pk": 582,
+  "pk": 678,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "pitavastatin",
+   "km": "2.48",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 679,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59588,7 +61163,19 @@
   }
  },
  {
-  "pk": 583,
+  "pk": 680,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "pravastatin",
+   "km": "27",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 681,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59600,7 +61187,19 @@
   }
  },
  {
-  "pk": 584,
+  "pk": 682,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "repaglinide",
+   "km": "1.36",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 683,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59612,7 +61211,19 @@
   }
  },
  {
-  "pk": 585,
+  "pk": 684,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "sincalide",
+   "km": "1.67",
+   "reference": "26037524",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 685,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59624,7 +61235,19 @@
   }
  },
  {
-  "pk": 586,
+  "pk": 686,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "torasemide",
+   "km": "6.2",
+   "reference": "19934028",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 687,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLCO1B1",
@@ -59636,7 +61259,19 @@
   }
  },
  {
-  "pk": 587,
+  "pk": 688,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLCO1B1",
+   "cmpnd": "valsartan",
+   "km": "7.48",
+   "reference": "25414411",
+   "cellSystem": "HEK-OATP1B1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 689,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59648,7 +61283,19 @@
   }
  },
  {
-  "pk": 588,
+  "pk": 690,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A8",
+   "cmpnd": "methotrexate",
+   "km": "76.6",
+   "reference": "24042472",
+   "cellSystem": "HEK293-OAT3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 691,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59660,7 +61307,19 @@
   }
  },
  {
-  "pk": 589,
+  "pk": 692,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A8",
+   "cmpnd": "tazobactam",
+   "km": "377",
+   "reference": "29277663",
+   "cellSystem": "HEK293-OAT3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 693,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59672,7 +61331,19 @@
   }
  },
  {
-  "pk": 590,
+  "pk": 694,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A8",
+   "cmpnd": "valsartan",
+   "km": "3.58",
+   "reference": "28281384",
+   "cellSystem": "HEK293-OAT3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 695,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59684,7 +61355,19 @@
   }
  },
  {
-  "pk": 591,
+  "pk": 696,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A8",
+   "cmpnd": "baricitinib",
+   "km": "5.54",
+   "reference": "28749581",
+   "cellSystem": "HEK-PEAK-OAT3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 697,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59696,7 +61379,19 @@
   }
  },
  {
-  "pk": 592,
+  "pk": 698,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A8",
+   "cmpnd": "cilostazol",
+   "km": "23.6",
+   "reference": "24692216",
+   "cellSystem": "HEK293-OAT3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 699,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59708,7 +61403,19 @@
   }
  },
  {
-  "pk": 593,
+  "pk": 700,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A8",
+   "cmpnd": "hydrochlorothiazide",
+   "km": "134",
+   "reference": "31322418",
+   "cellSystem": "HEK293-OAT3",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 701,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A8",
@@ -59720,7 +61427,19 @@
   }
  },
  {
-  "pk": 594,
+  "pk": 702,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A6",
+   "cmpnd": "acamprosate",
+   "km": "700",
+   "reference": "32344570",
+   "cellSystem": "HEK293-Flp-In-OAT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 703,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A6",
@@ -59732,7 +61451,19 @@
   }
  },
  {
-  "pk": 595,
+  "pk": 704,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A6",
+   "cmpnd": "piperacillin",
+   "km": "37",
+   "reference": "29277663",
+   "cellSystem": "HEK293-OAT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 705,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A6",
@@ -59744,7 +61475,19 @@
   }
  },
  {
-  "pk": 596,
+  "pk": 706,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC22A6",
+   "cmpnd": "para-aminosalicylic_acid",
+   "km": "78",
+   "reference": "28223391",
+   "cellSystem": "HEK293-OAT1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 707,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC22A6",
@@ -59756,7 +61499,19 @@
   }
  },
  {
-  "pk": 597,
+  "pk": 708,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC47A2",
+   "cmpnd": "hydrochlorothiazide",
+   "km": "681",
+   "reference": "31322418",
+   "cellSystem": "HEK293-MATE2K",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 709,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC47A2",
@@ -59768,7 +61523,19 @@
   }
  },
  {
-  "pk": 598,
+  "pk": 710,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC47A2",
+   "cmpnd": "methamphetamine",
+   "km": "18",
+   "reference": "28428365",
+   "cellSystem": "HEK293-MATE2K",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 711,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC47A2",
@@ -59780,7 +61547,19 @@
   }
  },
  {
-  "pk": 599,
+  "pk": 712,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC47A2",
+   "cmpnd": "trospium",
+   "km": "8.2",
+   "reference": "27676604",
+   "cellSystem": "HEK293-MATE2K",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 713,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC47A2",
@@ -59792,7 +61571,19 @@
   }
  },
  {
-  "pk": 600,
+  "pk": 714,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC47A1",
+   "cmpnd": "amphetamine",
+   "km": "14",
+   "reference": "28428365",
+   "cellSystem": "HEK293-MATE1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 715,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC47A1",
@@ -59804,7 +61595,19 @@
   }
  },
  {
-  "pk": 601,
+  "pk": 716,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC47A1",
+   "cmpnd": "butylscopolamine",
+   "km": "28.9",
+   "reference": "27676604",
+   "cellSystem": "HEK293-MATE1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 717,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC47A1",
@@ -59816,7 +61619,19 @@
   }
  },
  {
-  "pk": 602,
+  "pk": 718,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "SLC47A1",
+   "cmpnd": "trospium",
+   "km": "15.4",
+   "reference": "27676604",
+   "cellSystem": "HEK293-MATE1",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 719,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "SLC47A1",
@@ -59828,7 +61643,19 @@
   }
  },
  {
-  "pk": 603,
+  "pk": 720,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "(_)-pantoprazole",
+   "km": "0.59",
+   "reference": "22355035",
+   "cellSystem": "MDCK-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 721,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59840,7 +61667,19 @@
   }
  },
  {
-  "pk": 604,
+  "pk": 722,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "2-hydroxyflavone-o-glucuronide",
+   "km": "5.4",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 723,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59852,7 +61691,19 @@
   }
  },
  {
-  "pk": 605,
+  "pk": 724,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "33-dihydroxyflavone-o-glucuronide",
+   "km": "45.2",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 725,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59864,7 +61715,19 @@
   }
  },
  {
-  "pk": 606,
+  "pk": 726,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "35-dihydroxyflavone-o-glucuronide",
+   "km": "12.8",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 727,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59876,7 +61739,19 @@
   }
  },
  {
-  "pk": 607,
+  "pk": 728,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "37-dihydroxyflavone-o-glucuronide",
+   "km": "3.5",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 729,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59888,7 +61763,19 @@
   }
  },
  {
-  "pk": 608,
+  "pk": 730,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "3-hydroxyflavone-o-glucuronide",
+   "km": "9.7",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 731,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59900,7 +61787,19 @@
   }
  },
  {
-  "pk": 609,
+  "pk": 732,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "5-hydroxyflavone-o-glucuronide",
+   "km": "48.5",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 733,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59912,7 +61811,19 @@
   }
  },
  {
-  "pk": 610,
+  "pk": 734,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "7-hydroxyflavone-o-glucuronide",
+   "km": "9",
+   "reference": "23402418",
+   "cellSystem": "HeLa-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 735,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59924,7 +61835,19 @@
   }
  },
  {
-  "pk": 611,
+  "pk": 736,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "edaravone_sulfate",
+   "km": "16.5",
+   "reference": "17682070",
+   "cellSystem": "Membrane vesicles",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 737,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59936,7 +61859,19 @@
   }
  },
  {
-  "pk": 612,
+  "pk": 738,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "gemifloxacin",
+   "km": "145.69",
+   "reference": "23020787",
+   "cellSystem": "MDCK-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 739,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59948,7 +61883,19 @@
   }
  },
  {
-  "pk": 613,
+  "pk": 740,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "lamivudine",
+   "km": "216.5",
+   "reference": "18058507",
+   "cellSystem": "MDCK-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 741,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59960,7 +61907,19 @@
   }
  },
  {
-  "pk": 614,
+  "pk": 742,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "nitrofurantoin",
+   "km": "69.4",
+   "reference": "22004608",
+   "cellSystem": "Caco-2 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 743,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59972,7 +61931,19 @@
   }
  },
  {
-  "pk": 615,
+  "pk": 744,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "sildenafil",
+   "km": "22.4",
+   "reference": "22775210",
+   "cellSystem": "MDCK-transfected cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 745,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
@@ -59984,7 +61955,19 @@
   }
  },
  {
-  "pk": 616,
+  "pk": 746,
+  "model": "transporterDatabase.substrate",
+  "fields": {
+   "trans": "ABCG2",
+   "cmpnd": "tandutinib",
+   "km": "4",
+   "reference": "20670210",
+   "cellSystem": "Caco-2 cells",
+   "cmpndClinical": false
+  }
+ },
+ {
+  "pk": 747,
   "model": "transporterDatabase.substrate",
   "fields": {
    "trans": "ABCG2",
