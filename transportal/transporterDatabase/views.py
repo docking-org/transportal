@@ -1,6 +1,6 @@
 import string, statistics, re
 from django.shortcuts import render_to_response
-from transportal.transporterDatabase.models import Transporter, Organ, Expression, Sample, Substrate, Inhibitor, DDI, Compound, InVitroInhibitor, InVitroSubstrate
+from transportal.transporterDatabase.models import Transporter, Organ, Expression, Sample, Substrate, Inhibitor, DDI, Compound
 from django.db.models import Q
 
 def naturallysortedexpressionlist(L, reverse=False):
