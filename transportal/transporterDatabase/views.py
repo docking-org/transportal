@@ -40,6 +40,7 @@ def transporter(request, transporter_id):
         ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
 #Build expression level table
         transporter = Transporter.objects.get(pk=transporter_id)
+        otherTrans = Transporter.objects.filter(humanTransporter=transporter_id).exclude(symbol=transporter_id)
         important = transporter.organ_set.all()
         importantNames = []
         for x in important:
@@ -67,7 +68,7 @@ def transporter(request, transporter_id):
                 temp.sort(key=str)
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
-        return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo})
+        return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans})
 
 def liver(request):
         expressLevelsNishi = naturallysortedexpressionlist(Expression.objects.filter(organ='Liver', experiment='Nishimura'))

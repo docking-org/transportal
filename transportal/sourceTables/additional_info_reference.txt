@@ -48,3 +48,8 @@ pubmed	author	year	otherText
 17031644	Pawarode	2007	
 17495125	Chen	2007	
 15953199	Griffin	2005	
+15824923	Barthomeuf	2005	
+19833843	Ose	2010	
+20060011	Tsirulnokov	2010	
+24266811	Brown	2014	
+12490595	Tirona	2003	

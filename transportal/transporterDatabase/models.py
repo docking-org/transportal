@@ -110,23 +110,3 @@ class DDI(models.Model):
 	reference = models.ManyToManyField(Reference, blank=True, null=True)
 	def __unicode__(self):
 		return 'pk=' + self.pk + ','.join([str(self.transName)])
-
-class InVitroInhibitor(models.Model):
-	trans = models.ForeignKey(Transporter)
-	interactingChemical = models.ForeignKey(Compound, related_name='interact_chem')
-	affectedSubstrate = models.ForeignKey(Compound, related_name='affect_sub')
-	system = models.TextField(null=True)
-	ic50 = models.CharField(max_length=10, blank=True, null=True)
-	ki = models.CharField(max_length=10, blank=True, null=True)
-	reference = models.ForeignKey(Reference, blank=True, null=True)
-	def __unicode__(self):
-		return 'pk=' + self.pk + ','.join([str(self.transName),self.get_type_display(),self.get_subtype_display()])
-
-class InVitroSubstrate(models.Model):
-	trans = models.ForeignKey(Transporter)
-	substrate = models.ForeignKey(Compound)
-	system = models.TextField(null=True)
-	km = models.CharField(max_length=10, blank=True, null=True)
-	reference = models.ForeignKey(Reference, blank=True, null=True)
-	def __unicode__(self):
-		return 'pk=' + self.pk + ','.join([str(self.transName),str(self.system)])

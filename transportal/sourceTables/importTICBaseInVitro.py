@@ -39,50 +39,15 @@ chemicals = set()
 organismTransTable = {'Mus musculus': 'mouse',
         'Chlorocebus aethiops': 'grivet',
         'Rattus norvegicus': 'rat'}
-transporterTransTable = {'P-gp':'ABCB1',
-        'MRP1':'ABCC1',
-        'MRP2':'ABCC2',
-        'MRP4':'ABCC4',
-        'BCRP':'ABCG2',
-        'Oct1':'SLC22A1',
-        'Oct2':'SLC22A2',
-        'hOCT1':'SLC22A1',
-        'OCT1':'SLC22A1',
-        'hOCT2':'SLC22A2',
-        'OCT2':'SLC22A2',
-        'hOCT3':'SLC22A3',
-        'hOAT1':'SLC22A6',
-        'OAT1':'SLC22A6',
-        'hOAT2':'SLC22A7',
-        'hOAT3':'SLC22A8',
-        'OAT3':'SLC22A8',
-        'hOAT4':'SLC22A11',
-        'URAT1':'SLC22A12',
-        'hMATE1':'SLC47A1',
-        'MATE1':'SLC47A1',
-        'MATE2-K':'SLC47A2',
-        'OATP1A2':'SLCO1A2',
-        'OATP1B1':'SLCO1B1',
-        'OATP1B3':'SLCO1B3',
-        'OATP2B1':'SLCO2B1',
-        'rOAT1':'rat_Slc22a6',
-        'rOAT2':'rat_Slc22a7',
-        'rOAT3':'rat_Slc22a8',
-        'rMATE1':'rat_Slc47a1',
-        'OATP1a1':'rat_Slco1a1',
-        'BCRP1':'mouse_Abcg2',
-        'OATP1A4':'mouse_Slco1a4',
-        'MRP1-4':'',
-        'P-gp like':''}
 
 transportersEnd = 0
 referencesEnd = 0
 numReferencesNonPubmed = 0
 chemicalsEnd = 0
-inVitroInhibitorsEnd = 0
-numInVitroInhibitors = 0
-numInVitroSubstrates = 0
-inVitroSubstratesEnd = 0
+inhibitorsEnd = 0
+numInhibitors = 0
+numSubstrates = 0
+substratesEnd = 0
 for index in range(len(data)):
     x = data[index]
     if x['model'] == 'transporterDatabase.transporter':
@@ -99,17 +64,17 @@ for index in range(len(data)):
     elif x['model'] == 'transporterDatabase.compound':
         chemicals.add(x['pk'])
         chemicalsEnd = index
-    elif x['model'] == 'transporterDatabase.invitroinhibitor':
-        inVitroInhibitorsEnd = index
-        numInVitroInhibitors += 1
-    elif x['model'] == 'transporterDatabase.invitrosubstrate':
-        inVitroSubstratesEnd = index
-        numInVitroSubstrates += 1
+    elif x['model'] == 'transporterDatabase.inhibitor':
+        inhibitorsEnd = index
+        numInhibitors += 1
+    elif x['model'] == 'transporterDatabase.substrate':
+        substratesEnd = index
+        numSubstrates += 1
 
-if inVitroInhibitorsEnd == 0:
-    inVitroInhibitorsEnd = index
-if inVitroSubstratesEnd == 0:
-    inVitroSubstratesEnd = index
+if inhibitorsEnd == 0:
+    inhibitorsEnd = index
+if substratesEnd == 0:
+    substratesEnd = index
 
 additionalTransInfo = {}
 infile = open(additionalTransFile)
@@ -143,8 +108,8 @@ for line in reader:
         transportersEnd += 1
         referencesEnd += 1
         chemicalsEnd += 1
-        inVitroInhibitorsEnd += 1
-        inVitroSubstratesEnd += 1
+        substratesEnd += 1
+        inhibitorsEnd += 1
     if (not line['Pubmed ID'] in references) and (not line['Pubmed ID'] in referencesNonPubmed):
         temp = line['Reference'].split(", ")
         author = temp[0]
@@ -154,15 +119,15 @@ for line in reader:
         references.add(line['Pubmed ID'])      
         referencesEnd += 1
         chemicalsEnd += 1
-        inVitroInhibitorsEnd += 1
-        inVitroSubstratesEnd += 1
+        substratesEnd += 1
+        inhibitorsEnd += 1
     if not slugify(line['Chemical']) in chemicals:
         temp = line['Chemical']
         data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
         chemicals.add(slugify(temp))
         chemicalsEnd += 1
-        inVitroInhibitorsEnd += 1
-        inVitroSubstratesEnd += 1
+        substratesEnd += 1
+        inhibitorsEnd += 1
     temp = line['Reporter']
     if temp.startswith('[3H]'):
         temp = temp[4:].strip()
@@ -174,9 +139,19 @@ for line in reader:
         data.insert(chemicalsEnd+1,{u'pk': slugify(temp), u'model': u'transporterDatabase.compound', u'fields': {u'name': temp}})
         chemicals.add(slugify(temp))
         chemicalsEnd += 1
-        inVitroInhibitorsEnd += 1
-        inVitroSubstratesEnd += 1
-    if line['Inhibitor'] == 'Inhibitor':
+        substratesEnd += 1
+        inhibitorsEnd += 1
+    if line['Substrate'] == 'Substrate':
+        km = line['Km (uM)']
+        ref = line['Pubmed ID']
+        system = line['In vitro system']
+        substrate = slugify(line['Chemical'])
+        trans = transporterName
+        data.insert(substratesEnd+1,{u'pk': numSubstrates+1, u'model': u'transporterDatabase.substrate', u'fields': {u'trans': trans, u'cmpnd': substrate, u'km': km, u'reference': ref, u'cellSystem': system, u'cmpndClinical': False}})
+        numSubstrates += 1
+        substratesEnd += 1
+        inhibitorsEnd += 1
+    elif line['Inhibitor'] == 'Inhibitor':
         affectChem = line['Reporter']
         if affectChem.startswith('[3H]'):
             affectChem = affectChem[4:].strip()
@@ -198,20 +173,11 @@ for line in reader:
         system = line['In vitro system']
         interactChem = slugify(line['Chemical'])
         trans = transporterName
-        data.insert(inVitroInhibitorsEnd+1,{u'pk': numInVitroInhibitors+1, u'model': u'transporterDatabase.invitroinhibitor', u'fields': {u'trans': trans, u'interactingChemical': interactChem, u'ic50': inhibVal, u'ki': ki, u'reference': ref, u'system': system, u'affectedSubstrate': affectChem}})
-        numInVitroInhibitors += 1
-        inVitroInhibitorsEnd += 1
-        inVitroSubstratesEnd += 1
+        data.insert(inhibitorsEnd+1,{u'pk': numInhibitors+1, u'model': u'transporterDatabase.inhibitor', u'fields': {u'trans': trans, u'cmpnd': interactChem, u'ic50': inhibVal, u'ki': ki, u'reference': ref, u'cellSystem': system, u'substrate': affectChem, u'cmpndClinical': False, u'substrateClinical': False}})
+        numInhibitors += 1
+        inhibitorsEnd += 1
         
-    elif line['Substrate'] == 'Substrate':
-        km = line['Km (uM)']
-        ref = line['Pubmed ID']
-        system = line['In vitro system']
-        substrate = slugify(line['Chemical'])
-        trans = transporterName
-        data.insert(inVitroSubstratesEnd+1,{u'pk': numInVitroSubstrates+1, u'model': u'transporterDatabase.invitrosubstrate', u'fields': {u'trans': trans, u'substrate': substrate, u'km': km, u'reference': ref, u'system': system}})
-        numInVitroSubstrates += 1
-        inVitroSubstratesEnd += 1
+    
 
 outfile= open(outputfilename, 'w')
 json.dump(data, outfile, indent=1)

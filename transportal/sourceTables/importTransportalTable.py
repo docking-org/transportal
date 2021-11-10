@@ -38,44 +38,6 @@ transporters = set()
 references = set()
 referencesNonPubmed= {}
 chemicals = set()
-organismTransTable = {'Mus musculus': 'mouse',
-        'Chlorocebus aethiops': 'grivet',
-        'Rattus norvegicus': 'rat'}
-transporterTransTable = {'P-gp':'ABCB1',
-        'MRP1':'ABCC1',
-        'MRP2':'ABCC2',
-        'MRP4':'ABCC4',
-        'BCRP':'ABCG2',
-        'Oct1':'SLC22A1',
-        'Oct2':'SLC22A2',
-        'hOCT1':'SLC22A1',
-        'OCT1':'SLC22A1',
-        'hOCT2':'SLC22A2',
-        'OCT2':'SLC22A2',
-        'hOCT3':'SLC22A3',
-        'hOAT1':'SLC22A6',
-        'OAT1':'SLC22A6',
-        'hOAT2':'SLC22A7',
-        'hOAT3':'SLC22A8',
-        'OAT3':'SLC22A8',
-        'hOAT4':'SLC22A11',
-        'URAT1':'SLC22A12',
-        'hMATE1':'SLC47A1',
-        'MATE1':'SLC47A1',
-        'MATE2-K':'SLC47A2',
-        'OATP1A2':'SLCO1A2',
-        'OATP1B1':'SLCO1B1',
-        'OATP1B3':'SLCO1B3',
-        'OATP2B1':'SLCO2B1',
-        'rOAT1':'rat_Slc22a6',
-        'rOAT2':'rat_Slc22a7',
-        'rOAT3':'rat_Slc22a8',
-        'rMATE1':'rat_Slc47a1',
-        'OATP1a1':'rat_Slco1a1',
-        'BCRP1':'mouse_Abcg2',
-        'OATP1A4':'mouse_Slco1a4',
-        'MRP1-4':'',
-        'P-gp like':''}
 
 transportersEnd = 0
 referencesEnd = 0
