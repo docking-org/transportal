@@ -143,11 +143,16 @@ for line in reader:
         inhibitorsEnd += 1
     if line['Substrate'] == 'Substrate':
         km = line['Km (uM)']
+        ec50 = line['EC50 (uM)']
         ref = line['Pubmed ID']
         system = line['In vitro system']
         substrate = slugify(line['Chemical'])
         trans = transporterName
-        data.insert(substratesEnd+1,{u'pk': numSubstrates+1, u'model': u'transporterDatabase.substrate', u'fields': {u'trans': trans, u'cmpnd': substrate, u'km': km, u'reference': ref, u'cellSystem': system, u'cmpndClinical': False}})
+        if mk != '':
+            subVal = km
+        else:
+            subVal = ec50
+        data.insert(substratesEnd+1,{u'pk': numSubstrates+1, u'model': u'transporterDatabase.substrate', u'fields': {u'trans': trans, u'cmpnd': substrate, u'km': subVal, u'reference': ref, u'cellSystem': system, u'cmpndClinical': False}})
         numSubstrates += 1
         substratesEnd += 1
         inhibitorsEnd += 1
