@@ -148,7 +148,7 @@ for line in reader:
         system = line['In vitro system']
         substrate = slugify(line['Chemical'])
         trans = transporterName
-        if mk != '':
+        if km != '':
             subVal = km
         else:
             subVal = ec50
