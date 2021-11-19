@@ -15,6 +15,8 @@ class Organ(models.Model):
 	important = models.ManyToManyField(Transporter, verbose_name="transporters expressed highly in the tissue")
 	def __unicode__(self):
 		return self.name
+	def __str__(self):
+                return self.name
 
 class Reference(models.Model):
 	authors = models.TextField(blank=True, null=True)
