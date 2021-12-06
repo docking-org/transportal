@@ -1,0 +1,918 @@
+Transporter	Inhibitor	Ki	IC50	CellSystem	Substrate	Reference
+ABCB1	amiodarone		22.5	MDR1 transfected LLC-PK1	daunorubicin	11231118
+ABCB1	amiodarone		5.48	MDR1 transfected LLC-PK1	digoxin	12499648
+ABCB1	amiodarone		45.6	MDR1 transfected LLC-PK1	digoxin	11231118
+ABCB1	azelastine		16	MDR1 transfected LLC-PK1	daunorubicin	11231118
+ABCB1	azelastine		30	MDR1 transfected LLC-PK1	digoxin	11231118
+ABCB1	cyclosporine		1.36	MDCK II-MDR1	colchicine	16455806
+ABCB1	cyclosporine		1.6	MDCK II-MDR1	digoxin	16455806
+ABCB1	cyclosporine	0.46		Caco-2	digoxin	12134945
+ABCB1	cyclosporine	2.18		MDCK-MDR1	digoxin	12134945
+ABCB1	cyclosporine		1.4	MDR1 transfected NIH3T3-G185	rhodamine-123	11606389
+ABCB1	cyclosporine		6.18	MDCK II-MDR1	vinblastine	16455806
+ABCB1	desethylamiodarone		15.4	MDR1 transfected LLC-PK1	daunorubicin	11231118
+ABCB1	desethylamiodarone		1.27	MDR1 transfected LLC-PK1	digoxin	12499648
+ABCB1	desethylamiodarone		25.2	MDR1 transfected LLC-PK1	digoxin	11231118
+ABCB1	desmethylazelastine		11.8	MDR1 transfected LLC-PK1	daunorubicin	12499648
+ABCB1	desmethylazelastine		41.8	MDR1 transfected LLC-PK1	digoxin	11231118
+ABCB1	dipyridamole		40	MDR1 transfected LLC-PK1	digoxin	12499648
+ABCB1	elacridar-(gf120918)		0.027	MDCK II-MDR1	colchicine	16455806
+ABCB1	elacridar-(gf120918)		0.055	MDCK II-MDR1	digoxin	16455806
+ABCB1	elacridar-(gf120918)	0.39		Caco-2	digoxin	12134945
+ABCB1	elacridar-(gf120918)	0.44		MDCK-MDR1	digoxin	12134945
+ABCB1	elacridar-(gf120918)		0.043	MDCK II-MDR1	vinblastine	16455806
+ABCB1	erlotinib		2	MDR1-expressing K562 vesicles	vincristine	19493273
+ABCB1	ketoconazole		5.49	MDCK II-MDR1	colchicine	16455806
+ABCB1	ketoconazole		3.07	MDCK II-MDR1	digoxin	16455806
+ABCB1	ketoconazole		5.6	MDR1 transfected NIH3T3-G185	rhodamine-123	11606389
+ABCB1	ketoconazole		6.34	MDCK II-MDR1	vinblastine	16455806
+ABCB1	paclitaxel		54	MDR1 transfected NIH3T3-G185	rhodamine-123	11606389
+ABCB1	quinidine		51.7	MDCK II-MDR1	colchicine	16455806
+ABCB1	quinidine		9.52	MDR1 transfected LLC-PK1	digoxin	12499648
+ABCB1	quinidine		14.9	MDCK II-MDR1	digoxin	16455806
+ABCB1	quinidine	3.23		Caco-2	digoxin	12134945
+ABCB1	quinidine	8.59		MDCK-MDR1	digoxin	12134945
+ABCB1	quinidine		22.9	MDCK II-MDR1	vinblastine	16455806
+ABCB1	reserpine	1.38		Caco-2	digoxin	12134945
+ABCB1	reserpine	11.5		MDCK-MDR1	digoxin	12134945
+ABCB1	tamoxifen		7.1	MDR1 transfected NIH3T3-G185	rhodamine-123	11606389
+ABCB1	verapamil		17.3	MDCK II-MDR1	colchicine	16455806
+ABCB1	verapamil		10.7	MDCK II-MDR1	digoxin	16455806
+ABCB1	verapamil	8.11		Caco-2	digoxin	12134945
+ABCB1	verapamil	15.1		MDCK-MDR1	digoxin	12134945
+ABCB1	verapamil		8.44	Caco-2	fexofenadine	15359574
+ABCB1	verapamil	29.0		MDCK II-MDR1	irinotecan	12065434
+ABCB1	verapamil		4.2	MDR1 transfected NIH3T3-G185	rhodamine-123	11606389
+ABCB1	verapamil		33.5	MDCK II-MDR1	vinblastine	16455806
+ABCB1	verapamil		0.2	MDR1-expressing K562 vesicles	vincristine	19493273
+ABCB1	vinblastine		30.1	MDCK II-MDR1	colchicine	16455806
+ABCB1	vinblastine		17.8	MDCK II-MDR1	digoxin	16455806
+ABCB1	vinblastine		18	MDR1 transfected NIH3T3-G185	rhodamine-123	11606389
+ABCB1	vinblastine		89.7	MDCK II-MDR1	vinblastine	16455806
+ABCB11	atorvastatin	9.12		BSEP-expressing HEK293 vesicles	taurocholate	15901796
+ABCB11	cerivastatin	11.4		BSEP-expressing HEK293 vesicles	taurocholate	15901796
+ABCB11	clofazimine		2.3	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	cyclosporine		0.93	BSEP-expressing Sf9 vesicles	glycocholate	19520776
+ABCB11	cyclosporine		0.94	BSEP-expressing Sf9 vesicles	taurochenodeoxycholate	19520776
+ABCB11	cyclosporine		8.4	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	cyclosporine		18.9	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	glyburide		18.8	BSEP-expressing Sf9 vesicles	glycocholate	19520776
+ABCB11	glyburide		15.8	BSEP-expressing Sf9 vesicles	taurochenodeoxycholate	19520776
+ABCB11	glyburide		11.3	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	glyburide		14.7	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	reserpine		2.8	Sf9-BSEP	taurocholate	19520776
+ABCB11	rifampicin		10.5	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	troglitazone		16.0	BSEP-expressing Sf9 vesicles	glycocholate	19520776
+ABCB11	troglitazone		27.6	BSEP-expressing Sf9 vesicles	taurochenodeoxycholate	19520776
+ABCB11	troglitazone		9.5	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCB11	valinomycin		0.7	BSEP-expressing Sf9 vesicles	taurocholate	19520776
+ABCC1	17beta-estradiol-3-sulfate	0.38		MRP1-expressing HeLa vesicles	leukotriene-c4	11102445
+ABCC1	curcumin		15	MRP1-expressing Sf9 vesicles	ethacrynic-acid-glutathione	14680379
+ABCC1	cyclosporine		5	MRP1-expressing HeLa vesicles	leukotriene-c4	7961706
+ABCC1	estrone-3-sulfate	0.45		MRP1-expressing HeLa vesicles	leukotriene-c4	11102445
+ABCC1	genistein		80	human erythrocytes	2__7_-bis-(3-carboxy-propyl)-5-(and-6)-carboxyfluorescein-(bcpcf)	15916776
+ABCC1	indomethacin		7	human erythrocytes	2__7_-bis-(3-carboxy-propyl)-5-(and-6)-carboxyfluorescein-(bcpcf)	15916776
+ABCC1	kaempferol	2.4		MRP1-expressing HeLa vesicles	leukotriene-c4	11306701
+ABCC1	mk-571		3.5	human erythrocytes	2__7_-bis-(3-carboxy-propyl)-5-(and-6)-carboxyfluorescein-(bcpcf)	15916776
+ABCC1	mk-571		5	MDCK II-MRP1	calcein-am	14680379
+ABCC1	mk-571	134.7		2008/P-MRP1	doxorubicin	19725578
+ABCC1	mk-571		0.6	MRP1-expressing HeLa vesicles	leukotriene-c4	7961706
+ABCC1	myricetin	13.3		MRP1-expressing HeLa vesicles	leukotriene-c4	11306701
+ABCC1	quercetin	8.1		MRP1-expressing HeLa vesicles	leukotriene-c4	11306701
+ABCC1	valsopodar-(psc-833)		27	MRP1-expressing HeLa vesicles	leukotriene-c4	7961706
+ABCC1	verapamil	13.2		2008/P-MRP1	doxorubicin	19725578
+ABCC2	curcumin		5	MRP2-expressing Sf9 vesicles	ethacrynic-acid-glutathione	14680379
+ABCC2	cyclosporine		10	MDCK II-MRP2	calcein-am	14680379
+ABCC2	cyclosporine	4.7		MRP2-expressing LLC-PK1 vesicles	leukotriene-c4	10570049
+ABCC2	cyclosporine	8.11		MDCK II-MRP2	vinblastine	12134946
+ABCC2	daunorubicin	49.4		MDCK II-MRP2	vinblastine	12134946
+ABCC2	etoposide	756		MDCK II-MRP2	vinblastine	12134946
+ABCC2	indomethacin		0.06	MRP2-expressing HEK293 vesicles	methotrexate	17005917
+ABCC2	ketoprofen		1.4	MRP2-expressing HEK293 vesicles	methotrexate	17005917
+ABCC2	mk-571		4	MRP2-expressing Sf9 vesicles	ethacrynic-acid-glutathione	16316932
+ABCC2	mk-571		50.0	Caco-2	irinotecan	12065434
+ABCC2	mk-571	13.1		MRP2-expressing LLC-PK1 vesicles	leukotriene-c4	10570049
+ABCC2	mk-571	26.4		MDCK II-MRP2	vinblastine	12134946
+ABCC2	pak-104p	3.7		MRP2-expressing LLC-PK1 vesicles	leukotriene-c4	10570049
+ABCC2	reserpine	295		MDCK II-MRP2	vinblastine	12134946
+ABCC2	valsopodar-(psc-833)	28.9		MRP2-expressing LLC-PK1 vesicles	leukotriene-c4	10570049
+ABCC2	vincristine	802		MDCK II-MRP2	vinblastine	12134946
+ABCC3	taurocholate		40	MRP3-expressing HEK293 vesicles	estradiol-17beta-glucuronide	12924948
+ABCC4	benzbromarone		150	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	candesartan		16	MRP4-expressing Sf9 vesicles	uric-acid	17674156
+ABCC4	celecoxib		35	MRP4-expressing HEK293 vesicles	methotrexate	17005917
+ABCC4	diclofenac		0.006	MRP4-expressing HEK293 vesicles	methotrexate	17005917
+ABCC4	dilazep		20	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	dipyridamole		2	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	dipyridamole		<20	MRP4-expressing V79 vesicles	cholyltaurine	12883481
+ABCC4	indomethacin		6.1	MRP4-expressing HEK293 vesicles	methotrexate	17005917
+ABCC4	ketoprofen		11.9	MRP4-expressing HEK293 vesicles	methotrexate	17005917
+ABCC4	losartan		1.5	MRP4-expressing Sf9 vesicles	uric-acid	17674156
+ABCC4	mk-571		10	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	mk-571		~2	MRP4-expressing V79 vesicles	cholyltaurine	12883481
+ABCC4	nitrobenzylmercaptopurine-riboside		75	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	probenecid		2300	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	probenecid		~100	MRP4-expressing V79 vesicles	cholyltaurine	12883481
+ABCC4	probenecid		<100	MRP4-expressing Sf9 vesicles	cyclic-gmp	11856762
+ABCC4	sildenafil		20	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	sulfinpyrazone		420	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	sulindac		2.11	MRP4-expressing HEK293 vesicles	methotrexate	17005917
+ABCC4	telmisartan		11	MRP4-expressing Sf9 vesicles	uric-acid	17674156
+ABCC4	trequinsin		10	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC4	zaprinast		250	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	5-nitro-2-(3-phenylpropylamino)-benzoic-acid-(nppb)		2	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	5-nitro-2-(3-phenylpropylamino)-benzoic-acid-(nppb)		0.102	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	5-fluorodeoxyuridine-monophosphate	1163		MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	benzbromarone		150	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	cyclic-gmp		960	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	cyclic-gmp		4855.5	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	dipyridamole		30	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	glyburide		15	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	methotrexate		780	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	methotrexate	1059		MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	mk-571		17	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	mk-571		200	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	mk-571		15.9	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	pemetrexed		2110	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	pemetrexed		442	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	pemetrexed	300		MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	probenecid		70	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	probenecid		200	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	probenecid		34	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	sildenafil		580	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	sildenafil		80	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	sildenafil	0.267		MRP5-expressing V79 vesicles	cyclic-gmp	10893247
+ABCC5	sulfinpyrazone		300	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	sulfinpyrazone		103.2	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	trequinsin		580	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	trequinsin		30	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	trequinsin		218	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCC5	trequinsin	0.24		MRP5-expressing V79 vesicles	cyclic-gmp	10893247
+ABCC5	zaprinast		20	MRP5-expressing HEK293 vesicles	5-fluorodeoxyuridine-monophosphate	15897250
+ABCC5	zaprinast		250	MRP4-expressing HEK293 vesicles	9-(2-phosphonomethoxyethyl)adenine-(pmea)	12695538
+ABCC5	zaprinast		32.3	MRP5-expressing HEK293 vesicles	carboxydichlorofluorescein	16337112
+ABCG2	17beta-estradiol-3-sulfate		14	BCRP-expressing vesicles from mouse lymphoma (P388) cells	estrone-3-sulfate	12682043
+ABCG2	abacavir		385	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	amprenavir		181	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	atazanavir		69.1	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	atorvastatin	14.3		BCRP-expressing HEK293 vesicles	estrone-3-sulfate	15955871
+ABCG2	cerivastatin	18.1		BCRP-expressing HEK293 vesicles	estrone-3-sulfate	15955871
+ABCG2	daunomycin		59	BCRP-expressing vesicles from mouse lymphoma (P388) cells	estrone-3-sulfate	12682043
+ABCG2	dehydroepiandrosterone-sulfate		55	BCRP-expressing vesicles from mouse lymphoma (P388) cells	estrone-3-sulfate	12682043
+ABCG2	delavirdine		18.7	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	efavirenz		20.6	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	erlotinib	0.15	0.13	BCRP-expressing K562 vesicles	estrone-3-sulfate	19493273
+ABCG2	fluvastatin	5.43		BCRP-expressing HEK293 vesicles	estrone-3-sulfate	15955871
+ABCG2	fumitremorgin-c	0.55	0.25	BCRP-expressing K562 vesicles	estrone-3-sulfate	19493273
+ABCG2	fumitremorgin-c		0.47	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	ko143		0.01	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	lopinavir		7.66	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	nelfinavir		13.5	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	nilotinib	0.69		BCRP-expressing HEK293 vesicles	methotrexate	19427995
+ABCG2	pitavastatin	2.92		BCRP-expressing HEK293 vesicles	estrone-3-sulfate	15955871
+ABCG2	rosuvastatin	15.4		BCRP-expressing HEK293 vesicles	estrone-3-sulfate	15955871
+ABCG2	saquinavir		27.4	MDCK II-BCRP	pheophorbide-a	17202245
+ABCG2	simvastatin	18		BCRP-expressing HEK293 vesicles	estrone-3-sulfate	15955871
+ABCG2	sn-38		1.6	BCRP-expressing vesicles from mouse lymphoma (P388) cells	estrone-3-sulfate	12682043
+OSTalpha	bilirubin-ditaurate		>200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	bilirubin-ditaurate		>200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	digoxin		<500	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	digoxin		<500	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	estrone-3-sulfate		>200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	estrone-3-sulfate		>200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	glycolithocholic-acid		~200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	glycolithocholic-acid		~200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	glycolithocholic-acid-sulfate		~200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	glycolithocholic-acid-sulfate		~200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	indomethacin		~200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	indomethacin		~200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	lithocholic-acid-sulfate		<200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	lithocholic-acid-sulfate		<200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	spironolactone		>200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	spironolactone		>200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	taurolithocholate		200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	taurolithocholate		200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTalpha	taurolithocholic-acid-sulfate		<200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+OSTbeta	taurolithocholic-acid-sulfate		<200	OSTalpha-OSTbeta expressing oocytes	estrone-3-sulfate	12719432
+SLC10A1	(r)-propanolol		5.5	HeLa-NTCP	taurocholate	10565843
+SLC10A1	(s)-propanolol		6.1	HeLa-NTCP	taurocholate	10565843
+SLC10A1	bromsulphthalein-(bsp)		7.3	HeLa-NTCP	taurocholate	10565843
+SLC10A1	cholate		5.3	HeLa-NTCP	taurocholate	10565843
+SLC10A1	cyclosporine		0.37	HeLa-NTCP	rosuvastatin	16697742
+SLC10A1	cyclosporine		1	HeLa-NTCP	taurocholate	10565843
+SLC10A1	furosemide		15	HeLa-NTCP	taurocholate	10565843
+SLC10A1	gemfibrozil		23	HeLa-NTCP	rosuvastatin	16697742
+SLC10A1	ketoconazole		264	HeLa-NTCP	taurocholate	10565843
+SLC10A1	ursodeoxycholate		3.6	HeLa-NTCP	taurocholate	10565843
+SLC10A1	bosentan	18		HEK293-ASBT	taurocholate	17374746
+SLC10A2	chenodeoxycholate	3.3		COS1-ASBT	taurocholate	9458785
+SLC10A2	cholate	41.5		COS1-ASBT	taurocholate	9458785
+SLC10A2	deoxycholate	6.3		COS1-ASBT	taurocholate	9458785
+SLC10A2	taurochenodeoxycholate	6.1		COS1-ASBT	taurocholate	9458785
+SLC10A2	taurodeoxycholate	17.2		COS1-ASBT	taurocholate	9458785
+SLC10A2	tauroursodeoxycholate	28		COS1-ASBT	taurocholate	9458785
+SLC10A2	ursodeoxycholate	75		COS1-ASBT	taurocholate	9458785
+SLC15A1	fosinopril	35.5		Caco-2	glycylsarcosine	11560874
+SLC15A1	glycyl-proline	160		Caco-2	glycylsarcosine	10561591
+SLC15A1	irbesartan	230		Caco-2	glycylsarcosine	18824524
+SLC15A1	losartan	52		HeLa-PEPT1	glycylsarcosine	18824524
+SLC15A1	losartan	24		Caco-2	glycylsarcosine	18824524
+SLC15A1	valacyclovir	910		CHO-PEPT1	cefadroxil	10087037
+SLC15A1	valacyclovir	4080		PEPT1-expressing oocytes	glycylsarcosine	9753615
+SLC15A1	valacyclovir	1280		CHO-PEPT1	glycylsarcosine	10087037
+SLC15A1	valsartan	560		HeLa-PEPT1	glycylsarcosine	18824524
+SLC15A1	valsartan	390		Caco-2	glycylsarcosine	18824524
+SLC15A2	amoxicillin	733		MDCK-PEPT2	glycylsarcosine	16434549
+SLC15A2	cefaclor	65		MDCK-PEPT2	glycylsarcosine	16434549
+SLC15A2	losartan	2.4		HeLa-PEPT2	glycylsarcosine	18824524
+SLC15A2	valsartan	110		HeLa-PEPT2	glycylsarcosine	18824524
+SLC22A1	s-(+)-disopyramide		29.9	HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	verapamil-(racemic)	2.9		HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	verapamil-(racemic)		1.23	HEK293-OCT1	ym155	19833842
+SLC22A1	3_4-methylenedioxymetamphetamine-(mdma)	24.2		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	amantadine	236		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	amantadine		39.6	HEK293-OCT1	ym155	19833842
+SLC22A1	amitriptyline		6.99	HEK293-OCT1	metformin	20567254
+SLC22A1	atropine		1.2	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	butylscopolamine		16	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	cimetidine		149	HEK293-OCT1	ym155	19833842
+SLC22A1	clonidine		6.5	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	clonidine	0.55		HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	cocaine	85		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	corticosterone		8.89	HEK293-OCT1	ym155	19833842
+SLC22A1	d-amphetamine	202		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	decynium-22		21.9	OCT1-expressing oocytes	tetraethylammonium	10082798
+SLC22A1	decynium-22	2.73		HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	diphenhydramine		3.4	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	etilefrine		447	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	famotidine		28	OCT1-expressing oocytes	n-methylpyridinium	16141367
+SLC22A1	furamidine		7.4	CHO-OCT1	n-methylpyridinium	18971316
+SLC22A1	glyburide		199	HEK293-OCT1	metformin	20567254
+SLC22A1	ketamine	114.5		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	memantine	3.7		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	metformin		1231	OCT1-expressing oocytes	n-methylpyridinium	16141367
+SLC22A1	mk-801	80.5		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	n-methylpyridinium		30.4	HEK293-OCT1	ym155	19833842
+SLC22A1	pentamidine		16.4	CHO-OCT1	n-methylpyridinium	18971316
+SLC22A1	phencyclidine	4.4		HEK293-OCT1	n-methylpyridinium	16581093
+SLC22A1	pioglitazone		185	HEK293-OCT1	metformin	20567254
+SLC22A1	prazosin		1.56	HEK293-OCT1	ym155	19833842
+SLC22A1	procainamide		51.3	HEK293-OCT1	ym155	19833842
+SLC22A1	quinidine		5.7	CHO-OCT1	n-methylpyridinium	18971316
+SLC22A1	quinidine		6.7	OCT1-expressing oocytes	n-methylpyridinium	16141367
+SLC22A1	quinidine	17.5		HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	quinidine		7.11	HEK293-OCT1	ym155	19833842
+SLC22A1	quinine		13	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	quinine	22.9		HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	r-(-)-disopyramide		15.4	HeLa-OCT1	tetraethylammonium	9655880
+SLC22A1	ranitidine		28	HEK293-OCT1	n-methylpyridinium	16263091
+SLC22A1	ranitidine		33	OCT1-expressing oocytes	n-methylpyridinium	16141367
+SLC22A1	repaglinide		1.6	MDCK II-OCT1	metformin	18314419
+SLC22A1	repaglinide		1.8	MDCK II-OCT1	n-methylpyridinium	18314419
+SLC22A1	rosiglitazone		6.9	MDCK II-OCT1	metformin	18314419
+SLC22A1	rosiglitazone		30.4	MDCK II-OCT1	n-methylpyridinium	18314419
+SLC22A1	simvastatin		89	HEK293-OCT1	metformin	20567254
+SLC22A1	tetraethylammonium		216	OCT1-expressing oocytes	n-methylpyridinium	16141367
+SLC22A1	tetraethylammonium		469.7	CHO-OCT1	n-methylpyridinium	18971316
+SLC22A1	tetraethylammonium	158		OCT1-expressing oocytes	n-methylpyridinium	10688634
+SLC22A1	tetraethylammonium		167	OCT1-expressing oocytes	tetraethylammonium	10082798
+SLC22A1	tubocurarine		62.4	HEK293-OCT1	ym155	19833842
+SLC22A1	verapamil		0.62	HEK293-OCT1	metformin	20567254
+SLC22A1	ym155		23.8	HEK293-OCT1	n-methylpyridinium	19833842
+SLC22A11	acetazolamide		425	S2-OAT4	estrone-3-sulfate	14610216
+SLC22A11	betamipron	502		S2-OAT4	prostaglandin-f2alpha	12023506
+SLC22A11	bumetanide		348	S2-OAT4	estrone-3-sulfate	14610216
+SLC22A11	candesartan		60	HEK293-OAT4	uric-acid	17674156
+SLC22A11	chlorothiazide		2632	S2-OAT4	estrone-3-sulfate	14610216
+SLC22A11	citrinin	366.4		S2-OAT4	ochratoxin-a	12063169
+SLC22A11	diclofenac		34.5	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	ethacrynic-acid		8.76	S2-OAT4	estrone-3-sulfate	14610216
+SLC22A11	furosemide		44.5	S2-OAT4	estrone-3-sulfate	14610216
+SLC22A11	ibuprofen		103	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	indomethacin		10.1	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	ketoprofen		70.3	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	kw-3902	20.7		S2-OAT4	prostaglandin-f2alpha	12023506
+SLC22A11	losartan		18	HEK293-OAT4	uric-acid	17674156
+SLC22A11	mefenamic-acid		61.7	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	naproxen		85.4	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	novobiocin	90.5	92.68	COS7-OAT4	estrone-3-sulfate	19282394
+SLC22A11	octanoate	235.5		S2-OAT4	ochratoxin-a	12063169
+SLC22A11	olmesartan		4.4	HEK293-OAT4	uric-acid	17674156
+SLC22A11	piroxicam		84.9	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	piroxicam	107.8		S2-OAT4	ochratoxin-a	12063169
+SLC22A11	pratosartan		31	HEK293-OAT4	uric-acid	17674156
+SLC22A11	probenecid	44.4		S2-OAT4	ochratoxin-a	12063169
+SLC22A11	probenecid	54.9		S2-OAT4	prostaglandin-f2alpha	12023506
+SLC22A11	sulindac		617	S2-OAT4	estrone-3-sulfate	12388633
+SLC22A11	telmisartan		1.2	HEK293-OAT4	uric-acid	17674156
+SLC22A11	trichloromethiazide		1505	S2-OAT4	estrone-3-sulfate	14610216
+SLC22A11	valsartan		26	HEK293-OAT4	uric-acid	17674156
+SLC22A12	benzbromarone		0.13	HEK293-URAT1	uric-acid	20075570
+SLC22A12	benzbromarone		~0.3	HEK293-URAT1	uric-acid	17325024
+SLC22A12	fenofibric-acid		35.68	HEK293-URAT1	uric-acid	20075570
+SLC22A12	losartan		570.5	HEK293-URAT1	uric-acid	20075570
+SLC22A12	losartan	0.0077		URAT1-expressing oocytes	uric-acid	17043154
+SLC22A12	morin		~2	HEK293-URAT1	uric-acid	17325024
+SLC22A12	morin	5.74		HEK293-URAT1	uric-acid	17325024
+SLC22A12	pratosartan	0.0067		URAT1-expressing oocytes	uric-acid	17043154
+SLC22A12	probenecid		~50	HEK293-URAT1	uric-acid	17325024
+SLC22A12	sulfinpyrazone		~100	HEK293-URAT1	uric-acid	17325024
+SLC22A12	telmisartan	0.0182		URAT1-expressing oocytes	uric-acid	17043154
+SLC22A12	uric-acid		170	URAT1-expressing oocytes	oxypurinol	16135657
+SLC22A2	3_4-methylenedioxymetamphetamine-(mdma)	1.63		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	amantadine	28.4		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	amantadine		45.9	HEK293-OCT2	ym155	19833842
+SLC22A2	amitriptyline		14	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	atropine		39	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	butylscopolamine		764	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	carvedilol		63	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	chloroquine		1096	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	chlorpromazine		14	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	cimetidine		120	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	cimetidine		373	OCT2-expressing oocytes	tetraethylammonium	10082798
+SLC22A2	cimetidine		110	HEK293-OCT2	ym155	19833842
+SLC22A2	clonidine		16	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	clonidine		23	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	cocaine	113		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	corticosterone		5.35	HEK293-OCT2	ym155	19833842
+SLC22A2	d-amphetamine	10.5		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	decynium-22		13.8	OCT2-expressing oocytes	tetraethylammonium	10082798
+SLC22A2	decynium-22	0.1		OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	desloraratidine		60	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	diphenhydramine		15	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	diphenhydramine		21	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	disopyramide		324	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	doxepin		13	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	etilefrine		4009	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	famotidine		114	OCT2-expressing oocytes	n-methylpyridinium	16141367
+SLC22A2	fenfluramine		10	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	flecainide		191	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	flurazepam		60	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	furamidine		182	CHO-OCT2	n-methylpyridinium	18971316
+SLC22A2	imipramine		6	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	ipratropiumbromide		15	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	ketamine	22.7		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	levomethadone		60	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	mefloquine		204	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	memantine	7.3		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	mepiperphenidol	4.8		OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	metformin		398	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	metformin		521	OCT2-expressing oocytes	n-methylpyridinium	16141367
+SLC22A2	mexiletine		55	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	mk-801	21.5		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	n-methylpyridinium	2.4		OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	n-methylpyridinium		4.42	HEK293-OCT2	ym155	19833842
+SLC22A2	pentamidine		10.6	CHO-OCT2	n-methylpyridinium	18971316
+SLC22A2	phencyclidine	24.9		HEK293-OCT2	n-methylpyridinium	16581093
+SLC22A2	prazosin		80.4	HEK293-OCT2	ym155	19833842
+SLC22A2	procainamide		91.9	HEK293-OCT2	ym155	19833842
+SLC22A2	propafenone		25	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	propranolol		229	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	quinidine		8.7	OCT2-expressing oocytes	n-methylpyridinium	16141367
+SLC22A2	quinidine		13.3	CHO-OCT2	n-methylpyridinium	18971316
+SLC22A2	quinidine		87	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	quinidine		11	HEK293-OCT2	ym155	19833842
+SLC22A2	quinine		23	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	quinine	3.4		OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	ranitidine	79		HEK293-OCT2	cimetidine	16006492
+SLC22A2	ranitidine	30.5		HEK293-OCT2	famotidine	16006492
+SLC22A2	ranitidine		76	OCT2-expressing oocytes	n-methylpyridinium	16141367
+SLC22A2	ranitidine		1617	HEK293-OCT2	n-methylpyridinium	16263091
+SLC22A2	sibutramine		29	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	tamoxifen		87	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	tetraethylammonium		189.2	CHO-OCT2	n-methylpyridinium	18971316
+SLC22A2	tetraethylammonium		222	OCT2-expressing oocytes	n-methylpyridinium	16141367
+SLC22A2	tetrapentylammonium	1.5		OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	trimethoprim		1318	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	verapamil		85	HEK293-OCT2	n-methylpyridinium	19002438
+SLC22A2	verapamil		13.4	HEK293-OCT2	ym155	19833842
+SLC22A2	ym155		15.9	HEK293-OCT2	n-methylpyridinium	19833842
+SLC22A3	3_4-methylenedioxymetamphetamine-(mdma)	73.6		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	amantadine	>1000		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	atropine		466	CHO-OCT3	n-methylpyridinium	16263091
+SLC22A3	clonidine		110	CHO-OCT3	n-methylpyridinium	16263091
+SLC22A3	clonidine	373		HRPE-OCT3	n-methylpyridinium	10966924
+SLC22A3	cocaine	>1000		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	d-amphetamine	460		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	desipramine	14		HRPE-OCT3	n-methylpyridinium	10966924
+SLC22A3	diphenhydramine		695	CHO-OCT3	n-methylpyridinium	16263091
+SLC22A3	etilefrine		4448	CHO-OCT3	n-methylpyridinium	16263091
+SLC22A3	famotidine		6.7	OCT3-expressing oocytes	n-methylpyridinium	16141367
+SLC22A3	furamidine		20.4	CHO-OCT3	n-methylpyridinium	18971316
+SLC22A3	guanidine	6201		HRPE-OCT3	n-methylpyridinium	10966924
+SLC22A3	histamine	140		HEK293-OCT3	n-methylpyridinium	10385678
+SLC22A3	imipramine	42		HRPE-OCT3	n-methylpyridinium	10966924
+SLC22A3	ketamine	225.7		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	memantine	236		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	metformin		2332	OCT3-expressing oocytes	n-methylpyridinium	16141367
+SLC22A3	mk-801	224		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	pentamidine		14.8	CHO-OCT3	n-methylpyridinium	18971316
+SLC22A3	phencyclidine	333		HEK293-OCT3	n-methylpyridinium	16581093
+SLC22A3	procainamide	738		HRPE-OCT3	n-methylpyridinium	10966924
+SLC22A3	quinidine		18.3	OCT3-expressing oocytes	n-methylpyridinium	16141367
+SLC22A3	quinidine		22.7	CHO-OCT3	n-methylpyridinium	18971316
+SLC22A3	quinine		37	CHO-OCT3	n-methylpyridinium	16263091
+SLC22A3	ranitidine		290	OCT3-expressing oocytes	n-methylpyridinium	16141367
+SLC22A3	ranitidine		372	CHO-OCT3	n-methylpyridinium	16263091
+SLC22A3	tetraethylammonium		1237	OCT3-expressing oocytes	n-methylpyridinium	16141367
+SLC22A3	tetraethylammonium		1476.6	CHO-OCT3	n-methylpyridinium	18971316
+SLC22A3	tetraethylammonium	1372		HRPE-OCT3	n-methylpyridinium	10966924
+SLC22A3	ym-252124-(ym758-metabolite)		63.4	HEK293-OCT3	n-methylpyridinium	19439489
+SLC22A3	ym155		108	HEK293-OCT3	n-methylpyridinium	19833842
+SLC22A3	ym758		15.9	HEK293-OCT3	n-methylpyridinium	19439489
+SLC22A4	l-ergothioneine	9		HEK293-OCTN1	tetraethylammonium	17700366
+SLC22A5	cefepime		1700	HeLa-OCTN2	l-carnitine	10636865
+SLC22A5	cefoselis		6400	HeLa-OCTN2	l-carnitine	10636865
+SLC22A5	cephaloridine		230	HeLa-OCTN2	l-carnitine	10636865
+SLC22A5	emetine		4.2	OCTN2-expressing oocytes	l-carnitine	10966938
+SLC22A6	(noradamantan-3-yl)-1_3-dipropylxanthine-(kw-3902)	7.82		S2-OAT1	para-aminohippurate	11426832
+SLC22A6	acetazolamide		75	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	acetominophen		639	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	acetylsalicylate		769	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	betamipron	23.6		S2-OAT1	para-aminohippurate	11426832
+SLC22A6	bumetanide		7.6	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	candesartan		17	HEK293-OAT1	uric-acid	17674156
+SLC22A6	chlorothiazide		3.78	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	cilastatin	1470		S2-OAT1	para-aminohippurate	11426832
+SLC22A6	cyclothiazide		84.3	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	diclofenac		4.46	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	ethacrynic-acid		29.6	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	fluvastatin		26.3	S2-OAT1	para-aminohippurate	14729100
+SLC22A6	furosemide		18	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	hydrochlorothiazide		67.3	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	ibuprofen		55.6	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	indomethacin		3.83	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	ketoprofen		4.34	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	losartan		12	HEK293-OAT1	uric-acid	17674156
+SLC22A6	mefenamic-acid		0.83	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	methazolamide		438	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	naproxen		5.67	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	novobiocin	14.9	34.8	COS7-OAT1	para-aminohippurate	19282394
+SLC22A6	olmesartan		0.28	HEK293-OAT1	uric-acid	17674156
+SLC22A6	phenacetin		275	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	piroxicam		62.8	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	pratosartan		1.5	HEK293-OAT1	uric-acid	17674156
+SLC22A6	pravastatin		408	S2-OAT1	para-aminohippurate	14729100
+SLC22A6	probenecid		3.9	CHO-OAT1	cidofovir	17314201
+SLC22A6	probenecid	4.29		S2-OAT1	ochratoxin-a	11669456
+SLC22A6	probenecid	12.1		S2-OAT1	para-aminohippurate	11426832
+SLC22A6	salicylate		325	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	simvastatin		41.5	OAT1-expressing oocytes	para-aminohippurate	17585018
+SLC22A6	simvastatin		73.6	S2-OAT1	para-aminohippurate	14729100
+SLC22A6	sulindac		36.2	S2-OAT1	para-aminohippurate	12388633
+SLC22A6	telmisartan		0.46	HEK293-OAT1	uric-acid	17674156
+SLC22A6	trichloromethiazide		19.2	S2-OAT1	para-aminohippurate	14610216
+SLC22A6	valsartan		16	HEK293-OAT1	uric-acid	17674156
+SLC22A7	bumetanide		77.5	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A7	chlorothiazide		2205	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A7	cyclic-gmp	93		HEK-OAT2	2_-deoxyguanosine	18216183
+SLC22A7	cyclothiazide		39.2	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A7	diclofenac		14.3	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	ethacrynic-acid		121	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A7	furosemide		603	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A7	hydrochlorothiazide		1023	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A7	ibuprofen		692	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	indomethacin		64.1	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	ketoprofen		400	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	mefenamic-acid		21.7	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	naproxen		486	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	phenacetin		1878	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	piroxicam		70.3	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	probenecid	766		S2-OAT2	prostaglandin-f2alpha	12023506
+SLC22A7	sulindac		440	S2-OAT2	prostaglandin-f2alpha	12388633
+SLC22A7	trichloromethiazide		1120	S2-OAT2	prostaglandin-f2alpha	14610216
+SLC22A8	(noradamantan-3-yl)-1_3-dipropylxanthine-(kw-3902)	3.7		S2-OAT3	estrone-3-sulfate	11426832
+SLC22A8	acetazolamide		816	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	betamipron	48.3		S2-OAT3	estrone-3-sulfate	11426832
+SLC22A8	bumetanide		0.75	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	candesartan		0.3	HEK293-OAT3	uric-acid	17674156
+SLC22A8	chlorothiazide		65.3	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	cilastatin	231		S2-OAT3	estrone-3-sulfate	11426832
+SLC22A8	cimetidine		79	CHO-OAT3	sitagliptin	17314201
+SLC22A8	cyclothiazide		27.9	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	diclofenac		7.78	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	ethacrynic-acid		0.58	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	fenofibric-acid		2.2	CHO-OAT3	sitagliptin	17314201
+SLC22A8	fluvastatin		5.79	S2-OAT3	estrone-3-sulfate	14729100
+SLC22A8	furosemide		7.31	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	furosemide		1.7	CHO-OAT3	sitagliptin	17314201
+SLC22A8	gemfibrozil		6.8	S2-OAT3	pravastatin	17455113
+SLC22A8	hydrochlorothiazide		942	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	ibuprofen		6	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	ibuprofen		3.7	CHO-OAT3	sitagliptin	17314201
+SLC22A8	indapamide		11	CHO-OAT3	sitagliptin	17314201
+SLC22A8	indomethacin		0.61	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	ketoprofen		5.98	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	losartan		1.6	HEK293-OAT3	uric-acid	17674156
+SLC22A8	mefenamic-acid		0.78	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	methazolamide		97.5	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	naproxen		4.67	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	novobiocin	4.77	4.99	COS7-OAT3	estrone-3-sulfate	19282394
+SLC22A8	olmesartan		0.027	HEK293-OAT3	uric-acid	17674156
+SLC22A8	phenacetin		19.4	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	piroxicam		2.52	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	pratosartan		0.095	HEK293-OAT3	uric-acid	17674156
+SLC22A8	pravastatin		13.7	S2-OAT3	estrone-3-sulfate	14729100
+SLC22A8	probenecid		3.1	CHO-OAT3	cimetidine	17314201
+SLC22A8	probenecid	9		S2-OAT3	estrone-3-sulfate	11426832
+SLC22A8	probenecid	1.3		HEK293-OAT3	fexofenadine	16455804
+SLC22A8	probenecid	4.41		S2-OAT3	ochratoxin-a	11669456
+SLC22A8	probenecid		5.6	CHO-OAT3	sitagliptin	17314201
+SLC22A8	quinapril		6.2	CHO-OAT3	sitagliptin	17314201
+SLC22A8	simvastatin		32.3	S2-OAT3	estrone-3-sulfate	14729100
+SLC22A8	sitagliptin		160	CHO-OAT3	cimetidine	17314201
+SLC22A8	sulindac		3.62	S2-OAT3	estrone-3-sulfate	12388633
+SLC22A8	telmisartan		1.6	HEK293-OAT3	uric-acid	17674156
+SLC22A8	trichloromethiazide		71.2	S2-OAT3	estrone-3-sulfate	14610216
+SLC22A8	valsartan		0.2	HEK293-OAT3	uric-acid	17674156
+SLC47A1	amantadine	111.8		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	cetirizine	371.2		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	chlorpheniramine	87.6		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	cimetidine	1.1		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	desipramine	55.7		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	diltiazem	12.5		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	diphenhydramine	87		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	disopyramide	83.8		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	famotidine	0.6		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	imipramine	42		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	metformin	666.9		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	mitoxantrone		4.4	HeLa-MATE1	metformin	20053795
+SLC47A1	mitoxantrone		5.2	HeLa-MATE1	tetraethylammonium	20053795
+SLC47A1	pramipexole	141.4		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	procainamide	217		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	quinidine	29.2		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	ranitidine		18.9	HeLa-MATE1	metformin	20053795
+SLC47A1	ranitidine		17.5	HeLa-MATE1	tetraethylammonium	20053795
+SLC47A1	ranitidine	25.4		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	rapamycin		3.27	HeLa-MATE1	metformin	20053795
+SLC47A1	rapamycin		3.51	HeLa-MATE1	tetraethylammonium	20053795
+SLC47A1	ritonavir		15.4	HeLa-MATE1	metformin	20053795
+SLC47A1	ritonavir		13.9	HeLa-MATE1	tetraethylammonium	20053795
+SLC47A1	talipexole	66		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A1	verapamil	27.5		HEK293-MATE1	tetraethylammonium	19164462
+SLC47A2	amantadine	1167		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	cetirizine	817.6		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	chlorpheniramine	191.2		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	cimetidine	7.3		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	desipramine	283		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	diltiazem	117		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	diphenhydramine	266.5		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	disopyramide	291.6		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	famotidine	9.7		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	imipramine	182.9		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	metformin	6515.7		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	pramipexole	24.1		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	procainamide	178.1		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	quinidine	23.1		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	ranitidine	25		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	talipexole	119.5		HEK293-MATE2	tetraethylammonium	19164462
+SLC47A2	verapamil	32.1		HEK293-MATE2	tetraethylammonium	19164462
+SLCO1A2	bromsulphthalein-(bsp)		3.75	COS1-OATP1A2	estrone-3-sulfate	19741038
+SLCO1A2	hesperidin		2.7	HeLa-OATP1A2	fexofenadine	17301733
+SLCO1A2	naringin		3.6	HeLa-OATP1A2	fexofenadine	17301733
+SLCO1A2	naringin		343	OATP1A2-expressing oocytes	talinolol	19779132
+SLCO1A2	rifampicin	51		OATP1A2-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO1A2	rifamycin-sv	11		OATP1A2-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO1A2	verapamil		2.6	HeLa-OATP1A2	fexofenadine	17301733
+SLCO1B1	17beta-estradiol		3.9	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	17beta-estradiol	3.3		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	5beta-androstane	374		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	amprenavir	12.8	14.4	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	antamanide		100	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	atazanavir	1.5	1.7	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	bezafibrate	45.2		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	bromsulphthalein-(bsp)	0.6	0.7	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	bromsulphthalein-(bsp)		0.08	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	bromsulphthalein-(bsp)		1.7	COS1-OATP1A2	estrone-3-sulfate	19741038
+SLCO1B1	chenodeoxycholic-acid	3.4		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	cholic-acid	25		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	clotrimazole		9	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	clotrimazole	7.6		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	cyclosporine		3.5	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	cyclosporine		0.3	CHO-OATP1B1	bosentan	17496208
+SLCO1B1	cyclosporine		0.37	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	cyclosporine	0.24		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	cyclosporine		0.31	HeLa-OATP1B1	rosuvastatin	16697742
+SLCO1B1	cyclosporine		2.2	OATP1B1-expressing oocytes	rosuvastatin	15289793
+SLCO1B1	darunavir	3.1	3.5	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	dehydrocholic-acid	29.7		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	deoxycholic-acid	3.2		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	digoxin	7	7.9	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	estrone-3-sulfate		0.79	HEK293-OATP1B1	estradiol-17beta-glucuronide	16611857
+SLCO1B1	estrone-3-sulfate	0.2		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	fenofibrate	105.2		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	fexofenadine	257		HEK293-OATP1B1	estrone-3-sulfate	16014768
+SLCO1B1	gemfibrozil	12.5		HEK293-OATP1B1	estradiol-17beta-glucuronide	16316932
+SLCO1B1	gemfibrozil		25	HeLa-OATP1B1	rosuvastatin	16697742
+SLCO1B1	glyburide	0.75		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	glycocholic-acid	22		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	gw1929	0.3		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	gw4064	32.4		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	hyperforin		0.82	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	indinavir	10.8	12.2	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	indinavir		5.84	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	lithocholate		0.7	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	lithocholate	1.2		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	lopinavir	0.5	0.5	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	mevinolin		6.1	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	mevinolin	12.7		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	mifepristone		3.3	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	mifepristone	2.2		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	mk-571		5	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	mk-571		0.3	HEK293-OATP1B1	estradiol-17beta-glucuronide	16316932
+SLCO1B1	montelukast		10	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	nelfinavir		0.93	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	paclitaxel		50	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	paclitaxel		0.03	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	pravastatin	21.8		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	repaglinide		2.2	HEK293-OATP1B1	bromsulphthalein-(bsp)	18314419
+SLCO1B1	rifampicin		120	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	rifampicin	1.6	1.8	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	rifampicin	3.08	3.25	HEK293-OATP1B1	atorvastatin	17192770
+SLCO1B1	rifampicin		3.2	CHO-OATP1B1	bosentan	17496208
+SLCO1B1	rifampicin	17		OATP1B1-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO1B1	rifampicin		0.94	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	rifampicin		1.5	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	rifampicin	0.48		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	rifamycin-sv	2		OATP1B1-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO1B1	rifamycin-sv	0.17		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	ritonavir	1.4	1.6	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	ritonavir		0.71	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	ritonavir	0.78		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	rosiglitazone		6	HEK293-OATP1B1	bromsulphthalein-(bsp)	18314419
+SLCO1B1	saquinavir	1.8	2.1	CHO-OATP1B1	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B1	saquinavir		1.23	HeLa-OATP1B1	estradiol-17beta-glucuronide	12490595
+SLCO1B1	saquinavir	1.59		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	sildenafil		1.5	CHO-OATP1B1	bosentan	17496208
+SLCO1B1	silibinin-dihemisuccinate		10	MDCK II-OATP1B1	bromsulphthalein-(bsp)	16495352
+SLCO1B1	tacrolimus	0.61		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	taurocholate	11.4		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	telmisartan	0.44		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	thyroxine	3.5		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	troglitazone		1.2	CHO-OATP1B1	estradiol-17beta-glucuronide	18321482
+SLCO1B1	troglitazone	1		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B1	valsartan	8.96		HEK293-OATP1B1	pitavastatin	16595711
+SLCO1B1	wy-14643	1.6		CHO-OATP1B1	estradiol-17beta-glucuronide	19427586
+SLCO1B3	17beta-estradiol		12.9	CHO-OATP1B3	estradiol-17beta-glucuronide	18321482
+SLCO1B3	amprenavir	13.1	19.1	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	antamanide	0.7	0.7	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	antamanide		15	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	atazanavir	2	3	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	bromsulphthalein-(bsp)		3	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	bromsulphthalein-(bsp)	1	1.4	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	cholecystokinin-8		10	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	cyclosporine		0.3	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	cyclosporine		0.3	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	cyclosporine		0.8	CHO-OATP1B1	bosentan	17496208
+SLCO1B3	cyclosporine		0.06	HeLa-OATP1B3	rosuvastatin	16697742
+SLCO1B3	darunavir	3.3	4.8	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	digoxin	0.7	1	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	estrone-3-sulfate		97.1	HEK293-OATP1B3	cholecystokinin-8	16611857
+SLCO1B3	fexofenadine	205		HEK293-OATP1B3	estrone-3-sulfate	16014768
+SLCO1B3	indinavir	8.5	12.3	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	lithocholate		6.8	CHO-OATP1B3	estradiol-17beta-glucuronide	18321482
+SLCO1B3	lopinavir	1.4	2	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	mifepristone		5.3	CHO-OATP1B3	estradiol-17beta-glucuronide	18321482
+SLCO1B3	mk-571	0.2	0.5	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	mk-571		0.3	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	montelukast		15	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	montelukast		0.5	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	paclitaxel		2	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	paclitaxel		4	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	paclitaxel		0.5	CHO-OATP1B3	estradiol-17beta-glucuronide	18321482
+SLCO1B3	penicillin-g		25	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	prednisolone-phosphate		75	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	probenecid	130		HEK293-OATP1B3	fexofenadine	16455804
+SLCO1B3	repaglinide		5.6	HEK293-OATP1B3	bromsulphthalein-(bsp)	18314419
+SLCO1B3	rifampicin		0.8	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	rifampicin		1.5	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	rifampicin		1.6	CHO-OATP1B1	bosentan	17496208
+SLCO1B3	rifampicin	5		OATP1B3-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO1B3	rifampicin	0.9	1.3	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	rifampicin		2.6	CHO-OATP1B3	estradiol-17beta-glucuronide	18321482
+SLCO1B3	rifamycin-sv	3		OATP1B3-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO1B3	ritonavir	2.5	3.6	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	rosiglitazone		10.9	HEK293-OATP1B3	bromsulphthalein-(bsp)	18314419
+SLCO1B3	saquinavir	2.8	4.1	CHO-OATP1B3	cholyl-glycylamido-fluorescein-(cgamf)	20102298
+SLCO1B3	sildenafil		0.8	CHO-OATP1B1	bosentan	17496208
+SLCO1B3	silibinin-dihemisuccinate		0.4	MDCK II-OATP1B3	amantinin	16495352
+SLCO1B3	silibinin-dihemisuccinate		1	MDCK II-OATP1B3	bromsulphthalein-(bsp)	16495352
+SLCO1B3	troglitazone		15.7	CHO-OATP1B3	estradiol-17beta-glucuronide	18321482
+SLCO2B1	atorvastatin		0.4	MDCK II-OATP2B1	estrone-3-sulfate	17178262
+SLCO2B1	bromsulphthalein-(bsp)	1.5	2	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	bromsulphthalein-(bsp)		1.7	COS1-OATP2B1	estrone-3-sulfate	19741038
+SLCO2B1	cerivastatin		66.2	MDCK II-OATP2B1	estrone-3-sulfate	17178262
+SLCO2B1	cyclosporine		20	MDCK II-OATP2B1	bromsulphthalein-(bsp)	16495352
+SLCO2B1	cyclosporine		0.07	HEK293-OATP2B1	rosuvastatin	16697742
+SLCO2B1	estrone	1.9	2.5	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	gemfibrozil		8	HeLa-OATP2B1	rosuvastatin	16697742
+SLCO2B1	indinavir	3	3.9	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	mk-571		0.2	MDCK II-OATP2B1	bromsulphthalein-(bsp)	16495352
+SLCO2B1	montelukast		1	MDCK II-OATP2B1	bromsulphthalein-(bsp)	16495352
+SLCO2B1	paclitaxel		25	MDCK II-OATP2B1	bromsulphthalein-(bsp)	16495352
+SLCO2B1	repaglinide		5.2	HEK293-OATP2B1	bromsulphthalein-(bsp)	18314419
+SLCO2B1	rifampicin		90	MDCK II-OATP2B1	bromsulphthalein-(bsp)	16495352
+SLCO2B1	rifampicin	1.6	2.1	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	rifamycin-sv	3		OATP2B1-expressing oocytes	bromsulphthalein-(bsp)	12085361
+SLCO2B1	rifamycin-sv	2.3	3	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	ritonavir	4.8	6.3	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	rosiglitazone		5.2	HEK293-OATP2B1	bromsulphthalein-(bsp)	18314419
+SLCO2B1	saquinavir	4	5.3	Caco-2	estrone-3-sulfate	20102298
+SLCO2B1	silibinin-dihemisuccinate		1	MDCK II-OATP2B1	bromsulphthalein-(bsp)	16495352
+SLCO2B1	simvastatin		84.7	MDCK II-OATP2B1	estrone-3-sulfate	17178262
+SLC22A1	disopyramide		81.7	HEK293-OCT1	4-(4-dimethylamino)styryl-n-methylpyridinium-(asp+)	18788725
+SLC22A1	phenoxy-benzamine		15.1	HEK293-OCT1	4-(4-dimethylamino)styryl-n-methylpyridinium-(asp+)	18788725
+SLC22A1	ritonavir		5.18	HeLa-OCT1	tetraethylammonium	10681378
+SLC22A1	indinavir		61.7	HeLa-OCT1	tetraethylammonium	10681378
+SLC22A1	nelfinavir		21.8	HeLa-OCT1	tetraethylammonium	10681378
+SLC22A1	saquinavir		8.26	HeLa-OCT1	tetraethylammonium	10681378
+SLC22A1	ritonavir		14	HEK293-OCT1	n-methylpyridinium	18490433
+ABCB1	astemizole		2.73	MDCKII-MDR1	digoxin	16406207
+ABCB1	azithromycin		21.8	Caco-2 cells	digoxin	18027988
+ABCB1	clarithromycin		4.1	Caco-2 cells	digoxin	18027988
+ABCB1	elacridar-(gf120918)		0.18	MDCKII-MDR1	digoxin	16406207
+ABCB1	erythromycin		10	Caco-2 cells	digoxin	11961113
+ABCB1	erythromycin		119	Caco-2 cells	ximelagatran	16455803
+ABCB1	erythromycin		22.7	Caco-2 cells	digoxin	18027988
+ABCB1	itraconazole		0.95	MDCKII-MDR1	digoxin	16406207
+ABCB1	itraconazole		2	Caco-2 cells	digoxin	20025245
+ABCB1	ketoconazole		1.34	MDCKII-MDR1	digoxin	16406207
+ABCB1	quinidine		9.4	MDCKII-MDR1	digoxin	16406207
+ABCB1	quinine		22.4	MDCKII-MDR1	digoxin	16406207
+ABCB1	ritonavir		3.8	Caco-2 cells	digoxin	10820137
+ABCB1	ritonavir		28.2	MDCKII-MDR1	digoxin	16406207
+ABCB1	ritonavir		5	Caco-2 cells	digoxin	20025245
+ABCB1	roxithromycin		15.4	Caco-2 cells	digoxin	18027988
+ABCB1	telithromycin		1.8	Caco-2 cells	digoxin	18027988
+ABCB1	valsopodar-(psc-833)		0.11	Caco-2 cells	digoxin	10820137
+ABCB1	zosuquidar-(ly335979)		0.024	Caco-2 cells	digoxin	10820137
+ABCB1	zosuquidar-(ly335979)		0.07	MDCKII-MDR1	abacavir	17709369
+ABCB4	cyclosporine		ND	nucleotide trapping with MDR3-expressing Sf9 membranes	N/A	10918072
+ABCB4	paclitaxel		ND	nucleotide trapping with MDR3-expressing Sf9 membranes	N/A	10918072
+ABCB4	valsopodar-(psc-833)		ND	nucleotide trapping with MDR3-expressing Sf9 membranes	N/A	10918072
+ABCB4	verapamil		ND	nucleotide trapping with MDR3-expressing Sf9 membranes	N/A	10918072
+ABCB4	vinblastine		ND	nucleotide trapping with MDR3-expressing Sf9 membranes	N/A	10918072
+ABCG2	17beta-estradiol		4.8	Steroid Sensitivity of K562-BCRP	N/A	11927002
+ABCG2	elacridar-(gf120918)		0.31	HEK293-BCRP	mitoxantrone	15930306
+SLC22A1	metformin	493		HEK293-OCT1	n-methylpyridinium	17614008
+SLC22A1	metformin	2820		HEK293-OCT1	tetraethylammonium	17614008
+SLC22A1	phenformin	13		HEK293-OCT1	n-methylpyridinium	17614008
+SLC22A1	phenformin	23		HEK293-OCT1	tetraethylammonium	17614008
+SLC22A11	cefamandole	1140		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A11	cefazolin	1740		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A11	cefoperazone	2800		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A11	cefotaxime	6150		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A11	ceftriaxone	2380		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A11	cephaloridine	3630		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A11	cephalothin	200		S2-OAT4	prostaglandin-f2alpha	12650826
+SLC22A2	cetirizine		ND	OCT2-expressing oocytes	tetraethylammonium	16580907
+SLC22A2	desipramine		16	OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	mepiperphenidol		4.8	OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	metformin	289		HEK293-OCT2	n-methylpyridinium	17614008
+SLC22A2	metformin	1380		HEK293-OCT2	tetraethylammonium	17614008
+SLC22A2	phenformin	54		HEK293-OCT2	n-methylpyridinium	17614008
+SLC22A2	phenformin	111		HEK293-OCT2	tetraethylammonium	17614008
+SLC22A2	pilsicainide		ND	OCT2-expressing oocytes	tetraethylammonium	16580907
+SLC22A3	metformin	904		HEK293-OCT3	n-methylpyridinium	17614008
+SLC22A3	phenformin	134		HEK293-OCT3	n-methylpyridinium	17614008
+SLC22A4	procainamide		<1000	HEK293-OCTN1	tetraethylammonium	10215651
+SLC22A4	pyrilamide	182		HEK293-OCTN1	ergothioneine	17532304
+SLC22A4	quinidine		<1000	HEK293-OCTN1	tetraethylammonium	10215651
+SLC22A4	quinine		<1000	HEK293-OCTN1	tetraethylammonium	10215651
+SLC22A4	verapamil	10.8		HEK293-OCTN1	ergothioneine	17532304
+SLC22A4	disprocynium24	14.6		HEK293-OCTN1	ergothioneine	17532304
+SLC22A4	thioperamide	254		HEK293-OCTN1	ergothioneine	17532304
+SLC22A4	hercynine	1450		HEK293-OCTN1	ergothioneine	17532304
+SLC22A4	methimazole	7520		HEK293-OCTN1	ergothioneine	17532304
+SLC22A6	2_3-dimercapto-1-propane-sulfonate-(dmps)		19	OAT1-expressing oocytes	para-aminohippurate	11602689
+SLC22A6	adefovir		1.5	CHO-OAT1	ibuprofen	10991954
+SLC22A6	adefovir		0.9	CHO-OAT1	ketoprofen	10991954
+SLC22A6	adefovir		1.8	CHO-OAT1	naproxen	10991954
+SLC22A6	betamipron		6	CHO-OAT1	adefovir	10991954
+SLC22A6	betamipron		16.2	CHO-OAT1	para-aminohippurate	10703662
+SLC22A6	cefadroxil	6140		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cefamandole	30		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cefazolin	180		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cefoperazone	210		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cefotaxime	3130		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	ceftriaxone	230		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cephaloridine	740		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cephaloridine		1250	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	cephalothin	220		S2-OAT1	prostaglandin-f2alpha	12650826
+SLC22A6	cephradine		1600	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	cidofovir		60	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	citrinin	3080		S2-OAT1	ochratoxin-a	11669456
+SLC22A6	diclofenac		4	CHO-OAT1	adefovir	10991954
+SLC22A6	diflunisal		0.85	CHO-OAT1	adefovir	10991954
+SLC22A6	etodolac		50	CHO-OAT1	adefovir	10991954
+SLC22A6	flurbiprofen		1.5	CHO-OAT1	adefovir	10991954
+SLC22A6	glutarate		4.9	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	hippuric-acid		20	OK-OAT1	para-aminohippurate	11815391
+SLC22A6	ibuprofen		8	CHO-OAT1	adefovir	10991954
+SLC22A6	indoleacetic-acid		83	OK-OAT1	para-aminohippurate	11815391
+SLC22A6	indomethacin		3	CHO-OAT1	adefovir	10991954
+SLC22A6	indoxyl-sulfate		83	OK-OAT1	para-aminohippurate	11815391
+SLC22A6	ketoprofen		1.4	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	ketoprofen		1.3	CHO-OAT1	adefovir	10991954
+SLC22A6	naproxen		5.8	CHO-OAT1	adefovir	10991954
+SLC22A6	octanoate	5.41		S2-OAT1	ochratoxin-a	11669456
+SLC22A6	ortho-hydroxyhippuric-acid		27	OK-OAT1	para-aminohippurate	11815391
+SLC22A6	para-aminohippurate	6.02		S2-OAT1	ochratoxin-a	11669456
+SLC22A6	para-aminohippurate		8.8	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	para-hydroxyhippuric-acid		25	OK-OAT1	para-aminohippurate	11815391
+SLC22A6	phenacetin		200	CHO-OAT1	adefovir	10991954
+SLC22A6	piroxicam	19.8		S2-OAT1	ochratoxin-a	11669456
+SLC22A6	piroxicam		20.5	CHO-OAT1	adefovir	10991954
+SLC22A6	probenecid		6.5	CHO-OAT1	para-aminohippurate	10703662
+SLC22A6	probenecid		6.3	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A6	probenecid		7.4	CHO-OAT1	adefovir	10991954
+SLC22A6	salicylate		280	CHO-OAT1	6-carboxyfluorescein	10929807
+SLC22A7	cefamandole		1570	S2-OAT2	prostaglandin-f2alpha	12650826
+SLC22A7	cefoperazone		1330	S2-OAT2	prostaglandin-f2alpha	12650826
+SLC22A7	cefotaxime		4680	S2-OAT2	prostaglandin-f2alpha	12650826
+SLC22A7	cephaloridine		4480	S2-OAT2	prostaglandin-f2alpha	12650826
+SLC22A7	cephalothin		1410	S2-OAT2	prostaglandin-f2alpha	12650826
+SLC22A8	cefadroxil	8620		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	cefamandole	50		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	cefazolin	550		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	cefoperazone	1890		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	cefotaxime	290		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	ceftriaxone	4390		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	cephaloridine	2460		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	cephalothin	40		S2-OAT3	prostaglandin-f2alpha	12650826
+SLC22A8	citrinin	15.4		S2-OAT2	ochratoxin-a	11669456
+SLC22A8	octanoate	8.6		S2-OAT2	ochratoxin-a	11669456
+SLC22A8	para-aminohippurate	19.6		S2-OAT2	ochratoxin-a	11669456
+SLC22A8	piroxicam	4.88		S2-OAT2	ochratoxin-a	11669456
+ABCC2	delavirdine		ND	MDCKII-MRP2	cmfda	17172311
+ABCC2	efavirenz		ND	MDCKII-MRP2	cmfda	17172311
+ABCC2	emtricitabine		ND	MDCKII-MRP2	cmfda	17172311
+ABCC3	delavirdine		ND	MDCKII-MRP3	cmfda	17172311
+ABCC3	efavirenz		ND	MDCKII-MRP3	cmfda	17172311
+ABCC3	emtricitabine		ND	MDCKII-MRP3	cmfda	17172311
+ABCC6	indomethacin		ND	MRP6-expressing Sf9 vesicles	n-ethylmaleimide-s-glutathione	11880368
+ABCC6	probenecid		ND	MRP6-expressing Sf9 vesicles	n-ethylmaleimide-s-glutathione	11880368
+ABCC6	benzbromarone		ND	MRP6-expressing Sf9 vesicles	n-ethylmaleimide-s-glutathione	11880368
+SLC22A1	midazolam	3.7		HeLa-OCT1	tetraethylammonium	9655880
+SLC22A2	phenoxy-benzamine		4.9	HEK293-OCT2	n-methylpyridinium	12110607
+SLC22A2	procainamide	50		OCT2-expressing oocytes	tetraethylammonium	9260930
+SLC22A2	testosterone		3	N/A	N/A	17473959
+SLC22A3	phenoxy-benzamine		6.13	HEK293-OCT2	n-methylpyridinium	12110607
+SLC22A3	prazosin		12.6	HEK293-OCT2	n-methylpyridinium	12110607
+SLCO1A2	ritonavir		<10	HeLa-OATP1A2	fexofenadine	10421612
+SLCO1A2	saquinavir		<10	HeLa-OATP1A2	fexofenadine	10421612
+SLC15A2	cephalexin	98		CHO-PEPT2	glycylsarcosine	15282265
+SLC15A2	kyotorphin	5.1		CHO-PEPT2	glycylsarcosine	15282265
+SLC15A2	anserine	180		HeLa-PEPT2	glycylsarcosine	20067523
+SLC15A2	carnosine	60		HeLa-PEPT2	glycylsarcosine	20067523
+SLC22A2	1-methyl-3-butylimidazolium-chloride-(bmim-cl)		1.5	CHO-OCT2	tetraethylammonium	21646436
+SLC22A2	n-butyl-n-methylpyrrolidinium-chloride-(bmpy-cl)		0.48	CHO-OCT2	tetraethylammonium	21646436
+SLC22A2	n-butylpyridinium-chloride-(nbupy-cl)		2.29	CHO-OCT2	tetraethylammonium	21646436
+SLC22A2	creatinine		580	HEK293-OCT2	4-(4-dimethylamino)styryl-n-methylpyridinium-(asp+)	22223530
+SLC22A2	dx-619	0.94		S2-OCT2	creatinine	21124314
+SLC22A2	1-ethylpyridinium-chloride-(etpy-cl)		36.7	CHO-OCT2	tetraethylammonium	21646436
+SLC22A2	grepafloxacin	10.4		S2-OCT2	creatinine	21124314
+SLC22A2	pyridine		790	CHO-OCT2	tetraethylammonium	21646436
+SLC22A2	1-hexylpyridinium-chloride-(hepy-cl)		0.35	CHO-OCT2	tetraethylammonium	21646436
+SLC22A6	1-propanesulfonic-acid-(psa)		2036	CHO-OAT1	para-aminohippurate	21543413
+SLC22A6	2_3-dimercapto-1-propane-sulfonate-(dmps)		83	CHO-OAT1	para-aminohippurate	21543413
+SLC22A6	adipate		6.2	HEK293-OAT1	para-aminohippurate	21865262
+SLC22A6	1-butanesulfonic-acid-(bsa)		514	CHO-OAT1	para-aminohippurate	21543413
+SLC22A6	fumarate		1733	HEK293-OAT1	para-aminohippurate	21865262
+SLC22A6	glutarate		3.3	HEK293-OAT1	para-aminohippurate	21865262
+SLC22A6	jbp485	197	226	HEK293-OAT1	bestatin	22273603
+SLC22A6	ketoconazole		319	OAT1-expressing oocytes	para-aminohippurate	21456052
+SLC22A6	alpha-ketoglutarate		4.7	HEK293-OAT1	para-aminohippurate	21865262
+SLC22A6	3-mercapto-1-propansulfonic-acid-(mps)		204	CHO-OAT1	para-aminohippurate	21543413
+SLC22A6	para-aminohippurate	92	106	HEK293-OAT1	bestatin	22273603
+SLC22A6	pimelate		18.6	HEK293-OAT1	para-aminohippurate	21865262
+SLC22A6	probenecid	26		HeLa-OAT1	dimesna	21505084
+SLC22A6	probenecid		17	OAT1-expressing oocytes	para-aminohippurate	21440623
+SLC22A6	probenecid		17	OAT1-expressing oocytes	methotrexate	21440623
+SLC22A6	rifampin		79.1	OAT1-expressing oocytes	para-aminohippurate	21456052
+SLC22A6	rifampin	62.2		OAT1-expressing oocytes	olmesartan	21456052
+SLC22A6	suberate		19.3	HEK293-OAT1	para-aminohippurate	21865262
+SLC22A6	sulfasalazine		4.6	OAT1-expressing oocytes	methotrexate	21440623
+SLC22A8	1-butanesulfonic-acid-(bsa)		5098	CHO-OAT3	estrone-3-sulfate	21543413
+SLC22A8	alpha-ketoglutarate		92.8	HEK293-OAT3	estrone-3-sulfate	21865262
+SLC22A8	adipate		136	HEK293-OAT3	estrone-3-sulfate	21865262
+SLC22A8	bumetanide		7.8	OAT3-expressing oocytes	estrone-3-sulfate	21440623
+SLC22A8	bumetanide		5.4	OAT3-expressing oocytes	methotrexate	21440623
+SLC22A8	2_3-dimercapto-1-propane-sulfonate-(dmps)		40	CHO-OAT3	estrone-3-sulfate	21543413
+SLC22A8	glutarate		78.5	HEK293-OAT3	estrone-3-sulfate	21865262
+SLC22A8	jbp485	160	185	HEK293-OAT3	bestatin	22273603
+SLC22A8	3-mercapto-1-propansulfonic-acid-(mps)		2139	CHO-OAT3	estrone-3-sulfate	21543413
+SLC22A8	penicillin-g	88	102	HEK293-OAT3	bestatin	22273603
+SLC22A8	pimelate		634	HEK293-OAT3	estrone-3-sulfate	21865262
+SLC22A8	probenecid	32		HeLa-OAT3	dimesna	21505084
+SLC22A8	suberate		232	HEK293-OAT3	estrone-3-sulfate	21865262
+SLC22A8	sulfasalazine		3	OAT3-expressing oocytes	methotrexate	21440623
+ABCC2	gemifloxacin		16	MDCKII-MRP2	erythromycin	21864659
+ABCG2	sulfasalazine		0.73	BCRP-expressing oocytes	estrone-3-sulfate	21440623
+SLC47A1	chloroquine		2.5	HEK293-MATE1	metformin	21518836
+SLC47A1	cimetidine	3.8		HEK293-MATE1	metformin	22072731
+SLC47A1	dx-619	0.82		HEK293-MATE1	creatinine	21124314
+SLC47A1	n-butylpyridinium-chloride-(nbupy-cl)		8.5	CHO-MATE1	1-methyl-4-phenylpyridinium-(mpp+)	21646436
+SLC47A2	cimetidine	2.1		HEK293-MATE2K	tetraethylammonium	22072731
+SLC47A2	dx-619	0.1		HEK293-MATE2K	creatinine	21124314
+SLC47A2	n-butylpyridinium-chloride-(nbupy-cl)		1.6	CHO-MATE2K	1-methyl-4-phenylpyridinium-(mpp+)	21646436

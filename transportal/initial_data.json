@@ -53716,13 +53716,6 @@
   }
  }, 
  {
-  "pk": "erythromycin_a", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Erythromycin A"
-  }
- }, 
- {
   "pk": "(-)-beta-pinene", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -53888,6 +53881,13 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Beta-hydroxy-propiconazole"
+  }
+ }, 
+ {
+  "pk": "erythromycin_a", 
+  "model": "transporterDatabase.compound", 
+  "fields": {
+   "name": "Erythromycin A"
   }
  }, 
  {
@@ -54384,7 +54384,7 @@
   "pk": "para-aminohippuric_acid", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "Para-aminohippuric acid"
+   "name": "para-aminohippuric acid"
   }
  }, 
  {
@@ -54444,13 +54444,6 @@
   }
  }, 
  {
-  "pk": "cyperquat", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Cyperquat"
-  }
- }, 
- {
   "pk": "perfluorodecanoic_acid", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -54504,13 +54497,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Tangeretin"
-  }
- }, 
- {
-  "pk": "o-methyl-dehydroxymethyl-alpha-amanitin", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "O-methyl-dehydroxymethyl-alpha-amanitin"
   }
  }, 
  {
@@ -54574,13 +54560,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "glycine"
-  }
- }, 
- {
-  "pk": "._3hestradiol-17-d-glucuronide", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": ". [3H]Estradiol-17-D-glucuronide"
   }
  }, 
  {
@@ -63684,18 +63663,6 @@
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
-   "reference": "16098483", 
-   "cellSystem": "HEK293 cells", 
-   "km": "28", 
-   "cmpnd": "para-aminohippuric_acid", 
-   "trans": "SLC22A6"
-  }
- }, 
- {
-  "pk": 760, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
    "reference": "18373647", 
    "cellSystem": "HEK293 cells", 
    "km": "48", 
@@ -63704,7 +63671,7 @@
   }
  }, 
  {
-  "pk": 761, 
+  "pk": 760, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63716,19 +63683,7 @@
   }
  }, 
  {
-  "pk": 762, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16098483", 
-   "cellSystem": "HEK293 cells", 
-   "km": "6.3", 
-   "cmpnd": "estrone_sulfate", 
-   "trans": "SLC22A8"
-  }
- }, 
- {
-  "pk": 763, 
+  "pk": 761, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63740,7 +63695,7 @@
   }
  }, 
  {
-  "pk": 764, 
+  "pk": 762, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63752,7 +63707,7 @@
   }
  }, 
  {
-  "pk": 765, 
+  "pk": 763, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63764,7 +63719,7 @@
   }
  }, 
  {
-  "pk": 766, 
+  "pk": 764, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63776,7 +63731,7 @@
   }
  }, 
  {
-  "pk": 767, 
+  "pk": 765, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63788,67 +63743,7 @@
   }
  }, 
  {
-  "pk": 768, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16807400", 
-   "cellSystem": "HEK293 cells", 
-   "km": "370", 
-   "cmpnd": "cimetidine", 
-   "trans": "SLC47A2"
-  }
- }, 
- {
-  "pk": 769, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16807400", 
-   "cellSystem": "HEK293 cells", 
-   "km": "93.5", 
-   "cmpnd": "cyperquat", 
-   "trans": "SLC47A2"
-  }
- }, 
- {
-  "pk": 770, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16807400", 
-   "cellSystem": "HEK293 cells", 
-   "km": "1050", 
-   "cmpnd": "metformin", 
-   "trans": "SLC47A2"
-  }
- }, 
- {
-  "pk": 771, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16807400", 
-   "cellSystem": "HEK293 cells", 
-   "km": "4100", 
-   "cmpnd": "procainamide", 
-   "trans": "SLC47A2"
-  }
- }, 
- {
-  "pk": 772, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16807400", 
-   "cellSystem": "HEK293 cells", 
-   "km": "830", 
-   "cmpnd": "tetraethylammonium", 
-   "trans": "SLC47A2"
-  }
- }, 
- {
-  "pk": 773, 
+  "pk": 766, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63860,7 +63755,7 @@
   }
  }, 
  {
-  "pk": 774, 
+  "pk": 767, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63872,7 +63767,7 @@
   }
  }, 
  {
-  "pk": 775, 
+  "pk": 768, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63884,19 +63779,7 @@
   }
  }, 
  {
-  "pk": 776, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "16495352", 
-   "cellSystem": "MDCK-II cells", 
-   "km": "3.7", 
-   "cmpnd": "o-methyl-dehydroxymethyl-alpha-amanitin", 
-   "trans": "SLCO1B3"
-  }
- }, 
- {
-  "pk": 777, 
+  "pk": 769, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63908,7 +63791,7 @@
   }
  }, 
  {
-  "pk": 778, 
+  "pk": 770, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63920,7 +63803,7 @@
   }
  }, 
  {
-  "pk": 779, 
+  "pk": 771, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63932,7 +63815,7 @@
   }
  }, 
  {
-  "pk": 780, 
+  "pk": 772, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63944,7 +63827,7 @@
   }
  }, 
  {
-  "pk": 781, 
+  "pk": 773, 
   "model": "transporterDatabase.substrate", 
   "fields": {
    "cmpndClinical": false, 
@@ -63953,18 +63836,6 @@
    "km": "26", 
    "cmpnd": "d-serine", 
    "trans": "SLC7A10"
-  }
- }, 
- {
-  "pk": 782, 
-  "model": "transporterDatabase.substrate", 
-  "fields": {
-   "cmpndClinical": false, 
-   "reference": "12490595", 
-   "cellSystem": "HeLa cells", 
-   "km": "1.5", 
-   "cmpnd": "rifampicin", 
-   "trans": "SLCO1B1"
   }
  }, 
  {
@@ -111657,21 +111528,6 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
-   "ic50": "1.6", 
-   "substrate": "digoxin", 
-   "reference": "10901697", 
-   "cmpndClinical": false, 
-   "ki": "", 
-   "trans": "ABCB1", 
-   "cellSystem": "Caco-2 cells", 
-   "cmpnd": "mibefradil"
-  }
- }, 
- {
-  "pk": 3181, 
-  "model": "transporterDatabase.inhibitor", 
-  "fields": {
-   "substrateClinical": false, 
    "ic50": "0.11", 
    "substrate": "digoxin", 
    "reference": "10901697", 
@@ -111683,7 +111539,7 @@
   }
  }, 
  {
-  "pk": 3182, 
+  "pk": 3181, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111698,7 +111554,7 @@
   }
  }, 
  {
-  "pk": 3183, 
+  "pk": 3182, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111713,7 +111569,7 @@
   }
  }, 
  {
-  "pk": 3184, 
+  "pk": 3183, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111728,7 +111584,7 @@
   }
  }, 
  {
-  "pk": 3185, 
+  "pk": 3184, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111743,7 +111599,7 @@
   }
  }, 
  {
-  "pk": 3186, 
+  "pk": 3185, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111758,7 +111614,7 @@
   }
  }, 
  {
-  "pk": 3187, 
+  "pk": 3186, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111773,7 +111629,7 @@
   }
  }, 
  {
-  "pk": 3188, 
+  "pk": 3187, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111788,7 +111644,7 @@
   }
  }, 
  {
-  "pk": 3189, 
+  "pk": 3188, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111803,7 +111659,7 @@
   }
  }, 
  {
-  "pk": 3190, 
+  "pk": 3189, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111818,7 +111674,7 @@
   }
  }, 
  {
-  "pk": 3191, 
+  "pk": 3190, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111833,7 +111689,7 @@
   }
  }, 
  {
-  "pk": 3192, 
+  "pk": 3191, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111848,7 +111704,7 @@
   }
  }, 
  {
-  "pk": 3193, 
+  "pk": 3192, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111863,7 +111719,7 @@
   }
  }, 
  {
-  "pk": 3194, 
+  "pk": 3193, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111878,7 +111734,7 @@
   }
  }, 
  {
-  "pk": 3195, 
+  "pk": 3194, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111893,7 +111749,7 @@
   }
  }, 
  {
-  "pk": 3196, 
+  "pk": 3195, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111908,7 +111764,7 @@
   }
  }, 
  {
-  "pk": 3197, 
+  "pk": 3196, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111923,7 +111779,7 @@
   }
  }, 
  {
-  "pk": 3198, 
+  "pk": 3197, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111938,22 +111794,7 @@
   }
  }, 
  {
-  "pk": 3199, 
-  "model": "transporterDatabase.inhibitor", 
-  "fields": {
-   "substrateClinical": false, 
-   "ic50": "119", 
-   "substrate": "ximelagatran", 
-   "reference": "16455803", 
-   "cmpndClinical": false, 
-   "ki": "", 
-   "trans": "ABCB1", 
-   "cellSystem": "Caco-2 cells", 
-   "cmpnd": "erythromycin_a"
-  }
- }, 
- {
-  "pk": 3200, 
+  "pk": 3198, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111968,7 +111809,7 @@
   }
  }, 
  {
-  "pk": 3201, 
+  "pk": 3199, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111983,7 +111824,7 @@
   }
  }, 
  {
-  "pk": 3202, 
+  "pk": 3200, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -111998,7 +111839,7 @@
   }
  }, 
  {
-  "pk": 3203, 
+  "pk": 3201, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112013,7 +111854,7 @@
   }
  }, 
  {
-  "pk": 3204, 
+  "pk": 3202, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112028,7 +111869,7 @@
   }
  }, 
  {
-  "pk": 3205, 
+  "pk": 3203, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112043,7 +111884,7 @@
   }
  }, 
  {
-  "pk": 3206, 
+  "pk": 3204, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112058,7 +111899,7 @@
   }
  }, 
  {
-  "pk": 3207, 
+  "pk": 3205, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112073,7 +111914,7 @@
   }
  }, 
  {
-  "pk": 3208, 
+  "pk": 3206, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112088,7 +111929,7 @@
   }
  }, 
  {
-  "pk": 3209, 
+  "pk": 3207, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112103,7 +111944,7 @@
   }
  }, 
  {
-  "pk": 3210, 
+  "pk": 3208, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112118,7 +111959,7 @@
   }
  }, 
  {
-  "pk": 3211, 
+  "pk": 3209, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112133,7 +111974,7 @@
   }
  }, 
  {
-  "pk": 3212, 
+  "pk": 3210, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112148,7 +111989,7 @@
   }
  }, 
  {
-  "pk": 3213, 
+  "pk": 3211, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112163,7 +112004,7 @@
   }
  }, 
  {
-  "pk": 3214, 
+  "pk": 3212, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112178,7 +112019,7 @@
   }
  }, 
  {
-  "pk": 3215, 
+  "pk": 3213, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112193,7 +112034,7 @@
   }
  }, 
  {
-  "pk": 3216, 
+  "pk": 3214, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112208,7 +112049,7 @@
   }
  }, 
  {
-  "pk": 3217, 
+  "pk": 3215, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112223,7 +112064,7 @@
   }
  }, 
  {
-  "pk": 3218, 
+  "pk": 3216, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112238,7 +112079,7 @@
   }
  }, 
  {
-  "pk": 3219, 
+  "pk": 3217, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112253,7 +112094,7 @@
   }
  }, 
  {
-  "pk": 3220, 
+  "pk": 3218, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112268,7 +112109,7 @@
   }
  }, 
  {
-  "pk": 3221, 
+  "pk": 3219, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112283,7 +112124,7 @@
   }
  }, 
  {
-  "pk": 3222, 
+  "pk": 3220, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112298,7 +112139,7 @@
   }
  }, 
  {
-  "pk": 3223, 
+  "pk": 3221, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112313,7 +112154,7 @@
   }
  }, 
  {
-  "pk": 3224, 
+  "pk": 3222, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112328,7 +112169,7 @@
   }
  }, 
  {
-  "pk": 3225, 
+  "pk": 3223, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112343,7 +112184,7 @@
   }
  }, 
  {
-  "pk": 3226, 
+  "pk": 3224, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112358,7 +112199,7 @@
   }
  }, 
  {
-  "pk": 3227, 
+  "pk": 3225, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112373,7 +112214,7 @@
   }
  }, 
  {
-  "pk": 3228, 
+  "pk": 3226, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112388,7 +112229,7 @@
   }
  }, 
  {
-  "pk": 3229, 
+  "pk": 3227, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112403,7 +112244,7 @@
   }
  }, 
  {
-  "pk": 3230, 
+  "pk": 3228, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112418,7 +112259,7 @@
   }
  }, 
  {
-  "pk": 3231, 
+  "pk": 3229, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112433,7 +112274,7 @@
   }
  }, 
  {
-  "pk": 3232, 
+  "pk": 3230, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112448,7 +112289,7 @@
   }
  }, 
  {
-  "pk": 3233, 
+  "pk": 3231, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112463,7 +112304,7 @@
   }
  }, 
  {
-  "pk": 3234, 
+  "pk": 3232, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112478,7 +112319,7 @@
   }
  }, 
  {
-  "pk": 3235, 
+  "pk": 3233, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112493,7 +112334,7 @@
   }
  }, 
  {
-  "pk": 3236, 
+  "pk": 3234, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112508,7 +112349,7 @@
   }
  }, 
  {
-  "pk": 3237, 
+  "pk": 3235, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112523,7 +112364,7 @@
   }
  }, 
  {
-  "pk": 3238, 
+  "pk": 3236, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112538,7 +112379,7 @@
   }
  }, 
  {
-  "pk": 3239, 
+  "pk": 3237, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112553,7 +112394,7 @@
   }
  }, 
  {
-  "pk": 3240, 
+  "pk": 3238, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112568,7 +112409,7 @@
   }
  }, 
  {
-  "pk": 3241, 
+  "pk": 3239, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112583,7 +112424,7 @@
   }
  }, 
  {
-  "pk": 3242, 
+  "pk": 3240, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112598,7 +112439,7 @@
   }
  }, 
  {
-  "pk": 3243, 
+  "pk": 3241, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112613,7 +112454,7 @@
   }
  }, 
  {
-  "pk": 3244, 
+  "pk": 3242, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112628,7 +112469,7 @@
   }
  }, 
  {
-  "pk": 3245, 
+  "pk": 3243, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112643,7 +112484,7 @@
   }
  }, 
  {
-  "pk": 3246, 
+  "pk": 3244, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112658,7 +112499,7 @@
   }
  }, 
  {
-  "pk": 3247, 
+  "pk": 3245, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112673,7 +112514,7 @@
   }
  }, 
  {
-  "pk": 3248, 
+  "pk": 3246, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112688,7 +112529,7 @@
   }
  }, 
  {
-  "pk": 3249, 
+  "pk": 3247, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112703,7 +112544,7 @@
   }
  }, 
  {
-  "pk": 3250, 
+  "pk": 3248, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112718,7 +112559,7 @@
   }
  }, 
  {
-  "pk": 3251, 
+  "pk": 3249, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112733,7 +112574,7 @@
   }
  }, 
  {
-  "pk": 3252, 
+  "pk": 3250, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112748,7 +112589,7 @@
   }
  }, 
  {
-  "pk": 3253, 
+  "pk": 3251, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112763,7 +112604,7 @@
   }
  }, 
  {
-  "pk": 3254, 
+  "pk": 3252, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112778,7 +112619,7 @@
   }
  }, 
  {
-  "pk": 3255, 
+  "pk": 3253, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112793,7 +112634,7 @@
   }
  }, 
  {
-  "pk": 3256, 
+  "pk": 3254, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112808,7 +112649,7 @@
   }
  }, 
  {
-  "pk": 3257, 
+  "pk": 3255, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112823,7 +112664,7 @@
   }
  }, 
  {
-  "pk": 3258, 
+  "pk": 3256, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112838,7 +112679,7 @@
   }
  }, 
  {
-  "pk": 3259, 
+  "pk": 3257, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112853,7 +112694,7 @@
   }
  }, 
  {
-  "pk": 3260, 
+  "pk": 3258, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112868,7 +112709,7 @@
   }
  }, 
  {
-  "pk": 3261, 
+  "pk": 3259, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112883,7 +112724,7 @@
   }
  }, 
  {
-  "pk": 3262, 
+  "pk": 3260, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112898,7 +112739,7 @@
   }
  }, 
  {
-  "pk": 3263, 
+  "pk": 3261, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112913,7 +112754,7 @@
   }
  }, 
  {
-  "pk": 3264, 
+  "pk": 3262, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112928,7 +112769,7 @@
   }
  }, 
  {
-  "pk": 3265, 
+  "pk": 3263, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112943,7 +112784,7 @@
   }
  }, 
  {
-  "pk": 3266, 
+  "pk": 3264, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112958,7 +112799,7 @@
   }
  }, 
  {
-  "pk": 3267, 
+  "pk": 3265, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112973,7 +112814,7 @@
   }
  }, 
  {
-  "pk": 3268, 
+  "pk": 3266, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -112988,7 +112829,7 @@
   }
  }, 
  {
-  "pk": 3269, 
+  "pk": 3267, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113003,7 +112844,7 @@
   }
  }, 
  {
-  "pk": 3270, 
+  "pk": 3268, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113018,7 +112859,7 @@
   }
  }, 
  {
-  "pk": 3271, 
+  "pk": 3269, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113033,7 +112874,7 @@
   }
  }, 
  {
-  "pk": 3272, 
+  "pk": 3270, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113048,7 +112889,7 @@
   }
  }, 
  {
-  "pk": 3273, 
+  "pk": 3271, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113063,7 +112904,7 @@
   }
  }, 
  {
-  "pk": 3274, 
+  "pk": 3272, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113078,7 +112919,7 @@
   }
  }, 
  {
-  "pk": 3275, 
+  "pk": 3273, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113093,7 +112934,7 @@
   }
  }, 
  {
-  "pk": 3276, 
+  "pk": 3274, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113108,7 +112949,7 @@
   }
  }, 
  {
-  "pk": 3277, 
+  "pk": 3275, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113123,7 +112964,7 @@
   }
  }, 
  {
-  "pk": 3278, 
+  "pk": 3276, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113138,7 +112979,7 @@
   }
  }, 
  {
-  "pk": 3279, 
+  "pk": 3277, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113153,7 +112994,7 @@
   }
  }, 
  {
-  "pk": 3280, 
+  "pk": 3278, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113168,7 +113009,7 @@
   }
  }, 
  {
-  "pk": 3281, 
+  "pk": 3279, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113183,7 +113024,7 @@
   }
  }, 
  {
-  "pk": 3282, 
+  "pk": 3280, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113198,7 +113039,7 @@
   }
  }, 
  {
-  "pk": 3283, 
+  "pk": 3281, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113213,7 +113054,7 @@
   }
  }, 
  {
-  "pk": 3284, 
+  "pk": 3282, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113228,7 +113069,7 @@
   }
  }, 
  {
-  "pk": 3285, 
+  "pk": 3283, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113243,7 +113084,7 @@
   }
  }, 
  {
-  "pk": 3286, 
+  "pk": 3284, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113258,7 +113099,7 @@
   }
  }, 
  {
-  "pk": 3287, 
+  "pk": 3285, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113273,7 +113114,7 @@
   }
  }, 
  {
-  "pk": 3288, 
+  "pk": 3286, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113288,7 +113129,7 @@
   }
  }, 
  {
-  "pk": 3289, 
+  "pk": 3287, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113303,7 +113144,7 @@
   }
  }, 
  {
-  "pk": 3290, 
+  "pk": 3288, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113318,7 +113159,7 @@
   }
  }, 
  {
-  "pk": 3291, 
+  "pk": 3289, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113333,7 +113174,7 @@
   }
  }, 
  {
-  "pk": 3292, 
+  "pk": 3290, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113348,7 +113189,7 @@
   }
  }, 
  {
-  "pk": 3293, 
+  "pk": 3291, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113363,7 +113204,7 @@
   }
  }, 
  {
-  "pk": 3294, 
+  "pk": 3292, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113378,7 +113219,7 @@
   }
  }, 
  {
-  "pk": 3295, 
+  "pk": 3293, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113393,7 +113234,7 @@
   }
  }, 
  {
-  "pk": 3296, 
+  "pk": 3294, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113408,7 +113249,7 @@
   }
  }, 
  {
-  "pk": 3297, 
+  "pk": 3295, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113423,7 +113264,7 @@
   }
  }, 
  {
-  "pk": 3298, 
+  "pk": 3296, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113438,7 +113279,7 @@
   }
  }, 
  {
-  "pk": 3299, 
+  "pk": 3297, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113453,7 +113294,7 @@
   }
  }, 
  {
-  "pk": 3300, 
+  "pk": 3298, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113468,7 +113309,7 @@
   }
  }, 
  {
-  "pk": 3301, 
+  "pk": 3299, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113483,7 +113324,7 @@
   }
  }, 
  {
-  "pk": 3302, 
+  "pk": 3300, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113498,7 +113339,7 @@
   }
  }, 
  {
-  "pk": 3303, 
+  "pk": 3301, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113513,7 +113354,7 @@
   }
  }, 
  {
-  "pk": 3304, 
+  "pk": 3302, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113528,7 +113369,7 @@
   }
  }, 
  {
-  "pk": 3305, 
+  "pk": 3303, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113543,7 +113384,7 @@
   }
  }, 
  {
-  "pk": 3306, 
+  "pk": 3304, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113558,7 +113399,7 @@
   }
  }, 
  {
-  "pk": 3307, 
+  "pk": 3305, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113573,7 +113414,7 @@
   }
  }, 
  {
-  "pk": 3308, 
+  "pk": 3306, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113588,7 +113429,7 @@
   }
  }, 
  {
-  "pk": 3309, 
+  "pk": 3307, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113603,7 +113444,7 @@
   }
  }, 
  {
-  "pk": 3310, 
+  "pk": 3308, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113618,7 +113459,7 @@
   }
  }, 
  {
-  "pk": 3311, 
+  "pk": 3309, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113633,7 +113474,7 @@
   }
  }, 
  {
-  "pk": 3312, 
+  "pk": 3310, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113648,7 +113489,7 @@
   }
  }, 
  {
-  "pk": 3313, 
+  "pk": 3311, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113663,7 +113504,7 @@
   }
  }, 
  {
-  "pk": 3314, 
+  "pk": 3312, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113678,7 +113519,7 @@
   }
  }, 
  {
-  "pk": 3315, 
+  "pk": 3313, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113693,7 +113534,7 @@
   }
  }, 
  {
-  "pk": 3316, 
+  "pk": 3314, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113708,7 +113549,7 @@
   }
  }, 
  {
-  "pk": 3317, 
+  "pk": 3315, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113723,7 +113564,7 @@
   }
  }, 
  {
-  "pk": 3318, 
+  "pk": 3316, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113738,7 +113579,7 @@
   }
  }, 
  {
-  "pk": 3319, 
+  "pk": 3317, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113753,7 +113594,7 @@
   }
  }, 
  {
-  "pk": 3320, 
+  "pk": 3318, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113768,7 +113609,7 @@
   }
  }, 
  {
-  "pk": 3321, 
+  "pk": 3319, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113783,7 +113624,7 @@
   }
  }, 
  {
-  "pk": 3322, 
+  "pk": 3320, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113798,7 +113639,7 @@
   }
  }, 
  {
-  "pk": 3323, 
+  "pk": 3321, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113813,7 +113654,7 @@
   }
  }, 
  {
-  "pk": 3324, 
+  "pk": 3322, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113828,7 +113669,7 @@
   }
  }, 
  {
-  "pk": 3325, 
+  "pk": 3323, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113843,7 +113684,7 @@
   }
  }, 
  {
-  "pk": 3326, 
+  "pk": 3324, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113858,7 +113699,7 @@
   }
  }, 
  {
-  "pk": 3327, 
+  "pk": 3325, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113873,7 +113714,7 @@
   }
  }, 
  {
-  "pk": 3328, 
+  "pk": 3326, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113888,7 +113729,7 @@
   }
  }, 
  {
-  "pk": 3329, 
+  "pk": 3327, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113903,7 +113744,7 @@
   }
  }, 
  {
-  "pk": 3330, 
+  "pk": 3328, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113918,7 +113759,7 @@
   }
  }, 
  {
-  "pk": 3331, 
+  "pk": 3329, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113933,7 +113774,7 @@
   }
  }, 
  {
-  "pk": 3332, 
+  "pk": 3330, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113948,7 +113789,7 @@
   }
  }, 
  {
-  "pk": 3333, 
+  "pk": 3331, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113963,7 +113804,7 @@
   }
  }, 
  {
-  "pk": 3334, 
+  "pk": 3332, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113978,7 +113819,7 @@
   }
  }, 
  {
-  "pk": 3335, 
+  "pk": 3333, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -113993,7 +113834,7 @@
   }
  }, 
  {
-  "pk": 3336, 
+  "pk": 3334, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114008,7 +113849,7 @@
   }
  }, 
  {
-  "pk": 3337, 
+  "pk": 3335, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114023,7 +113864,7 @@
   }
  }, 
  {
-  "pk": 3338, 
+  "pk": 3336, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114038,7 +113879,7 @@
   }
  }, 
  {
-  "pk": 3339, 
+  "pk": 3337, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114053,7 +113894,7 @@
   }
  }, 
  {
-  "pk": 3340, 
+  "pk": 3338, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114068,7 +113909,7 @@
   }
  }, 
  {
-  "pk": 3341, 
+  "pk": 3339, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114083,7 +113924,7 @@
   }
  }, 
  {
-  "pk": 3342, 
+  "pk": 3340, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114098,7 +113939,7 @@
   }
  }, 
  {
-  "pk": 3343, 
+  "pk": 3341, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114113,7 +113954,7 @@
   }
  }, 
  {
-  "pk": 3344, 
+  "pk": 3342, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114128,7 +113969,7 @@
   }
  }, 
  {
-  "pk": 3345, 
+  "pk": 3343, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114143,7 +113984,7 @@
   }
  }, 
  {
-  "pk": 3346, 
+  "pk": 3344, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114158,7 +113999,7 @@
   }
  }, 
  {
-  "pk": 3347, 
+  "pk": 3345, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114173,7 +114014,7 @@
   }
  }, 
  {
-  "pk": 3348, 
+  "pk": 3346, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114188,7 +114029,7 @@
   }
  }, 
  {
-  "pk": 3349, 
+  "pk": 3347, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114203,7 +114044,7 @@
   }
  }, 
  {
-  "pk": 3350, 
+  "pk": 3348, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114218,7 +114059,7 @@
   }
  }, 
  {
-  "pk": 3351, 
+  "pk": 3349, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114233,7 +114074,7 @@
   }
  }, 
  {
-  "pk": 3352, 
+  "pk": 3350, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114248,7 +114089,7 @@
   }
  }, 
  {
-  "pk": 3353, 
+  "pk": 3351, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114263,7 +114104,7 @@
   }
  }, 
  {
-  "pk": 3354, 
+  "pk": 3352, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114278,7 +114119,7 @@
   }
  }, 
  {
-  "pk": 3355, 
+  "pk": 3353, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114293,7 +114134,7 @@
   }
  }, 
  {
-  "pk": 3356, 
+  "pk": 3354, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114308,7 +114149,7 @@
   }
  }, 
  {
-  "pk": 3357, 
+  "pk": 3355, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114323,7 +114164,7 @@
   }
  }, 
  {
-  "pk": 3358, 
+  "pk": 3356, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114338,7 +114179,7 @@
   }
  }, 
  {
-  "pk": 3359, 
+  "pk": 3357, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114353,7 +114194,7 @@
   }
  }, 
  {
-  "pk": 3360, 
+  "pk": 3358, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114368,7 +114209,7 @@
   }
  }, 
  {
-  "pk": 3361, 
+  "pk": 3359, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114383,7 +114224,7 @@
   }
  }, 
  {
-  "pk": 3362, 
+  "pk": 3360, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114398,7 +114239,7 @@
   }
  }, 
  {
-  "pk": 3363, 
+  "pk": 3361, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114413,7 +114254,7 @@
   }
  }, 
  {
-  "pk": 3364, 
+  "pk": 3362, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114428,7 +114269,7 @@
   }
  }, 
  {
-  "pk": 3365, 
+  "pk": 3363, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114443,7 +114284,7 @@
   }
  }, 
  {
-  "pk": 3366, 
+  "pk": 3364, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114458,7 +114299,7 @@
   }
  }, 
  {
-  "pk": 3367, 
+  "pk": 3365, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114473,7 +114314,7 @@
   }
  }, 
  {
-  "pk": 3368, 
+  "pk": 3366, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114488,7 +114329,7 @@
   }
  }, 
  {
-  "pk": 3369, 
+  "pk": 3367, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114503,7 +114344,7 @@
   }
  }, 
  {
-  "pk": 3370, 
+  "pk": 3368, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114518,7 +114359,7 @@
   }
  }, 
  {
-  "pk": 3371, 
+  "pk": 3369, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114533,7 +114374,7 @@
   }
  }, 
  {
-  "pk": 3372, 
+  "pk": 3370, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114548,7 +114389,7 @@
   }
  }, 
  {
-  "pk": 3373, 
+  "pk": 3371, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114563,7 +114404,7 @@
   }
  }, 
  {
-  "pk": 3374, 
+  "pk": 3372, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114578,7 +114419,7 @@
   }
  }, 
  {
-  "pk": 3375, 
+  "pk": 3373, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114593,7 +114434,7 @@
   }
  }, 
  {
-  "pk": 3376, 
+  "pk": 3374, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114608,7 +114449,7 @@
   }
  }, 
  {
-  "pk": 3377, 
+  "pk": 3375, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114623,7 +114464,7 @@
   }
  }, 
  {
-  "pk": 3378, 
+  "pk": 3376, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114638,7 +114479,7 @@
   }
  }, 
  {
-  "pk": 3379, 
+  "pk": 3377, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114653,7 +114494,7 @@
   }
  }, 
  {
-  "pk": 3380, 
+  "pk": 3378, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114668,7 +114509,7 @@
   }
  }, 
  {
-  "pk": 3381, 
+  "pk": 3379, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114683,7 +114524,7 @@
   }
  }, 
  {
-  "pk": 3382, 
+  "pk": 3380, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114698,7 +114539,7 @@
   }
  }, 
  {
-  "pk": 3383, 
+  "pk": 3381, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114713,7 +114554,7 @@
   }
  }, 
  {
-  "pk": 3384, 
+  "pk": 3382, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114728,7 +114569,7 @@
   }
  }, 
  {
-  "pk": 3385, 
+  "pk": 3383, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114743,7 +114584,7 @@
   }
  }, 
  {
-  "pk": 3386, 
+  "pk": 3384, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114758,7 +114599,7 @@
   }
  }, 
  {
-  "pk": 3387, 
+  "pk": 3385, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114773,7 +114614,7 @@
   }
  }, 
  {
-  "pk": 3388, 
+  "pk": 3386, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114788,7 +114629,7 @@
   }
  }, 
  {
-  "pk": 3389, 
+  "pk": 3387, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114803,7 +114644,7 @@
   }
  }, 
  {
-  "pk": 3390, 
+  "pk": 3388, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114818,7 +114659,7 @@
   }
  }, 
  {
-  "pk": 3391, 
+  "pk": 3389, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114833,7 +114674,7 @@
   }
  }, 
  {
-  "pk": 3392, 
+  "pk": 3390, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114848,22 +114689,7 @@
   }
  }, 
  {
-  "pk": 3393, 
-  "model": "transporterDatabase.inhibitor", 
-  "fields": {
-   "substrateClinical": false, 
-   "ic50": "100", 
-   "substrate": "bromosulfophthalein", 
-   "reference": "16495352", 
-   "cmpndClinical": false, 
-   "ki": "", 
-   "trans": "SLCO1B1", 
-   "cellSystem": "MDCK-II cells", 
-   "cmpnd": "antamanide"
-  }
- }, 
- {
-  "pk": 3394, 
+  "pk": 3391, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114878,7 +114704,7 @@
   }
  }, 
  {
-  "pk": 3395, 
+  "pk": 3392, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114893,7 +114719,7 @@
   }
  }, 
  {
-  "pk": 3396, 
+  "pk": 3393, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114908,7 +114734,7 @@
   }
  }, 
  {
-  "pk": 3397, 
+  "pk": 3394, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114923,7 +114749,7 @@
   }
  }, 
  {
-  "pk": 3398, 
+  "pk": 3395, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114938,7 +114764,7 @@
   }
  }, 
  {
-  "pk": 3399, 
+  "pk": 3396, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114953,7 +114779,7 @@
   }
  }, 
  {
-  "pk": 3400, 
+  "pk": 3397, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114968,7 +114794,7 @@
   }
  }, 
  {
-  "pk": 3401, 
+  "pk": 3398, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114983,7 +114809,7 @@
   }
  }, 
  {
-  "pk": 3402, 
+  "pk": 3399, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -114998,37 +114824,7 @@
   }
  }, 
  {
-  "pk": 3403, 
-  "model": "transporterDatabase.inhibitor", 
-  "fields": {
-   "substrateClinical": false, 
-   "ic50": "0.7", 
-   "substrate": "o-methyl-dehydroxymethyl-alpha-amanitin", 
-   "reference": "16495352", 
-   "cmpndClinical": false, 
-   "ki": "0.7", 
-   "trans": "SLCO1B3", 
-   "cellSystem": "MDCK-II cells", 
-   "cmpnd": "antamanide"
-  }
- }, 
- {
-  "pk": 3404, 
-  "model": "transporterDatabase.inhibitor", 
-  "fields": {
-   "substrateClinical": false, 
-   "ic50": "15", 
-   "substrate": "bromosulfophthalein", 
-   "reference": "16495352", 
-   "cmpndClinical": false, 
-   "ki": "", 
-   "trans": "SLCO1B3", 
-   "cellSystem": "MDCK-II cells", 
-   "cmpnd": "antamanide"
-  }
- }, 
- {
-  "pk": 3405, 
+  "pk": 3400, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115043,7 +114839,7 @@
   }
  }, 
  {
-  "pk": 3406, 
+  "pk": 3401, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115058,7 +114854,7 @@
   }
  }, 
  {
-  "pk": 3407, 
+  "pk": 3402, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115073,7 +114869,7 @@
   }
  }, 
  {
-  "pk": 3408, 
+  "pk": 3403, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115088,7 +114884,7 @@
   }
  }, 
  {
-  "pk": 3409, 
+  "pk": 3404, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115103,7 +114899,7 @@
   }
  }, 
  {
-  "pk": 3410, 
+  "pk": 3405, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115118,7 +114914,7 @@
   }
  }, 
  {
-  "pk": 3411, 
+  "pk": 3406, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115133,7 +114929,7 @@
   }
  }, 
  {
-  "pk": 3412, 
+  "pk": 3407, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115148,7 +114944,7 @@
   }
  }, 
  {
-  "pk": 3413, 
+  "pk": 3408, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115163,7 +114959,7 @@
   }
  }, 
  {
-  "pk": 3414, 
+  "pk": 3409, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115178,7 +114974,7 @@
   }
  }, 
  {
-  "pk": 3415, 
+  "pk": 3410, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115193,7 +114989,7 @@
   }
  }, 
  {
-  "pk": 3416, 
+  "pk": 3411, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115208,7 +115004,7 @@
   }
  }, 
  {
-  "pk": 3417, 
+  "pk": 3412, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115223,7 +115019,7 @@
   }
  }, 
  {
-  "pk": 3418, 
+  "pk": 3413, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115238,7 +115034,7 @@
   }
  }, 
  {
-  "pk": 3419, 
+  "pk": 3414, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "substrateClinical": false, 
@@ -115250,21 +115046,6 @@
    "trans": "rat_Slc7a10", 
    "cellSystem": "Primary cortical rat cells", 
    "cmpnd": "bms-466442"
-  }
- }, 
- {
-  "pk": 3420, 
-  "model": "transporterDatabase.inhibitor", 
-  "fields": {
-   "substrateClinical": false, 
-   "ic50": "0.94", 
-   "substrate": "._3hestradiol-17-d-glucuronide", 
-   "reference": "12490595", 
-   "cmpndClinical": false, 
-   "ki": "", 
-   "trans": "SLCO1B1", 
-   "cellSystem": "HeLa cells", 
-   "cmpnd": "rifampicin"
   }
  }, 
  {
