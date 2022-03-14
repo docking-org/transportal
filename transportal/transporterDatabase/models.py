@@ -7,6 +7,10 @@ class Transporter(models.Model):
 	ncbiID = models.CharField(max_length=10, null=True)
 	species = models.CharField(max_length=20, null=True)
 	humanTransporter = models.CharField(max_length=10, blank=True)
+        inVitroSubstrate = models.ManyToManyField(Compound, blank=True, null=True)
+        inVitroInhibitor = models.ManyToManyField(Compound, blank=True, null=True)
+        clinicalSubstrate = models.ManyToManyField(Compound, blank=True, null=True)
+        clinicalInhibitor = models.ManyToManyField(Compound, blank=True, null=True)
 	def __str__(self):
 		return self.symbol.replace('_',' ')
 
@@ -68,7 +72,6 @@ class Sample(models.Model):
 class Compound(models.Model):
 	slugName = models.CharField(max_length=100, primary_key=True)
 	name = models.CharField(max_length=100)
-	clinicalUse = models.NullBooleanField()
 	def __unicode__(self):
 		return self.name
 

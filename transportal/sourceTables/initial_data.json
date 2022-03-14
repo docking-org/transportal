@@ -7,7 +7,46 @@
    "synonyms": "MDR1, P-gp", 
    "humanTransporter": "ABCB1", 
    "species": "Homo sapiens", 
-   "ncbiID": "5243"
+   "ncbiID": "5243",
+   "inVitroSubstrate": [
+    "digoxin",
+    "fexofenadine",
+    "loperamide",
+    "quinidine",
+    "talinolol",
+    "vinblastine"
+   ],
+   "inVitroInhibitor": [
+    "cyclosporine",
+    "elacridar-(gf120918)",
+    "ketoconazole",
+    "quinidine",
+    "reserpine",
+    "ritonavir",
+    "tacrolimus",
+    "valsopodar-(psc-833)",
+    "verapamil",
+    "zosuquidar-(ly335979)"
+   ],
+   "clinicalSubstrate": [
+    "dabigatran"
+    "digoxin",
+    "fexofenadine"
+   ],
+   "clinicalInhibitor": [
+    "amiodarone",
+    "carvedilol",
+    "clarithromycin",
+    "dronedarone",
+    "itraconazole",
+    "lapatinib",
+    "propafenone",
+    "quinidine",
+    "ranolazine",
+    "ritonavir",
+    "telaprevir",
+    "verapamil"
+   ]
   }
  }, 
  {
@@ -18,7 +57,12 @@
    "synonyms": "MDR3", 
    "humanTransporter": "ABCB4", 
    "species": "Homo sapiens", 
-   "ncbiID": "5244"
+   "ncbiID": "5244",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -29,7 +73,12 @@
    "synonyms": "BSEP", 
    "humanTransporter": "ABCB11", 
    "species": "Homo sapiens", 
-   "ncbiID": "8647"
+   "ncbiID": "8647",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -40,7 +89,12 @@
    "synonyms": "MRP1", 
    "humanTransporter": "ABCC1", 
    "species": "Homo sapiens", 
-   "ncbiID": "4363"
+   "ncbiID": "4363",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -51,7 +105,12 @@
    "synonyms": "MRP2, cMOAT", 
    "humanTransporter": "ABCC2", 
    "species": "Homo sapiens", 
-   "ncbiID": "1244"
+   "ncbiID": "1244",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -62,7 +121,12 @@
    "synonyms": "MRP3", 
    "humanTransporter": "ABCC3", 
    "species": "Homo sapiens", 
-   "ncbiID": "8714"
+   "ncbiID": "8714",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -73,7 +137,12 @@
    "synonyms": "MRP4", 
    "humanTransporter": "ABCC4", 
    "species": "Homo sapiens", 
-   "ncbiID": "10257"
+   "ncbiID": "10257",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -84,7 +153,12 @@
    "synonyms": "MRP5", 
    "humanTransporter": "ABCC5", 
    "species": "Homo sapiens", 
-   "ncbiID": "10057"
+   "ncbiID": "10057",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -95,7 +169,12 @@
    "synonyms": "MRP6", 
    "humanTransporter": "ABCC6", 
    "species": "Homo sapiens", 
-   "ncbiID": "368"
+   "ncbiID": "368",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -106,7 +185,31 @@
    "synonyms": "BCRP, MXR", 
    "humanTransporter": "ABCG2", 
    "species": "Homo sapiens", 
-   "ncbiID": "9429"
+   "ncbiID": "9429",
+   "inVitroSubstrate": [
+    "dantrolene",
+    "estrone-3-sulfate",
+    "genistein",
+    "prazosin",
+    "sulfasalazine"
+   ],
+   "inVitroInhibitor": [
+    "elacridar-(gf120918)",
+    "fumitremorgin-c",
+    "ko143",
+    "novobiocin",
+    "sulfasalazine
+   ],
+   "clinicalSubstrate": [
+    "rosuvastatin",
+    "sulfasalazine"
+   ],
+   "clinicalInhibitor": [
+    "curcumin",
+    "cyclosporine",
+    "eltrombopag"
+   ]
+
   }
  }, 
  {
@@ -117,7 +220,12 @@
    "synonyms": "OSTA", 
    "humanTransporter": "OSTalpha", 
    "species": "Homo sapiens", 
-   "ncbiID": "200931"
+   "ncbiID": "200931",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -128,7 +236,12 @@
    "synonyms": "OSTB", 
    "humanTransporter": "OSTbeta", 
    "species": "Homo sapiens", 
-   "ncbiID": "123264"
+   "ncbiID": "123264",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -139,7 +252,12 @@
    "synonyms": "NTCP", 
    "humanTransporter": "SLC10A1", 
    "species": "Homo sapiens", 
-   "ncbiID": "6554"
+   "ncbiID": "6554",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -150,7 +268,12 @@
    "synonyms": "ASBT, SBAT2", 
    "humanTransporter": "SLC10A2", 
    "species": "Homo sapiens", 
-   "ncbiID": "6555"
+   "ncbiID": "6555",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -161,7 +284,12 @@
    "synonyms": "PEPT1", 
    "humanTransporter": "SLC15A1", 
    "species": "Homo sapiens", 
-   "ncbiID": "6564"
+   "ncbiID": "6564",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -172,7 +300,12 @@
    "synonyms": "PEPT2", 
    "humanTransporter": "SLC15A2", 
    "species": "Homo sapiens", 
-   "ncbiID": "6565"
+   "ncbiID": "6565",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -183,7 +316,12 @@
    "synonyms": "OCT1", 
    "humanTransporter": "SLC22A1", 
    "species": "Homo sapiens", 
-   "ncbiID": "6580"
+   "ncbiID": "6580",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -194,7 +332,20 @@
    "synonyms": "OCT2", 
    "humanTransporter": "SLC22A2", 
    "species": "Homo sapiens", 
-   "ncbiID": "6582"
+   "ncbiID": "6582",
+   "inVitroSubstrate": [
+    "metformin",
+    "1-methyl-4-phenylpyridinium-(mpp+)",
+    "tetraethylammonium"
+   ],
+   "inVitroInhibitor": [
+    "cimetidine"
+   ],
+   "clinicalSubstrate": [
+    "metformin"
+   ],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -205,7 +356,12 @@
    "synonyms": "OCT3", 
    "humanTransporter": "SLC22A3", 
    "species": "Homo sapiens", 
-   "ncbiID": "6581"
+   "ncbiID": "6581",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -216,7 +372,12 @@
    "synonyms": "OCTN1", 
    "humanTransporter": "SLC22A4", 
    "species": "Homo sapiens", 
-   "ncbiID": "6583"
+   "ncbiID": "6583",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -227,7 +388,12 @@
    "synonyms": "OCTN2", 
    "humanTransporter": "SLC22A5", 
    "species": "Homo sapiens", 
-   "ncbiID": "6584"
+   "ncbiID": "6584",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -238,7 +404,33 @@
    "synonyms": "OAT1", 
    "humanTransporter": "SLC22A6", 
    "species": "Homo sapiens", 
-   "ncbiID": "9356"
+   "ncbiID": "9356",
+   "inVitroSubstrate": [
+    "adefovir",
+    "para-aminohippurate",
+    "cidofovir",
+    "tenofovir"
+   ],
+   "inVitroInhibitor": [
+    "benzylpenicillin",
+    "probenecid"
+   ],
+   "clinicalSubstrate": [
+    "adefovir",
+    "cefaclor",
+    "ceftizoxime",
+    "famotidine",
+    "furosemide",
+    "ganciclovir",
+    "methotrexate",
+    "oseltamivir",
+    "penicillin-g"
+   ],
+   "clinicalInhibitor": [
+    "para-aminohippurate",
+    "probenecid"
+   ]
+
   }
  }, 
  {
@@ -249,7 +441,12 @@
    "synonyms": "OAT2", 
    "humanTransporter": "SLC22A7", 
    "species": "Homo sapiens", 
-   "ncbiID": "10864"
+   "ncbiID": "10864",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -260,7 +457,33 @@
    "synonyms": "OAT3", 
    "humanTransporter": "SLC22A8", 
    "species": "Homo sapiens", 
-   "ncbiID": "9376"
+   "ncbiID": "9376",
+   "inVitroSubstrate": [
+    "benzylpenicillin",
+    "estrone-3-sulfate",
+    "methotrexate",
+    "pravastatin"
+   ],
+   "inVitroInhibitor": [
+    "benzylpenicillin",
+    "probenecid"
+   ],
+   "clinicalSubstrate": [
+    "adefovir",
+    "cefaclor",
+    "ceftizoxime",
+    "famotidine",
+    "furosemide",
+    "ganciclovir",
+    "methotrexate",
+    "oseltamivir",
+    "penicillin-g"
+   ],
+   "clinicalInhibitor": [
+    "para-aminohippurate",
+    "probenecid"
+   ]
+
   }
  }, 
  {
@@ -271,7 +494,12 @@
    "synonyms": "OAT4", 
    "humanTransporter": "SLC22A11", 
    "species": "Homo sapiens", 
-   "ncbiID": "55867"
+   "ncbiID": "55867",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -282,7 +510,12 @@
    "synonyms": "URAT1", 
    "humanTransporter": "SLC22A12", 
    "species": "Homo sapiens", 
-   "ncbiID": "116085"
+   "ncbiID": "116085",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -293,7 +526,28 @@
    "synonyms": "MATE1", 
    "humanTransporter": "SLC47A1", 
    "species": "Homo sapiens", 
-   "ncbiID": "55244"
+   "ncbiID": "55244",
+   "inVitroSubstrate": [
+    "metformin",
+    "1-methyl-4-phenylpyridinium-(mpp+)",
+    "tetraethylammonium"
+   ],
+   "inVitroInhibitor": [
+    "cimetidine",
+    "pyrimethamine"
+   ],
+   "clinicalSubstrate": [
+    "metformin"
+   ],
+   "clinicalInhibitor": [
+    "cimetidine",
+    "dolutegravir",
+    "isavuconazole"
+    "ranolazine"
+    "trimethoprim"
+    "vandetanib"
+   ]
+
   }
  }, 
  {
@@ -304,7 +558,28 @@
    "synonyms": "MATE2K", 
    "humanTransporter": "SLC47A2", 
    "species": "Homo sapiens", 
-   "ncbiID": "146802"
+   "ncbiID": "146802",
+   "inVitroSubstrate": [
+    "metformin",
+    "1-methyl-4-phenylpyridinium-(mpp+)",
+    "tetraethylammonium"
+   ],
+   "inVitroInhibitor": [
+    "cimetidine",
+    "pyrimethamine"
+   ],
+   "clinicalSubstrate": [
+    "metformin"
+   ],
+   "clinicalInhibitor": [
+    "cimetidine",
+    "dolutegravir",
+    "isavuconazole"
+    "ranolazine"
+    "trimethoprim"
+    "vandetanib"
+   ]
+
   }
  }, 
  {
@@ -315,7 +590,12 @@
    "synonyms": "OATP1A2, OATP-A", 
    "humanTransporter": "SLCO1A2", 
    "species": "Homo sapiens", 
-   "ncbiID": "6579"
+   "ncbiID": "6579",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -326,7 +606,48 @@
    "synonyms": "OATP1B1, OATP-C, OATP2, LST-1", 
    "humanTransporter": "SLCO1B1", 
    "species": "Homo sapiens", 
-   "ncbiID": "10599"
+   "ncbiID": "10599",
+   "inVitroSubstrate": [
+    "cck-8",
+    "estradiol-17beta-glucuronide",
+    "estrone-3-sulfate",
+    "pitavastatin",
+    "pravastatin",
+    "telmisartan",
+    "rosuvastatin
+   ],
+   "inVitroInhibitor": [
+    "cyclosporine",
+    "estradiol-17beta-glucuronide",
+    "estrone-3-sulfate",
+    "rifampicin",
+    "rifamycin-sv"
+   ],
+   "clinicalSubstrate": [
+    "asunaprevir",
+    "atorvastatin",
+    "bosentan",
+    "docetaxel",
+    "fexofenadine",
+    "glyburide",
+    "nateglinide",
+    "paclitaxel",
+    "pitavastatin",
+    "pravastatin",
+    "repaglinide",
+    "rosuvastatin",
+    "simvastatin"
+   ],
+   "clinicalInhibitor": [
+    "ritonavir",
+    "clarithromycin",
+    "cyclosporine",
+    "erythromycin",
+    "gemfibrozil",
+    "rifampin",
+    "simeprevir"
+   ]
+
   }
  }, 
  {
@@ -337,7 +658,48 @@
    "synonyms": "OATP1B3, OATP8", 
    "humanTransporter": "SLCO1B3", 
    "species": "Homo sapiens", 
-   "ncbiID": "28234"
+   "ncbiID": "28234",
+   "inVitroSubstrate": [
+    "cck-8",
+    "estradiol-17beta-glucuronide",
+    "estrone-3-sulfate",
+    "pitavastatin",
+    "pravastatin",
+    "telmisartan",
+    "rosuvastatin
+   ],
+   "inVitroInhibitor": [
+    "cyclosporine",
+    "estradiol-17beta-glucuronide",
+    "estrone-3-sulfate",
+    "rifampicin",
+    "rifamycin-sv"
+   ],
+   "clinicalSubstrate": [
+    "asunaprevir",
+    "atorvastatin",
+    "bosentan",
+    "docetaxel",
+    "fexofenadine",
+    "glyburide",
+    "nateglinide",
+    "paclitaxel",
+    "pitavastatin",
+    "pravastatin",
+    "repaglinide",
+    "rosuvastatin",
+    "simvastatin"
+   ],
+   "clinicalInhibitor": [
+    "ritonavir",
+    "clarithromycin",
+    "cyclosporine",
+    "erythromycin",
+    "gemfibrozil",
+    "rifampin",
+    "simeprevir"
+   ]
+
   }
  }, 
  {
@@ -348,7 +710,12 @@
    "synonyms": "OATP2B1, OATP-B", 
    "humanTransporter": "SLCO2B1", 
    "species": "Homo sapiens", 
-   "ncbiID": "11309"
+   "ncbiID": "11309",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -359,7 +726,12 @@
    "synonyms": "p-glycoprotein", 
    "humanTransporter": "ABCB1", 
    "species": "Chlorocebus aethiops", 
-   "ncbiID": ""
+   "ncbiID": "",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -370,7 +742,12 @@
    "synonyms": "Mdr, Pgp, Pgy, Mdr3, P-gp, Abcb4, Mdr1a", 
    "humanTransporter": "ABCB1", 
    "species": "Mus musculus", 
-   "ncbiID": "18671"
+   "ncbiID": "18671",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -381,7 +758,12 @@
    "synonyms": "Oat1, Paht, Roat1, Orctl1", 
    "humanTransporter": "SLC22A6", 
    "species": "Rattus norvegicus", 
-   "ncbiID": "29509"
+   "ncbiID": "29509",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -392,7 +774,12 @@
    "synonyms": "OCT3, Oat3, Roct", 
    "humanTransporter": "SLC22A8", 
    "species": "Rattus norvegicus", 
-   "ncbiID": "83500"
+   "ncbiID": "83500",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -403,7 +790,12 @@
    "synonyms": "MATE1", 
    "humanTransporter": "SLC47A1", 
    "species": "Rattus norvegicus", 
-   "ncbiID": "360539"
+   "ncbiID": "360539",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -414,7 +806,12 @@
    "synonyms": "Oatp1, OATP-1, Slc21a1, Slc21a3", 
    "humanTransporter": "SLCO1A1", 
    "species": "Rattus norvegicus", 
-   "ncbiID": "50572"
+   "ncbiID": "50572",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -425,7 +822,12 @@
    "synonyms": "Oat, Oatp2, Oatp1a4, Slc21a5", 
    "humanTransporter": "SLCO1A4", 
    "species": "Mus musculus", 
-   "ncbiID": "28250"
+   "ncbiID": "28250",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -436,7 +838,12 @@
    "synonyms": "Mrp2, cMRP, Abc30", 
    "humanTransporter": "ABCC2", 
    "species": "Mus musculus", 
-   "ncbiID": "12780"
+   "ncbiID": "12780",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -447,7 +854,12 @@
    "synonyms": "ASC1, HASC-1", 
    "humanTransporter": "SLC7A10", 
    "species": "Homo sapiens", 
-   "ncbiID": "56301"
+   "ncbiID": "56301",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
@@ -458,7 +870,12 @@
    "synonyms": "Asc-1", 
    "humanTransporter": "SLC7A10", 
    "species": "Rattus norvegicus", 
-   "ncbiID": "114518"
+   "ncbiID": "114518",
+   "inVitroSubstrate": [],
+   "inVitroInhibitor": [],
+   "clinicalSubstrate": [],
+   "clinicalInhibitor": []
+
   }
  }, 
  {
