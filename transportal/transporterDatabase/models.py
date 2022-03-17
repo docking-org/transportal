@@ -78,7 +78,6 @@ class Compound(models.Model):
 class Substrate(models.Model):
 	trans = models.ForeignKey(Transporter)
 	cmpnd = models.ForeignKey(Compound)
-	cmpndClinical = models.BooleanField(verbose_name="can the substrate be used in clinical test")
 	cellSystem = models.CharField(max_length=100, blank=True, null=True)
 	km = models.CharField(max_length=10, blank=True, null=True)
 	reference = models.ForeignKey(Reference, blank=True, null=True)
@@ -88,12 +87,10 @@ class Substrate(models.Model):
 class Inhibitor(models.Model):
 	trans = models.ForeignKey(Transporter)
 	cmpnd = models.ForeignKey(Compound)
-	cmpndClinical = models.BooleanField(verbose_name="can the inhibitor be used in clinical tests")
 	cellSystem = models.CharField(max_length=100, blank=True, null=True)
 	ic50 = models.CharField(max_length=10, blank=True, null=True)
 	ki = models.CharField(max_length=10, blank=True, null=True)
 	substrate = models.ForeignKey(Compound, blank=True, related_name='inhib_substrate', null=True)
-	substrateClinical = models.BooleanField(verbose_name="can the substrate be used in clincial tests")
 	reference = models.ForeignKey(Reference, blank=True, null=True)
 	def __unicode__(self):
 		return ','.join([str(self.trans), str(self.cmpnd), str(self.substrate), self.cellSystem, str(self.ic50), str(self.ki), str(self.reference)])

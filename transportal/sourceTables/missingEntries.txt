@@ -1,0 +1,27 @@
+Unidentified Inhibitor Chemical	fluorouracil, 5-	fluorouracil_5-
+Unidentified Inhibitor Chemical	fluticasone_propionate	fluticasone_propionate
+Unidentified Inhibitor Chemical	galanthamine	galanthamine
+Unidentified Inhibitor Chemical	lypressin	lypressin
+Unidentified Inhibitor Chemical	nedaplatin	nedaplatin
+Unidentified Inhibitor Chemical	polychlorinated naphthalene	polychlorinated_naphthalene
+Unidentified Inhibitor Chemical	perphenazine	perphenazine
+Unidentified Inhibitor Chemical	satraplatin	satraplatin
+Unidentified Inhibitor Chemical	saxagliptin	saxagliptin
+Unidentified Inhibitor Chemical	tetraethylthiuram disulfide	tetraethylthiuram_disulfide
+Unidentified Inhibitor Chemical	ticlopidine	ticlopidine
+Unidentified Inhibitor Chemical	trandolapril	trandolapril
+Unidentified Inhibitor Chemical	trazodone	trazodone
+Unidentified Inhibitor Chemical	thenoyltrifluoroacetone	thenoyltrifluoroacetone
+Unidentified Inhibitor Chemical	vigabatrin	vigabatrin
+Unidentified Inhibitor Chemical	6-propyl-2-thiouracil	6-propyl-2-thiouracil
+Unidentified Inhibitor Chemical	sulfanitran	sulfanitran
+Unidentified Inhibitor Chemical	(-)-tramadol	(-)-tramadol
+Unidentified Inhibitor Chemical	6-mercaptopurine	6-mercaptopurine
+Unidentified Inhibitor Chemical	aliskiren hemifurate	aliskiren_hemifurate
+Unidentified Inhibitor Chemical	d-(-)-penicillamine	d-(-)-penicillamine
+Unidentified Inhibitor Chemical	imipenem	imipenem
+Unidentified Inhibitor Chemical	lamotrigine	lamotrigine
+Unidentified Inhibitor Chemical	letrozole	letrozole
+Unidentified Inhibitor Chemical	pentostatin	pentostatin
+Unidentified Inhibitor Chemical	potassium clavulanate	potassium_clavulanate
+Unidentified Inhibitor Chemical	thiocolchicoside	thiocolchicoside
