@@ -69,36 +69,27 @@ def transporter(request, transporter_id):
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
         cmpndList = {}
-        cmpndSet = set()
-        for x in ddi:
-                temp = Compound.objects.filter(Q(interact_drug__pk=x.pk) | Q(affect_drug__pk=x.pk))
-                for cmpnd in temp:
-                        cmpndSet.add(cmpnd.slugName)
-        for x in substrates:
-                cmpndSet.add(x.cmpnd.slugName)
-        for x in inhibitors:
-                cmpndSet.add(x.cmpnd.slugName)
-                cmpndSet.add(x.substrate.slugName)
-        for cmpnd in transporter.inVitroSubstrate.all():
-                cmpnd1 = cmpnd.slugName
-                if not cmpnd1 in cmpndList:
-                        cmpndList[cmpnd1] = ''
-                cmpndList[cmpnd1] += '1'
-        for cmpnd in transporter.inVitroInhibitor.all():
-                cmpnd1 = cmpnd.slugName
-                if not cmpnd1 in cmpndList:
-                        cmpndList[cmpnd1] = ''
-                cmpndList[cmpnd1] += '2'
-        for cmpnd in transporter.clinicalSubstrate.all():
-                cmpnd1 = cmpnd.slugName
-                if not cmpnd1 in cmpndList:
-                        cmpndList[cmpnd1] = ''
-                cmpndList[cmpnd1] += '3'
-        for cmpnd in transporter.clinicalInhibitor.all():
-                cmpnd1 = cmpnd.slugName
-                if not cmpnd1 in cmpndList:
-                        cmpndList[cmpnd1] = ''
-                cmpndList[cmpnd1] += '4'
+        if len(transporter.inVitroSubstrate.all()) > 0 or len(transporter.inVitroInhibitor.all()) > 0 or len(transporter.clinicalSubstrate.all()) > 0 or len(transporter.clinicalInhibitor.all()) > 0
+                for cmpnd in transporter.inVitroSubstrate.all():
+                        cmpnd1 = cmpnd.slugName
+                        if not cmpnd1 in cmpndList:
+                                cmpndList[cmpnd1] = ''
+                        cmpndList[cmpnd1] += '1'
+                for cmpnd in transporter.inVitroInhibitor.all():
+                        cmpnd1 = cmpnd.slugName
+                        if not cmpnd1 in cmpndList:
+                                cmpndList[cmpnd1] = ''
+                        cmpndList[cmpnd1] += '2'
+                for cmpnd in transporter.clinicalSubstrate.all():
+                        cmpnd1 = cmpnd.slugName
+                        if not cmpnd1 in cmpndList:
+                                cmpndList[cmpnd1] = ''
+                        cmpndList[cmpnd1] += '3'
+                for cmpnd in transporter.clinicalInhibitor.all():
+                        cmpnd1 = cmpnd.slugName
+                        if not cmpnd1 in cmpndList:
+                                cmpndList[cmpnd1] = ''
+                        cmpndList[cmpnd1] += '4'
         return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
 def liver(request):
