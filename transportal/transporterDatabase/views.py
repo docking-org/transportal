@@ -69,24 +69,27 @@ def transporter(request, transporter_id):
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
         cmpndList = {}
+        cmpndSet = set()
         for x in ddi:
                 temp = Compound.objects.filter(Q(interact_drug__pk=x.pk) | Q(affect_drug__pk=x.pk))
                 for cmpnd in temp:
-                        cmpndList[cmpnd] = ''
+                        cmpndSet.add(cmpnd)
         for x in substrates:
-                cmpndList[x.cmpnd] = ''
+                cmpndSet.add(x.cmpnd)
         for x in inhibitors:
-                cmpndList[x.cmpnd] = ''
-                cmpndList[x.substrate] = ''
-        for cmpnd in cmpndList:
+                cmpndSet.add(x.cmpnd)
+                cmpndSet.add(x.substrate)
+        for cmpnd in cmpndSet:
+                build = ''
                 if cmpnd in transporter.inVitroSubstrate.all():
-                        cmpndList[cmpnd] += '1'
+                        build += '1'
                 if cmpnd in transporter.inVitroInhibitor.all():
-                        cmpndList[cmpnd] += '2'
+                        build += '2'
                 if cmpnd in transporter.clinicalSubstrate.all():
-                        cmpndList[cmpnd] += '3'
+                        build += '3'
                 if cmpnd in transporter.clinicalInhibitor.all():
-                        cmpndList[cmpnd] += '4'
+                        build += '4'
+                cmpndList[cmpnd] = build
         return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
 def liver(request):
