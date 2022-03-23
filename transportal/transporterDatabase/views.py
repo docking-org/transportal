@@ -68,7 +68,26 @@ def transporter(request, transporter_id):
                 temp.sort(key=str)
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
-        return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans})
+        cmpndList = {}
+        for x in ddi:
+                temp = Compound.objects.filter(interact_drug__pk=x.pk or affect_drug__pk=x.pk)
+                for cmpnd in temp:
+                        cmpndList[cmpnd] = ''
+        for x in substrates:
+                cmpndList[x.cmpnd] = ''
+        for x in inhibitors:
+                cmpndList[x.cmpnd] = ''
+                cmpndList[x.substrate] = ''
+        for cmpnd in cmpndList:
+                if cmpnd.slugName in transporter.inVitroSubstrate:
+                        cmpndList[cmpnd] += '1'
+                if cmpnd.slugName in transporter.inVitroInhibitor:
+                        cmpndList[cmpnd] += '2'
+                if cmpnd.slugName in transporter.clinicalSubstrate:
+                        cmpndList[cmpnd] += '3'
+                if cmpnd.slugName in transporter.clinicalInhibitor:
+                        cmpndList[cmpnd] += '4'
+        return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
 def liver(request):
         expressLevelsNishi = naturallysortedexpressionlist(Expression.objects.filter(organ='Liver', experiment='Nishimura'))
