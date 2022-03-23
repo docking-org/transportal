@@ -72,20 +72,20 @@ def transporter(request, transporter_id):
         for x in ddi:
                 temp = Compound.objects.filter(Q(interact_drug__pk=x.pk) | Q(affect_drug__pk=x.pk))
                 for cmpnd in temp:
-                        cmpndList[cmpnd] = ''
+                        cmpndList[cmpnd.slugName] = ''
         for x in substrates:
-                cmpndList[x.cmpnd] = ''
+                cmpndList[x.cmpnd.slugName] = ''
         for x in inhibitors:
-                cmpndList[x.cmpnd] = ''
-                cmpndList[x.substrate] = ''
+                cmpndList[x.cmpnd.slugName] = ''
+                cmpndList[x.substrate.slugName] = ''
         for cmpnd in cmpndList:
-                if cmpnd in transporter.inVitroSubstrate.all():
+                if transporter.inVitroSubstrate.filter(slugName=cmpnd):
                         cmpndList[cmpnd] += '1'
-                if cmpnd in transporter.inVitroInhibitor.all():
+                if transporter.inVitroInhibitor.filter(slugName=cmpnd):
                         cmpndList[cmpnd] += '2'
-                if cmpnd in transporter.clinicalSubstrate.all():
+                if transporter.clinicalSubstrate.filter(slugName=cmpnd):
                         cmpndList[cmpnd] += '3'
-                if cmpnd in transporter.clinicalInhibitor.all():
+                if transporter.clinicalInhibitor.filter(slugName=cmpnd):
                         cmpndList[cmpnd] += '4'
         return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
