@@ -69,7 +69,7 @@ def transporter(request, transporter_id):
                 for x in temp:
                         buildExp.append([x, 'Mean across all PMT Samples', pmt[x], expressLevelsPMT[0].reference])
         cmpndList = {}
-        if len(transporter.inVitroSubstrate.all()) > 0 or len(transporter.inVitroInhibitor.all()) > 0 or len(transporter.clinicalSubstrate.all()) > 0 or len(transporter.clinicalInhibitor.all()) > 0
+        if len(transporter.inVitroSubstrate.all()) > 0 or len(transporter.inVitroInhibitor.all()) > 0 or len(transporter.clinicalSubstrate.all()) > 0 or len(transporter.clinicalInhibitor.all()) > 0:
                 for cmpnd in transporter.inVitroSubstrate.all():
                         cmpnd1 = cmpnd.slugName
                         if not cmpnd1 in cmpndList:
