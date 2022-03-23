@@ -83,9 +83,9 @@ def transporter(request, transporter_id):
                         cmpndList[cmpnd] += '1'
                 if cmpnd in transporter.inVitroInhibitor.all():
                         cmpndList[cmpnd] += '2'
-                if cmpnd in transporter.clinSubstrate.all():
+                if cmpnd in transporter.clinicalSubstrate.all():
                         cmpndList[cmpnd] += '3'
-                if cmpnd in transporter.clinInhibitor.all():
+                if cmpnd in transporter.clinicalInhibitor.all():
                         cmpndList[cmpnd] += '4'
         return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
