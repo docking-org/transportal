@@ -1,5 +1,11 @@
 from django.db import models
 
+class Compound(models.Model):
+	slugName = models.CharField(max_length=100, primary_key=True)
+	name = models.CharField(max_length=100)
+	def __unicode__(self):
+		return self.name
+
 class Transporter(models.Model):
 	symbol = models.CharField(max_length=20, primary_key=True)
 	synonyms = models.CharField(max_length=100, verbose_name="limited list of synonyms")
@@ -7,10 +13,10 @@ class Transporter(models.Model):
 	ncbiID = models.CharField(max_length=10, null=True)
 	species = models.CharField(max_length=20, null=True)
 	humanTransporter = models.CharField(max_length=10, blank=True)
-        inVitroSubstrate = models.ManyToManyField(Compound, blank=True, null=True)
-        inVitroInhibitor = models.ManyToManyField(Compound, blank=True, null=True)
-        clinicalSubstrate = models.ManyToManyField(Compound, blank=True, null=True)
-        clinicalInhibitor = models.ManyToManyField(Compound, blank=True, null=True)
+	inVitroSubstrate = models.ManyToManyField(Compound, blank=True, related_name= 'inVit_sub')
+	inVitroInhibitor = models.ManyToManyField(Compound, blank=True, related_name='inVit_inhib')
+	clinicalSubstrate = models.ManyToManyField(Compound, blank=True, related_name='clin_sub')
+	clinicalInhibitor = models.ManyToManyField(Compound, blank=True, related_name='clin_inhib')
 	def __str__(self):
 		return self.symbol.replace('_',' ')
 
@@ -69,12 +75,6 @@ class Sample(models.Model):
 	def __unicode__(self):
 		return str(self.pk)
 
-class Compound(models.Model):
-	slugName = models.CharField(max_length=100, primary_key=True)
-	name = models.CharField(max_length=100)
-	def __unicode__(self):
-		return self.name
-
 class Substrate(models.Model):
 	trans = models.ForeignKey(Transporter)
 	cmpnd = models.ForeignKey(Compound)
@@ -109,6 +109,6 @@ class DDI(models.Model):
 	CLOverF = models.CharField(max_length=10, blank=True, null=True)
 	t1Over2 = models.CharField(max_length=10, blank=True, null=True)
 	PDEffect = models.CharField(max_length=5)
-	reference = models.ManyToManyField(Reference, blank=True, null=True)
+	reference = models.ManyToManyField(Reference, blank=True)
 	def __unicode__(self):
 		return 'pk=' + self.pk + ','.join([str(self.transName)])
