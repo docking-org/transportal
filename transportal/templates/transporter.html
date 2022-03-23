@@ -2,6 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 {% load sigFigs %}
+{% load lookupFilters %}
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta http-equiv="Content-Style-Type" content="text/css" />
@@ -148,7 +149,7 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
     </tr>
     {% for instance in substrates %}
         <tr>
-        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds.instance.cmpnd}}</sup></td>
+        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds|keyConvStr:instance.cmpnd.slugName}}</sup></td>
         {% if instance.km %}
             <td>{{instance.km}}</td>
         {% else %}
@@ -187,7 +188,6 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
 <a href="#content">Back to top</a>
 <h2><a name="inhib">In Vitro Inhibitors</a></h2>
 {%if inhibitors %}
-    * denotes drugs that can potentially be used for in vivo (clinical) studies of the designated transporter<br />
     <table border="1" style="text-align:center; margin-left:20pt; font-family:verdana">
     <tr style="background-color:#FFAD5C">
     <th scope="col">Inhibitor</th>
@@ -199,7 +199,7 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
     </tr>
     {% for instance in inhibitors %}
         <tr>
-        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds.instance.cmpnd}}</sup></td>
+        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds.instance.cmpnd.slugName}}</sup></td>
         {% if instance.ic50 %}
             <td>{{instance.ic50}}</td>
         {% else %}
@@ -211,7 +211,7 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
             <td />
         {% endif %}
         {% if instance.substrate %}
-            <td><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a><sup>{{fdaCmpnds.instance.substrate}}</sup></td>
+            <td><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a><sup>{{fdaCmpnds.instance.substrate.slugName}}</sup></td>
         {% else %}
             <td />
         {% endif %}
@@ -271,16 +271,16 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
         <td>{{instance.0.transName}}</td>
         <td>{% for drug in instance.1 %}
 		{% if forloop.counter == 1 %}
-			<a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
+			<a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug.slugName}}</sup>
 		{% else %}
-			/ <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
+			/ <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug.slugName}}</sup>
 		{% endif %}
 	{% endfor %}</td>
         <td>{% for drug in instance.2 %}
                 {% if forloop.counter == 1 %}
-		        <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
+		        <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug.slugName}}</sup>
                 {% else %}
-                        / <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
+                        / <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug.slugName}}</sup>
                 {% endif %}
         {% endfor %}</td>
         {% if instance.0.AUC %}
