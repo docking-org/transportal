@@ -148,7 +148,7 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
     </tr>
     {% for instance in substrates %}
         <tr>
-        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds[instance.cmpnd]}}</sup></td>
+        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds.instance.cmpnd}}</sup></td>
         {% if instance.km %}
             <td>{{instance.km}}</td>
         {% else %}
@@ -199,7 +199,7 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
     </tr>
     {% for instance in inhibitors %}
         <tr>
-        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds[instance.cmpnd]}}</sup></td>
+        <td scope="row"><a href="../../compounds/{{instance.cmpnd.slugName}}/">{{instance.cmpnd.name}}</a><sup>{{fdaCmpnds.instance.cmpnd}}</sup></td>
         {% if instance.ic50 %}
             <td>{{instance.ic50}}</td>
         {% else %}
@@ -211,7 +211,7 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
             <td />
         {% endif %}
         {% if instance.substrate %}
-            <td><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a><sup>{{fdaCmpnds[instance.substrate]}}</sup></td>
+            <td><a href="../../compounds/{{instance.substrate.slugName}}/">{{instance.substrate.name}}</a><sup>{{fdaCmpnds.instance.substrate}}</sup></td>
         {% else %}
             <td />
         {% endif %}
@@ -271,16 +271,16 @@ Expression data for other tissues could be found in <a href="http://pharmacogene
         <td>{{instance.0.transName}}</td>
         <td>{% for drug in instance.1 %}
 		{% if forloop.counter == 1 %}
-			<a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds[drug]}}</sup>
+			<a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
 		{% else %}
-			/ <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds[drug]}}</sup>
+			/ <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
 		{% endif %}
 	{% endfor %}</td>
         <td>{% for drug in instance.2 %}
                 {% if forloop.counter == 1 %}
-		        <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds[drug]}}</sup>
+		        <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
                 {% else %}
-                        / <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds[drug]}}</sup>
+                        / <a href="../../compounds/{{drug.slugName}}/">{{drug.name}}</a><sup>{{fdaCmpnds.drug}}</sup>
                 {% endif %}
         {% endfor %}</td>
         {% if instance.0.AUC %}
