@@ -15,7 +15,7 @@
     "tacrolimus", 
     "valspodar", 
     "verapamil", 
-    "zosuquidar-(ly335979)"
+    "zosuquidar"
    ], 
    "clinicalSubstrate": [
     "dabigatran", 
@@ -581,7 +581,7 @@
     "estradiol-17beta-glucuronide", 
     "estrone_3-sulfate", 
     "rifampicin", 
-    "rifamycin-sv"
+    "rifamycin_sv"
    ], 
    "clinicalSubstrate": [
     "asunaprevir", 
@@ -632,7 +632,7 @@
     "estradiol-17beta-glucuronide", 
     "estrone_3-sulfate", 
     "rifampicin", 
-    "rifamycin-sv"
+    "rifamycin_sv"
    ], 
    "clinicalSubstrate": [
     "asunaprevir", 
@@ -44875,13 +44875,6 @@
   }
  }, 
  {
-  "pk": "zosuquidar-(ly335979)", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Zosuquidar (LY335979)"
-  }
- }, 
- {
   "pk": "pratosartan", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -45036,13 +45029,6 @@
   }
  }, 
  {
-  "pk": "rifamycin-sv", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Rifamycin SV"
-  }
- }, 
- {
   "pk": "paraquat", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -45141,24 +45127,10 @@
   }
  }, 
  {
-  "pk": "pheophorbide-a", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Pheophorbide A"
-  }
- }, 
- {
   "pk": "citalopram", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Citalopram"
-  }
- }, 
- {
-  "pk": "4-(4-dimethylamino)styryl-n-methylpyridinium-(asp+)", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"
   }
  }, 
  {
@@ -45516,13 +45488,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Pravastatin"
-  }
- }, 
- {
-  "pk": "atazanavir-ritonavir", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Atazanavir/ritonavir"
   }
  }, 
  {
@@ -45918,13 +45883,6 @@
   }
  }, 
  {
-  "pk": "phenoxy-benzamine", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Phenoxy-benzamine"
-  }
- }, 
- {
   "pk": "4-methylumbelliferone-sulfate", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -46146,13 +46104,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Ximelagatran"
-  }
- }, 
- {
-  "pk": "prostaglandin-f2alpha", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Prostaglandin F2alpha"
   }
  }, 
  {
@@ -46509,7 +46460,7 @@
   "pk": "d-amphetamine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "D-Amphetamine"
+   "name": "D-amphetamine"
   }
  }, 
  {
@@ -46709,13 +46660,6 @@
   }
  }, 
  {
-  "pk": "trichloromethiazide", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Trichloromethiazide"
-  }
- }, 
- {
   "pk": "uric-acid", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -46727,13 +46671,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Desmethylazelastine"
-  }
- }, 
- {
-  "pk": "edaravone-sulfate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Edaravone sulfate"
   }
  }, 
  {
@@ -46874,13 +46811,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Taurolithocholate"
-  }
- }, 
- {
-  "pk": "amantinin", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Amantinin"
   }
  }, 
  {
@@ -47332,13 +47262,6 @@
   }
  }, 
  {
-  "pk": "desloraratidine", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Desloraratidine"
-  }
- }, 
- {
   "pk": "doxorubicin", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -47490,13 +47413,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Zidovudine"
-  }
- }, 
- {
-  "pk": "monoglucuronosyl-bilirubin", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Monoglucuronosyl bilirubin"
   }
  }, 
  {
@@ -47888,7 +47804,7 @@
   "pk": "p-tyramine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "p-tyramine"
+   "name": "P-tyramine"
   }
  }, 
  {
@@ -47909,7 +47825,7 @@
   "pk": "para-aminosalicylic_acid_(pas)", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "para-Aminosalicylic acid (PAS)"
+   "name": "Para-Aminosalicylic acid (PAS)"
   }
  }, 
  {
@@ -48049,7 +47965,7 @@
   "pk": "o_desmethyltramadol", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "O_desmethyltramadol"
+   "name": "O-desmethyltramadol"
   }
  }, 
  {
@@ -48077,21 +47993,21 @@
   "pk": "glibenclamide", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "glibenclamide"
+   "name": "Glibenclamide"
   }
  }, 
  {
   "pk": "glipizide", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "glipizide"
+   "name": "Glipizide"
   }
  }, 
  {
   "pk": "mesalazine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "mesalazine"
+   "name": "Mesalazine"
   }
  }, 
  {
@@ -48105,28 +48021,21 @@
   "pk": "amanitin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "amanitin"
+   "name": "Amanitin"
   }
  }, 
  {
   "pk": "dioscin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "dioscin"
+   "name": "Dioscin"
   }
  }, 
  {
   "pk": "vandetanib", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "vandetanib"
-  }
- }, 
- {
-  "pk": "4-aminosalicylic_acid", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "4-Aminosalicylic acid"
+   "name": "Vandetanib"
   }
  }, 
  {
@@ -48197,13 +48106,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Piperacillin"
-  }
- }, 
- {
-  "pk": "para-aminosalicylic_acid", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "para-aminosalicylic acid"
   }
  }, 
  {
@@ -48378,7 +48280,7 @@
   "pk": "monoglucuronosyl_bilirubin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "monoglucuronosyl bilirubin"
+   "name": "Monoglucuronosyl bilirubin"
   }
  }, 
  {
@@ -48403,17 +48305,10 @@
   }
  }, 
  {
-  "pk": "s-(24-dinitrophenyl)-glutathione", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "S-(2,4-dinitrophenyl)-glutathione"
-  }
- }, 
- {
   "pk": "chloromethylfluorescein-diacetate", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "chloromethylfluorescein-diacetate"
+   "name": "Chloromethylfluorescein-diacetate"
   }
  }, 
  {
@@ -48441,14 +48336,14 @@
   "pk": "diosmetin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "diosmetin"
+   "name": "Diosmetin"
   }
  }, 
  {
   "pk": "chrysoeril", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "chrysoeril"
+   "name": "Chrysoeril"
   }
  }, 
  {
@@ -48749,7 +48644,7 @@
   "pk": "d(-)-norgestrel", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "D(-)-Norgestrel"
+   "name": "D(-)-norgestrel"
   }
  }, 
  {
@@ -49201,13 +49096,6 @@
   }
  }, 
  {
-  "pk": "warfarin_sodium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Warfarin sodium"
-  }
- }, 
- {
   "pk": "terbinafine_hydrochloride", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49582,7 +49470,7 @@
   "pk": "dronedarone_hydrochloride", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "Dronedarone Hydrochloride"
+   "name": "Dronedarone hydrochloride"
   }
  }, 
  {
@@ -50198,7 +50086,7 @@
   "pk": "sotalol", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "sotalol"
+   "name": "Sotalol"
   }
  }, 
  {
@@ -50233,7 +50121,7 @@
   "pk": "omeprazole", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "omeprazole"
+   "name": "Omeprazole"
   }
  }, 
  {
@@ -50342,13 +50230,6 @@
   }
  }, 
  {
-  "pk": "chlorophenylpiperazine_m-", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "chlorophenylpiperazine, m-"
-  }
- }, 
- {
   "pk": "toremifene_citrate", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -50408,7 +50289,7 @@
   "pk": "acetaminophen", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "acetaminophen"
+   "name": "Acetaminophen"
   }
  }, 
  {
@@ -50723,7 +50604,7 @@
   "pk": "promethazine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "promethazine"
+   "name": "Promethazine"
   }
  }, 
  {
@@ -51178,7 +51059,7 @@
   "pk": "propylthiouracil", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "propylthiouracil"
+   "name": "Propylthiouracil"
   }
  }, 
  {
@@ -51388,7 +51269,7 @@
   "pk": "cp-690550", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "cp-690550"
+   "name": "CP-690550"
   }
  }, 
  {
@@ -52032,7 +51913,7 @@
   "pk": "n-norgallopamil", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "N-Norgallopamil"
+   "name": "N-norgallopamil"
   }
  }, 
  {
@@ -52221,14 +52102,14 @@
   "pk": "gamma-butyrobetaine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "gamma-butyrobetaine"
+   "name": "Gamma-butyrobetaine"
   }
  }, 
  {
   "pk": "not_stated", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "not stated"
+   "name": "Not stated"
   }
  }, 
  {
@@ -52382,14 +52263,14 @@
   "pk": "psi-ephedrine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "psi-ephedrine"
+   "name": "Psi-ephedrine"
   }
  }, 
  {
   "pk": "nor-psi-ephedrine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "nor-psi-ephedrine"
+   "name": "Nor-psi-ephedrine"
   }
  }, 
  {
@@ -52498,13 +52379,6 @@
   }
  }, 
  {
-  "pk": "para-aminosalicylate_acid_(pas)", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Para-aminosalicylate acid (PAS)"
-  }
- }, 
- {
   "pk": "atomoxetine", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -52571,7 +52445,7 @@
   "pk": "p-hydroxymethamphetamine_(p-ohma)", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "p-hydroxymethamphetamine (p-OHMA)"
+   "name": "P-hydroxymethamphetamine (P-OHMA)"
   }
  }, 
  {
@@ -52851,7 +52725,7 @@
   "pk": "d-tetrahydropalmatine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "d-Tetrahydropalmatine"
+   "name": "D-tetrahydropalmatine"
   }
  }, 
  {
@@ -52971,13 +52845,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Naringenin"
-  }
- }, 
- {
-  "pk": "hesperidine", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Hesperidine"
   }
  }, 
  {
@@ -53174,13 +53041,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Carfilzomib"
-  }
- }, 
- {
-  "pk": "dronedarone_hydrochlorid", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Dronedarone hydrochlorid"
   }
  }, 
  {
@@ -53786,24 +53646,10 @@
   }
  }, 
  {
-  "pk": "atazanavir_ritonavir", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Atazanavir/ ritonavir "
-  }
- }, 
- {
   "pk": "glecaprevir", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Glecaprevir "
-  }
- }, 
- {
-  "pk": "glecaprevir_pibrentasvir", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Glecaprevir/ pibrentasvir"
   }
  }, 
  {
@@ -54720,7 +54566,7 @@
   "pk": "perfluorooctanoate", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "perfluorooctanoate"
+   "name": "Perfluorooctanoate"
   }
  }, 
  {
@@ -54769,7 +54615,7 @@
   "pk": "prostaglandin_f2-alpha", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "prostaglandin F2-alpha"
+   "name": "Prostaglandin F2-alpha"
   }
  }, 
  {
@@ -54839,7 +54685,7 @@
   "pk": "demethylphalloin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "demethylphalloin"
+   "name": "Demethylphalloin"
   }
  }, 
  {
@@ -54923,7 +54769,7 @@
   "pk": "glycine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "glycine"
+   "name": "Glycine"
   }
  }, 
  {
@@ -55116,17 +54962,10 @@
   }
  }, 
  {
-  "pk": "trazadone", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Trazadone"
-  }
- }, 
- {
   "pk": "cholecystokinin_octapeptide", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "cholecystokinin octapeptide"
+   "name": "Cholecystokinin octapeptide"
   }
  }, 
  {
@@ -58740,7 +58579,7 @@
    "transName": "OATP1B1, OATP1B3", 
    "CLr": "ND", 
    "interactingDrug": [
-    "atazanavir_ritonavir"
+    "atazanavirritonavir"
    ]
   }
  }, 
@@ -58759,7 +58598,7 @@
     "SLCO1B3"
    ], 
    "affectedDrug": [
-    "glecaprevir_pibrentasvir"
+    "glecaprevirpibrentasvir"
    ], 
    "PDEffect": "", 
    "t1Over2": "ND", 
@@ -60753,7 +60592,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "HEK293-OATP1B1", 
    "reference": "11134001", 
-   "cmpnd": "monoglucuronosyl-bilirubin"
+   "cmpnd": "monoglucuronosyl_bilirubin"
   }
  }, 
  {
@@ -60764,7 +60603,7 @@
    "trans": "SLCO1B3", 
    "cellSystem": "HEK293-OATP1B3", 
    "reference": "11134001", 
-   "cmpnd": "monoglucuronosyl-bilirubin"
+   "cmpnd": "monoglucuronosyl_bilirubin"
   }
  }, 
  {
@@ -61512,7 +61351,7 @@
    "trans": "SLC22A2", 
    "cellSystem": "S2-OCT2", 
    "reference": "11907186", 
-   "cmpnd": "prostaglandin-f2alpha"
+   "cmpnd": "prostaglandin_f2-alpha"
   }
  }, 
  {
@@ -61523,7 +61362,7 @@
    "trans": "SLC22A1", 
    "cellSystem": "S2-OCT1", 
    "reference": "11907186", 
-   "cmpnd": "prostaglandin-f2alpha"
+   "cmpnd": "prostaglandin_f2-alpha"
   }
  }, 
  {
@@ -61534,7 +61373,7 @@
    "trans": "SLC22A6", 
    "cellSystem": "S2-OAT1", 
    "reference": "11907186", 
-   "cmpnd": "prostaglandin-f2alpha"
+   "cmpnd": "prostaglandin_f2-alpha"
   }
  }, 
  {
@@ -61545,7 +61384,7 @@
    "trans": "SLC22A11", 
    "cellSystem": "S2-OAT4", 
    "reference": "11907186", 
-   "cmpnd": "prostaglandin-f2alpha"
+   "cmpnd": "prostaglandin_f2-alpha"
   }
  }, 
  {
@@ -61556,7 +61395,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "S2-OAT3", 
    "reference": "11907186", 
-   "cmpnd": "prostaglandin-f2alpha"
+   "cmpnd": "prostaglandin_f2-alpha"
   }
  }, 
  {
@@ -61567,7 +61406,7 @@
    "trans": "SLC22A7", 
    "cellSystem": "S2-OAT2", 
    "reference": "12023506", 
-   "cmpnd": "prostaglandin-f2alpha"
+   "cmpnd": "prostaglandin_f2-alpha"
   }
  }, 
  {
@@ -63294,7 +63133,7 @@
    "trans": "SLCO1B3", 
    "cellSystem": "MDCK II-OATP1B3", 
    "reference": "16495352", 
-   "cmpnd": "amantinin"
+   "cmpnd": "amanitin"
   }
  }, 
  {
@@ -64284,7 +64123,7 @@
    "trans": "SLC22A6", 
    "cellSystem": "HEK293-OAT1", 
    "reference": "17502342", 
-   "cmpnd": "edaravone-sulfate"
+   "cmpnd": "edaravone_sulfate"
   }
  }, 
  {
@@ -64295,7 +64134,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "HEK293-OAT3", 
    "reference": "17502342", 
-   "cmpnd": "edaravone-sulfate"
+   "cmpnd": "edaravone_sulfate"
   }
  }, 
  {
@@ -67221,7 +67060,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "HEK-OATP1B1", 
    "reference": "28223391", 
-   "cmpnd": "4-aminosalicylic_acid"
+   "cmpnd": "para-aminosalicylic_acid_(pas)"
   }
  }, 
  {
@@ -67232,7 +67071,7 @@
    "trans": "SLC22A6", 
    "cellSystem": "HEK293-OAT1", 
    "reference": "28223391", 
-   "cmpnd": "para-aminosalicylic_acid"
+   "cmpnd": "para-aminosalicylic_acid_(pas)"
   }
  }, 
  {
@@ -67243,7 +67082,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "HEK293-OAT3", 
    "reference": "28223391", 
-   "cmpnd": "para-aminosalicylic_acid"
+   "cmpnd": "para-aminosalicylic_acid_(pas)"
   }
  }, 
  {
@@ -68562,7 +68401,7 @@
    "reference": "2646988", 
    "ki": "", 
    "cellSystem": "CHO-OATP1B3", 
-   "cmpnd": "dronedarone_hydrochlorid", 
+   "cmpnd": "dronedarone_hydrochloride", 
    "trans": "SLCO1B3"
   }
  }, 
@@ -70291,7 +70130,7 @@
    "reference": "10820137", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
-   "cmpnd": "zosuquidar-(ly335979)", 
+   "cmpnd": "zosuquidar", 
    "trans": "ABCB1"
   }
  }, 
@@ -73992,7 +73831,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12023506", 
    "ki": "502", 
    "cellSystem": "S2-OAT4", 
@@ -74005,7 +73844,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12023506", 
    "ki": "20.7", 
    "cellSystem": "S2-OAT4", 
@@ -74018,7 +73857,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12023506", 
    "ki": "54.9", 
    "cellSystem": "S2-OAT4", 
@@ -74031,7 +73870,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12023506", 
    "ki": "766", 
    "cellSystem": "S2-OAT2", 
@@ -74139,7 +73978,7 @@
    "reference": "12085361", 
    "ki": "11", 
    "cellSystem": "OATP1A2-expressing oocytes", 
-   "cmpnd": "rifamycin-sv", 
+   "cmpnd": "rifamycin_sv", 
    "trans": "SLCO1A2"
   }
  }, 
@@ -74165,7 +74004,7 @@
    "reference": "12085361", 
    "ki": "2", 
    "cellSystem": "OATP1B1-expressing oocytes", 
-   "cmpnd": "rifamycin-sv", 
+   "cmpnd": "rifamycin_sv", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -74191,7 +74030,7 @@
    "reference": "12085361", 
    "ki": "3", 
    "cellSystem": "OATP1B3-expressing oocytes", 
-   "cmpnd": "rifamycin-sv", 
+   "cmpnd": "rifamycin_sv", 
    "trans": "SLCO1B3"
   }
  }, 
@@ -74204,7 +74043,7 @@
    "reference": "12085361", 
    "ki": "3", 
    "cellSystem": "OATP2B1-expressing oocytes", 
-   "cmpnd": "rifamycin-sv", 
+   "cmpnd": "rifamycin_sv", 
    "trans": "SLCO2B1"
   }
  }, 
@@ -74321,7 +74160,7 @@
    "reference": "12110607", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "phenoxy-benzamine", 
+   "cmpnd": "phenoxybenzamine", 
    "trans": "SLC22A2"
   }
  }, 
@@ -74334,7 +74173,7 @@
    "reference": "12110607", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "phenoxy-benzamine", 
+   "cmpnd": "phenoxybenzamine", 
    "trans": "SLC22A3"
   }
  }, 
@@ -75045,7 +74884,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "14.3", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75058,7 +74897,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "692", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75071,7 +74910,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "64.1", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75084,7 +74923,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "400", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75097,7 +74936,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "21.7", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75110,7 +74949,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "486", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75123,7 +74962,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1878", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75136,7 +74975,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "70.3", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75149,7 +74988,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "440", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75721,7 +75560,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "1140", 
    "cellSystem": "S2-OAT4", 
@@ -75734,7 +75573,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "1740", 
    "cellSystem": "S2-OAT4", 
@@ -75747,7 +75586,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "2800", 
    "cellSystem": "S2-OAT4", 
@@ -75760,7 +75599,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "6150", 
    "cellSystem": "S2-OAT4", 
@@ -75773,7 +75612,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "2380", 
    "cellSystem": "S2-OAT4", 
@@ -75786,7 +75625,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "3630", 
    "cellSystem": "S2-OAT4", 
@@ -75799,7 +75638,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "200", 
    "cellSystem": "S2-OAT4", 
@@ -75812,7 +75651,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "6140", 
    "cellSystem": "S2-OAT1", 
@@ -75825,7 +75664,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "30", 
    "cellSystem": "S2-OAT1", 
@@ -75838,7 +75677,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "180", 
    "cellSystem": "S2-OAT1", 
@@ -75851,7 +75690,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "210", 
    "cellSystem": "S2-OAT1", 
@@ -75864,7 +75703,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "3130", 
    "cellSystem": "S2-OAT1", 
@@ -75877,7 +75716,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "230", 
    "cellSystem": "S2-OAT1", 
@@ -75890,7 +75729,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "740", 
    "cellSystem": "S2-OAT1", 
@@ -75903,7 +75742,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "220", 
    "cellSystem": "S2-OAT1", 
@@ -75916,7 +75755,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1570", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75929,7 +75768,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1330", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75942,7 +75781,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4680", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75955,7 +75794,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4480", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75968,7 +75807,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1410", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -75981,7 +75820,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "8620", 
    "cellSystem": "S2-OAT3", 
@@ -75994,7 +75833,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "50", 
    "cellSystem": "S2-OAT3", 
@@ -76007,7 +75846,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "550", 
    "cellSystem": "S2-OAT3", 
@@ -76020,7 +75859,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "1890", 
    "cellSystem": "S2-OAT3", 
@@ -76033,7 +75872,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "290", 
    "cellSystem": "S2-OAT3", 
@@ -76046,7 +75885,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "4390", 
    "cellSystem": "S2-OAT3", 
@@ -76059,7 +75898,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "2460", 
    "cellSystem": "S2-OAT3", 
@@ -76072,7 +75911,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "12650826", 
    "ki": "40", 
    "cellSystem": "S2-OAT3", 
@@ -77909,7 +77748,7 @@
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
-   "cmpnd": "trichloromethiazide", 
+   "cmpnd": "trichlormethiazide", 
    "trans": "SLC22A11"
   }
  }, 
@@ -78026,7 +77865,7 @@
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT1", 
-   "cmpnd": "trichloromethiazide", 
+   "cmpnd": "trichlormethiazide", 
    "trans": "SLC22A6"
   }
  }, 
@@ -78035,7 +77874,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "77.5", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -78048,7 +77887,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2205", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -78061,7 +77900,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "39.2", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -78074,7 +77913,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "121", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -78087,7 +77926,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "603", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -78100,7 +77939,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1023", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
@@ -78113,11 +77952,11 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1120", 
-   "substrate": "prostaglandin-f2alpha", 
+   "substrate": "prostaglandin_f2-alpha", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT2", 
-   "cmpnd": "trichloromethiazide", 
+   "cmpnd": "trichlormethiazide", 
    "trans": "SLC22A7"
   }
  }, 
@@ -78234,7 +78073,7 @@
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
-   "cmpnd": "trichloromethiazide", 
+   "cmpnd": "trichlormethiazide", 
    "trans": "SLC22A8"
   }
  }, 
@@ -78893,7 +78732,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "s-(24-dinitrophenyl)-glutathione", 
+   "substrate": "s-(2_4-dinitrophenyl)-glutathione", 
    "reference": "15618649", 
    "ki": "42.2", 
    "cellSystem": "Liver canalicular membrane vesicles", 
@@ -80817,7 +80656,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.7", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "0.7", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80843,7 +80682,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80856,7 +80695,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "10", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80882,7 +80721,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.3", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80908,7 +80747,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.5", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "0.2", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80934,7 +80773,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "15", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80947,7 +80786,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80973,7 +80812,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "25", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80986,7 +80825,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "75", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -80999,7 +80838,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.8", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -81025,7 +80864,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.4", 
-   "substrate": "amantinin", 
+   "substrate": "amanitin", 
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
@@ -81822,7 +81661,7 @@
    "reference": "16595711", 
    "ki": "0.17", 
    "cellSystem": "HEK293-OATP1B1", 
-   "cmpnd": "rifamycin-sv", 
+   "cmpnd": "rifamycin_sv", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -82481,7 +82320,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "385", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82494,7 +82333,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "181", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82507,7 +82346,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "69.1", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82520,7 +82359,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "18.7", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82533,7 +82372,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "20.6", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82546,7 +82385,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.47", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82559,7 +82398,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.01", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82572,7 +82411,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "7.66", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82585,7 +82424,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "13.5", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -82598,7 +82437,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "27.4", 
-   "substrate": "pheophorbide-a", 
+   "substrate": "pheophorbide_a", 
    "reference": "17202245", 
    "ki": "", 
    "cellSystem": "MDCK II-BCRP", 
@@ -83746,7 +83585,7 @@
    "reference": "17709369", 
    "ki": "", 
    "cellSystem": "MDCKII-MDR1", 
-   "cmpnd": "zosuquidar-(ly335979)", 
+   "cmpnd": "zosuquidar", 
    "trans": "ABCB1"
   }
  }, 
@@ -85579,7 +85418,7 @@
    "reference": "18788725", 
    "ki": "", 
    "cellSystem": "HEK293-OCT1", 
-   "cmpnd": "phenoxy-benzamine", 
+   "cmpnd": "phenoxybenzamine", 
    "trans": "SLC22A1"
   }
  }, 
@@ -86047,7 +85886,7 @@
    "reference": "19002438", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "desloraratidine", 
+   "cmpnd": "desloratadine", 
    "trans": "SLC22A2"
   }
  }, 
@@ -89063,7 +88902,7 @@
    "reference": "20102298", 
    "ki": "2.3", 
    "cellSystem": "Caco-2", 
-   "cmpnd": "rifamycin-sv", 
+   "cmpnd": "rifamycin_sv", 
    "trans": "SLCO2B1"
   }
  }, 
@@ -96720,7 +96559,7 @@
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
-   "cmpnd": "hesperidine", 
+   "cmpnd": "hesperidin", 
    "trans": "SLCO2B1"
   }
  }, 
@@ -103233,7 +103072,7 @@
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
-   "cmpnd": "4-aminosalicylic_acid", 
+   "cmpnd": "para-aminosalicylic_acid_(pas)", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -104130,7 +103969,7 @@
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "para-aminosalicylate_acid_(pas)", 
+   "cmpnd": "para-aminosalicylic_acid_(pas)", 
    "trans": "SLC22A2"
   }
  }, 
@@ -104143,7 +103982,7 @@
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "para-aminosalicylate_acid_(pas)", 
+   "cmpnd": "para-aminosalicylic_acid_(pas)", 
    "trans": "SLC22A2"
   }
  }, 
@@ -104208,7 +104047,7 @@
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
-   "cmpnd": "para-aminosalicylic_acid", 
+   "cmpnd": "para-aminosalicylic_acid_(pas)", 
    "trans": "SLC22A6"
   }
  }, 
@@ -104273,7 +104112,7 @@
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
-   "cmpnd": "para-aminosalicylic_acid", 
+   "cmpnd": "para-aminosalicylic_acid_(pas)", 
    "trans": "SLC22A8"
   }
  }, 
@@ -105114,7 +104953,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.8", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105127,7 +104966,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.1", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105140,7 +104979,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.91", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105153,7 +104992,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.13", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105166,7 +105005,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.13", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105179,7 +105018,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.76", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105192,7 +105031,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "16.3", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT1", 
@@ -105205,7 +105044,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105218,7 +105057,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.98", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105231,7 +105070,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.18", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105244,7 +105083,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.18", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105257,7 +105096,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.6", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105270,7 +105109,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.1", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105283,7 +105122,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "24.6", 
-   "substrate": "para-aminosalicylic_acid", 
+   "substrate": "para-aminosalicylic_acid_(pas)", 
    "reference": "28223391", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -111423,7 +111262,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "chlorophenylpiperazine_m-", 
+   "cmpnd": "m-chlorophenylpiperazine", 
    "trans": "ABCB11"
   }
  }, 
@@ -115661,7 +115500,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "warfarin_sodium", 
+   "cmpnd": "warfarin", 
    "trans": "ABCB11"
   }
  }, 
@@ -119015,7 +118854,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "chlorophenylpiperazine_m-", 
+   "cmpnd": "m-chlorophenylpiperazine", 
    "trans": "ABCC2"
   }
  }, 
@@ -123058,7 +122897,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "warfarin_sodium", 
+   "cmpnd": "warfarin", 
    "trans": "ABCC2"
   }
  }, 
@@ -126334,7 +126173,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "chlorophenylpiperazine_m-", 
+   "cmpnd": "m-chlorophenylpiperazine", 
    "trans": "ABCC3"
   }
  }, 
@@ -130520,7 +130359,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "warfarin_sodium", 
+   "cmpnd": "warfarin", 
    "trans": "ABCC3"
   }
  }, 
@@ -132925,7 +132764,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "chlorophenylpiperazine_m-", 
+   "cmpnd": "m-chlorophenylpiperazine", 
    "trans": "ABCC4"
   }
  }, 
@@ -137163,7 +137002,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "warfarin_sodium", 
+   "cmpnd": "warfarin", 
    "trans": "ABCC4"
   }
  }, 
@@ -137553,7 +137392,7 @@
    "reference": "35089508", 
    "ki": "", 
    "cellSystem": "HEK293-OCT3", 
-   "cmpnd": "trazadone", 
+   "cmpnd": "trazodone", 
    "trans": "SLC22A3"
   }
  }, 
@@ -137631,7 +137470,7 @@
    "reference": "35089508", 
    "ki": "", 
    "cellSystem": "HEK293-OCT3", 
-   "cmpnd": "trazadone", 
+   "cmpnd": "trazodone", 
    "trans": "SLC22A3"
   }
  }, 
