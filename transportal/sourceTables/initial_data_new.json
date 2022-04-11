@@ -46417,13 +46417,6 @@
   }
  }, 
  {
-  "pk": "calcein-am", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Calcein AM"
-  }
- }, 
- {
   "pk": "s-()-disopyramide", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -47100,13 +47093,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Emetine"
-  }
- }, 
- {
-  "pk": "ipratropiumbromide", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Ipratropiumbromide"
   }
  }, 
  {
@@ -47999,13 +47985,6 @@
   }
  }, 
  {
-  "pk": "impratropium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Impratropium"
-  }
- }, 
- {
   "pk": "ethidium", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -48366,7 +48345,7 @@
   "pk": "calcein_am", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "calcein AM"
+   "name": "Calcein AM"
   }
  }, 
  {
@@ -50977,7 +50956,7 @@
   "pk": "leflunomide", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "LEFLUNOMIDE"
+   "name": "Leflunomide"
   }
  }, 
  {
@@ -52360,10 +52339,10 @@
   }
  }, 
  {
-  "pk": "psi_-_ephedrine", 
+  "pk": "psi-ephedrine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "psi - ephedrine"
+   "name": "psi-ephedrine"
   }
  }, 
  {
@@ -52482,7 +52461,7 @@
   "pk": "para-aminosalicylate_acid_(pas)", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "para-aminosalicylate acid (PAS)"
+   "name": "Para-aminosalicylate acid (PAS)"
   }
  }, 
  {
@@ -53014,98 +52993,98 @@
   "pk": "tropesin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "tropesin"
+   "name": "Tropesin"
   }
  }, 
  {
   "pk": "acemetacin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "acemetacin"
+   "name": "Acemetacin"
   }
  }, 
  {
   "pk": "ethinyl_estradiol", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "ethinyl estradiol"
+   "name": "Ethinyl estradiol"
   }
  }, 
  {
   "pk": "diethylstilbestrol", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "diethylstilbestrol"
+   "name": "Diethylstilbestrol"
   }
  }, 
  {
   "pk": "glimepiride", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "glimepiride"
+   "name": "Glimepiride"
   }
  }, 
  {
   "pk": "silymarin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "silymarin"
+   "name": "Silymarin"
   }
  }, 
  {
   "pk": "estradiol", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "estradiol"
+   "name": "Estradiol"
   }
  }, 
  {
   "pk": "olsalazine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "olsalazine"
+   "name": "Olsalazine"
   }
  }, 
  {
   "pk": "prasurgel", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "prasurgel"
+   "name": "Prasurgel"
   }
  }, 
  {
   "pk": "levothyroxine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "levothyroxine"
+   "name": "Levothyroxine"
   }
  }, 
  {
   "pk": "drospirenone", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "drospirenone"
+   "name": "Drospirenone"
   }
  }, 
  {
   "pk": "quetiapine_fumarate", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "quetiapine fumarate"
+   "name": "Quetiapine fumarate"
   }
  }, 
  {
   "pk": "desogestrel", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "desogestrel"
+   "name": "Desogestrel"
   }
  }, 
  {
   "pk": "vilazodone_hydrochloride", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "vilazodone hydrochloride"
+   "name": "Vilazodone hydrochloride"
   }
  }, 
  {
@@ -53119,14 +53098,14 @@
   "pk": "boceprevir", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "boceprevir"
+   "name": "Boceprevir"
   }
  }, 
  {
   "pk": "indometacin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "indometacin "
+   "name": "Indometacin "
   }
  }, 
  {
@@ -53203,14 +53182,14 @@
   "pk": "rilpivirine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "rilpivirine"
+   "name": "Rilpivirine"
   }
  }, 
  {
   "pk": "sacubitril", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "sacubitril"
+   "name": "Sacubitril"
   }
  }, 
  {
@@ -53224,21 +53203,21 @@
   "pk": "asunaprevir", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "asunaprevir"
+   "name": "Asunaprevir"
   }
  }, 
  {
   "pk": "daclatasvir", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "daclatasvir"
+   "name": "Daclatasvir"
   }
  }, 
  {
   "pk": "sofosbuvir", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "sofosbuvir"
+   "name": "Sofosbuvir"
   }
  }, 
  {
@@ -53259,7 +53238,7 @@
   "pk": "mycophenolic_acid_7-o-glucuronide", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "mycophenolic acid 7-O-glucuronide"
+   "name": "Mycophenolic acid 7-O-glucuronide"
   }
  }, 
  {
@@ -53378,7 +53357,7 @@
   "pk": "teriflunomide", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "teriflunomide"
+   "name": "Teriflunomide"
   }
  }, 
  {
@@ -53504,35 +53483,35 @@
   "pk": "rimantadine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "rimantadine"
+   "name": "Rimantadine"
   }
  }, 
  {
   "pk": "epinastine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "epinastine"
+   "name": "Epinastine"
   }
  }, 
  {
   "pk": "camostat", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "camostat"
+   "name": "Camostat"
   }
  }, 
  {
   "pk": "granisetron", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "granisetron"
+   "name": "Granisetron"
   }
  }, 
  {
   "pk": "gabexate", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "gabexate"
+   "name": "Gabexate"
   }
  }, 
  {
@@ -53546,7 +53525,7 @@
   "pk": "chlorhexidine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "chlorhexidine"
+   "name": "Chlorhexidine"
   }
  }, 
  {
@@ -53560,7 +53539,7 @@
   "pk": "moxifloxacin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "moxifloxacin "
+   "name": "Moxifloxacin "
   }
  }, 
  {
@@ -53574,21 +53553,21 @@
   "pk": "cortisone", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "cortisone"
+   "name": "Cortisone"
   }
  }, 
  {
   "pk": "noscapine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "noscapine"
+   "name": "Noscapine"
   }
  }, 
  {
   "pk": "methyl_ergonovine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "methyl ergonovine"
+   "name": "Methyl ergonovine"
   }
  }, 
  {
@@ -53630,7 +53609,7 @@
   "pk": "pheophorbide_a", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "pheophorbide A"
+   "name": "Pheophorbide A"
   }
  }, 
  {
@@ -53651,7 +53630,7 @@
   "pk": "multiple", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "multiple"
+   "name": "Multiple"
   }
  }, 
  {
@@ -54218,7 +54197,7 @@
   "pk": "3hn-methylquinidine", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "  [3H]N-methylquinidine"
+   "name": "[3H]N-methylquinidine"
   }
  }, 
  {
@@ -54474,10 +54453,10 @@
   }
  }, 
  {
-  "pk": "rutin", 
+  "pk": "endrin", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "Rutin"
+   "name": "Endrin"
   }
  }, 
  {
@@ -58012,37 +57991,6 @@
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
-   "AUC": "1.5", 
-   "reference": [
-    "27273004"
-   ], 
-   "interactingDrugDose": "", 
-   "transporters": [
-    " SLC22A1", 
-    "SLC22A2", 
-    "SLC47A1", 
-    "SLC47A2"
-   ], 
-   "affectedDrug": [
-    "metformin"
-   ], 
-   "PDEffect": "", 
-   "t1Over2": "1.14", 
-   "CLOverF": "", 
-   "studyDesign": "", 
-   "Cmax": "1.2", 
-   "transName": "OCTs/MATEs", 
-   "CLr": "", 
-   "interactingDrug": [
-    "isavuconazole"
-   ]
-  }
- }, 
- {
-  "pk": 99, 
-  "model": "transporterDatabase.ddi", 
-  "fields": {
-   "affectedDrugDose": "", 
    "AUC": "1.52", 
    "reference": [
     "27273004"
@@ -58070,7 +58018,7 @@
   }
  }, 
  {
-  "pk": 100, 
+  "pk": 99, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58100,7 +58048,7 @@
   }
  }, 
  {
-  "pk": 101, 
+  "pk": 100, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58128,7 +58076,7 @@
   }
  }, 
  {
-  "pk": 102, 
+  "pk": 101, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58157,7 +58105,7 @@
   }
  }, 
  {
-  "pk": 103, 
+  "pk": 102, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58187,7 +58135,7 @@
   }
  }, 
  {
-  "pk": 104, 
+  "pk": 103, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58216,7 +58164,7 @@
   }
  }, 
  {
-  "pk": 105, 
+  "pk": 104, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58245,7 +58193,7 @@
   }
  }, 
  {
-  "pk": 106, 
+  "pk": 105, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58273,7 +58221,7 @@
   }
  }, 
  {
-  "pk": 107, 
+  "pk": 106, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58302,7 +58250,7 @@
   }
  }, 
  {
-  "pk": 108, 
+  "pk": 107, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58331,7 +58279,7 @@
   }
  }, 
  {
-  "pk": 109, 
+  "pk": 108, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58362,7 +58310,7 @@
   }
  }, 
  {
-  "pk": 110, 
+  "pk": 109, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58393,7 +58341,7 @@
   }
  }, 
  {
-  "pk": 111, 
+  "pk": 110, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58422,7 +58370,7 @@
   }
  }, 
  {
-  "pk": 112, 
+  "pk": 111, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58451,7 +58399,7 @@
   }
  }, 
  {
-  "pk": 113, 
+  "pk": 112, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58481,7 +58429,7 @@
   }
  }, 
  {
-  "pk": 114, 
+  "pk": 113, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58512,7 +58460,7 @@
   }
  }, 
  {
-  "pk": 115, 
+  "pk": 114, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58541,7 +58489,7 @@
   }
  }, 
  {
-  "pk": 116, 
+  "pk": 115, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58570,7 +58518,7 @@
   }
  }, 
  {
-  "pk": 117, 
+  "pk": 116, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58600,7 +58548,7 @@
   }
  }, 
  {
-  "pk": 118, 
+  "pk": 117, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58631,7 +58579,7 @@
   }
  }, 
  {
-  "pk": 119, 
+  "pk": 118, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58660,7 +58608,7 @@
   }
  }, 
  {
-  "pk": 120, 
+  "pk": 119, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "Intravenous infusion 2mg/60min", 
@@ -58691,7 +58639,7 @@
   }
  }, 
  {
-  "pk": 121, 
+  "pk": 120, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58722,7 +58670,7 @@
   }
  }, 
  {
-  "pk": 122, 
+  "pk": 121, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58752,7 +58700,7 @@
   }
  }, 
  {
-  "pk": 123, 
+  "pk": 122, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58780,7 +58728,7 @@
   }
  }, 
  {
-  "pk": 124, 
+  "pk": 123, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "800mg, 2x daily for 10 days", 
@@ -58808,7 +58756,7 @@
   }
  }, 
  {
-  "pk": 125, 
+  "pk": 124, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58836,7 +58784,7 @@
   }
  }, 
  {
-  "pk": 126, 
+  "pk": 125, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -58866,7 +58814,7 @@
   }
  }, 
  {
-  "pk": 127, 
+  "pk": 126, 
   "model": "transporterDatabase.ddi", 
   "fields": {
    "affectedDrugDose": "", 
@@ -66129,7 +66077,7 @@
    "trans": "SLC22A1", 
    "reference": "23984907", 
    "km": "9", 
-   "cmpnd": "impratropium"
+   "cmpnd": "ipratropium"
   }
  }, 
  {
@@ -66679,7 +66627,7 @@
    "trans": "SLC22A1", 
    "reference": "27676604", 
    "km": "14", 
-   "cmpnd": "impratropium"
+   "cmpnd": "ipratropium"
   }
  }, 
  {
@@ -68284,7 +68232,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.4", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -68297,7 +68245,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "14.4", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -68310,7 +68258,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "30.5", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -68323,7 +68271,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.22", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -68336,7 +68284,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.41", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -68349,7 +68297,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "22.5", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -68362,7 +68310,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "34", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
@@ -70468,7 +70416,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "196", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70481,7 +70429,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "7", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70494,7 +70442,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "106", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70507,7 +70455,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "9", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70520,7 +70468,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "36", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70533,7 +70481,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "16", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70546,7 +70494,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1440", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70559,7 +70507,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "121", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70572,7 +70520,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "429", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70585,7 +70533,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "157", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70598,7 +70546,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "280", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70611,7 +70559,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "70", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -70624,7 +70572,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "345", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "11113639", 
    "ki": "", 
    "cellSystem": "Caco-2 cells", 
@@ -77813,7 +77761,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "14680379", 
    "ki": "", 
    "cellSystem": "MDCK II-MRP1", 
@@ -77839,7 +77787,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "10", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "14680379", 
    "ki": "", 
    "cellSystem": "MDCK II-MRP2", 
@@ -78194,7 +78142,7 @@
    "reference": "15316089", 
    "ki": "", 
    "cellSystem": "BeWo cells expressing OCTN2", 
-   "cmpnd": "psi_-_ephedrine", 
+   "cmpnd": "psi-ephedrine", 
    "trans": "SLC22A5"
   }
  }, 
@@ -79724,7 +79672,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.8", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "16384552", 
    "ki": "", 
    "cellSystem": "HL60 cells", 
@@ -79750,7 +79698,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "16384552", 
    "ki": "", 
    "cellSystem": "HL60 cells", 
@@ -85708,7 +85656,7 @@
    "reference": "19002438", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "ipratropiumbromide", 
+   "cmpnd": "ipratropium_bromide", 
    "trans": "SLC22A2"
   }
  }, 
@@ -91060,7 +91008,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "58.4", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "21783720", 
    "ki": "", 
    "cellSystem": "NIH 3T3 cells", 
@@ -91073,7 +91021,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.8", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "21783720", 
    "ki": "", 
    "cellSystem": "NIH 3T3 cells", 
@@ -91086,7 +91034,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "21783720", 
    "ki": "", 
    "cellSystem": "NIH 3T3 cells", 
@@ -91099,7 +91047,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.6", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "21783720", 
    "ki": "", 
    "cellSystem": "NIH 3T3 cells", 
@@ -91112,7 +91060,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.5", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "21783720", 
    "ki": "", 
    "cellSystem": "NIH 3T3 cells", 
@@ -101343,7 +101291,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "65.4", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "24375866", 
    "ki": "", 
    "cellSystem": "MDCK-II cells", 
@@ -101356,7 +101304,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.6", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "24375866", 
    "ki": "", 
    "cellSystem": "MDCK-II cells", 
@@ -101369,7 +101317,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.2", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "24375866", 
    "ki": "", 
    "cellSystem": "MDCK-II cells", 
@@ -101382,7 +101330,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "63.9", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "24375866", 
    "ki": "", 
    "cellSystem": "MDCK-II cells", 
@@ -103297,7 +103245,7 @@
    "reference": "27152359", 
    "ki": "", 
    "cellSystem": "Purified, detergent-solubilized protein", 
-   "cmpnd": "rutin", 
+   "cmpnd": "endrin", 
    "trans": "mouse_Abcb1a"
   }
  }, 
