@@ -68714,7 +68714,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "12.8", 
-   "substrate": "calcein-am", 
+   "substrate": "calcein_am", 
    "reference": "8862725", 
    "ki": "", 
    "cellSystem": "CEM cells", 
