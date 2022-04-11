@@ -72,24 +72,25 @@ def transporter(request, transporter_id):
         if len(transporter.inVitroSubstrate.all()) > 0 or len(transporter.inVitroInhibitor.all()) > 0 or len(transporter.clinicalSubstrate.all()) > 0 or len(transporter.clinicalInhibitor.all()) > 0:
                 for cmpnd in transporter.inVitroSubstrate.all():
                         cmpnd1 = cmpnd.slugName
-                        if not cmpnd1 in cmpndList:
-                                cmpndList[cmpnd1] = ''
-                        cmpndList[cmpnd1] += '1'
+                        cmpndList[cmpnd1] = '1'
                 for cmpnd in transporter.inVitroInhibitor.all():
                         cmpnd1 = cmpnd.slugName
                         if not cmpnd1 in cmpndList:
-                                cmpndList[cmpnd1] = ''
-                        cmpndList[cmpnd1] += '2'
+                                cmpndList[cmpnd1] = '2'
+                        else:
+                                cmpndList[cmpnd1] += ',2'
                 for cmpnd in transporter.clinicalSubstrate.all():
                         cmpnd1 = cmpnd.slugName
                         if not cmpnd1 in cmpndList:
-                                cmpndList[cmpnd1] = ''
-                        cmpndList[cmpnd1] += '3'
+                                cmpndList[cmpnd1] = '3'
+                        else:
+                                cmpndList[cmpnd1] += ',3'
                 for cmpnd in transporter.clinicalInhibitor.all():
                         cmpnd1 = cmpnd.slugName
                         if not cmpnd1 in cmpndList:
-                                cmpndList[cmpnd1] = ''
-                        cmpndList[cmpnd1] += '4'
+                                cmpndList[cmpnd1] = '4'
+                        else:
+                                cmpndList[cmpnd1] += ',4'
         return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
 def liver(request):
