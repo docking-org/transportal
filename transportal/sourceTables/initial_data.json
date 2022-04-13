@@ -54805,7 +54805,7 @@
   }
  }, 
  {
-  "pk": "fdc_red_no._3", 
+  "pk": "fdc_red_no_3", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "FD&C Red No. 3"
@@ -54882,7 +54882,7 @@
   }
  }, 
  {
-  "pk": "fdc_red_no._40", 
+  "pk": "fdc_red_no_40", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "FD&C Red No. 40"
@@ -71665,7 +71665,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "86.7", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -71769,7 +71769,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.4", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -71899,7 +71899,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "130.3", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -72198,7 +72198,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "14.6", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -72419,7 +72419,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "112.4", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -72484,7 +72484,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.1", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -72861,7 +72861,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "446.5", 
-   "substrate": "fluo-3-am", 
+   "substrate": "fluo-3", 
    "reference": "11716514", 
    "ki": "", 
    "cellSystem": "NIH-3T3-G185 cells", 
@@ -81610,7 +81610,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "97.1", 
-   "substrate": "cholecystokinin-8", 
+   "substrate": "cholecystokinin_octapeptide", 
    "reference": "16611857", 
    "ki": "", 
    "cellSystem": "HEK293-OATP1B3", 
@@ -98293,7 +98293,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "rabeprazole_sodium", 
+   "cmpnd": "rabeprazole", 
    "trans": "ABCB11"
   }
  }, 
@@ -100191,7 +100191,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "gemifioxacin_mesylate", 
+   "cmpnd": "gemifloxacin", 
    "trans": "ABCC4"
   }
  }, 
@@ -110149,7 +110149,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "gemifioxacin_mesylate", 
+   "cmpnd": "gemifloxacin", 
    "trans": "ABCB11"
   }
  }, 
@@ -115297,7 +115297,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "vincristine_sulfate", 
+   "cmpnd": "vincristine", 
    "trans": "ABCB11"
   }
  }, 
@@ -115648,7 +115648,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "quetiapine_hemifumarate", 
+   "cmpnd": "quetiapine", 
    "trans": "ABCB11"
   }
  }, 
@@ -116441,7 +116441,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "rabeprazole_sodium", 
+   "cmpnd": "rabeprazole", 
    "trans": "ABCC2"
   }
  }, 
@@ -117793,7 +117793,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "gemifioxacin_mesylate", 
+   "cmpnd": "gemifloxacin", 
    "trans": "ABCC2"
   }
  }, 
@@ -123045,7 +123045,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "quetiapine_hemifumarate", 
+   "cmpnd": "quetiapine", 
    "trans": "ABCC2"
   }
  }, 
@@ -123708,7 +123708,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "rabeprazole_sodium", 
+   "cmpnd": "rabeprazole", 
    "trans": "ABCC3"
   }
  }, 
@@ -124514,7 +124514,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ergocalcifrol", 
+   "cmpnd": "ergocalciferol", 
    "trans": "ABCC3"
   }
  }, 
@@ -124969,7 +124969,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefuroxime_axetil", 
+   "cmpnd": "cefuroxime", 
    "trans": "ABCC3"
   }
  }, 
@@ -124995,7 +124995,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ceftriaxone_sodium", 
+   "cmpnd": "ceftriaxone", 
    "trans": "ABCC3"
   }
  }, 
@@ -125073,7 +125073,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "gemifioxacin_mesylate", 
+   "cmpnd": "gemifloxacin", 
    "trans": "ABCC3"
   }
  }, 
@@ -130494,7 +130494,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "quetiapine_hemifumarate", 
+   "cmpnd": "quetiapine", 
    "trans": "ABCC3"
   }
  }, 
@@ -130962,7 +130962,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "rabeprazole_sodium", 
+   "cmpnd": "rabeprazole", 
    "trans": "ABCC4"
   }
  }, 
@@ -131118,7 +131118,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "lapatinib_tosylate", 
+   "cmpnd": "lapatinib", 
    "trans": "ABCC4"
   }
  }, 
@@ -131560,7 +131560,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ergocalcifrol", 
+   "cmpnd": "ergocalciferol", 
    "trans": "ABCC4"
   }
  }, 
@@ -134186,7 +134186,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ipratropium_bromide", 
+   "cmpnd": "ipratropium", 
    "trans": "ABCC4"
   }
  }, 
@@ -137150,7 +137150,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "quetiapine_hemifumarate", 
+   "cmpnd": "quetiapine", 
    "trans": "ABCC4"
   }
  }, 
@@ -137358,7 +137358,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "fdc_red_no._3", 
+   "cmpnd": "fdc_red_no_3", 
    "trans": "ABCG2"
   }
  }, 
@@ -137397,7 +137397,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "fdc_blue_no._1", 
+   "cmpnd": "fdc_blue_no_1", 
    "trans": "ABCG2"
   }
  }, 
@@ -137423,7 +137423,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_red_no._27", 
+   "cmpnd": "dc_red_no_27", 
    "trans": "ABCG2"
   }
  }, 
@@ -137501,7 +137501,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "fdc_red_no._40", 
+   "cmpnd": "fdc_red_no_40", 
    "trans": "ABCG2"
   }
  }, 
@@ -137579,7 +137579,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_red_no._6", 
+   "cmpnd": "dc_red_no_6", 
    "trans": "ABCG2"
   }
  }, 
@@ -137605,7 +137605,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "ext_yellow_no._7", 
+   "cmpnd": "ext_yellow_no_7", 
    "trans": "ABCG2"
   }
  }, 
@@ -139239,7 +139239,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "Dibromofluorescein", 
+   "substrate": "dibromofluorescein", 
    "reference": "32571913", 
    "ki": "44.3", 
    "cellSystem": "HEK293-OATP2B1", 
@@ -139252,11 +139252,11 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "Dibromofluorescein", 
+   "substrate": "dibromofluorescein", 
    "reference": "32571913", 
    "ki": "2.59", 
    "cellSystem": "HEK293-OATP2B1", 
-   "cmpnd": "fdc_red_no._40", 
+   "cmpnd": "fdc_red_no_40", 
    "trans": "SLCO2B1"
   }
  }, 
@@ -139265,7 +139265,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "Dibromofluorescein", 
+   "substrate": "dibromofluorescein", 
    "reference": "32571913", 
    "ki": "20.1", 
    "cellSystem": "HEK293-OATP2B1", 
@@ -139278,7 +139278,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "Dibromofluorescein", 
+   "substrate": "dibromofluorescein", 
    "reference": "32571913", 
    "ki": "47.7", 
    "cellSystem": "HEK293-OATP2B1", 
@@ -139291,7 +139291,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "Dibromofluorescein", 
+   "substrate": "dibromofluorescein", 
    "reference": "32571913", 
    "ki": "2.11", 
    "cellSystem": "HEK293-OATP2B1", 
