@@ -190,7 +190,7 @@
    "synonyms": "BCRP, MXR", 
    "inVitroSubstrate": [
     "dantrolene", 
-    "estrone_3-sulfate", 
+    "estrone_sulfate", 
     "genistein", 
     "prazosin", 
     "sulfasalazine"
@@ -452,7 +452,7 @@
    "synonyms": "OAT3", 
    "inVitroSubstrate": [
     "benzylpenicillin", 
-    "estrone_3-sulfate", 
+    "estrone_sulfate", 
     "methotrexate", 
     "pravastatin"
    ], 
@@ -579,7 +579,7 @@
    "inVitroInhibitor": [
     "cyclosporine", 
     "estradiol-17beta-glucuronide", 
-    "estrone_3-sulfate", 
+    "estrone_sulfate", 
     "rifampicin", 
     "rifamycin_sv"
    ], 
@@ -603,7 +603,7 @@
    "inVitroSubstrate": [
     "cck-8", 
     "estradiol-17beta-glucuronide", 
-    "estrone_3-sulfate", 
+    "estrone_sulfate", 
     "pitavastatin", 
     "pravastatin", 
     "telmisartan", 
@@ -630,7 +630,7 @@
    "inVitroInhibitor": [
     "cyclosporine", 
     "estradiol-17beta-glucuronide", 
-    "estrone_3-sulfate", 
+    "estrone_sulfate", 
     "rifampicin", 
     "rifamycin_sv"
    ], 
@@ -654,7 +654,7 @@
    "inVitroSubstrate": [
     "cck-8", 
     "estradiol-17beta-glucuronide", 
-    "estrone_3-sulfate", 
+    "estrone_sulfate", 
     "pitavastatin", 
     "pravastatin", 
     "telmisartan", 
@@ -44644,6 +44644,16 @@
   }
  }, 
  {
+  "pk": "32571913", 
+  "model": "transporterDatabase.reference", 
+  "fields": {
+   "authors": "Zou", 
+   "otherText": "", 
+   "year": "2020", 
+   "otherLink": ""
+  }
+ }, 
+ {
   "pk": "indapamide", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -44811,13 +44821,7 @@
    "name": "Ko143"
   }
  }, 
- {
-  "pk": "cholecystokinin-8", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Cholecystokinin 8"
-  }
- }, 
+
  {
   "pk": "kyotorphin", 
   "model": "transporterDatabase.compound", 
@@ -46786,13 +46790,6 @@
   }
  }, 
  {
-  "pk": "cholyl-taurine", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Cholyl taurine"
-  }
- }, 
- {
   "pk": "oseltamivir", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -46888,13 +46885,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Imatinib"
-  }
- }, 
- {
-  "pk": "ergocalcifrol", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Ergocalcifrol"
   }
  }, 
  {
@@ -47063,13 +47053,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Emetine"
-  }
- }, 
- {
-  "pk": "estrone_3-sulfate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Estrone 3-sulfate"
   }
  }, 
  {
@@ -48543,13 +48526,6 @@
   }
  }, 
  {
-  "pk": "zolpidem_tartrate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Zolpidem tartrate"
-  }
- }, 
- {
   "pk": "tiapride", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49145,13 +49121,6 @@
   }
  }, 
  {
-  "pk": "quetiapine_hemifumarate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Quetiapine hemifumarate"
-  }
- }, 
- {
   "pk": "fenoldopam_mesylate", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49271,13 +49240,6 @@
   }
  }, 
  {
-  "pk": "ipratropium_bromide", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Ipratropium bromide"
-  }
- }, 
- {
   "pk": "formoterol_fumarate", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49376,13 +49338,6 @@
   }
  }, 
  {
-  "pk": "cefotaxime_sodium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Cefotaxime sodium"
-  }
- }, 
- {
   "pk": "aminoglutethimide", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49404,13 +49359,6 @@
   }
  }, 
  {
-  "pk": "fluphenazine_hydrochloride", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Fluphenazine Hydrochloride"
-  }
- }, 
- {
   "pk": "adefovir_dipivoxil", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49429,13 +49377,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Rosuvastatin calcium"
-  }
- }, 
- {
-  "pk": "cefazolin_sodium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Cefazolin sodium"
   }
  }, 
  {
@@ -49495,13 +49436,6 @@
   }
  }, 
  {
-  "pk": "rabeprazole_sodium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Rabeprazole Sodium"
-  }
- }, 
- {
   "pk": "praziquantel", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -49513,13 +49447,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Nefazodone"
-  }
- }, 
- {
-  "pk": "lapatinib_tosylate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Lapatinib Tosylate"
   }
  }, 
  {
@@ -49695,13 +49622,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Methylprednisolone"
-  }
- }, 
- {
-  "pk": "gemifioxacin_mesylate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Gemifioxacin mesylate"
   }
  }, 
  {
@@ -50020,13 +49940,6 @@
   }
  }, 
  {
-  "pk": "hydroxychloroquine_sulfate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Hydroxychloroquine sulfate"
-  }
- }, 
- {
   "pk": "leucovorin_calcium", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -50073,13 +49986,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Salmeterol xinafoate"
-  }
- }, 
- {
-  "pk": "selegiline_hydrochloride", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Selegiline hydrochloride"
   }
  }, 
  {
@@ -50381,13 +50287,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Thiacetazone"
-  }
- }, 
- {
-  "pk": "ticlopidine_hydrochloride", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Ticlopidine hydrochloride"
   }
  }, 
  {
@@ -50846,13 +50745,6 @@
   }
  }, 
  {
-  "pk": "vincristine_sulfate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Vincristine sulfate"
-  }
- }, 
- {
   "pk": "indoramin", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -51175,13 +51067,6 @@
   }
  }, 
  {
-  "pk": "ceftriaxone_sodium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Ceftriaxone sodium"
-  }
- }, 
- {
   "pk": "anastrozole", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -51343,13 +51228,6 @@
   }
  }, 
  {
-  "pk": "mibefradil_hydrochloride", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Mibefradil hydrochloride"
-  }
- }, 
- {
   "pk": "digitoxin", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -51382,13 +51260,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Papaverine"
-  }
- }, 
- {
-  "pk": "cefuroxime_axetil", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Cefuroxime axetil"
   }
  }, 
  {
@@ -51494,13 +51365,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Linezolid"
-  }
- }, 
- {
-  "pk": "varenicline_tartrate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Varenicline tartrate"
   }
  }, 
  {
@@ -51928,13 +51792,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Forskolin"
-  }
- }, 
- {
-  "pk": "fluo-3-am", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Fluo-3-AM"
   }
  }, 
  {
@@ -52974,13 +52831,6 @@
   }
  }, 
  {
-  "pk": "quetiapine_fumarate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Quetiapine fumarate"
-  }
- }, 
- {
   "pk": "desogestrel", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -53041,13 +52891,6 @@
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "Carfilzomib"
-  }
- }, 
- {
-  "pk": "fosinopril_sodium", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Fosinopril sodium"
   }
  }, 
  {
@@ -54563,13 +54406,6 @@
   }
  }, 
  {
-  "pk": "perfluorooctanoate", 
-  "model": "transporterDatabase.compound", 
-  "fields": {
-   "name": "Perfluorooctanoate"
-  }
- }, 
- {
   "pk": "gliotoxin", 
   "model": "transporterDatabase.compound", 
   "fields": {
@@ -54983,14 +54819,14 @@
   }
  }, 
  {
-  "pk": "dc_red_no._28", 
+  "pk": "dc_red_no_28", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Red No. 28"
   }
  }, 
  {
-  "pk": "fdc_blue_no._1", 
+  "pk": "fdc_blue_no_1", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "FD&C Blue No. 1"
@@ -55004,14 +54840,14 @@
   }
  }, 
  {
-  "pk": "dc_red_no._27", 
+  "pk": "dc_red_no_27", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Red No. 27"
   }
  }, 
  {
-  "pk": "dc_green_no._5", 
+  "pk": "dc_green_no_5", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Green No. 5"
@@ -55053,14 +54889,14 @@
   }
  }, 
  {
-  "pk": "dc_orange_no._4", 
+  "pk": "dc_orange_no_4", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Orange No. 4"
   }
  }, 
  {
-  "pk": "fdc_yellow_no._5", 
+  "pk": "fdc_yellow_no_5", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "FD&C Yellow No. 5"
@@ -55081,28 +54917,28 @@
   }
  }, 
  {
-  "pk": "dc_brown_no._1", 
+  "pk": "dc_brown_no_1", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Brown No. 1"
   }
  }, 
  {
-  "pk": "dc_red_no._6", 
+  "pk": "dc_red_no_6", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Red No. 6"
   }
  }, 
  {
-  "pk": "fdc_yellow_no._6", 
+  "pk": "fdc_yellow_no_6", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "FD&C Yellow No. 6"
   }
  }, 
  {
-  "pk": "ext_yellow_no._7", 
+  "pk": "ext_yellow_no_7", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "EXT Yellow No. 7"
@@ -55116,7 +54952,7 @@
   }
  }, 
  {
-  "pk": "dc_red_no._33", 
+  "pk": "dc_red_no_33", 
   "model": "transporterDatabase.compound", 
   "fields": {
    "name": "D&C Red No. 33"
@@ -55137,10 +54973,10 @@
   }
  }, 
  {
-  "pk": "sucrose_monolaurate_surfactant", 
+  "pk": "sucrose_monolaurate", 
   "model": "transporterDatabase.compound", 
   "fields": {
-   "name": "Sucrose monolaurate surfactant"
+   "name": "Sucrose monolaurate"
   }
  }, 
  {
@@ -55409,6 +55245,21 @@
    "name": "Hydroxychloroquine"
   }
  }, 
+ {
+  "pk": "butylparaben", 
+  "model": "transporterDatabase.compound", 
+  "fields": {
+   "name": "Butylparaben"
+  }
+ }, 
+ {
+  "pk": "neohesperidin dihydrochalone", 
+  "model": "transporterDatabase.compound", 
+  "fields": {
+   "name": "Neohesperidin dihydrochalone"
+  }
+ }, 
+
  {
   "pk": 1, 
   "model": "transporterDatabase.ddi", 
@@ -60119,7 +59970,7 @@
    "trans": "SLC22A11", 
    "cellSystem": "OAT4-expressing oocytes", 
    "reference": "10660625", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60460,7 +60311,7 @@
    "trans": "ABCC1", 
    "cellSystem": "MRP1-expressing HeLa vesicles", 
    "reference": "11102445", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60471,7 +60322,7 @@
    "trans": "ABCC1", 
    "cellSystem": "MRP1-expressing HeLa vesicles", 
    "reference": "11102445", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60559,7 +60410,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "HEK293-OATP1B1", 
    "reference": "11134001", 
-   "cmpnd": "cholyl-taurine"
+   "cmpnd": "cholyltaurine"
   }
  }, 
  {
@@ -60581,7 +60432,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "HEK293-OATP1B1", 
    "reference": "11134001", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60680,7 +60531,7 @@
    "trans": "SLCO2B1", 
    "cellSystem": "OATP2B1-expressing oocytes", 
    "reference": "11159893", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60691,7 +60542,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "S2-OAT3", 
    "reference": "11205882", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60713,7 +60564,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "OAT3-expressing oocytes", 
    "reference": "11306713", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -60834,7 +60685,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "S2-OAT3", 
    "reference": "11426832", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -61571,7 +61422,7 @@
    "trans": "SLC22A11", 
    "cellSystem": "S2-OAT4", 
    "reference": "12130730", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -61747,7 +61598,7 @@
    "trans": "ABCG2", 
    "cellSystem": "BCRP-expressing vesicles from mouse lymphoma (P388) cells", 
    "reference": "12682043", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -61780,7 +61631,7 @@
    "trans": "OSTalpha", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
    "reference": "12719432", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -61791,7 +61642,7 @@
    "trans": "OSTbeta", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
    "reference": "12719432", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -61868,7 +61719,7 @@
    "trans": "ABCC1", 
    "cellSystem": "MRP1-expressing HEK vesicles", 
    "reference": "12867490", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -61901,7 +61752,7 @@
    "trans": "ABCG2", 
    "cellSystem": "BCRP-expressing K562 vesicles", 
    "reference": "12920197", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -62022,7 +61873,7 @@
    "trans": "SLCO2B1", 
    "cellSystem": "HEK293-OATP2B1", 
    "reference": "14610227", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -62077,7 +61928,7 @@
    "trans": "SLC10A1", 
    "cellSystem": "HeLa-NTCP", 
    "reference": "14660639", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -62154,7 +62005,7 @@
    "trans": "SLCO1B3", 
    "cellSystem": "HEK293-OATP1B3", 
    "reference": "15159445", 
-   "cmpnd": "cholecystokinin-8"
+   "cmpnd": "cholecystokinin_octapeptide"
   }
  }, 
  {
@@ -62187,7 +62038,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "HEK293-OATP1B1", 
    "reference": "15159445", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -62341,7 +62192,7 @@
    "trans": "SLCO2B1", 
    "cellSystem": "HEK293-OATP2B1", 
    "reference": "15640378", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -62660,7 +62511,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "HEK293-OAT3", 
    "reference": "16098483", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -62671,7 +62522,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "HEK293 cells", 
    "reference": "16098483", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -63408,7 +63259,7 @@
    "trans": "SLCO2B1", 
    "cellSystem": "HEK293-OATP2B1", 
    "reference": "16595711", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -63639,7 +63490,7 @@
    "trans": "SLCO1A2", 
    "cellSystem": "HEK293-OATP1A2", 
    "reference": "16702441", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -64002,7 +63853,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "CHO-OATP1B1", 
    "reference": "17470528", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -64013,7 +63864,7 @@
    "trans": "SLCO2B1", 
    "cellSystem": "HEK293-OATP2B1", 
    "reference": "17470528", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -64211,7 +64062,7 @@
    "trans": "SLC47A1", 
    "cellSystem": "HEK293-MATE1", 
    "reference": "17509534", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -64222,7 +64073,7 @@
    "trans": "SLC47A2", 
    "cellSystem": "HEK293-MATE2K", 
    "reference": "17509534", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -64717,7 +64568,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "CHO-OATP1B1", 
    "reference": "18321482", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -64728,7 +64579,7 @@
    "trans": "SLCO1B3", 
    "cellSystem": "CHO-OATP1B3", 
    "reference": "18321482", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -65355,7 +65206,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "COS7-OAT3", 
    "reference": "19282394", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -65509,7 +65360,7 @@
    "trans": "rat_Slco1a1", 
    "cellSystem": "CHO cells", 
    "reference": "19616083", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -65641,7 +65492,7 @@
    "trans": "SLCO1B3", 
    "cellSystem": "CHO-OATP1B3", 
    "reference": "19936896", 
-   "cmpnd": "cholecystokinin-8"
+   "cmpnd": "cholecystokinin_octapeptide"
   }
  }, 
  {
@@ -65839,7 +65690,7 @@
    "trans": "SLC22A11", 
    "cellSystem": "CHO cells", 
    "reference": "20639259", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -66774,7 +66625,7 @@
    "trans": "SLCO1B1", 
    "cellSystem": "HEK-OATP1B1", 
    "reference": "26037524", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -67027,7 +66878,7 @@
    "trans": "SLC22A8", 
    "cellSystem": "HEK293 cells", 
    "reference": "27989701", 
-   "cmpnd": "estrone_3-sulfate"
+   "cmpnd": "estrone_sulfate"
   }
  }, 
  {
@@ -67834,6 +67685,17 @@
   }
  }, 
  {
+  "pk": 788, 
+  "model": "transporterDatabase.substrate", 
+  "fields": {
+   "km": "4.7", 
+   "trans": "SLCO2B1", 
+   "cellSystem": "HEK293-OATP2B1", 
+   "reference": "32571913", 
+   "cmpnd": "dibromofluorescein"
+  }
+ }, 
+ {
   "pk": 1, 
   "model": "transporterDatabase.inhibitor", 
   "fields": {
@@ -68414,7 +68276,7 @@
    "reference": "2646988", 
    "ki": "", 
    "cellSystem": "CHO-OATP1B3", 
-   "cmpnd": "fosinopril_sodium", 
+   "cmpnd": "fosinopril", 
    "trans": "SLCO1B3"
   }
  }, 
@@ -70741,7 +70603,7 @@
    "reference": "11102445", 
    "ki": "0.45", 
    "cellSystem": "MRP1-expressing HeLa vesicles", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "ABCC1"
   }
  }, 
@@ -71309,7 +71171,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "11426832", 
    "ki": "3.7", 
    "cellSystem": "S2-OAT3", 
@@ -71322,7 +71184,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "11426832", 
    "ki": "48.3", 
    "cellSystem": "S2-OAT3", 
@@ -71335,7 +71197,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "11426832", 
    "ki": "231", 
    "cellSystem": "S2-OAT3", 
@@ -71348,7 +71210,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "11426832", 
    "ki": "9", 
    "cellSystem": "S2-OAT3", 
@@ -74624,7 +74486,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "34.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74637,7 +74499,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "103", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74650,7 +74512,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "10.1", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74663,7 +74525,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "70.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74676,7 +74538,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "61.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74689,7 +74551,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "85.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74702,7 +74564,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "84.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -74715,7 +74577,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "617", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -75001,7 +74863,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "7.78", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75014,7 +74876,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75027,7 +74889,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.61", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75040,7 +74902,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.98", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75053,7 +74915,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.78", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75066,7 +74928,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.67", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75079,7 +74941,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "19.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75092,7 +74954,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.52", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75105,7 +74967,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.62", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12388633", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -75924,7 +75786,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "14", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12682043", 
    "ki": "", 
    "cellSystem": "BCRP-expressing vesicles from mouse lymphoma (P388) cells", 
@@ -75937,7 +75799,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "59", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12682043", 
    "ki": "", 
    "cellSystem": "BCRP-expressing vesicles from mouse lymphoma (P388) cells", 
@@ -75950,7 +75812,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "55", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12682043", 
    "ki": "", 
    "cellSystem": "BCRP-expressing vesicles from mouse lymphoma (P388) cells", 
@@ -75963,7 +75825,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12682043", 
    "ki": "", 
    "cellSystem": "BCRP-expressing vesicles from mouse lymphoma (P388) cells", 
@@ -77302,7 +77164,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77315,7 +77177,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "<500", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77328,11 +77190,11 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "OSTalpha"
   }
  }, 
@@ -77341,7 +77203,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "~200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77354,7 +77216,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "~200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77367,7 +77229,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "~200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77380,7 +77242,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "<200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77393,7 +77255,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77406,7 +77268,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77419,7 +77281,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "<200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77432,7 +77294,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77445,7 +77307,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "<500", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77458,11 +77320,11 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "OSTbeta"
   }
  }, 
@@ -77471,7 +77333,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "~200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77484,7 +77346,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "~200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77497,7 +77359,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "~200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77510,7 +77372,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "<200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77523,7 +77385,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77536,7 +77398,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77549,7 +77411,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "<200", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "12719432", 
    "ki": "", 
    "cellSystem": "OSTalpha-OSTbeta expressing oocytes", 
@@ -77679,7 +77541,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "425", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -77692,7 +77554,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "348", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -77705,7 +77567,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2632", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -77718,7 +77580,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "8.76", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -77731,7 +77593,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "44.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -77744,7 +77606,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1505", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT4", 
@@ -77965,7 +77827,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "816", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -77978,7 +77840,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.75", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -77991,7 +77853,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "65.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78004,7 +77866,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "27.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78017,7 +77879,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.58", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78030,7 +77892,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "7.31", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78043,7 +77905,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "942", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78056,7 +77918,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "97.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78069,7 +77931,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "71.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14610216", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78173,7 +78035,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.79", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14729100", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78186,7 +78048,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "13.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14729100", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -78199,7 +78061,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "32.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "14729100", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -79018,7 +78880,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "15955871", 
    "ki": "14.3", 
    "cellSystem": "BCRP-expressing HEK293 vesicles", 
@@ -79031,7 +78893,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "15955871", 
    "ki": "18.1", 
    "cellSystem": "BCRP-expressing HEK293 vesicles", 
@@ -79044,7 +78906,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "15955871", 
    "ki": "5.43", 
    "cellSystem": "BCRP-expressing HEK293 vesicles", 
@@ -79057,7 +78919,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "15955871", 
    "ki": "2.92", 
    "cellSystem": "BCRP-expressing HEK293 vesicles", 
@@ -79070,7 +78932,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "15955871", 
    "ki": "15.4", 
    "cellSystem": "BCRP-expressing HEK293 vesicles", 
@@ -79083,7 +78945,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "15955871", 
    "ki": "18", 
    "cellSystem": "BCRP-expressing HEK293 vesicles", 
@@ -79122,7 +78984,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16014768", 
    "ki": "257", 
    "cellSystem": "HEK293-OATP1B1", 
@@ -79148,7 +79010,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16014768", 
    "ki": "205", 
    "cellSystem": "HEK293-OATP1B3", 
@@ -79252,7 +79114,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "120.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -79265,7 +79127,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "271.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -79278,7 +79140,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2925.1", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -79291,7 +79153,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "212.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -79304,7 +79166,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "247.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -79317,7 +79179,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "956.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -79330,7 +79192,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "626.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "16098483", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -80699,7 +80561,7 @@
    "reference": "16495352", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP1B3", 
-   "cmpnd": "cholecystokinin-8", 
+   "cmpnd": "cholecystokinin_octapeptide", 
    "trans": "SLCO1B3"
   }
  }, 
@@ -81739,7 +81601,7 @@
    "reference": "16611857", 
    "ki": "", 
    "cellSystem": "HEK293-OATP1B1", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -81752,7 +81614,7 @@
    "reference": "16611857", 
    "ki": "", 
    "cellSystem": "HEK293-OATP1B3", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "SLCO1B3"
   }
  }, 
@@ -82268,7 +82130,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "17178262", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -82281,7 +82143,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "66.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "17178262", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -82294,7 +82156,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "84.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "17178262", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -82450,7 +82312,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "13.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "17220244", 
    "ki": "6.7", 
    "cellSystem": "BCRP membrane vesicles ", 
@@ -82476,7 +82338,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.013", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "17220244", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
@@ -84179,7 +84041,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "130", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84192,7 +84054,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "823", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84205,7 +84067,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "86.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84439,7 +84301,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.71", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84452,7 +84314,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "13.1", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84465,7 +84327,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.55", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84478,7 +84340,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.63", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84491,7 +84353,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84504,7 +84366,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "181", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -84517,7 +84379,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "73.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "18319568", 
    "ki": "", 
    "cellSystem": "S2 cells", 
@@ -85990,7 +85852,7 @@
    "reference": "19002438", 
    "ki": "", 
    "cellSystem": "HEK293-OCT2", 
-   "cmpnd": "ipratropium_bromide", 
+   "cmpnd": "ipratropium", 
    "trans": "SLC22A2"
   }
  }, 
@@ -86792,7 +86654,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "92.68", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19282394", 
    "ki": "90.5", 
    "cellSystem": "COS7-OAT4", 
@@ -86818,7 +86680,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.99", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19282394", 
    "ki": "4.77", 
    "cellSystem": "COS7-OAT3", 
@@ -87017,7 +86879,7 @@
    "reference": "19427586", 
    "ki": "0.2", 
    "cellSystem": "CHO-OATP1B1", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -87663,7 +87525,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.13", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19493273", 
    "ki": "0.15", 
    "cellSystem": "BCRP-expressing K562 vesicles", 
@@ -87676,7 +87538,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.25", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19493273", 
    "ki": "0.55", 
    "cellSystem": "BCRP-expressing K562 vesicles", 
@@ -87910,7 +87772,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19616083", 
    "ki": "26.8", 
    "cellSystem": "CHO cells", 
@@ -87923,7 +87785,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19616083", 
    "ki": "398.9", 
    "cellSystem": "CHO cells", 
@@ -87936,7 +87798,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19616083", 
    "ki": "1857.8", 
    "cellSystem": "CHO cells", 
@@ -87949,7 +87811,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19616083", 
    "ki": "44.6", 
    "cellSystem": "CHO cells", 
@@ -87962,7 +87824,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19616083", 
    "ki": "83.8", 
    "cellSystem": "CHO cells", 
@@ -87975,7 +87837,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19643159", 
    "ki": "20.5", 
    "cellSystem": "HEK293 cells", 
@@ -88001,7 +87863,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "-", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19643159", 
    "ki": "0.5", 
    "cellSystem": "HEK293 cells", 
@@ -88079,7 +87941,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.75", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19741038", 
    "ki": "", 
    "cellSystem": "COS1-OATP1A2", 
@@ -88092,7 +87954,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19741038", 
    "ki": "", 
    "cellSystem": "COS1-OATP1A2", 
@@ -88105,7 +87967,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "19741038", 
    "ki": "", 
    "cellSystem": "COS1-OATP2B1", 
@@ -88846,7 +88708,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "1.5", 
    "cellSystem": "Caco-2", 
@@ -88859,7 +88721,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "1.9", 
    "cellSystem": "Caco-2", 
@@ -88872,7 +88734,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "3", 
    "cellSystem": "Caco-2", 
@@ -88885,7 +88747,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.1", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "1.6", 
    "cellSystem": "Caco-2", 
@@ -88898,7 +88760,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "2.3", 
    "cellSystem": "Caco-2", 
@@ -88911,7 +88773,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "4.8", 
    "cellSystem": "Caco-2", 
@@ -88924,7 +88786,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20102298", 
    "ki": "4", 
    "cellSystem": "Caco-2", 
@@ -88950,7 +88812,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.64", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20345483", 
    "ki": "0.32", 
    "cellSystem": "BCRP membrane vesicles ", 
@@ -89019,7 +88881,7 @@
    "reference": "20448812", 
    "ki": "", 
    "cellSystem": "CHO-OATP1B1", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -89119,7 +88981,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89132,7 +88994,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89145,7 +89007,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "26", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89158,7 +89020,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "9.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89171,7 +89033,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.72", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89184,7 +89046,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89197,7 +89059,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89210,7 +89072,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89223,7 +89085,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89236,7 +89098,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.88", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20507927", 
    "ki": "", 
    "cellSystem": "MDCK II-OATP2B1", 
@@ -89431,7 +89293,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "20574995", 
    "ki": "1.4", 
    "cellSystem": "BCRP membrane vesicles ", 
@@ -90276,7 +90138,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.73", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21440623", 
    "ki": "", 
    "cellSystem": "BCRP-expressing oocytes", 
@@ -90341,7 +90203,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "7.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21440623", 
    "ki": "", 
    "cellSystem": "OAT3-expressing oocytes", 
@@ -90497,7 +90359,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5098", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21543413", 
    "ki": "", 
    "cellSystem": "CHO-OAT3", 
@@ -90510,7 +90372,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "40", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21543413", 
    "ki": "", 
    "cellSystem": "CHO-OAT3", 
@@ -90523,7 +90385,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2139", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21543413", 
    "ki": "", 
    "cellSystem": "CHO-OAT3", 
@@ -91563,7 +91425,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "136", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21865262", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -91576,7 +91438,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "92.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21865262", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -91589,7 +91451,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "78.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21865262", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -91602,7 +91464,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "634", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21865262", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -91615,7 +91477,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "232", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "21865262", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -95645,7 +95507,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "39.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95671,7 +95533,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": ">100", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95697,7 +95559,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95723,7 +95585,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.04", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95736,7 +95598,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95762,7 +95624,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95788,7 +95650,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.88", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95814,7 +95676,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.27", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -95840,7 +95702,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "75.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23652407", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -96542,7 +96404,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "67.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96555,7 +96417,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.92", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96568,7 +96430,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "21.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96581,7 +96443,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "49.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96594,7 +96456,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.63", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96607,7 +96469,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.31", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96620,7 +96482,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "23.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -96633,7 +96495,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "9.47", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "23794501", 
    "ki": "", 
    "cellSystem": "OATP2B1-expressing oocytes", 
@@ -97430,7 +97292,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ergocalcifrol", 
+   "cmpnd": "ergocalciferol", 
    "trans": "ABCB11"
   }
  }, 
@@ -97573,7 +97435,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "fluphenazine_hydrochloride", 
+   "cmpnd": "fluphenazine", 
    "trans": "ABCB11"
   }
  }, 
@@ -97820,7 +97682,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "lapatinib_tosylate", 
+   "cmpnd": "lapatinib", 
    "trans": "ABCB11"
   }
  }, 
@@ -99965,7 +99827,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefotaxime_sodium", 
+   "cmpnd": "cefotaxime", 
    "trans": "ABCC4"
   }
  }, 
@@ -99978,7 +99840,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ceftriaxone_sodium", 
+   "cmpnd": "ceftriaxone", 
    "trans": "ABCC4"
   }
  }, 
@@ -99991,7 +99853,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefuroxime_axetil", 
+   "cmpnd": "cefuroxime", 
    "trans": "ABCC4"
   }
  }, 
@@ -101508,7 +101370,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "18.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "24295974", 
    "ki": "", 
    "cellSystem": "MDCKII-OAT3", 
@@ -101820,7 +101682,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.78", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "24807167", 
    "ki": "", 
    "cellSystem": "CHO-OATP1B1", 
@@ -101833,7 +101695,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "3.89", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "24807167", 
    "ki": "", 
    "cellSystem": "CHO-OATP1B1", 
@@ -101846,7 +101708,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "10.46", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "24807167", 
    "ki": "", 
    "cellSystem": "CHO-OATP1B1", 
@@ -102106,7 +101968,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.41", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "25165131", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -102223,7 +102085,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "25477469", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -102236,7 +102098,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "9.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "25477469", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -102470,7 +102332,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.41", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26340566", 
    "ki": "", 
    "cellSystem": "S2-OAT3", 
@@ -102613,7 +102475,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.86", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26668209", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -102695,7 +102557,7 @@
    "reference": "26696140", 
    "ki": "0.0449", 
    "cellSystem": "HEK-OATP1B1", 
-   "cmpnd": "estrone_3-sulfate", 
+   "cmpnd": "estrone_sulfate", 
    "trans": "SLCO1B1"
   }
  }, 
@@ -102912,7 +102774,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.05", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26700956", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
@@ -102990,7 +102852,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.61", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26700956", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
@@ -103068,7 +102930,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "72.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -103081,7 +102943,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "36.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -103094,7 +102956,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "57.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -103107,7 +102969,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "65.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -103120,7 +102982,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "35.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -103133,7 +102995,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -103146,7 +103008,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "26.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "26976869", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -104095,7 +103957,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "21.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -104108,7 +103970,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "24.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -104121,7 +103983,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "54", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -104134,7 +103996,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "30.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -104147,7 +104009,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "52.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27550354", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -104524,7 +104386,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "9.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -104537,7 +104399,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "26.8", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -104550,7 +104412,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "23.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -104563,7 +104425,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "HEK293 cells", 
@@ -104602,7 +104464,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "18.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "CHO cells", 
@@ -104615,7 +104477,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "13.4", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "CHO cells", 
@@ -104628,7 +104490,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.6", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "27989701", 
    "ki": "", 
    "cellSystem": "CHO cells", 
@@ -104823,7 +104685,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "16.5", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28099443", 
    "ki": "", 
    "cellSystem": "CHO cells", 
@@ -104836,7 +104698,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.7", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28099443", 
    "ki": "", 
    "cellSystem": "CHO cells", 
@@ -105499,7 +105361,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.795", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28281384", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105512,7 +105374,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.11", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28281384", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105525,7 +105387,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "21", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28283500", 
    "ki": "", 
    "cellSystem": "HEK293-Flp-In-OAT3", 
@@ -105772,7 +105634,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "289", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28456731", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105785,7 +105647,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "64", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28456731", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105798,7 +105660,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "8.2", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28456731", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -105863,7 +105725,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "12.9", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28562037", 
    "ki": "", 
    "cellSystem": "CHO-OATP2B1", 
@@ -105876,7 +105738,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "1.59", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28562037", 
    "ki": "", 
    "cellSystem": "CHO-OATP2B1", 
@@ -105889,7 +105751,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "2.12", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28562037", 
    "ki": "", 
    "cellSystem": "CHO-OATP2B1", 
@@ -106136,7 +105998,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.3", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28630284", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -106149,7 +106011,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "5.31", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28630284", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -106162,7 +106024,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "24.87", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28630284", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -106175,7 +106037,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "29.84", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "28630284", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -106604,7 +106466,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.51", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "29307856", 
    "ki": "6.48", 
    "cellSystem": "HEK293-OAT3", 
@@ -106617,7 +106479,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.23", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "29307856", 
    "ki": "5.86", 
    "cellSystem": "HEK293-OAT3", 
@@ -106630,7 +106492,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "6.65", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "29307856", 
    "ki": "3.98", 
    "cellSystem": "HEK293-OAT3", 
@@ -106747,7 +106609,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "4.65", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "29748863", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -106760,7 +106622,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "14.98", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "29748863", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -108398,7 +108260,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.16", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "31047942", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -108463,7 +108325,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.65", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "31047942", 
    "ki": "", 
    "cellSystem": "HEK-OATP1B1", 
@@ -108541,7 +108403,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "213", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "31322418", 
    "ki": "", 
    "cellSystem": "HEK293-OAT3", 
@@ -109325,7 +109187,7 @@
    "reference": "31834804", 
    "ki": "", 
    "cellSystem": "HEK293-OATP2B1", 
-   "cmpnd": "quetiapine_fumarate", 
+   "cmpnd": "quetiapine", 
    "trans": "SLCO2B1"
   }
  }, 
@@ -109789,7 +109651,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "0.75", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "NA8", 
    "ki": "", 
    "cellSystem": "polarized Caco-2 monolayer", 
@@ -110144,7 +110006,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefotaxime_sodium", 
+   "cmpnd": "cefotaxime", 
    "trans": "ABCB11"
   }
  }, 
@@ -110170,7 +110032,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefuroxime_axetil", 
+   "cmpnd": "cefuroxime", 
    "trans": "ABCB11"
   }
  }, 
@@ -110209,7 +110071,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ceftriaxone_sodium", 
+   "cmpnd": "ceftriaxone", 
    "trans": "ABCB11"
   }
  }, 
@@ -112705,7 +112567,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "hydroxychloroquine_sulfate", 
+   "cmpnd": "hydroxychloroquine", 
    "trans": "ABCB11"
   }
  }, 
@@ -112822,7 +112684,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ipratropium_bromide", 
+   "cmpnd": "ipratropium", 
    "trans": "ABCB11"
   }
  }, 
@@ -115357,7 +115219,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "varenicline_tartrate", 
+   "cmpnd": "varenicline", 
    "trans": "ABCB11"
   }
  }, 
@@ -115617,7 +115479,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "zolpidem_tartrate", 
+   "cmpnd": "zolpidem", 
    "trans": "ABCB11"
   }
  }, 
@@ -116059,7 +115921,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "fluphenazine_hydrochloride", 
+   "cmpnd": "fluphenazine", 
    "trans": "ABCC2"
   }
  }, 
@@ -116839,7 +116701,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "lapatinib_tosylate", 
+   "cmpnd": "lapatinib", 
    "trans": "ABCC2"
   }
  }, 
@@ -117385,7 +117247,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ergocalcifrol", 
+   "cmpnd": "ergocalciferol", 
    "trans": "ABCC2"
   }
  }, 
@@ -117788,7 +117650,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefotaxime_sodium", 
+   "cmpnd": "cefotaxime", 
    "trans": "ABCC2"
   }
  }, 
@@ -117814,7 +117676,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefuroxime_axetil", 
+   "cmpnd": "cefuroxime", 
    "trans": "ABCC2"
   }
  }, 
@@ -117853,7 +117715,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ceftriaxone_sodium", 
+   "cmpnd": "ceftriaxone", 
    "trans": "ABCC2"
   }
  }, 
@@ -120180,7 +120042,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "hydroxychloroquine_sulfate", 
+   "cmpnd": "hydroxychloroquine", 
    "trans": "ABCC2"
   }
  }, 
@@ -120297,7 +120159,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ipratropium_bromide", 
+   "cmpnd": "ipratropium", 
    "trans": "ABCC2"
   }
  }, 
@@ -122754,7 +122616,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "varenicline_tartrate", 
+   "cmpnd": "varenicline", 
    "trans": "ABCC2"
   }
  }, 
@@ -122832,7 +122694,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "vincristine_sulfate", 
+   "cmpnd": "vincristine", 
    "trans": "ABCC2"
   }
  }, 
@@ -123014,7 +122876,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "zolpidem_tartrate", 
+   "cmpnd": "zolpidem", 
    "trans": "ABCC2"
   }
  }, 
@@ -123274,7 +123136,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "fluphenazine_hydrochloride", 
+   "cmpnd": "fluphenazine", 
    "trans": "ABCC3"
   }
  }, 
@@ -124093,7 +123955,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "lapatinib_tosylate", 
+   "cmpnd": "lapatinib", 
    "trans": "ABCC3"
   }
  }, 
@@ -125094,7 +124956,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "cefotaxime_sodium", 
+   "cmpnd": "cefotaxime", 
    "trans": "ABCC3"
   }
  }, 
@@ -127590,7 +127452,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "hydroxychloroquine_sulfate", 
+   "cmpnd": "hydroxychloroquine", 
    "trans": "ABCC3"
   }
  }, 
@@ -127707,7 +127569,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "ipratropium_bromide", 
+   "cmpnd": "ipratropium", 
    "trans": "ABCC3"
   }
  }, 
@@ -130216,7 +130078,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "varenicline_tartrate", 
+   "cmpnd": "varenicline", 
    "trans": "ABCC3"
   }
  }, 
@@ -130294,7 +130156,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "vincristine_sulfate", 
+   "cmpnd": "vincristine", 
    "trans": "ABCC3"
   }
  }, 
@@ -130476,7 +130338,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "zolpidem_tartrate", 
+   "cmpnd": "zolpidem", 
    "trans": "ABCC3"
   }
  }, 
@@ -130723,7 +130585,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "fluphenazine_hydrochloride", 
+   "cmpnd": "fluphenazine", 
    "trans": "ABCC4"
   }
  }, 
@@ -134207,7 +134069,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "hydroxychloroquine_sulfate", 
+   "cmpnd": "hydroxychloroquine", 
    "trans": "ABCC4"
   }
  }, 
@@ -136859,7 +136721,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "varenicline_tartrate", 
+   "cmpnd": "varenicline", 
    "trans": "ABCC4"
   }
  }, 
@@ -136937,7 +136799,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "vincristine_sulfate", 
+   "cmpnd": "vincristine", 
    "trans": "ABCC4"
   }
  }, 
@@ -137119,7 +136981,7 @@
    "reference": "23956101", 
    "ki": "", 
    "cellSystem": "Sf9 cell membrane vesicles", 
-   "cmpnd": "zolpidem_tartrate", 
+   "cmpnd": "zolpidem", 
    "trans": "ABCC4"
   }
  }, 
@@ -137522,7 +137384,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_red_no._28", 
+   "cmpnd": "dc_red_no_28", 
    "trans": "ABCG2"
   }
  }, 
@@ -137574,7 +137436,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_green_no._5", 
+   "cmpnd": "dc_green_no_5", 
    "trans": "ABCG2"
   }
  }, 
@@ -137652,7 +137514,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_orange_no._4", 
+   "cmpnd": "dc_orange_no_4", 
    "trans": "ABCG2"
   }
  }, 
@@ -137665,7 +137527,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "fdc_yellow_no._5", 
+   "cmpnd": "fdc_yellow_no_5", 
    "trans": "ABCG2"
   }
  }, 
@@ -137704,7 +137566,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_brown_no._1", 
+   "cmpnd": "dc_brown_no_1", 
    "trans": "ABCG2"
   }
  }, 
@@ -137730,7 +137592,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "fdc_yellow_no._6", 
+   "cmpnd": "fdc_yellow_no_6", 
    "trans": "ABCG2"
   }
  }, 
@@ -137769,7 +137631,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "dc_red_no._33", 
+   "cmpnd": "dc_red_no_33", 
    "trans": "ABCG2"
   }
  }, 
@@ -137808,7 +137670,7 @@
    "reference": "31990564", 
    "ki": "", 
    "cellSystem": "BCRP membrane vesicles ", 
-   "cmpnd": "sucrose_monolaurate_surfactant", 
+   "cmpnd": "sucrose_monolaurate", 
    "trans": "ABCG2"
   }
  }, 
@@ -138454,7 +138316,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "12.7", 
    "cellSystem": "HEK293-OAT3", 
@@ -138467,7 +138329,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "37.9", 
    "cellSystem": "HEK293-OAT3", 
@@ -138480,7 +138342,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "84.2", 
    "cellSystem": "HEK293-OAT3", 
@@ -138493,7 +138355,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "8.7", 
    "cellSystem": "HEK293-OAT3", 
@@ -138506,7 +138368,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "14", 
    "cellSystem": "HEK293-OAT3", 
@@ -138519,7 +138381,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "6.1", 
    "cellSystem": "HEK293-OAT3", 
@@ -138532,7 +138394,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "20.5", 
    "cellSystem": "HEK293-OAT3", 
@@ -138545,7 +138407,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "54.6", 
    "cellSystem": "HEK293-OAT3", 
@@ -138558,7 +138420,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "51.6", 
    "cellSystem": "HEK293-OAT3", 
@@ -138571,7 +138433,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "2.3", 
    "cellSystem": "HEK293-OAT3", 
@@ -138584,7 +138446,7 @@
   "model": "transporterDatabase.inhibitor", 
   "fields": {
    "ic50": "", 
-   "substrate": "estrone_3-sulfate", 
+   "substrate": "estrone_sulfate", 
    "reference": "33759449", 
    "ki": "58.6", 
    "cellSystem": "HEK293-OAT3", 
@@ -139370,6 +139232,71 @@
    "cellSystem": "HEK293-OCT1", 
    "cmpnd": "umifenovir", 
    "trans": "SLC22A1"
+  }
+ },
+ {
+  "pk": 5504, 
+  "model": "transporterDatabase.inhibitor", 
+  "fields": {
+   "ic50": "", 
+   "substrate": "Dibromofluorescein", 
+   "reference": "32571913", 
+   "ki": "44.3", 
+   "cellSystem": "HEK293-OATP2B1", 
+   "cmpnd": "butylparaben", 
+   "trans": "SLCO2B1"
+  }
+ }, 
+ {
+  "pk": 5505, 
+  "model": "transporterDatabase.inhibitor", 
+  "fields": {
+   "ic50": "", 
+   "substrate": "Dibromofluorescein", 
+   "reference": "32571913", 
+   "ki": "2.59", 
+   "cellSystem": "HEK293-OATP2B1", 
+   "cmpnd": "fdc_red_no._40", 
+   "trans": "SLCO2B1"
+  }
+ }, 
+ {
+  "pk": 5506, 
+  "model": "transporterDatabase.inhibitor", 
+  "fields": {
+   "ic50": "", 
+   "substrate": "Dibromofluorescein", 
+   "reference": "32571913", 
+   "ki": "20.1", 
+   "cellSystem": "HEK293-OATP2B1", 
+   "cmpnd": "neohesperidin dihydrochalone", 
+   "trans": "SLCO2B1"
+  }
+ }, 
+ {
+  "pk": 5507, 
+  "model": "transporterDatabase.inhibitor", 
+  "fields": {
+   "ic50": "", 
+   "substrate": "Dibromofluorescein", 
+   "reference": "32571913", 
+   "ki": "47.7", 
+   "cellSystem": "HEK293-OATP2B1", 
+   "cmpnd": "sucrose_monolaurate", 
+   "trans": "SLCO2B1"
+  }
+ }, 
+ {
+  "pk": 5508, 
+  "model": "transporterDatabase.inhibitor", 
+  "fields": {
+   "ic50": "", 
+   "substrate": "Dibromofluorescein", 
+   "reference": "32571913", 
+   "ki": "2.11", 
+   "cellSystem": "HEK293-OATP2B1", 
+   "cmpnd": "dc_orange_no_4", 
+   "trans": "SLCO2B1"
   }
  }
 ]
