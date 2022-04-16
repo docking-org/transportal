@@ -16,8 +16,8 @@ def naturallysortedtransporterlist(L, reverse=False):
 def quartiles(numericValues,quartile):
         theValues = sorted(numericValues)
         if (quartile*len(theValues)) % 4 == 0:
-                lower = theValues[len(theValues)*quartile/4-1]
-                upper = theValues[len(theValues)*quartile/4]
+                lower = theValues[int(len(theValues)*quartile/4-1)]
+                upper = theValues[int(len(theValues)*quartile/4)]
                 return (float(lower + upper)) / 2  
         else:
                 return theValues[int((len(theValues)*quartile+1)/4-1)]
