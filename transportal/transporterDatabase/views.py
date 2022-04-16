@@ -20,7 +20,7 @@ def quartiles(numericValues,quartile):
                 upper = theValues[len(theValues)*quartile/4]
                 return (float(lower + upper)) / 2  
         else:
-                return theValues[(len(theValues)*quartile+1)/4-1]
+                return theValues[int((len(theValues)*quartile+1)/4-1)]
 
 def transporter(request, transporter_id):
         expressLevelsNishi = Expression.objects.filter(trans=transporter_id, experiment='Nishimura').order_by('organ')
