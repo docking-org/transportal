@@ -111,7 +111,7 @@ def liver(request):
                 build = []
                 for y in range(3):
                         build.append(expressLevelsPMT[x*3+y].value)
-                avg = mean(build)
+                avg = statistics.mean(build)
                 stdev = stdev(build)
                 id = expressLevelsPMT[x*3].trans
                 pmtTableValues.append([id] + build + [avg, stdev])
@@ -145,7 +145,7 @@ def kidney(request):
                 build = []
                 for y in range(4):
                         build.append(expressLevelsPMT[x*4+y].value)
-                avg = mean(build)
+                avg = statistics.mean(build)
                 stdev = stdev(build)
                 id = expressLevelsPMT[x*4].trans
                 pmtTableValues.append([id] + build + [avg, stdev])
