@@ -107,7 +107,7 @@ def liver(request):
                 syns[x.symbol] = x.synonyms
 #Calculate mean expression across all PMT samples
         pmtTableValues = []
-        for x in range(len(expressLevelsPMT)/3):
+        for x in range(int(len(expressLevelsPMT)/3)):
                 build = []
                 for y in range(3):
                         build.append(expressLevelsPMT[x*3+y].value)
@@ -141,7 +141,7 @@ def kidney(request):
                 syns[x.symbol] = x.synonyms
 #Calculate mean expression across all PMT samples
         pmtTableValues = []
-        for x in range(len(expressLevelsPMT)/4):
+        for x in range(int(len(expressLevelsPMT)/4)):
                 build = []
                 for y in range(4):
                         build.append(expressLevelsPMT[x*4+y].value)
