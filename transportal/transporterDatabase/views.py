@@ -112,9 +112,9 @@ def liver(request):
                 for y in range(3):
                         build.append(expressLevelsPMT[x*3+y].value)
                 avg = statistics.mean(build)
-                stdev = stdev(build)
+                std = statistics.stdev(build)
                 id = expressLevelsPMT[x*3].trans
-                pmtTableValues.append([id] + build + [avg, stdev])
+                pmtTableValues.append([id] + build + [avg, std])
 #Calculate median and quartiles across biotrove samples
         biotroveTableValues = []
         for x in expressBiotroveTransporters:
@@ -146,9 +146,9 @@ def kidney(request):
                 for y in range(4):
                         build.append(expressLevelsPMT[x*4+y].value)
                 avg = statistics.mean(build)
-                stdev = stdev(build)
+                std = statistics.stdev(build)
                 id = expressLevelsPMT[x*4].trans
-                pmtTableValues.append([id] + build + [avg, stdev])
+                pmtTableValues.append([id] + build + [avg, std])
 #Calculate median and quartiles across biotrove samples
         biotroveTableValues = []
         for x in expressBiotroveTransporters:
