@@ -1,0 +1,158 @@
+Transporter	Inhibitor	IC50 (uM)	KI (uM)	Substrate used	Cell system	References	OtherLink
+SLC22A3	Telmisartan	12		"	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"	HEK293-OCT3	35089508	
+SLC22A3	Amiloride	14.5		"	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"	HEK293-OCT3	35089508	
+SLC22A3	Guanabenz	3.2		"	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"	HEK293-OCT3	35089508	
+SLC22A3	Papaverine	4.1		"	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"	HEK293-OCT3	35089508	
+SLC22A3	Trazadone	5.2		"	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"	HEK293-OCT3	35089508	
+SLC22A3	Chlorhexidine	3.7		"	4-(4-dimethylamino)styryl-N-methylpyridinium (ASP+)"	HEK293-OCT3	35089508	
+SLC22A3	Telmisartan	3.9		Metformin	HEK293-OCT3	35089508	
+SLC22A3	Amiloride	3		Metformin	HEK293-OCT3	35089508	
+SLC22A3	Guanabenz	1.1		Metformin	HEK293-OCT3	35089508	
+SLC22A3	Papaverine	1.2		Metformin	HEK293-OCT3	35089508	
+SLC22A3	Trazadone	2.5		Metformin	HEK293-OCT3	35089508	
+SLC22A3	Chlorhexidine	0.4		Metformin	HEK293-OCT3	35089508	
+ABCG2	FD&C Red No. 3	0.56		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Light green CF yellowish	1		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Red No. 28	1.04		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	FD&C Blue No. 1	1.97		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Ponceau xylidine	2.12		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Red No. 27	2.35		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Green No. 5	2.47		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Red No. 4	2.47		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Amaranth dye	2.72		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Guinea green b	2.99		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Naphthol blue black	4.34		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	FD&C Red No. 40	4.42		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Orange No. 4	4.77		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	FD&C Yellow No. 5	5.61		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Ponceau 3R	7.12		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Rhodamine B	7.78		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Brown No. 1	12		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Red No. 6	12.3		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	FD&C Yellow No. 6	14.1		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	EXT Yellow No. 7	15.2		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Indigotindisulfonate sodium	27.8		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	D&C Red No. 33	34.2		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Docusate sodium surfactant	25.4		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Sodium lauryl sulfate surfactant	27.1		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Sucrose monolaurate surfactant	57.5		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Ammonium glycyrrhizate flavoring agent	1.15		cholecystokinin octapeptide	BCRP membrane vesicles 	31990564	
+ABCG2	Sildenafil	3.1		cholecystokinin octapeptide	BCRP membrane vesicles 	33759449	
+ABCG2	Losartan	4.8		cholecystokinin octapeptide	BCRP membrane vesicles 	33759449	
+ABCG2	Remdesivir	25		cholecystokinin octapeptide	BCRP membrane vesicles 	33759449	
+SLC22A8	Abiraterone N-oxide sulfate	1.36		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	(S)-naproxen acyl-b-D-glucuronide	5.43		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	4-hydroxy-trazodone	16.9		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Imatinib (piperidine)-4-oxide	64.2		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Sulindac sulfone	0.6		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Celecoxib carboxylic acid	8.43		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	N-desmethyl rosiglitazone	1.15		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	5-Carboxy-meloxicam	0.7		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	5-OH-rosiglitazone sulfate	1.31		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Abiraterone sulfate	1.83		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Hydroxy pioglitazone	1.37		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Keto pioglitazone	0.73		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	3-cis-hydroxycyclohexyl glyburide	0.81		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	(S)-7-hydroxy warfarin	1.93		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Losartan carboxylic acid	0.1		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Probenecid acyl b-D-glucuronide	19.9		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	O-desmethyl indomethacin	0.27		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Sulindac sulfide	0.66		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	(S)-ketoprofen b-D-glucuronide	8.07		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Tolmetin b-D-glucuronide	2.92		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	(S)eO-desmethyl naproxen	3.44		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	4-Hydroxy flurbiprofen	1.39		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	6-Hydroxy chlorzoxazone	3.21		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	4-Hydroxy diclofenac	2.03		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	5-Hydroxy Rosiglitazone b-D-Glucuronide	>200		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Estrone sulfate	1		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Indomethacin	0.11		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Sulindac	1.65		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Losartan	0.36		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Glyburide	0.21		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Meloxicam	0.54		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Rosiglitazone	0.59		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Trazodone	2.94		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Probenecid	1.25		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Pioglitazone	1.02		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Chlorzoxazone	10.2		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Warfarin	3.11		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Tolmetin	0.81		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Diclofenac	0.62		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Imatinib	14.5		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Ketoprofen	1.61		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Flurbiprofen	1.8		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Naproxen	4.75		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Celecoxib	>200		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Abiraterone	>20		6-Carboxyfluorescein	HEK293-OAT3	32910949	
+SLC22A8	Baricitinib		12.7	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Darunavir		37.9	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Favipiravir		84.2	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Piclidenoson		8.7	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Remdesivir		14	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Ruxolitinib		6.1	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Sildenafil		20.5	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Thalidomide		54.6	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Tofacitinib		51.6	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Triazavirin		2.3	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A8	Umifenovir		58.6	Estrone 3-sulfate	HEK293-OAT3	33759449	
+SLC22A6	Abiraterone N-oxide sulfate	>100		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	(S)-naproxen acyl-b-D-glucuronide	>200		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	4-hydroxy-trazodone	>200		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Imatinib (piperidine)-4-oxide	>200		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Sulindac sulfone	23		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Celecoxib carboxylic acid	262		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	N-desmethyl rosiglitazone	33.3		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	5-Carboxy-meloxicam	19.6		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	5-OH-rosiglitazone sulfate	33.7		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Abiraterone sulfate	38.2		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Hydroxy pioglitazone	27.6		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Keto pioglitazone	12.5		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	3-cis-hydroxycyclohexyl glyburide	10.1		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	(S)-7-hydroxy warfarin	14.5		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Losartan carboxylic acid	0.69		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Probenecid acyl b-D-glucuronide	130		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	O-desmethyl indomethacin	1.62		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Sulindac sulfide	3.68		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	(S)-ketoprofen b-D-glucuronide	40.2		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Tolmetin b-D-glucuronide	7.17		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	(S)eO-desmethyl naproxen	4.7		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	4-Hydroxy flurbiprofen	1.6		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	6-Hydroxy chlorzoxazone	3.6		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	4-Hydroxy diclofenac	0.48		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	5-Hydroxy Rosiglitazone b-D-Glucuronide	>200		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Estrone sulfate	170		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Indomethacin	4.35		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Sulindac	56.8		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Losartan	11.4		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Glyburide	5.7		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Meloxicam	6.88		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Rosiglitazone	4.2		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Trazodone	19.9		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Probenecid	7.74		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Pioglitazone	6.3		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Chlorzoxazone	52.3		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Warfarin	15.8		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Tolmetin	3.01		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Diclofenac	1.67		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Imatinib	29.2		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Ketoprofen	1.73		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Flurbiprofen	1.91		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Naproxen	3.23		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Celecoxib	>200		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Abiraterone	>20		6-Carboxyfluorescein	HEK293-OAT1	32910949	
+SLC22A6	Triazavirin		4.1	Para-aminohippurate	HEK293-OAT1	33759449	
+SLC22A1	Baricitinib	22.9		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Camostat	20.3		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Chloroquine	10.7		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Colchicine	29.7		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Darunavir	6		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Hydroxychloroquine	20		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Piclidenoson	16.5		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Prazosin	1.8		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Remdesivir	10.1		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Ritonavir	3.8		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Ruxolitinib	9.7		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Sildenafil	19.8		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Tofacitinib	41.4		Metformin	HEK293-OCT1	33759449	
+SLC22A1	Umifenovir	1.2		Metformin	HEK293-OCT1	33759449	

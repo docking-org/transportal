@@ -1,0 +1,547 @@
+Transporter Protein	Chemical	CAS #	Organism	IC50 (uM)	EC 50 (uM)	Km (uM)	Ki (uM)	Interaction Type	Substrate / Nonsubstrate	Assay type	In Vitro System	Reporter molecule	Pubmed ID	DOI
+SLCO1B1	Bromosulfophthalein	71-67-0	Homo Sapiens	0.05				Inhibitor		Reporter uptake	HEK293 cells	[3H]demethylphalloin	14530907	10.1007/s00210-003-0814-4
+ABCB1	Ivermectin	71827-03-7	Homo Sapiens	0.1				Inhibitor		Monolayer	Caco2 cells	Rhodamine 123	15953199	10.1111/j.1365-2885.2005.00655.x
+ABCB1	Valspodar	12584-18-7	Homo Sapiens	0.11				Inhibitor		Monolayer	Caco-2 cells	[3H] digoxin	10901697	none (1)
+ABCB1	Selamectin	220119-17-5	Homo Sapiens	0.12				Inhibitor		Monolayer	Caco2 cells	Rhodamine 123	15953199	10.1111/j.1365-2885.2005.00655.x
+SLCO2B1	MK571	115104-28-4	Homo Sapiens	0.2				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Cyclosporin A	59865-13-3	Homo Sapiens	0.3				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Cyclosporin A	59865-13-3	Homo Sapiens	0.3				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	MK571	115104-28-4	Homo Sapiens	0.3				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Silibinin dihemisuccinate	none	Homo Sapiens	0.4			2.1	Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+ABCB1	Rhodamine 123	62669-70-9	Homo Sapiens	0.5				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLCO1B1	Cyclosporin A	59865-13-3	Homo Sapiens	0.5			0.051	Inhibitor		Reporter uptake	HEK293 cells	[3H]demethylphalloin	14530907	10.1007/s00210-003-0814-4
+SLCO1B3	MK571	115104-28-4	Homo Sapiens	0.5			0.2	Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Montelukast	158966-92-8	Homo Sapiens	0.5				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Antamanide	16898-32-1	Homo Sapiens	0.7			0.7	Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Rifampicin	13292-46-1	Homo Sapiens	0.8				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO1B1	Antamanide	16898-32-1	Homo Sapiens	1				Inhibitor		Reporter uptake	HEK293 cells	[3H]demethylphalloin	14530907	10.1007/s00210-003-0814-4
+SLCO1B3	Silibinin dihemisuccinate	none	Homo Sapiens	1				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO2B1	Montelukast	158966-92-8	Homo Sapiens	1				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO2B1	Silibinin dihemisuccinate	none	Homo Sapiens	1				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B1	Sirolimus	53123-88-9	Homo Sapiens	1.1				Inhibitor		Reporter uptake	HEK293 cells	[3H]demethylphalloin	14530907	10.1007/s00210-003-0814-4
+ABCB1	Chloropromazine	50-53-3	Homo Sapiens	1.2				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Ketoconazole	79156-75-5	Homo Sapiens	1.4				Inhibitor		Monolayer	Caco-2 cells	[3H] digoxin	10901697	none (1)
+ABCG2	Cyclosporin A	59865-13-3	Homo Sapiens	1.4				Inhibitor		ATPase	High Five insect cell crude membranes	Inorganic phosphate	17031644	10.1007/s00280-006-0357-8
+ABCB1	Verapamil	52-53-9	Homo Sapiens	1.5				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLCO1B3	Rifampicin	13292-46-1	Homo Sapiens	1.5				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+ABCG2	Sirolimus	53123-88-9	Homo Sapiens	1.53				Inhibitor		ATPase	High Five insect cell crude membranes	Inorganic phosphate	17031644	10.1007/s00280-006-0357-8
+ABCB1	Mibefradil	116644-53-2	Homo Sapiens	1.6				Inhibitor		Monolayer	Caco-2 cells	[3H] digoxin	10901697	none (1)
+ABCB1	Verapamil	52-53-9	Homo Sapiens	1.7				Inhibitor		Monolayer	Caco2 cells	[14C]ximelagatran	16455803	10.1124/dmd.105.008607
+ABCB1	Quinidine	56-54-2	Homo Sapiens	1.8				Inhibitor		Monolayer	Caco2 cells	[14C]ximelagatran	16455803	10.1124/dmd.105.008607
+SLCO1B3	Paclitaxel	33069-62-4	Homo Sapiens	2				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+ABCG2	Tacrolimus	104987-11-3	Homo Sapiens	2.1				Inhibitor		ATPase	High Five insect cell crude membranes	Inorganic phosphate	17031644	10.1007/s00280-006-0357-8
+SLCO1B3	Bromosulfophthalein	71-67-0	Homo Sapiens	3				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO1B1	Cyclosporin A	59865-13-3	Homo Sapiens	3.5				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B1	Tacrolimus	104987-11-3	Homo Sapiens	3.7				Inhibitor		Reporter uptake	HEK293 cells	[3H]demethylphalloin	14530907	10.1007/s00210-003-0814-4
+SLCO1B3	Paclitaxel	33069-62-4	Homo Sapiens	4				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B1	MK571	115104-28-4	Homo Sapiens	5				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+ABCB1	Haloperidol	52-86-8	Homo Sapiens	5.3				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Moxidectin	113507-06-5	Homo Sapiens	10				Inhibitor		Monolayer	Caco2 cells	Rhodamine 123	15953199	10.1111/j.1365-2885.2005.00655.x
+SLCO1B1	Montelukast	158966-92-8	Homo Sapiens	10				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B1	Silibinin dihemisuccinate	none	Homo Sapiens	10				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Sincalide	25126-32-3	Homo Sapiens	10				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+ABCB1	Ketoconazole	79156-75-5	Homo Sapiens	13				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLCO1B3	Antamanide	16898-32-1	Homo Sapiens	15				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Montelukast	158966-92-8	Homo Sapiens	15				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO2B1	Cyclosporin A	59865-13-3	Homo Sapiens	20				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Penicillin G	61-33-6	Homo Sapiens	25				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLCO2B1	Paclitaxel	33069-62-4	Homo Sapiens	25				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+ABCB1	Vinblastine	865-21-4	Homo Sapiens	34				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLCO1B1	Paclitaxel	33069-62-4	Homo Sapiens	50				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B3	Prednisolone phosphate	302-25-0	Homo Sapiens	75				Inhibitor		Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+ABCB1	Vincristine	57-22-7	Homo Sapiens	86				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLCO2B1	Rifampicin	13292-46-1	Homo Sapiens	90				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLCO1B1	Antamanide	16898-32-1	Homo Sapiens	100				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+ABCB1	Erythromycin A	114-07-8	Homo Sapiens	119				Inhibitor		Monolayer	Caco2 cells	[14C]ximelagatran	16455803	10.1124/dmd.105.008607
+SLCO1B1	Rifampicin	13292-46-1	Homo Sapiens	120				Inhibitor		Reporter uptake	MDCK-II cells	[3H]bromosulfophthalein	16495352	10.1093/toxsci/kfj141
+SLC22A8	Cefaclor	53994-73-3	Homo Sapiens	120.2				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A8	Cefotiam	61622-34-2	Homo Sapiens	212.6				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A8	Ceftibuten	97519-39-6	Homo Sapiens	247.3				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A8	Cefdinir	91832-40-5	Homo Sapiens	271.5				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+ABCB1	Quinidine	56-54-2	Homo Sapiens	340				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Propranolol	525-66-6	Homo Sapiens	350				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Quinine	130-95-0	Homo Sapiens	430				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLC22A6	Ceftibuten	97519-39-6	Homo Sapiens	563.1				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A8	Cephaloridine	50-59-9	Homo Sapiens	626.4				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A6	Cefotiam	61622-34-2	Homo Sapiens	639.7				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A6	Cefdinir	91832-40-5	Homo Sapiens	691.8				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+ABCB1	Celiprolol	56980-93-9	Homo Sapiens	730				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Talinolol	57460-41-0	Homo Sapiens	830				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLC22A8	Ceftizoxime	68401-81-0	Homo Sapiens	956.7				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+ABCB1	Doxorubicin	23214-92-8	Homo Sapiens	990				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLC22A6	Cefaclor	53994-73-3	Homo Sapiens	1095.6				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+ABCB1	Metoprolol	51384-51-1	Homo Sapiens	1300				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Pindolol	13523-86-9	Homo Sapiens	1950				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+SLC22A6	Cephaloridine	50-59-9	Homo Sapiens	2470				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A6	Cefoselis	122841-10-5	Homo Sapiens	2600.5				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A8	Cefoselis	122841-10-5	Homo Sapiens	2925.1				Inhibitor		Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A6	Ceftizoxime	68401-81-0	Homo Sapiens	3598.6				Inhibitor		Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+ABCB1	Cimetidine	51481-61-9	Homo Sapiens	6500				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	Tranylcypromine	155-09-9	Homo Sapiens	14000				Inhibitor		Radio-ligand binding	Caco-2 cells 	[3H] verapamil	9688051	10.1023/a:1011965707998
+ABCB1	SDZ 280-446	129893-84-1	Homo Sapiens		0.22			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	Valspodar	12584-18-7	Homo Sapiens		0.41			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	(+)-devapamil	93468-88-3	Homo Sapiens		1			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(+)-niguldipine	none	Homo Sapiens		1.2			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(-)-niguldipine	113165-32-5	Homo Sapiens		1.3			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(-)-devapamil	93468-87-2	Homo Sapiens		2.1			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(+)-emopamil	101238-50-0	Homo Sapiens		2.4			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Gallopamil	16662-47-8	Homo Sapiens		2.5			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(+)-verapamil	38321-02-7	Homo Sapiens		2.6			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(-)-verapamil	36622-29-4	Homo Sapiens		2.9			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(-)-emopamil	none	Homo Sapiens		3			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Verapamil	52-53-9	Homo Sapiens		3.2			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	Cyclosporin A	59865-13-3	Homo Sapiens		3.4			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	(-)-isradipine	none	Homo Sapiens		4.7			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(+)-felodipine	119945-59-4	Homo Sapiens		6.3			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Cyclosporin A	59865-13-3	Homo Sapiens		7			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Hydramethylnon	67485-29-4	Homo Sapiens		7.3			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	(-)-felodipine	105618-03-9	Homo Sapiens		8.6			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Ivermectin	71827-03-7	Homo Sapiens		9			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	(+)-isradipine	none	Homo Sapiens		9.2			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(-)-nitrendipine	80873-62-7	Homo Sapiens		9.4			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	(+)-nitrendipine	80890-07-9	Homo Sapiens		10.3			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Ivermectin	71827-03-7	Homo Sapiens		10.9			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	(+)-nimodipine	77940-92-2	Homo Sapiens		12.6			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Amiodarone	1951-25-3	Homo Sapiens		12.8			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	Quinacrine	83-89-6	Homo Sapiens		14.4			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	(-)-nimodipine	77940-92-3	Homo Sapiens		15.8			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Loperamide	53179-11-6	Homo Sapiens		16			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Clotrimazole	23593-75-1	Homo Sapiens		16.6			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	Verapamil	52-53-9	Homo Sapiens		22.5			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	Coumaphos	56-72-4	Homo Sapiens		26.9			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	9347896	10.1289/ehp.97105812
+ABCB1	Quinidine	56-54-2	Homo Sapiens		30.5			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	Vinblastine	865-21-4	Homo Sapiens		34			Inhibitor		Reporter efflux	CEM cells	Calcein-AM	8862725	10.1097/00001813-199607000-00012
+ABCB1	Endosulfan	115-29-7	Homo Sapiens		34.1			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	Ketoconazole	79156-75-5	Homo Sapiens		36			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	B869-61	none	Homo Sapiens		50			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	B869-60	none	Homo Sapiens		58			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Verapamil	52-53-9	Homo Sapiens		70			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Nifedipine	21829-25-4	Homo Sapiens		73			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Bay K 8644	71145-03-4	Homo Sapiens		79			Inhibitor		Reporter efflux	F4-6P cells	[3H] vinblastine	1352973	10.1016/0006-2952(92)90149-d
+ABCB1	Phosalone	2310-17-0	Homo Sapiens		96.4			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	9347896	10.1289/ehp.97105812
+ABCB1	Domperidone	57808-66-9	Homo Sapiens		106			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Progesterone	57-83-0	Homo Sapiens		121			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Azinphos-ethyl	2642-71-9	Homo Sapiens		129			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	9347896	10.1289/ehp.97105812
+ABCB1	Chlorpyrifos	2921-88-2	Homo Sapiens		140.6			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	Quinidine	56-54-2	Homo Sapiens		157			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Dicapthon	2463-84-5	Homo Sapiens		191.7			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	Chloropromazine	50-53-3	Homo Sapiens		196			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Parathion	56-38-2	Homo Sapiens		229.8			Inhibitor		Reporter efflux	B16/F10 cells	Doxorubicin	8917702	10.1006/taap.1996.0286
+ABCB1	Quinine	130-95-0	Homo Sapiens		280			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Vincristine	57-22-7	Homo Sapiens		345			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Propranolol	525-66-6	Homo Sapiens		429			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+ABCB1	Metoprolol	51384-51-1	Homo Sapiens		1440			Inhibitor		Reporter efflux	Caco-2  cells	Calcein-AM	11113639	10.1016/s0928-0987(00)00117-2
+SLCO1B3	O-methyl-dehydroxymethyl-alpha-amanitin	none	Homo Sapiens			3.7			Substrate	Reporter uptake	MDCK-II cells	[3H]O-methyl-dehydroxymethyl-alpha-amanitin	16495352	10.1093/toxsci/kfj141
+SLC22A8	Estrone sulfate	481-97-0	Homo Sapiens			6.3			Substrate	Reporter uptake	HEK293 cells	[3H]estrone sulfate	16098483	10.1016/j.bcp.2005.06.024
+SLC22A6	4-aminohippuric acid	61-78-9	Homo Sapiens			28			Substrate	Reporter uptake	HEK293 cells	[14C]p-aminohippurate	16098483	10.1016/j.bcp.2005.06.024
+SLCO1B1	Phalloidin	17466-45-4	Homo Sapiens			39			Substrate	Reporter uptake	HEK293 cells	[3H]demethylphalloin	14530907	10.1007/s00210-003-0814-4
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

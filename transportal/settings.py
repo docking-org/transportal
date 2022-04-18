@@ -12,6 +12,7 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
@@ -71,7 +72,7 @@ SECRET_KEY = 'c+rh#nv+@6h=p)+l+wbjbm75m5!dc9pbj$7hy*u05k72+zar$g'
 # #     'django.template.loaders.eggs.Loader',
 # )
 
-ALLOWED_HOSTS = ['0.0.0.0']
+ALLOWED_HOSTS = ['0.0.0.0',"transportaldev.docking.org", 'localhost','127.0.0.1']
 
 MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',

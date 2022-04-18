@@ -1,0 +1,11 @@
+pk	synonymFull	synonyms	species	ncbiID	humanTransporter
+mouse_Abcb1a	"P, P-, Evi, Mdr, Pgp, Pgy, Mdr3, P-gp, Pgy-, Pgy3, mdr-, Abcb4, Evi32, Mdr1a, Pgy-3, mdr-3"	"Mdr, Pgp, Pgy, Mdr3, P-gp, Abcb4, Mdr1a"	Mus musculus	18671	ABCB1
+mouse_Slco1a4	"Oa, Oat, Slc2, Oatp2, Oatp1a4, Slc21a5, AI785519"	"Oat, Oatp2, Oatp1a4, Slc21a5"	Mus musculus	28250	SLCO1A4
+mouse_Abcc2	"Mrp2, cMRP, Abc30, Cmoat, AI173996"	"Mrp2, cMRP, Abc30"	Mus musculus	12780	ABCC2
+rat_Slco1a1	"Oatp1, OATP-1, Slc21a1, Slc21a3"	"Oatp1, OATP-1, Slc21a1, Slc21a3"	Rattus norvegicus	50572	SLCO1A1
+rat_Slc22a6	"Oat1, Paht, Roat1, Orctl1"	"Oat1, Paht, Roat1, Orctl1"	Rattus norvegicus	29509	SLC22A6
+rat_Slc22a8	"OCT3, Oat3, Roct"	"OCT3, Oat3, Roct"	Rattus norvegicus	83500	SLC22A8
+rat_Slc47a1	"MATE1, RGD1311123"	MATE1	Rattus norvegicus	360539	SLC47A1
+rat_Slc7a10	"Asc-1"	"Asc-1"	Rattus norvegicus	114518	SLC7A10
+grivet_ABCB1	"p-glycoprotein"	"p-glycoprotein"	Chlorocebus aethiops		ABCB1
+SLC7A10	"ASC1, asc-1, HASC-1"	"ASC1, HASC-1"	Homo sapiens	56301	SLC7A10

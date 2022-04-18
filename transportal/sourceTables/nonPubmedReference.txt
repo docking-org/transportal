@@ -1,0 +1,10 @@
+OtherLink	OtherText
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3606266/	Cortes-Ciriano, 2013
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/201280Orig1s000ClinPharmR.pdf	Linagliptin NDA application
+https://www.pmda.go.jp/drugs/2016/P20161125002/800155000_22800AMX00714_I100_1.pdf	DARUNAVIR/COBICISTAT PHARMACOKINETICS WRITTEN SUMMARY
+http://www.hivandhepatitis.com/2010_conference/aasld/posters/Huisman.pdf	Huisman AASLD Poster 2010
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/201292Orig1s000ClinPharmR.pdf 	Afatinib NDA application
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/204114Orig1s000ClinPharmR.pdf	Trametinib NDA application
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203388Orig1s000ClinPharmR.pdf	Vismodegib NDA application
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/207924Orig1s000ClinPharmR.pdf	Baricitinib NDA application
+https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/205123Orig1s008.pdf	Simeprevir NDA application
