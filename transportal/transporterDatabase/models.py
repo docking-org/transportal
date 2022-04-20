@@ -41,11 +41,11 @@ class Reference(models.Model):
 			return self.otherText
 
 class Expression(models.Model):
-	trans = models.ForeignKey(Transporter)
-	organ = models.ForeignKey(Organ)
+	trans = models.ForeignKey(Transporter, models.CASCADE)
+	organ = models.ForeignKey(Organ, models.CASCADE)
 	experiment = models.CharField(max_length=50)
 	value = models.FloatField(verbose_name="expression level")
-	reference = models.ForeignKey(Reference, blank=True, null=True)
+	reference = models.ForeignKey(Reference, models.CASCADE, blank=True, null=True)
 	def __unicode__(self):
 		return ','.join([self.experiment, str(self.organ), str(self.trans), str(self.value)])
 
@@ -70,28 +70,28 @@ class Sample(models.Model):
 	medications = models.TextField(blank=True, null=True)
 	recoveryType = models.CharField(max_length=100, blank=True, null=True)
 	causeOfDeath = models.CharField(max_length=100, blank=True, null=True)
-	organ = models.ForeignKey(Organ) 
+	organ = models.ForeignKey(Organ, models.CASCADE) 
 	experiment = models.CharField(max_length=50)
 	def __unicode__(self):
 		return str(self.pk)
 
 class Substrate(models.Model):
-	trans = models.ForeignKey(Transporter)
-	cmpnd = models.ForeignKey(Compound)
+	trans = models.ForeignKey(Transporter, models.CASCADE)
+	cmpnd = models.ForeignKey(Compound, models.CASCADE)
 	cellSystem = models.CharField(max_length=100, blank=True, null=True)
 	km = models.CharField(max_length=10, blank=True, null=True)
-	reference = models.ForeignKey(Reference, blank=True, null=True)
+	reference = models.ForeignKey(Reference, models.CASCADE, blank=True, null=True)
 	def __unicode__(self):
 		return ','.join([str(self.trans), str(self.cmpnd), self.cellSystem, str(self.km), str(self.reference)])
 
 class Inhibitor(models.Model):
-	trans = models.ForeignKey(Transporter)
-	cmpnd = models.ForeignKey(Compound)
+	trans = models.ForeignKey(Transporter, models.CASCADE)
+	cmpnd = models.ForeignKey(Compound, models.CASCADE)
 	cellSystem = models.CharField(max_length=100, blank=True, null=True)
 	ic50 = models.CharField(max_length=10, blank=True, null=True)
 	ki = models.CharField(max_length=10, blank=True, null=True)
-	substrate = models.ForeignKey(Compound, blank=True, related_name='inhib_substrate', null=True)
-	reference = models.ForeignKey(Reference, blank=True, null=True)
+	substrate = models.ForeignKey(Compound, models.CASCADE, blank=True, related_name='inhib_substrate', null=True)
+	reference = models.ForeignKey(Reference, models.CASCADE, blank=True, null=True)
 	def __unicode__(self):
 		return ','.join([str(self.trans), str(self.cmpnd), str(self.substrate), self.cellSystem, str(self.ic50), str(self.ki), str(self.reference)])
 
