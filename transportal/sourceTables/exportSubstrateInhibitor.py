@@ -27,6 +27,7 @@ def slugify(text):
 originalData = sys.argv[1]
 outputsubstratefilename = sys.argv[2]
 outputinhibitorfilename = sys.argv[3]
+outputddifilename = sys.argv[4]
 
 infile = open(originalData)
 data = json.load(infile)
@@ -39,7 +40,8 @@ outfileSub = open(outputsubstratefilename, 'w')
 outfileSub.write('Transporter\tSubstrate\tKm\tCellSystem\tReference\n')
 outfileInhib = open(outputinhibitorfilename, 'w')
 outfileInhib.write('Transporter\tInhibitor\tKi\tIC50\tCellSystem\tSubstrate\tReference\n')
-
+outfileDDI = open(outputddifilename,'w')
+outfileDDI.write('Transporter\tInteractingDrug\tAffectedDrug\tAUC\tCmax\tCLr\tCL/F\tT1/2\tEffectOnPD\tReference\n')
 
 for index in range(len(data)):
     x = data[index]
@@ -59,3 +61,12 @@ for index in range(len(data)):
         temp = x['fields']
         build = [temp['trans'],temp['cmpnd'],temp['km'],temp['cellSystem'],temp['reference']]
         outfileSub.write('\t'.join(build)+'\n')
+    elif x['model'] == 'transporterDatabase.ddi':
+        temp = x['fields']
+        build = [','.join(temp['transporters']),','.join(temp['interactingDrug']),','.join(temp['affectedDrug']),temp['AUC'],temp['Cmax'],temp['CLr'],temp['CLOverF'],temp['t1Over2'],temp['PDEffect'],','.join(temp['reference'])]
+        outfileDDI.write('\t'.join(build)+'\n')
+
+infile.close()
+outfileInhib.close()
+outfileSub.close()
+outfileDDI.close()
