@@ -1,4 +1,4 @@
-Django==1.11.29
+Django==3.2.24
 mod-wsgi==4.6.5
 numpy==1.16.0
 ##pytz==2018.9
