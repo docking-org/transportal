@@ -13,7 +13,6 @@ ADD run.sh environment.yml manage.py ./
 RUN conda env create -f environment.yml 
 RUN echo "conda activate transportal-env" > ~/.bashrc
 ENV PATH /opt/conda/envs/transportal-env/bin:$PATH
-RUN pip install -r requirements.txt
 
 ARG GIT_TOKEN=$GIT_TOKEN
 
