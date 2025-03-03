@@ -10,5 +10,5 @@ deploy job:
           - docker stop ${CI_PROJECT_NAME} || true
           - docker rm ${CI_PROJECT_NAME} || true
           - docker run --name ${CI_PROJECT_NAME}
-                  -d restart unless-stopped
+                  -d --restart unless-stopped
                   -p 0.0.0.0:8123:8123 ${CI_PROJECT_NAME}:${CI_COMMIT_REF_NAME}-0.1.${CI_JOB_ID}
