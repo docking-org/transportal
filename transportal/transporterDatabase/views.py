@@ -1,5 +1,5 @@
 import string, statistics, re
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 from transportal.transporterDatabase.models import Transporter, Organ, Expression, Sample, Substrate, Inhibitor, DDI, Compound
 from django.db.models import Q
 
@@ -91,7 +91,7 @@ def transporter(request, transporter_id):
                                 cmpndList[cmpnd1] = '4'
                         else:
                                 cmpndList[cmpnd1] += ',4'
-        return render_to_response('transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
+        return render(request, 'transporter.html', {'expression': buildExp, 'transporter':transporter, 'important': importantNames, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo, 'otherTrans':otherTrans, 'fdaCmpnds':cmpndList})
 
 def liver(request):
         expressLevelsNishi = naturallysortedexpressionlist(Expression.objects.filter(organ='Liver', experiment='Nishimura'))
@@ -125,7 +125,7 @@ def liver(request):
                 build.append(quartiles(values,2))
                 build.append(quartiles(values,3))
                 biotroveTableValues.append(build)
-        return render_to_response('liver.html', {'expressionNishi': expressLevelsNishi, 'expressionPMT': pmtTableValues, 'organ': 'Liver', 'syns': syns, 'important': importantNames, 'expressionBiotrove': biotroveTableValues})
+        return render(request, 'liver.html', {'expressionNishi': expressLevelsNishi, 'expressionPMT': pmtTableValues, 'organ': 'Liver', 'syns': syns, 'important': importantNames, 'expressionBiotrove': biotroveTableValues})
 
 def kidney(request):
         expressLevelsNishi = naturallysortedexpressionlist(Expression.objects.filter(organ='Kidney', experiment='Nishimura'))
@@ -159,7 +159,7 @@ def kidney(request):
                 build.append(quartiles(values,2))
                 build.append(quartiles(values,3))
                 biotroveTableValues.append(build)
-        return render_to_response('kidney.html', {'expressionNishi': expressLevelsNishi, 'expressionPMT': pmtTableValues, 'organ': 'Kidney', 'syns': syns, 'important': importantNames, 'expressionBiotrove': biotroveTableValues})
+        return render(request, 'kidney.html', {'expressionNishi': expressLevelsNishi, 'expressionPMT': pmtTableValues, 'organ': 'Kidney', 'syns': syns, 'important': importantNames, 'expressionBiotrove': biotroveTableValues})
 
 def organ(request, organ_id):
         temp = string.capwords(' '.join(organ_id.split('-')))
@@ -172,32 +172,32 @@ def organ(request, organ_id):
         syns = {}
         for x in synquery:
                 syns[x.symbol] = x.synonyms
-        return render_to_response(organ_id + '.html', {'expression': expressLevels, 'organ': temp, 'syns': syns, 'important': importantNames})
+        return render(request, organ_id + '.html', {'expression': expressLevels, 'organ': temp, 'syns': syns, 'important': importantNames})
 
 def index(request):
         transporters = naturallysortedtransporterlist(Transporter.objects.all())
         organs = Organ.objects.all().order_by('name')
         compounds = Compound.objects.all().order_by('name')
         alph = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
-        return render_to_response('dataIndex.html', {'transporters': transporters, 'organs': organs, 'compounds': compounds, 'alph':alph})
+        return render(request, 'dataIndex.html', {'transporters': transporters, 'organs': organs, 'compounds': compounds, 'alph':alph})
 
 def home(request):
-        return render_to_response('start.html')
+        return render( request, 'start.html')
 
 def about(request):
-        return render_to_response('about.html')
+        return render(request, 'about.html')
 
 def contact(request):
-        return render_to_response('contact.html')
+        return render( request, 'contact.html')
 
 def links(request):
-        return render_to_response('links.html')
+        return render(request, 'links.html')
 
 def glossary(request):
-        return render_to_response('glossary.html')
+        return render(request, 'glossary.html')
 
 def sitemap(request):
-        return render_to_response('sitemap.xml')
+        return render(request, 'sitemap.xml')
 
 def sample(request, organ_id):
         temp = string.capwords(' '.join(organ_id.split('-')))
@@ -206,7 +206,7 @@ def sample(request, organ_id):
         numEntries = 18
         numSamples = len(samples)
         if numSamples == 0:
-                return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
+                return render(request, 'samples.html', {'organ': organ_id, 'samples':dataTable})
         build = ['Category']
         for x in range(numSamples):
                 build.append('Donor ' + str(x + 1))
@@ -283,7 +283,7 @@ def sample(request, organ_id):
         for x in range(numSamples):
                 build.append(samples[x].causeOfDeath)
         dataTable.append(build)
-        return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
+        return render(request, 'samples.html', {'organ': organ_id, 'samples':dataTable})
 
 def sampleT(request, organ_id, transporter_id):
         temp = string.capwords(' '.join(organ_id.split('-')))
@@ -292,7 +292,7 @@ def sampleT(request, organ_id, transporter_id):
         numEntries = 18
         numSamples = len(samples)
         if numSamples == 0:
-                return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable})
+                return render(request, 'samples.html', {'organ': organ_id, 'samples':dataTable})
         build = ['Category']
         for x in range(numSamples):
                 build.append('Donor ' + str(x + 1))
@@ -369,7 +369,7 @@ def sampleT(request, organ_id, transporter_id):
         for x in range(numSamples):
                 build.append(samples[x].causeOfDeath)
         dataTable.append(build)
-        return render_to_response('samples.html', {'organ': organ_id, 'samples':dataTable, 'transporter': transporter_id})
+        return render(request, 'samples.html', {'organ': organ_id, 'samples':dataTable, 'transporter': transporter_id})
 
 def compound(request, compound_id):
         substrates = Substrate.objects.filter(cmpnd=compound_id).order_by('cmpnd')
@@ -385,13 +385,13 @@ def compound(request, compound_id):
         ddiInfo = list(ddiInfo.values())
         ddiInfo.sort(key=lambda x: [x[1][0].slugName,x[2][0].slugName])
         compound = Compound.objects.get(slugName=compound_id)
-        return render_to_response('compound.html', {'compound': compound, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo})
+        return render(request, 'compound.html', {'compound': compound, 'substrates': substrates, 'inhibitors':inhibitors, 'ddi':ddiInfo})
 
 def ddi(request, ddi_id):
         ddi = DDI.objects.get(pk=int(ddi_id))
         interDrug = Compound.objects.filter(interact_drug__pk=ddi.pk)
         affectDrug = Compound.objects.filter(affect_drug__pk=ddi.pk)
-        return render_to_response('moreDDIInfo.html', {'ddi': ddi, 'interDrug': interDrug, 'affectDrug': affectDrug})
+        return render(request, 'moreDDIInfo.html', {'ddi': ddi, 'interDrug': interDrug, 'affectDrug': affectDrug})
 
 def search(request):
         keywords = request.GET['keyword']
@@ -408,20 +408,20 @@ def search(request):
         for x in keywords[1:]:
                 build = build|Q(name__icontains=x)|Q(slugName__icontains=x)
         comps = Compound.objects.filter(build).order_by('name')
-        return render_to_response('search.html', {'organs':organs, 'trans':trans, 'comps':comps})
+        return render(request, 'search.html', {'organs':organs, 'trans':trans, 'comps':comps})
 
 def testticbase(request, transporter_id):
         inVitroInhibitor = InVitroInhibitor.objects.filter(trans=transporter_id).order_by('interactingChemical','affectedSubstrate')
         inVitroSubstrate = InVitroSubstrate.objects.filter(trans=transporter_id).order_by('substrate')
         transporter = Transporter.objects.get(pk=transporter_id)
         otherTrans = Transporter.objects.filter(humanTransporter=transporter_id).exclude(symbol=transporter_id)
-        return render_to_response('testticbase.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'otherTrans':otherTrans})
+        return render(request, 'testticbase.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'otherTrans':otherTrans})
 
 def testticbase1(request, transporter_id):
         inVitroInhibitor = InVitroInhibitor.objects.filter(trans__humanTransporter=transporter_id).order_by('interactingChemical','affectedSubstrate')
         inVitroSubstrate = InVitroSubstrate.objects.filter(trans__humanTransporter=transporter_id).order_by('substrate')
         transporter = Transporter.objects.get(pk=transporter_id)
-        return render_to_response('testticbase1.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate})
+        return render(request, 'testticbase1.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate})
 
 def testticbase2(request, transporter_id):
         inVitroInhibitor = InVitroInhibitor.objects.filter(trans=transporter_id).order_by('interactingChemical','affectedSubstrate')
@@ -442,4 +442,4 @@ def testticbase2(request, transporter_id):
         grivetTrans = Transporter.objects.filter(species='Chlorocebus aethiops').filter(humanTransporter=transporter_id)
         if grivetTrans:
                 grivetTrans = grivetTrans.get()
-        return render_to_response('testticbase2.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'mouseInhibitor':mouseInhibitor, 'mouseSubstrate':mouseSubstrate, 'ratInhibitor':ratInhibitor, 'ratSubstrate':ratSubstrate, 'grivetInhibitor':grivetInhibitor, 'grivetSubstrate':grivetSubstrate, 'mouseTrans':mouseTrans, 'ratTrans':ratTrans, 'grivetTrans':grivetTrans})
+        return render(request, 'testticbase2.html', {'transporter':transporter, 'inVitroInhibitor':inVitroInhibitor, 'inVitroSubstrate':inVitroSubstrate,'mouseInhibitor':mouseInhibitor, 'mouseSubstrate':mouseSubstrate, 'ratInhibitor':ratInhibitor, 'ratSubstrate':ratSubstrate, 'grivetInhibitor':grivetInhibitor, 'grivetSubstrate':grivetSubstrate, 'mouseTrans':mouseTrans, 'ratTrans':ratTrans, 'grivetTrans':grivetTrans})

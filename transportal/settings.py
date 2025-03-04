@@ -6,6 +6,8 @@ print(BASE_DIR)
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
 ADMINS = (
      ('chrisw', 'christopher.wen@ucsf.edu'),
 )
@@ -74,7 +76,7 @@ SECRET_KEY = 'c+rh#nv+@6h=p)+l+wbjbm75m5!dc9pbj$7hy*u05k72+zar$g'
 
 ALLOWED_HOSTS = ['0.0.0.0',"transportal.docking.org", 'localhost','127.0.0.1', 'transportal.compbio.ucsf.edu']
 
-MIDDLEWARE_CLASSES = (
+MIDDLEWARE = (
     'django.middleware.common.CommonMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -117,6 +119,7 @@ TEMPLATES = [
                 # list if you haven't customized them:
                 'django.contrib.auth.context_processors.auth',
                 'django.template.context_processors.debug',
+                'django.template.context_processors.request',  
                 'django.template.context_processors.i18n',
                 'django.template.context_processors.media',
                 'django.template.context_processors.static',

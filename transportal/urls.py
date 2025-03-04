@@ -12,14 +12,14 @@ admin.autodiscover()
 
 urlpatterns = [
  # Example:
-    # url(r'^transportal/', include('transportal.foo.urls')),
+    # url(r'^transportal/', 'transportal.foo.urls'),
 
     # Uncomment the admin/doc line below and add 'django.contrib.admindocs'
     # to INSTALLED_APPS to enable admin documentation:
-    # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
+    # url(r'^admin/doc/', 'django.contrib.admindocs.urls'),
 
     # Uncomment the next line to enable the admin:
-    #url(r'^admin/', include(admin.site.urls)),
+    # url(r'^admin/', admin.site.urls),
 
     url(r'^transporters/(?P<transporter_id>\w+)/$', views.transporter),
     url('^index/$', views.index),
