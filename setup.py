@@ -24,10 +24,10 @@ setup(
     },
     zip_safe=False,
     install_requires=[
-        'Django==3.2.15',
-        'mod-wsgi==4.9.3',
-        'numpy==1.16.0',
-        'pytz==2018.9',
+        'Django',
+        'mod-wsgi',
+        'numpy',
+        'pytz',
     ],
     classifiers=[
         'Private :: Do Not Upload',
